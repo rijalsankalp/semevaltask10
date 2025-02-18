@@ -1,6 +1,12 @@
 # SEMEVAL TASK 10 MENDEL 292A
 
-# GUide to how data is loaded and processed for the plotting
+Install the libraries and dependencies first.
+
+```
+pip install -r requirements.txt
+```
+
+# Guide to how data is loaded and processed for the plotting
 
 # loadData.py
 
