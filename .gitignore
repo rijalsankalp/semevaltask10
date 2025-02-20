@@ -1,6 +1,8 @@
 /dev/
 /train/
 /test/
+/embeddings/
+Train.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
