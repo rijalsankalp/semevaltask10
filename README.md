@@ -2,6 +2,10 @@
 
 ## Requirements
 
+Fasttext depends on newer version of `libstdc++.so.6` so you might want to install it as well.
+
+`conda install -c conda-forge libstdcxx-ng`
+
 ```
 pip install -r requirements.txt
 ```
