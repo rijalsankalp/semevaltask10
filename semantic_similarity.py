@@ -168,7 +168,7 @@ if __name__ == "__main__":
         #print(f"Average role: {avg_role}")
         # print(f"Weighted average role: {w_avg_role}")
 
-        true_roles = set(doc_labels['sub_roles'])
+        true_roles = doc_labels['sub_roles']
         
         max_match_count += 1 if [max_role] == true_roles else 0
         avg_match_count += 1 if [avg_role] == true_roles else 0
