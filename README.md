@@ -1,12 +1,76 @@
 # SEMEVAL TASK 10 MENDEL 292A
 
-Install the libraries and dependencies first.
+## Requirements
 
 ```
 pip install -r requirements.txt
 ```
 
-# Guide to how data is loaded and processed for the plotting
+# Train.py [Script for Training and Testing the dataset]
+
+This project provides a script to train and evaluate a role classification model using FastText embeddings and Logistic Regression. The model classifies main roles and sub-roles in text data for different languages.
+
+## Features
+
+- Supports English and Russian languages.
+- Uses Logistic Regression for classification.
+- Trains both main role classifiers and sub-role classifiers.
+- Provides evaluation metrics including accuracy and exact match ratio.
+
+The script supports two modes: `train` and `evaluate`.
+
+### Training the Model
+
+To train the model for a specific language, run:
+
+```bash
+python Train.py --mode train --language EN --train_path train
+```
+
+- `--mode train`: Specifies training mode.
+- `--language EN`: Specifies the language (e.g., `EN`, `RU`).
+- `--train_path train`: Path to the training dataset.
+
+### Evaluating the Model
+
+To evaluate the trained model:
+
+```bash
+python Train.py --mode evaluate --language EN --test_path test
+```
+
+- `--mode evaluate`: Specifies evaluation mode.
+- `--language EN`: Specifies the language of the model.
+- `--test_path test`: Path to the test dataset.
+
+## Model Storage
+
+- The trained models are saved in `models/{language}/` directory.
+- The main classifier is saved as `main_classifier_{language}.pkl`.
+- Each sub-role classifier is saved separately as `sub_role_classifier_{sub_role}_{language}.pkl`.
+
+## Expected Data Format
+
+- Training and test data should be loaded using `LoadData()` and be structured in a way that `TrainDataset` and `TestDataset` can process them.
+- Each entry should contain:
+  - `word_features`: The textual data used for embedding.
+  - `main_role`: The main role label.
+  - `sub_roles`: A list of associated sub-roles.
+
+## Output
+
+- During training, the model parameters are stored for future use.
+- During evaluation, the script prints:
+  - Main role classification accuracy.
+  - Sub-role exact match ratio (percentage of perfect predictions).
+
+## Notes
+
+- Ensure FastText embeddings for the specified language are available or they will be downloaded.
+- The sub-role classification involves training binary classifiers for each sub-role.
+- Adjust the sub-role threshold in `_get_predictions()` if needed for better performance.
+
+# Description of the processing done to load, clean and supply data for training and testing
 
 # loadData.py
 
