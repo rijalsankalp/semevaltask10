@@ -27,7 +27,7 @@ class BaseDataset(Dataset):
         self.sen_num = sen_num
         self.folder = folder
         self.language = language
-        
+
         self.lang_map = {
             "EN": ['en', 'en_core_web_sm'],
             "RU": ['ru', 'ru_core_news_sm']
