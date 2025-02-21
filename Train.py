@@ -65,18 +65,21 @@ class LanguageTrainer:
     def _train_sub_role_classifiers(self, train_dataset, X_train):
         # Create binary labels for each sub-role
         sub_role_labels = {role: [] for role in self.all_sub_roles}
+        X_train_replicated = []
         
         for i in range(len(train_dataset)):
             item = train_dataset[i]
             if item is not None and item['word_features']:
+                feature_vector = self.ft_model.get_sentence_vector(item['word_features'])
                 for sub_role in self.all_sub_roles:
                     sub_role_labels[sub_role].append(1 if sub_role in item['sub_roles'] else 0)
+                    X_train_replicated.append(feature_vector)
         
         # Train a binary classifier for each sub-role
         for sub_role in self.all_sub_roles:
             classifier = LogisticRegression(random_state=42, max_iter=1000)
             y_sub = np.array(sub_role_labels[sub_role])
-            classifier.fit(X_train, y_sub)
+            classifier.fit(X_train_replicated, y_sub)
             self.sub_role_classifiers[sub_role] = classifier
 
 class LanguageEvaluator:
