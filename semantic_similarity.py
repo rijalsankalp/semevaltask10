@@ -105,7 +105,41 @@ def process_sentence(sent, emb_model, role_vectors,
         x = np.average(x_stack, axis=0, weights=x_var)
 
     return x
-    
+
+def process_documents(base_dir, labels, subdirs, role_labels, emb_model, role_vectors, c_window):
+    max_match_count = 0
+    avg_match_count = 0
+    total_instances = 0
+    empty_instances = 0
+
+    for doc, ent_span, ent_corefs, ent_sents, doc_labels in iterate_documents(base_dir, labels, subdirs):
+        print("=====", ent_span)
+
+        x_sents = list()
+        for sent in ent_sents:
+            x = process_sentence(sent, emb_model, role_vectors, ent_span, doc, c_window)
+            x_sents.append([x])
+        
+
+        x_sents = np.array(x_sents)
+        x_max = np.max(x_sents, axis=0)
+        x_avg = np.mean(x_sents, axis=0)
+
+        max_role = role_labels['role_list'][np.argmax(x_max)]
+        avg_role = role_labels['role_list'][np.argmax(x_avg)]
+
+        true_roles = doc_labels['sub_roles']
+        
+        max_match_count += 1 if [max_role] == true_roles else 0
+        avg_match_count += 1 if [avg_role] == true_roles else 0
+        total_instances += 1
+
+        print(f"Max role: {max_role}")
+        print(f"Average role: {avg_role}")
+        print(f"True roles: {true_roles}\n")
+
+    print(f"Total instances: {total_instances}, Empty instances: {empty_instances}")
+    print(f"Exact match ratio - Max: {max_match_count / total_instances}, Average: {avg_match_count / total_instances}")
 
 if __name__ == "__main__":
     base_dir = "train"
@@ -122,58 +156,7 @@ if __name__ == "__main__":
     emb_model = load_glove_vectors("embeddings/glove.6B.100d.txt")
 
     role_vectors = get_role_vectors(emb_model, role_labels['role_list'])
-    c_window = None  # size of context window for model
+    c_window = 15  # size of context window for model
+    
 
-    max_match_count = 0
-    avg_match_count = 0
-    #w_avg_mathch_count = 0
-    total_instances = 0
-    empty_instances = 0
-
-    for doc, ent_span, ent_corefs, ent_sents, doc_labels in iterate_documents(base_dir, labels, subdirs):
-        print("=====", ent_span)
-
-        # TODO: Navigate the dependency tree to identify the relevant words
-        # E.g.: Secretary of State Medeleine Albright .... declared ... death ... was worth it
-        # Some dependencies to consider:
-        # relcl (relative clause) (top-down, children) : Albright declared that...
-        # ccomp from relcl child (declare ... <was>)
-        # nsubj head from ccomp child (<death> .. > was)
-        x_sents = list()
-        for sent in ent_sents:
-            
-            x = process_sentence(sent, emb_model, role_vectors, ent_span, doc, c_window)
-            # print(x)
-            # print(f"Highest score {np.max(x)} | fg-role: {role_labels['role_list'][np.argmax(x)]} | main role: {role_labels['main_role_list'][np.argmax(x)]}")
-            #print(f"True labels: {doc_labels['sub_roles']=} | {doc_labels['main_role']=}")
-            x_sents.append([x])
-            
-        if len(x_sents) <= 4:
-            total_instances += 1
-            empty_instances += 1
-            continue
-        #x_sents = np.row_stack(x_sents)
-        x_sents = np.array(x_sents)
-        #print(x_sents.shape)
-
-        x_max = np.max(x_sents, axis=0)
-        x_avg = np.mean(x_sents, axis=0)
-        #x_w_avg = np.average(x_sents, axis=0, weights=np.var(x_sents, axis=0))
-
-        max_role = role_labels['role_list'][np.argmax(x_max)]
-        avg_role = role_labels['role_list'][np.argmax(x_avg)]
-        #w_avg_role = role_labels['role_list'][np.argmax(x_w_avg)]
-
-        #print(f"Max role: {max_role}")
-        #print(f"Average role: {avg_role}")
-        # print(f"Weighted average role: {w_avg_role}")
-
-        true_roles = doc_labels['sub_roles']
-        
-        max_match_count += 1 if [max_role] == true_roles else 0
-        avg_match_count += 1 if [avg_role] == true_roles else 0
-        #w_avg_mathch_count += 1 if w_avg_role == true_roles else 0
-        total_instances += 1
-
-    print(f"Total instances: {total_instances}, Empty instances: {empty_instances}")
-    print(f"Exact match ratio - Max: {max_match_count / total_instances}, Average: {avg_match_count / total_instances}") 
+    process_documents(base_dir, labels, subdirs, role_labels, emb_model, role_vectors, c_window)

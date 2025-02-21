@@ -119,6 +119,7 @@ def get_entity_coref_sentences(doc, doc_labels):
     # Unpack coref list
     entity_corefs = list(chain.from_iterable(entity_corefs))
     coref_sents = list({doc[tid].sent for tid in entity_corefs})  # Use a set to avoid repeated sentences
+    coref_sents.append(entity_span.root.sent)  # Add the sentence containing the entity
 
     
     return entity_span, entity_corefs, coref_sents

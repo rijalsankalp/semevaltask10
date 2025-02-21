@@ -32,19 +32,19 @@ class LanguageTrainer:
         train_dataset = TrainDataset(dataframe=train_data, base_dir='train', language=self.language)
         
         # Prepare training data
-        X_train, y_train = self._prepare_data(train_dataset)
+        # X_train, y_train = self._prepare_data(train_dataset)
         
-        # Train main classifier
-        self.main_classifier = LogisticRegression(random_state=42, max_iter=1000)
-        self.main_classifier.fit(X_train, y_train)
+        # # Train main classifier
+        # self.main_classifier = LogisticRegression(random_state=42, max_iter=1000)
+        # self.main_classifier.fit(X_train, y_train)
 
-        # Save the main classifier
-        os.makedirs(f'models/{self.language}', exist_ok=True)
-        with open(f'models/{self.language}/main_classifier_{self.language}.pkl', 'wb') as f:
-            pickle.dump(self.main_classifier, f)
+        # # Save the main classifier
+        # os.makedirs(f'models/{self.language}', exist_ok=True)
+        # with open(f'models/{self.language}/main_classifier_{self.language}.pkl', 'wb') as f:
+        #     pickle.dump(self.main_classifier, f)
         
         # Train sub-role classifiers
-        self._train_sub_role_classifiers(train_dataset, X_train)
+        self._train_sub_role_classifiers(train_dataset)
 
         # Save the sub-role classifiers
         for sub_role, classifier in self.sub_role_classifiers.items():
@@ -62,51 +62,26 @@ class LanguageTrainer:
                 y.append(item['main_role'])
         return np.array(X), np.array(y)
     
-    # def _train_sub_role_classifiers(self, train_dataset, X_train):
-    #     # Create binary labels for each sub-role
-    #     sub_role_labels = {role: [] for role in self.all_sub_roles}
-    #     X_train_replicated = []
-        
-    #     for i in range(len(train_dataset)):
-    #         item = train_dataset[i]
-    #         if item is not None and item['word_features']:
-    #             feature_vector = self.ft_model.get_sentence_vector(item['word_features'])
-    #             for sub_role in self.all_sub_roles:
-    #                 sub_role_labels[sub_role].append(1 if sub_role in item['sub_roles'] else 0)
-    #                 X_train_replicated.append(feature_vector)
-        
-    #     # Train a binary classifier for each sub-role
-    #     for sub_role in self.all_sub_roles:
-    #         classifier = LogisticRegression(random_state=42, max_iter=1000)
-    #         y_sub = np.array(sub_role_labels[sub_role])
-    #         classifier.fit(X_train_replicated, y_sub)
-    #         self.sub_role_classifiers[sub_role] = classifier
-    def _train_sub_role_classifiers(self, train_dataset, X_train):
+    def _train_sub_role_classifiers(self, train_dataset):
         # Create binary labels for each sub-role
         sub_role_labels = {role: [] for role in self.all_sub_roles}
         X_train_replicated = []
-    
+        
         for i in range(len(train_dataset)):
             item = train_dataset[i]
             if item is not None and item['word_features']:
                 feature_vector = self.ft_model.get_sentence_vector(item['word_features'])
-                X_train_replicated.append(feature_vector)  # Append only once per item
-                for sub_role in self.all_sub_roles:
-                    sub_role_labels[sub_role].append(1 if sub_role in item['sub_roles'] else 0)
-    
-        X_train_replicated = np.array(X_train_replicated)  # Convert to NumPy array
-    
+                for real_sub_role in item['sub_roles']:
+                    X_train_replicated.append(feature_vector)
+                    for sub_role in self.all_sub_roles:
+                        sub_role_labels[sub_role].append(1 if sub_role == real_sub_role else 0)
+        
         # Train a binary classifier for each sub-role
         for sub_role in self.all_sub_roles:
             classifier = LogisticRegression(random_state=42, max_iter=1000)
             y_sub = np.array(sub_role_labels[sub_role])
-            
-            if len(X_train_replicated) != len(y_sub):  # Debugging step
-                print(f"Mismatch: X_train={len(X_train_replicated)}, y_sub={len(y_sub)}")
-    
             classifier.fit(X_train_replicated, y_sub)
             self.sub_role_classifiers[sub_role] = classifier
-
 
 class LanguageEvaluator:
     def __init__(self, language="EN"):
