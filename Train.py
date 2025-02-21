@@ -15,7 +15,7 @@ class LanguageTrainer:
         self.ft_model = None
         self.main_classifier = None
         self.sub_role_classifiers = {}
-        all_sub_roles = all_sub_roles
+        self.all_sub_roles = all_sub_roles
         
     def load_models(self):
         # Load fasttext model for the specific language
