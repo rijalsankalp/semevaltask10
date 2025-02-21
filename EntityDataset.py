@@ -33,7 +33,7 @@ class BaseDataset(Dataset):
             "RU": ['ru', 'ru_core_news_sm']
         }
         self.return_sentiment = return_sentiment
-        self.coref_nlp = stanza.Pipeline(lang=self.lang_map[self.language][0], processors='tokenize,pos,lemma,ner,depparse,coref')
+        self.coref_nlp = stanza.Pipeline(lang=self.lang_map[self.language][0], processors='tokenize,pos,lemma,ner,depparse,coref', device = 'cpu')
         self.spacy_nlp = spacy.load(self.lang_map[self.language][1])
 
         if self.return_sentiment:
@@ -277,11 +277,11 @@ class TestDataset(BaseDataset):
 if __name__ == "__main__":
     base_dir = "train"
     txt_file = "subtask-1-annotations.txt"
-    subdirs = ['EN']
+    subdirs = ['RU']
     ld = LoadData()
     data = ld.load_data(base_dir, txt_file, subdirs)
-    train_dataset = TrainDataset(data, base_dir, language="EN")
+    train_dataset = TrainDataset(data, base_dir, language="RU")
     print(train_dataset[0])
 
-    train_dataset = TrainDataset(data, base_dir, language="EN", return_sentiment=True)
+    train_dataset = TrainDataset(data, base_dir, language="RU", return_sentiment=True)
     print(train_dataset[0])
