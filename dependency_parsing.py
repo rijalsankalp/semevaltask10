@@ -11,24 +11,48 @@
 import spacy
 from spacy import displacy
 import numpy as np
+import stanza
 from LoadData import LoadData
 from pathlib import Path
 from itertools import chain
 
 np.random.seed(0)
 
-
-def get_role_labels():
+def get_role_labels(lang):
     """
     Returns main roles and fine-grained roles.
     """
     # all_main_roles = ["Protagonist", "Antagonist", "Innocent"]
     # all_sub_roles = ["Guardian", "Martyr", "Peacemaker", "Rebel", "Underdog", "Virtuous", "Instigator", "Conspirator", "Tyrant", "Foreign Adversary", "Traitor", "Spy", "Saboteur", "Corrupt", "Incompetent", "Terrorist", "Deceiver", "Bigot", "Forgotten", "Exploited", "Victim", "Scapegoat"]
-    sub_dict = {
-        "Protagonist":["Guardian", "Martyr", "Peacemaker", "Rebel", "Underdog", "Virtuous"],
-        "Innocent":["Forgotten", "Exploited", "Victim", "Scapegoat"],
-        "Antagonist":["Instigator", "Conspirator", "Tyrant", "Foreign Adversary", "Traitor", "Spy", "Saboteur", "Corrupt", "Incompetent", "Terrorist", "Deceiver", "Bigot"]
+    sub_dict_map = {
+        'EN':{
+            "Protagonist":["Guardian", "Martyr", "Peacemaker", "Rebel", "Underdog", "Virtuous"],
+            "Innocent":["Forgotten", "Exploited", "Victim", "Scapegoat"],
+            "Antagonist":["Instigator", "Conspirator", "Tyrant", "Foreign Adversary", "Traitor", "Spy", "Saboteur", "Corrupt", "Incompetent", "Terrorist", "Deceiver", "Bigot"]
+            },
+        'RU':{
+            "Protagonist":["Хранитель", "Мученик", "Миротворец", "Бунтарь", "Аутсайдер", "Добродетель"],
+            "Innocent":["Забытый", "Эксплуатируемый", "Жертва", "Козел отпущения"],
+            "Antagonist":["Подстрекатель", "Заговорщик", "Тиран", "Иностранный противник", "Предатель", "Шпион", "Диверсант", "Коррумпированный", "Неумелый", "Террорист", "Обманщик", "Фанатик"]
+        },
+        "HI":{
+            "Protagonist": ["रक्षक", "शहीद", "शांतिदूत", "विद्रोही", "अंडरडॉग", "सदाचारी"],
+            "Innocent": ["भुला दिया गया", "शोषित", "पीड़ित", "बलि का बकरा"],
+            "Antagonist": ["उकसाने वाला", "षड्यंत्रकारी", "तानाशाह", "विदेशी विरोधी", "देशद्रोही", "जासूस", "तोड़फोड़ करने वाला", "भ्रष्ट", "अयोग्य", "आतंकवादी", "धोखेबाज", "कट्टरपंथी"]
+        },
+        "BG":{
+            "Protagonist": ["Пазител", "Мъченик", "Миротворец", "Бунтовник", "Аутсайдер", "Добродетел"],
+            "Innocent": ["Забравен", "Експлоатиран", "Жертва", "Изкупителна жертва"],
+            "Antagonist": ["Подстрекател", "Заговорник", "Тиран", "Чужд противник", "Предател", "Шпионин", "Диверсант", "Корумпиран", "Некомпетентен", "Терорист", "Измамник", "Фанатик"]
+        },
+        "PT":{
+            "Protagonist": ["Guardião", "Mártir", "Pacificador", "Rebelde", "Oprimido", "Virtuoso"],
+            "Innocent": ["Esquecido", "Explorado", "Vítima", "Bode expiatório"],
+            "Antagonist": ["Instigador", "Conspirador", "Tirano", "Adversário estrangeiro", "Traidor", "Espião", "Sabotador", "Corrupto", "Incompetente", "Terrorista", "Enganador", "Fanático"]
+        }
     }
+    
+    sub_dict = sub_dict_map[lang]
 
     fg_roles = list()
     sub_dict['main_role_list'] = list()
@@ -83,10 +107,11 @@ def find_entity_sentence(doc, start_offset, end_offset):
             return i
 
 
-def get_entity_coref_sentences(doc, doc_labels):
+def get_entity_coref_sentences(doc, doc_labels, use_corefs=False):
     """
     Returns the sentences containing the entity and co-references.
     """
+    
     # Find the actual entity span form the doc
     #print(f"doc text = {doc.text}")
     start_offset = doc_labels['start_offset']
@@ -99,33 +124,104 @@ def get_entity_coref_sentences(doc, doc_labels):
     # Adjust end_offset to the right if it's in the middle of a word
     while end_offset < len(doc.text) and not doc.text[end_offset] in {' ', '\n', ',', '-', '.'}:
         end_offset += 1
-
-
+    
+    
     # Get the entity span from start to end offsets
     entity_span = doc.char_span(start_offset, end_offset, 
                                 label="target_ent",
                                 alignment_mode='expand')   # using 'expand' alignment because some labeled indices do not match spacy's char index
     
-
+        
     # Make dictionary of co-reference chains
     entity_corefs = list()
-    for g in doc._.coref_chains.chains:
-        #print(f"{g.index=}, {g.mentions}, {g.most_specific_mention_index=}")
-        for mention_id in g.mentions:
-            # if entity_span.root.i in mention_id:
-            if any(token.i in mention_id for token in entity_span):
-                entity_corefs.extend(g.mentions)
-                continue
-    # Unpack coref list
-    entity_corefs = list(chain.from_iterable(entity_corefs))
-    coref_sents = list({doc[tid].sent for tid in entity_corefs})  # Use a set to avoid repeated sentences
-    coref_sents.append(entity_span.root.sent)  # Add the sentence containing the entity
+
+    if use_corefs:
+        for g in doc._.coref_chains.chains:
+            #print(f"{g.index=}, {g.mentions}, {g.most_specific_mention_index=}")
+            for mention_id in g.mentions:
+                # if entity_span.root.i in mention_id:
+                if any(token.i in mention_id for token in entity_span):
+                    entity_corefs.extend(g.mentions)
+                    continue
+        # Unpack coref list
+        entity_corefs = list(chain.from_iterable(entity_corefs))
+        coref_sents = list({doc[tid].sent for tid in entity_corefs})  # Use a set to avoid repeated sentences
+        coref_sents.append(entity_span.root.sent)  # Add the sentence containing the entity
+    
+    else:
+        # Extend the sentence to include the entire entity span
+        while start_offset > 0 and doc.text[start_offset - 1] != '\n':
+            start_offset -= 1
+        while end_offset < len(doc.text) and doc.text[end_offset] != '\n':
+            end_offset += 1
+        coref_sents = [doc.char_span(start_offset, end_offset, alignment_mode='expand').sent]
+        
 
     
     return entity_span, entity_corefs, coref_sents
 
+def get_entity_coref_sentences_stanza(doc, doc_labels, use_corefs=False):
+    """
+    Returns the sentences containing the entity and co-references using Stanza.
+    """
+    start_offset = doc_labels['start_offset']
+    end_offset = doc_labels['end_offset']
 
-def iterate_documents(base_dir, labels, subdirs):
+    # Adjust offsets to align with word boundaries
+    while start_offset > 0 and not doc.text[start_offset - 1] in {' ', '\n', ',', '-', '.'}:
+        start_offset -= 1
+
+    while end_offset < len(doc.text) and not doc.text[end_offset] in {' ', '\n', ',', '-', '.'}:
+        end_offset += 1
+
+    # Find the entity span using character offsets
+    entity_span = None
+    for sent in doc.sentences:
+        for token in sent.tokens:
+            if token.start_char <= start_offset and token.end_char >= end_offset:
+                entity_span = token
+                break
+        if entity_span:
+            break
+
+    if entity_span is None:
+        return None, [], []
+
+    entity_corefs = []
+
+    if use_corefs and hasattr(doc, 'coref'):
+        for chain in doc.coref:
+            for mention in chain:
+                if start_offset >= mention.start_char and end_offset <= mention.end_char:
+                    entity_corefs.extend(chain)
+                    break  # Stop once found
+        
+        # Extract sentences containing coreferences
+        coref_sents = list({doc.sentences[mention.sent_id - 1] for mention in entity_corefs})
+        coref_sents.append(sent)  # Add the sentence containing the entity
+
+    else:
+        # Expand to the full sentence range
+        while start_offset > 0 and doc.text[start_offset - 1] != '\n':
+            start_offset -= 1
+        while end_offset < len(doc.text) and doc.text[end_offset] != '\n':
+            end_offset += 1
+        
+        sentence_span = None
+        for sent in doc.sentences:
+            if sent.tokens[0].start_char <= start_offset and sent.tokens[-1].end_char >= end_offset:
+                sentence_span = sent
+                break
+
+        if sentence_span is None:
+            return entity_span, [], []
+
+        coref_sents = [sentence_span]
+
+    return entity_span, entity_corefs, coref_sents
+
+
+def iterate_documents(base_dir, labels, subdir='EN', use_corefs=False):
     """
     Returns a generator that reads all documents given in input labels_file.
     Yields a tuple (doc, ent_span, ent_corefs, ent_sents).
@@ -135,18 +231,34 @@ def iterate_documents(base_dir, labels, subdirs):
     ent_sents are the sentences with co-references to the target.
     """
 
-    nlp = spacy.load("en_core_web_trf")
-    nlp.add_pipe('coreferee')
+    if subdir == 'EN':
+        nlp = spacy.load("en_core_web_trf")
+        nlp.add_pipe('coreferee')
 
-    for row_id in range(len(labels)):
-        doc_labels = labels.iloc[row_id]
-        text = load_document(base_dir, 'EN', doc_labels['article_id'])
+        for row_id in range(len(labels)):
+            doc_labels = labels.iloc[row_id]
+            text = load_document(base_dir, subdir, doc_labels['article_id'])
 
-        doc = nlp(text)
-        # Retrieve entity info and coreference
-        ent_span, ent_corefs, ent_sents = get_entity_coref_sentences(doc, doc_labels)
-        
-        yield doc, ent_span, ent_corefs, ent_sents, doc_labels
+            doc = nlp(text)
+            # Retrieve entity info and coreference
+            ent_span, ent_corefs, ent_sents = get_entity_coref_sentences(doc, doc_labels, use_corefs)
+            
+            yield doc, ent_span, ent_corefs, ent_sents, doc_labels
+    
+    elif subdir == "RU":
+        nlp = stanza.Pipeline(lang='ru', processors='tokenize,pos,lemma,ner,depparse,coref', device = 'cpu')
+
+        for row_id in range(len(labels)):
+            doc_labels = labels.iloc[row_id]
+            text = load_document(base_dir, subdir, doc_labels['article_id'])
+
+            doc = nlp(text)
+            # Retrieve entity info and coreference
+            ent_span, ent_corefs, ent_sents = get_entity_coref_sentences_stanza(doc, doc_labels, use_corefs)
+
+            yield doc, ent_span, ent_corefs, ent_sents, doc_labels
+
+
 
 
 if __name__ == "__main__":

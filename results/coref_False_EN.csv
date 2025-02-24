@@ -1,0 +1,687 @@
+article_id,ent_span,main_role,fine_grained_roles,max_main_role,avg_main_role,max_fg_role,avg_fg_role
+EN_CC_200021.txt,Adams,Antagonist,Tyrant,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+EN_CC_100012.txt,Bill Gates,Antagonist,Conspirator,Antagonist,Antagonist,Corrupt,Corrupt
+EN_CC_200086.txt,WEF,Antagonist,Conspirator,Innocent,Innocent,Exploited,Exploited
+EN_UA_300052.txt,Russian people in the West,Innocent,Victim,Antagonist,Antagonist,Spy,Spy
+EN_CC_100012.txt,World Economic Forum,Antagonist,Conspirator,Antagonist,Antagonist,Bigot,Bigot
+EN_UA_300084.txt,Pentagon,Antagonist,Deceiver,Antagonist,Antagonist,Corrupt,Corrupt
+EN_UA_013617.txt,President Vladimir Putin,Protagonist,Virtuous,Innocent,Innocent,Victim,Victim
+EN_UA_300134.txt,Ukraine,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+EN_UA_024628.txt,Ukraine,Protagonist,Underdog,Antagonist,Antagonist,Instigator,Instigator
+EN_CC_200227.txt,Guardian,Protagonist,Rebel,Antagonist,Antagonist,Incompetent,Incompetent
+EN_UA_019640.txt,International Criminal Court,Protagonist,Guardian,Antagonist,Antagonist,Terrorist,Terrorist
+EN_UA_014413.txt,GRU,Antagonist,Spy,Antagonist,Antagonist,Conspirator,Conspirator
+EN_CC_200137.txt,"Deanna ""Violet"" Coco",Antagonist,Terrorist,Antagonist,Antagonist,Terrorist,Terrorist
+EN_CC_200342.txt,Espen Barth Eide,Antagonist,Incompetent,Innocent,Innocent,Forgotten,Forgotten
+EN_UA_100688.txt,Russia,Antagonist,Instigator,Protagonist,Protagonist,Rebel,Rebel
+EN_UA_027879.txt,Zelensky,Antagonist,Incompetent,Protagonist,Protagonist,Rebel,Rebel
+EN_UA_028103.txt,Russian intelligence,Antagonist,Saboteur,Antagonist,Antagonist,Conspirator,Conspirator
+EN_UA_010091.txt,Kremlin,Antagonist,Instigator,Antagonist,Antagonist,Incompetent,Incompetent
+EN_UA_027787.txt,Ukrainian leaders,Antagonist,Terrorist,Antagonist,Antagonist,Terrorist,Terrorist
+EN_UA_000104.txt,McConnell,Protagonist,Guardian,Protagonist,Protagonist,Rebel,Rebel
+EN_UA_000104.txt,Biden administration,Protagonist,Peacemaker,Innocent,Innocent,Exploited,Exploited
+EN_UA_024050.txt,Russia,Protagonist,Virtuous,Protagonist,Protagonist,Rebel,Rebel
+EN_UA_026142.txt,leaders—Biden,Antagonist,Instigator,Antagonist,Antagonist,Tyrant,Tyrant
+EN_UA_022339.txt,Zelensky,Antagonist,Traitor,Protagonist,Protagonist,Peacemaker,Peacemaker
+EN_UA_008586.txt,Brussels,Antagonist,Tyrant,Antagonist,Antagonist,Incompetent,Incompetent
+EN_UA_021263.txt,Fetterman,Protagonist,Virtuous,Antagonist,Antagonist,Terrorist,Terrorist
+EN_UA_012803.txt,Putin,Antagonist,Incompetent,Antagonist,Antagonist,Tyrant,Tyrant
+EN_UA_024321.txt,Yulia Navalnaya,Protagonist,Rebel,Antagonist,Antagonist,Corrupt,Corrupt
+EN_UA_014637.txt,Wagner Group,Antagonist,Corrupt,Antagonist,Antagonist,Instigator,Instigator
+EN_CC_200227.txt,COP28,Antagonist,Corrupt,Antagonist,Antagonist,Instigator,Instigator
+EN_UA_017831.txt,Biden administration,Antagonist,Incompetent,Protagonist,Protagonist,Rebel,Rebel
+EN_UA_013710.txt,Putin,Innocent,Victim,Antagonist,Antagonist,Traitor,Traitor
+EN_CC_200145.txt,Kerry,Antagonist,Tyrant,Innocent,Innocent,Exploited,Exploited
+EN_UA_003579.txt,World Trade Organization,Protagonist,Peacemaker,Antagonist,Antagonist,Incompetent,Incompetent
+EN_UA_013617.txt,Saudi Arabia,Protagonist,Virtuous,Protagonist,Protagonist,Peacemaker,Peacemaker
+EN_UA_029053.txt,Volodymyr Zelenskyy,Protagonist,Underdog,Protagonist,Protagonist,Rebel,Rebel
+EN_UA_002416.txt,Russia,Antagonist,Tyrant,Antagonist,Antagonist,Terrorist,Terrorist
+EN_CC_200022.txt,World Economic Forum’s,Antagonist,Conspirator,Innocent,Innocent,Forgotten,Forgotten
+EN_UA_027676.txt,Putin,Antagonist,Tyrant,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+EN_CC_100004.txt,Pete Buttigieg,Antagonist,Deceiver,Antagonist,Antagonist,Incompetent,Incompetent
+EN_CC_200116.txt,Trudeau,Antagonist,Corrupt,Antagonist,Antagonist,Terrorist,Terrorist
+EN_UA_010909.txt,Ukraine’s intelligence agency,Antagonist,Conspirator,Antagonist,Antagonist,Spy,Spy
+EN_CC_200021.txt,Adams,Antagonist,Incompetent,Innocent,Innocent,Forgotten,Forgotten
+EN_CC_200144.txt,Biden administration,Antagonist,Conspirator,Antagonist,Antagonist,Terrorist,Terrorist
+EN_UA_004209.txt,Vladimir Putin,Protagonist,Guardian,Protagonist,Protagonist,Peacemaker,Peacemaker
+EN_UA_027879.txt,Washington,Antagonist,Conspirator,Protagonist,Protagonist,Rebel,Rebel
+EN_UA_027879.txt,Vladimir Putin,Protagonist,Guardian,Antagonist,Antagonist,Spy,Spy
+EN_UA_026740.txt,Israel,Antagonist,Instigator,Antagonist,Antagonist,Terrorist,Terrorist
+EN_UA_000104.txt,Biden administration,Protagonist,Guardian,Innocent,Innocent,Exploited,Exploited
+EN_UA_100411.txt,Blinken,Antagonist,Deceiver,Antagonist,Antagonist,Corrupt,Corrupt
+EN_CC_100012.txt,the United Nations,Antagonist,Conspirator,Protagonist,Protagonist,Peacemaker,Peacemaker
+EN_UA_026036.txt,Russia,Antagonist,Instigator,Protagonist,Protagonist,Rebel,Rebel
+EN_CC_200021.txt,Melissa McKendree,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+EN_CC_200245.txt,Clinton,Antagonist,Corrupt,Antagonist,Antagonist,Terrorist,Terrorist
+EN_UA_026142.txt,Iran,Innocent,Victim,Antagonist,Antagonist,Terrorist,Terrorist
+EN_CC_200104.txt,Sean Seddon,Antagonist,Corrupt,Antagonist,Antagonist,Spy,Spy
+EN_UA_300023.txt,Moscow,Antagonist,Instigator,Innocent,Innocent,Exploited,Exploited
+EN_UA_024847.txt,Washington,Antagonist,Conspirator,Antagonist,Antagonist,Terrorist,Terrorist
+EN_UA_300135.txt,Russia,Antagonist,Foreign Adversary,Antagonist,Antagonist,Terrorist,Terrorist
+EN_UA_300038.txt,Vladimir Putin’s,Antagonist,Instigator,Antagonist,Antagonist,Tyrant,Tyrant
+EN_CC_100013.txt,BBC,Antagonist,Deceiver,Antagonist,Antagonist,Bigot,Bigot
+EN_UA_004343.txt,Ukraine,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+EN_UA_021270.txt,Zelensky,Antagonist,Incompetent,Innocent,Innocent,Exploited,Exploited
+EN_UA_017831.txt,United States,Innocent,Forgotten,Innocent,Innocent,Forgotten,Forgotten
+EN_UA_013727.txt,U.S.,Antagonist,Corrupt,Antagonist,Antagonist,Bigot,Bigot
+EN_CC_200218.txt,Biden,Antagonist,Conspirator,Antagonist,Antagonist,Corrupt,Corrupt
+EN_UA_300108.txt,Marianna Budanova,Innocent,Victim,Protagonist,Protagonist,Guardian,Guardian
+EN_CC_200073.txt,BlackRock,Antagonist,Bigot,Antagonist,Antagonist,Tyrant,Tyrant
+EN_UA_103517.txt,Gershkovich,Protagonist,Underdog,Innocent,Innocent,Victim,Victim
+EN_UA_300090.txt,Ukraine,Antagonist,Deceiver,Innocent,Innocent,Forgotten,Forgotten
+EN_UA_000923.txt,Russia,Antagonist,Instigator,Protagonist,Protagonist,Rebel,Rebel
+EN_CC_200104.txt,BBC,Antagonist,Deceiver,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+EN_UA_014829.txt,Vladimir Putin,Innocent,Scapegoat,Antagonist,Antagonist,Instigator,Instigator
+EN_CC_200073.txt,BlackRock’s,Antagonist,Deceiver,Innocent,Innocent,Exploited,Exploited
+EN_CC_100050.txt,United Nations,Antagonist,Tyrant,Antagonist,Antagonist,Spy,Spy
+EN_UA_013617.txt,America,Antagonist,Tyrant,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+EN_UA_300045.txt,Russia,Antagonist,Instigator,Antagonist,Antagonist,Terrorist,Terrorist
+EN_UA_013710.txt,Iraq,Innocent,Victim,Antagonist,Antagonist,Terrorist,Terrorist
+EN_UA_002668.txt,Putin,Antagonist,Incompetent,Innocent,Innocent,Forgotten,Forgotten
+EN_UA_002531.txt,Russian military,Antagonist,Instigator,Antagonist,Antagonist,Terrorist,Terrorist
+EN_UA_DEV_26.txt,Kennedy,Protagonist,"Peacemaker, Virtuous",Innocent,Innocent,Forgotten,Forgotten
+EN_UA_300142.txt,Charles McGonigal,Antagonist,"Conspirator, Corrupt",Antagonist,Antagonist,Conspirator,Conspirator
+EN_UA_104859.txt,Hunter’s,Antagonist,Corrupt,Innocent,Innocent,Forgotten,Forgotten
+EN_UA_300090.txt,NATO,Antagonist,Deceiver,Innocent,Innocent,Forgotten,Forgotten
+EN_UA_300053.txt,Zelensky’s,Antagonist,"Incompetent, Deceiver",Antagonist,Antagonist,Traitor,Traitor
+EN_CC_200227.txt,Mr Al Jaber,Antagonist,Corrupt,Antagonist,Antagonist,Incompetent,Incompetent
+EN_UA_027676.txt,Putin,Antagonist,Instigator,Protagonist,Protagonist,Rebel,Rebel
+EN_UA_003579.txt,international organizations,Protagonist,Peacemaker,Antagonist,Antagonist,Incompetent,Incompetent
+EN_UA_300023.txt,Russia,Antagonist,Foreign Adversary,Antagonist,Antagonist,Instigator,Instigator
+EN_UA_021872.txt,Poland,Antagonist,Foreign Adversary,Protagonist,Protagonist,Rebel,Rebel
+EN_UA_300139.txt,Mykola Stefanchuck,Antagonist,Corrupt,Innocent,Innocent,Exploited,Exploited
+EN_UA_026142.txt,Zionist,Antagonist,Bigot,Antagonist,Antagonist,Incompetent,Incompetent
+EN_UA_103861.txt,China,Antagonist,Instigator,Protagonist,Protagonist,Rebel,Rebel
+EN_UA_019640.txt,Russia,Antagonist,Incompetent,Innocent,Innocent,Exploited,Exploited
+EN_UA_023816.txt,NATO,Antagonist,Deceiver,Protagonist,Protagonist,Rebel,Rebel
+EN_UA_103011.txt,Shell,Antagonist,Corrupt,Innocent,Innocent,Victim,Victim
+EN_UA_002531.txt,Klitschko,Protagonist,Martyr,Antagonist,Antagonist,Terrorist,Terrorist
+EN_CC_200104.txt,Esme Stallard,Antagonist,Deceiver,Antagonist,Antagonist,Spy,Spy
+EN_UA_022339.txt,Prime Minister of Britain Mr. [Boris] Johnson,Antagonist,Saboteur,Innocent,Innocent,Forgotten,Forgotten
+EN_CC_200073.txt,Riley Moore,Protagonist,Guardian,Antagonist,Antagonist,Bigot,Bigot
+EN_UA_000923.txt,Britain,Protagonist,Virtuous,Antagonist,Antagonist,Incompetent,Incompetent
+EN_UA_021270.txt,Yermak,Antagonist,Traitor,Innocent,Innocent,Exploited,Exploited
+EN_UA_025764.txt,Washington,Antagonist,Conspirator,Innocent,Innocent,Forgotten,Forgotten
+EN_CC_200097.txt,Thomas Middleditch,Antagonist,Conspirator,Protagonist,Protagonist,Guardian,Guardian
+EN_UA_013617.txt,Russia,Protagonist,Virtuous,Antagonist,Antagonist,Traitor,Traitor
+EN_CC_200041.txt,Biden regime,Antagonist,Tyrant,Innocent,Innocent,Forgotten,Forgotten
+EN_UA_008072.txt,Putin’s,Antagonist,Incompetent,Innocent,Innocent,Victim,Victim
+EN_UA_019640.txt,Russia,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+EN_UA_016012.txt,Wladimir Klitschko,Protagonist,Martyr,Innocent,Innocent,Victim,Victim
+EN_CC_200289.txt,IPCC,Antagonist,Deceiver,Protagonist,Protagonist,Martyr,Martyr
+EN_UA_300006.txt,Ukraine,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+EN_UA_010091.txt,Russia,Antagonist,"Instigator, Foreign Adversary",Antagonist,Antagonist,Traitor,Traitor
+EN_UA_000104.txt,Ukraine,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+EN_UA_026142.txt,Sunak,Antagonist,Instigator,Antagonist,Antagonist,Tyrant,Tyrant
+EN_CC_100123.txt,Paul Reiter,Protagonist,Guardian,Innocent,Innocent,Exploited,Exploited
+EN_UA_001032.txt,Russia,Antagonist,Instigator,Innocent,Innocent,Exploited,Exploited
+EN_UA_024050.txt,Ukraine to,Antagonist,Incompetent,Innocent,Innocent,Forgotten,Forgotten
+EN_UA_013257.txt,Russia,Protagonist,Virtuous,Innocent,Innocent,Exploited,Exploited
+EN_UA_014637.txt,Yevgeny Prigozhin,Antagonist,Corrupt,Antagonist,Antagonist,Instigator,Instigator
+EN_UA_029053.txt,Putin,Antagonist,Tyrant,Antagonist,Antagonist,Tyrant,Tyrant
+EN_CC_100012.txt,Dr. Carol Baker,Antagonist,Conspirator,Innocent,Innocent,Exploited,Exploited
+EN_CC_200234.txt,World Economic Forum (WEF),Antagonist,Conspirator,Antagonist,Antagonist,Corrupt,Corrupt
+EN_UA_002416.txt,Meta,Protagonist,Guardian,Protagonist,Protagonist,Guardian,Guardian
+EN_UA_300082.txt,Oleg Tsarev,Innocent,Victim,Antagonist,Antagonist,Conspirator,Conspirator
+EN_UA_300129.txt,Kremlin,Antagonist,Instigator,Innocent,Innocent,Scapegoat,Scapegoat
+EN_UA_024050.txt,German generals,Antagonist,Incompetent,Antagonist,Antagonist,Incompetent,Incompetent
+EN_UA_300016.txt,President Biden,Antagonist,Corrupt,Protagonist,Protagonist,Underdog,Underdog
+EN_UA_002668.txt,Putin's,Antagonist,Deceiver,Protagonist,Protagonist,Rebel,Rebel
+EN_CC_200234.txt,United Nations (UN),Antagonist,Conspirator,Antagonist,Antagonist,Corrupt,Corrupt
+EN_UA_011260.txt,Ukrainian people,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+EN_UA_026142.txt,US,Antagonist,Foreign Adversary,Antagonist,Antagonist,Terrorist,Terrorist
+EN_UA_024050.txt,German generals,Antagonist,Conspirator,Antagonist,Antagonist,Terrorist,Terrorist
+EN_UA_024628.txt,Berlin,Protagonist,Guardian,Protagonist,Protagonist,Rebel,Rebel
+EN_CC_200105.txt,World Economic Forum,Antagonist,Conspirator,Antagonist,Antagonist,Saboteur,Saboteur
+EN_UA_022051.txt,Kiev,Antagonist,Foreign Adversary,Protagonist,Protagonist,Rebel,Rebel
+EN_UA_013617.txt,Iran,Protagonist,Virtuous,Protagonist,Protagonist,Peacemaker,Peacemaker
+EN_CC_200262.txt,Biden’s,Antagonist,Incompetent,Innocent,Innocent,Forgotten,Forgotten
+EN_UA_026740.txt,South Africa,Protagonist,Peacemaker,Antagonist,Antagonist,Terrorist,Terrorist
+EN_UA_300053.txt,Nikolay Solsky,Antagonist,Corrupt,Antagonist,Antagonist,Corrupt,Corrupt
+EN_UA_013710.txt,ICC,Antagonist,Deceiver,Antagonist,Antagonist,Bigot,Bigot
+EN_UA_300082.txt,Russians,Innocent,Victim,Antagonist,Antagonist,Terrorist,Terrorist
+EN_UA_016012.txt,Zinchenko,Protagonist,Martyr,Innocent,Innocent,Victim,Victim
+EN_UA_027787.txt,U.S. administration,Antagonist,Terrorist,Antagonist,Antagonist,Terrorist,Terrorist
+EN_CC_200145.txt,Kerry,Antagonist,Traitor,Antagonist,Antagonist,Incompetent,Incompetent
+EN_UA_300040.txt,President Biden,Antagonist,Instigator,Antagonist,Antagonist,Spy,Spy
+EN_CC_100012.txt,Robert F. Kennedy,Protagonist,Guardian,Antagonist,Antagonist,Incompetent,Incompetent
+EN_UA_013257.txt,Russia,Innocent,Victim,Antagonist,Antagonist,Corrupt,Corrupt
+EN_UA_300000.txt,Putin,Antagonist,Tyrant,Antagonist,Antagonist,Instigator,Instigator
+EN_CC_200086.txt,Dr. Matthew Liao,Antagonist,"Saboteur, Terrorist",Innocent,Innocent,Forgotten,Forgotten
+EN_UA_020543.txt,Russia,Antagonist,Foreign Adversary,Antagonist,Antagonist,Traitor,Traitor
+EN_UA_022016.txt,Ukraine,Protagonist,Rebel,Protagonist,Protagonist,Underdog,Underdog
+EN_UA_014014.txt,Argentina,Innocent,Exploited,Innocent,Innocent,Forgotten,Forgotten
+EN_CC_200097.txt,Aileen Getty,Antagonist,Conspirator,Protagonist,Protagonist,Guardian,Guardian
+EN_UA_013257.txt,Russia,Protagonist,Guardian,Innocent,Innocent,Exploited,Exploited
+EN_UA_001052.txt,German Chancellor Olaf Scholz,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+EN_CC_200134.txt,Europe,Innocent,Victim,Antagonist,Antagonist,Bigot,Bigot
+EN_UA_024321.txt,Russian diplomats,Antagonist,Foreign Adversary,Antagonist,Antagonist,Incompetent,Incompetent
+EN_UA_023816.txt,“Western countries,Antagonist,Instigator,Antagonist,Antagonist,Spy,Spy
+EN_CC_200101.txt,Ted Eng,Protagonist,Rebel,Innocent,Innocent,Exploited,Exploited
+EN_UA_026142.txt,working class,Protagonist,Rebel,Protagonist,Protagonist,Rebel,Rebel
+EN_UA_104859.txt,GUR,Antagonist,Terrorist,Innocent,Innocent,Forgotten,Forgotten
+EN_UA_021310.txt,Russia,Antagonist,Foreign Adversary,Protagonist,Protagonist,Rebel,Rebel
+EN_UA_300052.txt,Russia,Innocent,Victim,Antagonist,Antagonist,Tyrant,Tyrant
+EN_CC_100106.txt,Al Gore,Antagonist,Deceiver,Antagonist,Antagonist,Deceiver,Deceiver
+EN_CC_300040.txt,Shell,Antagonist,Deceiver,Innocent,Innocent,Exploited,Exploited
+EN_CC_200242.txt,Biden,Antagonist,Corrupt,Innocent,Innocent,Victim,Victim
+EN_UA_019640.txt,China,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+EN_CC_200191.txt,NATO,Antagonist,Conspirator,Antagonist,Antagonist,Bigot,Bigot
+EN_CC_100136.txt,Lord Lawson’s,Antagonist,"Incompetent, Deceiver",Innocent,Innocent,Exploited,Exploited
+EN_UA_100864.txt,Russia,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+EN_CC_200191.txt,Scottish government,Antagonist,Tyrant,Antagonist,Antagonist,Tyrant,Tyrant
+EN_CC_100124.txt,Michael Mann’s,Antagonist,Deceiver,Antagonist,Antagonist,Bigot,Bigot
+EN_UA_013710.txt,Vietnamese children,Innocent,Exploited,Innocent,Innocent,Forgotten,Forgotten
+EN_UA_300018.txt,Armed Forces of Ukraine,Antagonist,Terrorist,Innocent,Innocent,Exploited,Exploited
+EN_UA_013617.txt,John Bolton,Antagonist,Tyrant,Innocent,Innocent,Victim,Victim
+EN_UA_025652.txt,US,Antagonist,"Conspirator, Deceiver",Antagonist,Antagonist,Incompetent,Incompetent
+EN_UA_017831.txt,Vladimir Putin,Antagonist,Foreign Adversary,Protagonist,Protagonist,Rebel,Rebel
+EN_UA_013727.txt,U.S.,Protagonist,Virtuous,Protagonist,Protagonist,Underdog,Underdog
+EN_UA_100411.txt,Coalition Provisional Authority’s,Antagonist,Corrupt,Antagonist,Antagonist,Corrupt,Corrupt
+EN_UA_DEV_26.txt,the CIA,Antagonist,"Conspirator, Tyrant",Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+EN_UA_010091.txt,Ukraine,Protagonist,Underdog,Antagonist,Antagonist,Terrorist,Terrorist
+EN_UA_026142.txt,Bogdan Syrotiuk,Innocent,Scapegoat,Antagonist,Antagonist,Traitor,Traitor
+EN_UA_004209.txt,NATO,Antagonist,Conspirator,Antagonist,Antagonist,Spy,Spy
+EN_UA_DEV_26.txt,Neville Chamberlain’s,Antagonist,Incompetent,Antagonist,Antagonist,Incompetent,Incompetent
+EN_UA_019640.txt,Russia,Innocent,Victim,Antagonist,Antagonist,Terrorist,Terrorist
+EN_UA_300142.txt,Vladimir Putin,Antagonist,Tyrant,Antagonist,Antagonist,Spy,Spy
+EN_UA_026142.txt,Bogdan,Protagonist,Martyr,Antagonist,Antagonist,Traitor,Traitor
+EN_CC_100005.txt,Stopp Oljeletinga,Antagonist,Terrorist,Antagonist,Antagonist,Terrorist,Terrorist
+EN_UA_300076.txt,Ukraine,Antagonist,"Deceiver, Terrorist",Antagonist,Antagonist,Terrorist,Terrorist
+EN_CC_100076.txt,Walt Meier,Antagonist,Incompetent,Innocent,Innocent,Victim,Victim
+EN_UA_300127.txt,China,Antagonist,Foreign Adversary,Innocent,Innocent,Scapegoat,Scapegoat
+EN_UA_029053.txt,Russia's,Antagonist,Foreign Adversary,Antagonist,Antagonist,Incompetent,Incompetent
+EN_CC_200327.txt,Spiked,Antagonist,Bigot,Protagonist,Protagonist,Rebel,Rebel
+EN_UA_027879.txt,Putin,Antagonist,Tyrant,Protagonist,Protagonist,Rebel,Rebel
+EN_UA_300032.txt,Russia,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+EN_UA_100688.txt,Ukrainians,Protagonist,Guardian,Antagonist,Antagonist,Terrorist,Terrorist
+EN_UA_014014.txt,Brazil,Innocent,Exploited,Innocent,Innocent,Forgotten,Forgotten
+EN_UA_010091.txt,Europe,Protagonist,Guardian,Antagonist,Antagonist,Terrorist,Terrorist
+EN_UA_027676.txt,the US,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+EN_CC_100014.txt,Conservatives,Innocent,Victim,Antagonist,Antagonist,Terrorist,Terrorist
+EN_CC_200021.txt,New York City Mayor Eric Adams,Antagonist,Tyrant,Innocent,Innocent,Forgotten,Forgotten
+EN_UA_100587.txt,RUSSIA,Antagonist,Saboteur,Antagonist,Antagonist,Corrupt,Corrupt
+EN_UA_012611.txt,Norway,Antagonist,Conspirator,Innocent,Innocent,Victim,Victim
+EN_UA_021263.txt,Hamas,Antagonist,Terrorist,Protagonist,Protagonist,Rebel,Rebel
+EN_UA_011260.txt,Ukrainian leadership,Antagonist,"Instigator, Tyrant",Antagonist,Antagonist,Conspirator,Conspirator
+EN_UA_029053.txt,Keir Starmer,Antagonist,Incompetent,Protagonist,Protagonist,Guardian,Guardian
+EN_CC_200137.txt,Jan Goodey,Antagonist,Terrorist,Antagonist,Antagonist,Terrorist,Terrorist
+EN_UA_300135.txt,Ukraine,Protagonist,Underdog,Antagonist,Antagonist,Incompetent,Incompetent
+EN_UA_025764.txt,Stanislav Petrov,Protagonist,Guardian,Protagonist,Protagonist,Guardian,Guardian
+EN_UA_027676.txt,North Korea,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+EN_CC_200110.txt,Morfogen,Innocent,Victim,Innocent,Innocent,Exploited,Exploited
+EN_CC_100124.txt,Al Gore,Antagonist,Bigot,Antagonist,Antagonist,Deceiver,Deceiver
+EN_CC_200168.txt,Caroline van der Plas,Antagonist,"Deceiver, Corrupt",Protagonist,Protagonist,Virtuous,Virtuous
+EN_UA_013617.txt,China,Protagonist,Virtuous,Antagonist,Antagonist,Traitor,Traitor
+EN_UA_029053.txt,Putin,Antagonist,Incompetent,Antagonist,Antagonist,Traitor,Traitor
+EN_CC_300064.txt,'Letzte Generation' (Last Generation),Antagonist,"Conspirator, Terrorist",Antagonist,Antagonist,Incompetent,Incompetent
+EN_UA_008586.txt,US,Antagonist,Tyrant,Antagonist,Antagonist,Tyrant,Tyrant
+EN_UA_021310.txt,China,Antagonist,Instigator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+EN_UA_027787.txt,the United States,Antagonist,Instigator,Antagonist,Antagonist,Terrorist,Terrorist
+EN_UA_013727.txt,U.S.,Antagonist,Tyrant,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+EN_UA_300023.txt,Russia,Antagonist,Instigator,Innocent,Innocent,Exploited,Exploited
+EN_CC_200292.txt,Pope Francis,Antagonist,Deceiver,Innocent,Innocent,Victim,Victim
+EN_UA_022016.txt,Ukraine,Innocent,Victim,Protagonist,Protagonist,Underdog,Underdog
+EN_UA_017310.txt,US,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+EN_UA_DEV_26.txt,Hitler,Antagonist,Tyrant,Antagonist,Antagonist,Incompetent,Incompetent
+EN_UA_300070.txt,BIDEN,Antagonist,Corrupt,Antagonist,Antagonist,Corrupt,Corrupt
+EN_CC_200343.txt,Chris Martz,Protagonist,Virtuous,Innocent,Innocent,Victim,Victim
+EN_CC_300040.txt,Chevron,Antagonist,Deceiver,Innocent,Innocent,Exploited,Exploited
+EN_UA_300139.txt,Kiev,Antagonist,Corrupt,Antagonist,Antagonist,Tyrant,Tyrant
+EN_UA_012234.txt,Solovyov,Antagonist,Bigot,Antagonist,Antagonist,Spy,Spy
+EN_UA_100587.txt,Vladimir Putin's,Antagonist,Saboteur,Protagonist,Protagonist,Rebel,Rebel
+EN_CC_300040.txt,Exxon,Antagonist,Deceiver,Innocent,Innocent,Exploited,Exploited
+EN_CC_200337.txt,Claire Nasir,Antagonist,Deceiver,Antagonist,Antagonist,Tyrant,Tyrant
+EN_UA_022016.txt,Estonian government,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+EN_CC_200144.txt,CEF,Antagonist,Corrupt,Antagonist,Antagonist,Bigot,Bigot
+EN_UA_020543.txt,Israel,Innocent,Victim,Protagonist,Protagonist,Martyr,Martyr
+EN_CC_200110.txt,Democrats,Antagonist,Bigot,Antagonist,Antagonist,Incompetent,Incompetent
+EN_UA_300036.txt,The United States,Protagonist,Virtuous,Antagonist,Antagonist,Terrorist,Terrorist
+EN_UA_300108.txt,Sergei Skripal,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+EN_CC_200337.txt,The Met Office,Antagonist,Incompetent,Protagonist,Protagonist,Guardian,Guardian
+EN_UA_026697.txt,Victor Orban,Protagonist,Virtuous,Protagonist,Protagonist,Peacemaker,Peacemaker
+EN_UA_100864.txt,Putin's,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+EN_CC_200134.txt,Leftist elites,Antagonist,Conspirator,Antagonist,Antagonist,Bigot,Bigot
+EN_UA_300071.txt,Russia,Innocent,Victim,Antagonist,Antagonist,Terrorist,Terrorist
+EN_CC_200097.txt,Jeremy Strong,Antagonist,Conspirator,Protagonist,Protagonist,Guardian,Guardian
+EN_CC_100014.txt,Tractor Supply's Producer's Pride,Antagonist,Conspirator,Antagonist,Antagonist,Tyrant,Tyrant
+EN_UA_103861.txt,Hamas,Antagonist,Terrorist,Innocent,Innocent,Victim,Victim
+EN_UA_300139.txt,Vladimir Zelensky,Antagonist,"Incompetent, Corrupt",Innocent,Innocent,Victim,Victim
+EN_UA_103011.txt,BP,Antagonist,Corrupt,Innocent,Innocent,Victim,Victim
+EN_CC_100013.txt,Bill Gates,Antagonist,"Deceiver, Corrupt",Innocent,Innocent,Exploited,Exploited
+EN_UA_300129.txt,Russia,Antagonist,Foreign Adversary,Antagonist,Antagonist,Terrorist,Terrorist
+EN_CC_300040.txt,Gavin Newsom,Protagonist,Rebel,Innocent,Innocent,Victim,Victim
+EN_UA_103861.txt,Chinese,Antagonist,Spy,Innocent,Innocent,Forgotten,Forgotten
+EN_UA_300082.txt,Ukrainian special services,Antagonist,Terrorist,Antagonist,Antagonist,Terrorist,Terrorist
+EN_CC_200141.txt,King Charles III,Antagonist,Corrupt,Antagonist,Antagonist,Bigot,Bigot
+EN_UA_029155.txt,Volodymyr Zelensky,Antagonist,"Saboteur, Conspirator",Antagonist,Antagonist,Terrorist,Terrorist
+EN_CC_200097.txt,Adam McKay,Antagonist,Conspirator,Protagonist,Protagonist,Guardian,Guardian
+EN_UA_010735.txt,Russian military,Antagonist,Incompetent,Protagonist,Protagonist,Rebel,Rebel
+EN_CC_200073.txt,DeSantis,Antagonist,Incompetent,Antagonist,Antagonist,Instigator,Instigator
+EN_UA_300013.txt,The US,Antagonist,Instigator,Innocent,Innocent,Exploited,Exploited
+EN_UA_014829.txt,Sweden,Antagonist,Deceiver,Antagonist,Antagonist,Bigot,Bigot
+EN_CC_200058.txt,Jackson Green,Protagonist,Rebel,Innocent,Innocent,Exploited,Exploited
+EN_UA_300040.txt,Ukrainians,Innocent,Victim,Antagonist,Antagonist,Spy,Spy
+EN_UA_010735.txt,Russia,Antagonist,Terrorist,Antagonist,Antagonist,Terrorist,Terrorist
+EN_UA_016012.txt,Vasyl Lomachenko,Protagonist,Martyr,Innocent,Innocent,Victim,Victim
+EN_UA_300022.txt,Janet Yellen,Antagonist,"Incompetent, Deceiver",Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+EN_UA_021872.txt,Finland,Antagonist,Instigator,Protagonist,Protagonist,Rebel,Rebel
+EN_CC_200113.txt,Trump,Antagonist,Deceiver,Innocent,Innocent,Exploited,Exploited
+EN_UA_026697.txt,von der Leyen,Antagonist,Corrupt,Protagonist,Protagonist,Peacemaker,Peacemaker
+EN_UA_300076.txt,West,Antagonist,Conspirator,Innocent,Innocent,Victim,Victim
+EN_UA_024628.txt,Ukraine,Innocent,Victim,Antagonist,Antagonist,Tyrant,Tyrant
+EN_UA_024050.txt,France and,Antagonist,Conspirator,Antagonist,Antagonist,Incompetent,Incompetent
+EN_UA_024050.txt,Weimar Triangle was,Antagonist,Conspirator,Protagonist,Protagonist,Rebel,Rebel
+EN_UA_021270.txt,Zelensky admin,Antagonist,Incompetent,Protagonist,Protagonist,Rebel,Rebel
+EN_UA_001032.txt,Boris Johnson,Protagonist,Guardian,Antagonist,Antagonist,Corrupt,Corrupt
+EN_UA_014829.txt,US administration,Antagonist,Conspirator,Innocent,Innocent,Exploited,Exploited
+EN_UA_004616.txt,Ukraine,Protagonist,Virtuous,Antagonist,Antagonist,Spy,Spy
+EN_UA_016466.txt,Russia,Protagonist,Guardian,Antagonist,Antagonist,Terrorist,Terrorist
+EN_UA_026142.txt,Scholz—are,Antagonist,Instigator,Antagonist,Antagonist,Tyrant,Tyrant
+EN_UA_300009.txt,Fail Alsynov,Protagonist,"Rebel, Martyr",Protagonist,Protagonist,Martyr,Martyr
+EN_UA_300073.txt,West,Antagonist,Saboteur,Antagonist,Antagonist,Saboteur,Saboteur
+EN_UA_100688.txt,Kremlin,Antagonist,Instigator,Protagonist,Protagonist,Rebel,Rebel
+EN_UA_023816.txt,Washington,Antagonist,Conspirator,Antagonist,Antagonist,Spy,Spy
+EN_CC_100035.txt,Soros,Antagonist,Conspirator,Antagonist,Antagonist,Incompetent,Incompetent
+EN_UA_026740.txt,Palestinians,Innocent,Victim,Innocent,Innocent,Exploited,Exploited
+EN_UA_300032.txt,the US,Antagonist,Instigator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+EN_UA_014829.txt,President Joe Biden,Antagonist,Conspirator,Innocent,Innocent,Exploited,Exploited
+EN_UA_021310.txt,North Korea,Antagonist,Conspirator,Innocent,Innocent,Victim,Victim
+EN_UA_027676.txt,Kyiv,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+EN_UA_026142.txt,Zelensky,Antagonist,Tyrant,Antagonist,Antagonist,Traitor,Traitor
+EN_CC_200292.txt,The United Nations,Antagonist,Corrupt,Innocent,Innocent,Victim,Victim
+EN_UA_026142.txt,Macron,Antagonist,Instigator,Antagonist,Antagonist,Tyrant,Tyrant
+EN_UA_021310.txt,Philippines,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+EN_CC_200144.txt,Climate Emergency Fund (CEF),Antagonist,Conspirator,Antagonist,Antagonist,Terrorist,Terrorist
+EN_CC_200292.txt,Alexandria Ocasio-Cortez,Antagonist,Corrupt,Innocent,Innocent,Victim,Victim
+EN_CC_200041.txt,World Bank,Antagonist,Bigot,Innocent,Innocent,Forgotten,Forgotten
+EN_UA_025764.txt,Biden,Antagonist,Deceiver,Protagonist,Protagonist,Rebel,Rebel
+EN_UA_013617.txt,Western allies,Antagonist,Tyrant,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+EN_UA_022051.txt,London,Antagonist,Foreign Adversary,Protagonist,Protagonist,Rebel,Rebel
+EN_UA_025652.txt,the West,Antagonist,Instigator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+EN_CC_200154.txt,Biden,Antagonist,Deceiver,Antagonist,Antagonist,Spy,Spy
+EN_UA_024628.txt,Moscow,Antagonist,Incompetent,Innocent,Innocent,Forgotten,Forgotten
+EN_UA_026142.txt,Julian Assange,Protagonist,Martyr,Antagonist,Antagonist,Incompetent,Incompetent
+EN_UA_029053.txt,Putin,Antagonist,Instigator,Antagonist,Antagonist,Tyrant,Tyrant
+EN_CC_200048.txt,JBS,Antagonist,"Deceiver, Corrupt",Antagonist,Antagonist,Terrorist,Terrorist
+EN_CC_200092.txt,National Oceanic and Atmospheric Administration (NOAA),Antagonist,Deceiver,Antagonist,Antagonist,Corrupt,Corrupt
+EN_UA_002991.txt,Vladimir Putin,Antagonist,Tyrant,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+EN_UA_024847.txt,Ukraine,Antagonist,"Saboteur, Instigator",Innocent,Innocent,Forgotten,Forgotten
+EN_CC_100005.txt,COP27,Antagonist,Corrupt,Antagonist,Antagonist,Bigot,Bigot
+EN_UA_021123.txt,Russian,Antagonist,Saboteur,Protagonist,Protagonist,Rebel,Rebel
+EN_UA_012803.txt,Kremlin,Antagonist,Deceiver,Antagonist,Antagonist,Saboteur,Saboteur
+EN_UA_013617.txt,ICC,Antagonist,Corrupt,Innocent,Innocent,Forgotten,Forgotten
+EN_UA_300034.txt,US,Antagonist,Conspirator,Innocent,Innocent,Exploited,Exploited
+EN_CC_100095.txt,Irma Kjellström,Protagonist,Rebel,Protagonist,Protagonist,Virtuous,Virtuous
+EN_UA_013344.txt,Zhirnov,Protagonist,Rebel,Antagonist,Antagonist,Spy,Spy
+EN_UA_002531.txt,Klitschko,Protagonist,Virtuous,Protagonist,Protagonist,Underdog,Underdog
+EN_UA_300153.txt,the World Economic Forum,Antagonist,Conspirator,Protagonist,Protagonist,Peacemaker,Peacemaker
+EN_CC_200150.txt,The New York Times,Antagonist,Deceiver,Innocent,Innocent,Forgotten,Forgotten
+EN_UA_300040.txt,Russian Federation,Protagonist,Guardian,Innocent,Innocent,Victim,Victim
+EN_UA_008586.txt,Washington,Antagonist,Tyrant,Antagonist,Antagonist,Incompetent,Incompetent
+EN_UA_300031.txt,Russian President Vladimir Putin,Antagonist,"Instigator, Corrupt",Antagonist,Antagonist,Corrupt,Corrupt
+EN_UA_011260.txt,"""Ukraine",Antagonist,Conspirator,Innocent,Innocent,Forgotten,Forgotten
+EN_UA_300038.txt,OLEKSANDR USYK,Protagonist,Martyr,Protagonist,Protagonist,Underdog,Underdog
+EN_UA_002531.txt,Mayor Matveev Sergeevich,Innocent,Victim,Antagonist,Antagonist,Terrorist,Terrorist
+EN_UA_002668.txt,Vlad Putin,Antagonist,Incompetent,Antagonist,Antagonist,Spy,Spy
+EN_UA_024847.txt,Russia’s,Innocent,Scapegoat,Antagonist,Antagonist,Instigator,Instigator
+EN_UA_300108.txt,Russian intelligence,Antagonist,Terrorist,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+EN_CC_200097.txt,“Climate Emergency Fund,Antagonist,Conspirator,Antagonist,Antagonist,Bigot,Bigot
+EN_CC_100003.txt,Justin Trudeau,Antagonist,Traitor,Antagonist,Antagonist,Incompetent,Incompetent
+EN_UA_300132.txt,the United States,Antagonist,Incompetent,Antagonist,Antagonist,Incompetent,Incompetent
+EN_UA_016012.txt,Ukraine,Innocent,Victim,Innocent,Innocent,Exploited,Exploited
+EN_UA_026697.txt,Slovak Prime Minister Robert Fico,Innocent,Victim,Antagonist,Antagonist,Corrupt,Corrupt
+EN_CC_200221.txt,Andrei Shleifer,Antagonist,Conspirator,Antagonist,Antagonist,Corrupt,Corrupt
+EN_UA_003579.txt,World Bank,Protagonist,Peacemaker,Antagonist,Antagonist,Terrorist,Terrorist
+EN_UA_000923.txt,Germany,Antagonist,Incompetent,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+EN_CC_200016.txt,DemonRAT,Antagonist,Terrorist,Innocent,Innocent,Forgotten,Forgotten
+EN_CC_200245.txt,Gore,Antagonist,Corrupt,Antagonist,Antagonist,Terrorist,Terrorist
+EN_UA_013727.txt,Vladimir Putin,Antagonist,Tyrant,Antagonist,Antagonist,Traitor,Traitor
+EN_UA_100587.txt,Ukrainians,Innocent,"Exploited, Victim",Antagonist,Antagonist,Spy,Spy
+EN_UA_024847.txt,United States,Antagonist,"Saboteur, Conspirator",Innocent,Innocent,Forgotten,Forgotten
+EN_CC_200245.txt,Joe Biden’s,Antagonist,Deceiver,Innocent,Innocent,Forgotten,Forgotten
+EN_UA_003579.txt,IMF,Protagonist,Peacemaker,Antagonist,Antagonist,Incompetent,Incompetent
+EN_UA_024628.txt,Ukraine,Protagonist,Rebel,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+EN_CC_200279.txt,Bill Gates,Antagonist,Tyrant,Antagonist,Antagonist,Bigot,Bigot
+EN_UA_021270.txt,Yermak,Antagonist,Incompetent,Innocent,Innocent,Exploited,Exploited
+EN_UA_002531.txt,Russians,Antagonist,Terrorist,Antagonist,Antagonist,Terrorist,Terrorist
+EN_UA_300052.txt,Carnegie Hall,Antagonist,Bigot,Antagonist,Antagonist,Spy,Spy
+EN_UA_013727.txt,NATO,Antagonist,Tyrant,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+EN_CC_200016.txt,Red Flag,Antagonist,Terrorist,Innocent,Innocent,Forgotten,Forgotten
+EN_UA_026740.txt,Israel,Antagonist,Tyrant,Antagonist,Antagonist,Terrorist,Terrorist
+EN_UA_300084.txt,Kiev’s,Antagonist,Corrupt,Antagonist,Antagonist,Corrupt,Corrupt
+EN_UA_300006.txt,Joe Biden,Antagonist,"Conspirator, Incompetent",Protagonist,Protagonist,Underdog,Underdog
+EN_UA_104523.txt,America’s,Antagonist,Foreign Adversary,Protagonist,Protagonist,Martyr,Martyr
+EN_UA_300005.txt,Meloni,Antagonist,"Incompetent, Traitor",Antagonist,Antagonist,Corrupt,Corrupt
+EN_UA_001052.txt,Blinken,Protagonist,Peacemaker,Protagonist,Protagonist,Virtuous,Virtuous
+EN_UA_002531.txt,Kyiv Mayor Vitali Klitschko,Protagonist,"Rebel, Martyr",Antagonist,Antagonist,Terrorist,Terrorist
+EN_UA_016466.txt,Putin’s,Antagonist,Bigot,Antagonist,Antagonist,Incompetent,Incompetent
+EN_UA_022016.txt,Kyiv,Protagonist,Underdog,Innocent,Innocent,Exploited,Exploited
+EN_CC_200324.txt,Al Jaber’s,Antagonist,Saboteur,Antagonist,Antagonist,Instigator,Instigator
+EN_UA_103732.txt,Zelensky,Antagonist,Incompetent,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+EN_CC_200105.txt,Farmers Defence Force,Protagonist,"Rebel, Guardian",Innocent,Innocent,Forgotten,Forgotten
+EN_UA_012803.txt,Russian government,Antagonist,Conspirator,Antagonist,Antagonist,Spy,Spy
+EN_UA_013710.txt,Max Boot,Antagonist,"Bigot, Deceiver",Antagonist,Antagonist,Traitor,Traitor
+EN_CC_200327.txt,Ella Whelan,Antagonist,Deceiver,Antagonist,Antagonist,Incompetent,Incompetent
+EN_UA_022016.txt,"""Russia",Antagonist,Foreign Adversary,Innocent,Innocent,Exploited,Exploited
+EN_UA_300009.txt,Bashkir people,Innocent,Victim,Antagonist,Antagonist,Incompetent,Incompetent
+EN_UA_029155.txt,US Navy,Antagonist,Saboteur,Antagonist,Antagonist,Terrorist,Terrorist
+EN_UA_027879.txt,West,Antagonist,Conspirator,Innocent,Innocent,Scapegoat,Scapegoat
+EN_UA_101067.txt,RIA Novosti,Antagonist,Deceiver,Antagonist,Antagonist,Spy,Spy
+EN_UA_016466.txt,the West,Antagonist,Foreign Adversary,Protagonist,Protagonist,Underdog,Underdog
+EN_UA_300009.txt,Bashkort,Protagonist,"Rebel, Guardian",Antagonist,Antagonist,Terrorist,Terrorist
+EN_UA_022339.txt,Western powers,Antagonist,Foreign Adversary,Protagonist,Protagonist,Peacemaker,Peacemaker
+EN_UA_DEV_26.txt,Khrushchev,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+EN_UA_002991.txt,Marina Ovsyannikova,Protagonist,"Rebel, Martyr",Innocent,Innocent,Exploited,Exploited
+EN_CC_100047.txt,John Kerry,Antagonist,Deceiver,Protagonist,Protagonist,Peacemaker,Peacemaker
+EN_CC_200116.txt,Pierre Poilievre,Protagonist,Guardian,Antagonist,Antagonist,Incompetent,Incompetent
+EN_UA_022051.txt,UK,Antagonist,Saboteur,Antagonist,Antagonist,Terrorist,Terrorist
+EN_UA_DEV_26.txt,Soviet Union,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+EN_UA_DEV_216.txt,Europe's,Innocent,Exploited,Protagonist,Protagonist,Guardian,Guardian
+EN_CC_200327.txt,Spiked,Antagonist,Corrupt,Antagonist,Antagonist,Instigator,Instigator
+EN_UA_300016.txt,President Trump,Innocent,Scapegoat,Innocent,Innocent,Victim,Victim
+EN_UA_300010.txt,Marjorie Taylor Greene,Protagonist,Guardian,Innocent,Innocent,Victim,Victim
+EN_CC_200134.txt,UN,Antagonist,Terrorist,Innocent,Innocent,Forgotten,Forgotten
+EN_CC_200105.txt,Canada,Innocent,Exploited,Innocent,Innocent,Exploited,Exploited
+EN_UA_DEV_26.txt,U.S.,Antagonist,Instigator,Innocent,Innocent,Scapegoat,Scapegoat
+EN_UA_300079.txt,Zelensky,Antagonist,Tyrant,Antagonist,Antagonist,Tyrant,Tyrant
+EN_CC_200221.txt,Gorbachev,Antagonist,Conspirator,Innocent,Innocent,Scapegoat,Scapegoat
+EN_UA_102990.txt,Russia,Innocent,Scapegoat,Antagonist,Antagonist,Saboteur,Saboteur
+EN_UA_028103.txt,Russian government,Antagonist,"Saboteur, Conspirator",Antagonist,Antagonist,Bigot,Bigot
+EN_CC_200022.txt,Denmark’s,Antagonist,Bigot,Antagonist,Antagonist,Terrorist,Terrorist
+EN_UA_019640.txt,West’s,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+EN_UA_300133.txt,Vladimir Putin,Antagonist,Instigator,Innocent,Innocent,Victim,Victim
+EN_CC_200144.txt,Abigail Disney,Antagonist,Conspirator,Antagonist,Antagonist,Bigot,Bigot
+EN_CC_200101.txt,Liberal members of Parliament,Antagonist,Corrupt,Antagonist,Antagonist,Bigot,Bigot
+EN_CC_200191.txt,the United Nations,Antagonist,Tyrant,Antagonist,Antagonist,Tyrant,Tyrant
+EN_UA_300132.txt,The United States,Antagonist,Instigator,Protagonist,Protagonist,Underdog,Underdog
+EN_UA_300038.txt,Russia,Antagonist,Instigator,Protagonist,Protagonist,Underdog,Underdog
+EN_CC_100095.txt,Greta Thunberg,Antagonist,Deceiver,Antagonist,Antagonist,Conspirator,Conspirator
+EN_CC_100136.txt,Daily Stormer,Antagonist,Bigot,Antagonist,Antagonist,Bigot,Bigot
+EN_CC_200221.txt,Carl Sagan,Antagonist,Conspirator,Innocent,Innocent,Scapegoat,Scapegoat
+EN_UA_024050.txt,German Army,Antagonist,Incompetent,Protagonist,Protagonist,Rebel,Rebel
+EN_UA_300134.txt,Zelensky,Antagonist,"Corrupt, Traitor",Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+EN_UA_300023.txt,Ukraine,Innocent,Victim,Innocent,Innocent,Exploited,Exploited
+EN_CC_200168.txt,Trump,Antagonist,Tyrant,Innocent,Innocent,Forgotten,Forgotten
+EN_UA_012611.txt,Russia,Innocent,Victim,Protagonist,Protagonist,Guardian,Guardian
+EN_UA_004209.txt,Russia,Protagonist,Guardian,Antagonist,Antagonist,Terrorist,Terrorist
+EN_UA_300031.txt,Russia,Antagonist,"Instigator, Foreign Adversary",Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+EN_UA_003579.txt,World Bank,Protagonist,Peacemaker,Antagonist,Antagonist,Incompetent,Incompetent
+EN_UA_010735.txt,Russia's,Antagonist,"Instigator, Foreign Adversary",Antagonist,Antagonist,Instigator,Instigator
+EN_UA_019640.txt,China,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+EN_UA_002668.txt,Russia,Antagonist,Terrorist,Antagonist,Antagonist,Corrupt,Corrupt
+EN_UA_014014.txt,IMF,Antagonist,Tyrant,Innocent,Innocent,Forgotten,Forgotten
+EN_UA_103011.txt,Russians,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+EN_CC_200052.txt,Pakistan’s,Innocent,Exploited,Innocent,Innocent,Scapegoat,Scapegoat
+EN_UA_011260.txt,Russia,Protagonist,Peacemaker,Protagonist,Protagonist,Rebel,Rebel
+EN_UA_027787.txt,Dmitry Medvedev,Protagonist,Guardian,Antagonist,Antagonist,Traitor,Traitor
+EN_UA_300076.txt,West,Antagonist,"Deceiver, Terrorist",Antagonist,Antagonist,Terrorist,Terrorist
+EN_UA_028520.txt,The European Union,Protagonist,"Peacemaker, Virtuous",Antagonist,Antagonist,Incompetent,Incompetent
+EN_UA_300052.txt,Munich Philharmonic Orchestra,Antagonist,Bigot,Antagonist,Antagonist,Spy,Spy
+EN_UA_013257.txt,Western countries,Antagonist,Saboteur,Innocent,Innocent,Exploited,Exploited
+EN_CC_100091.txt,Greta Thunberg,Innocent,Exploited,Protagonist,Protagonist,Martyr,Martyr
+EN_UA_029053.txt,Joe Biden,Antagonist,Incompetent,Protagonist,Protagonist,Guardian,Guardian
+EN_CC_100004.txt,Al Gore,Antagonist,Deceiver,Innocent,Innocent,Exploited,Exploited
+EN_CC_200318.txt,The Royal College of Physicians,Antagonist,"Bigot, Corrupt",Innocent,Innocent,Forgotten,Forgotten
+EN_UA_027676.txt,Russia,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+EN_UA_027879.txt,the West's,Antagonist,Foreign Adversary,Antagonist,Antagonist,Spy,Spy
+EN_UA_103995.txt,Yahya al-Sinwar,Antagonist,Instigator,Antagonist,Antagonist,Traitor,Traitor
+EN_UA_300039.txt,Biden administration,Antagonist,Traitor,Antagonist,Antagonist,Incompetent,Incompetent
+EN_UA_024847.txt,Ukraine,Antagonist,"Saboteur, Conspirator",Antagonist,Antagonist,Terrorist,Terrorist
+EN_UA_104876.txt,VLADIMIR Putin,Antagonist,Tyrant,Protagonist,Protagonist,Guardian,Guardian
+EN_UA_000923.txt,EU,Antagonist,Incompetent,Antagonist,Antagonist,Incompetent,Incompetent
+EN_UA_026142.txt,Palestinians,Innocent,Victim,Antagonist,Antagonist,Terrorist,Terrorist
+EN_UA_300012.txt,Ruslan Zinin,Protagonist,Rebel,Antagonist,Antagonist,Terrorist,Terrorist
+EN_UA_DEV_26.txt,the Pentagon,Antagonist,"Conspirator, Tyrant",Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+EN_UA_004209.txt,Minister Alexander Grushko,Protagonist,Guardian,Antagonist,Antagonist,Spy,Spy
+EN_UA_300079.txt,United States,Antagonist,Tyrant,Antagonist,Antagonist,Tyrant,Tyrant
+EN_UA_100210.txt,Kiev,Antagonist,Instigator,Antagonist,Antagonist,Terrorist,Terrorist
+EN_CC_200116.txt,Justin Trudeau,Antagonist,"Incompetent, Bigot",Protagonist,Protagonist,Rebel,Rebel
+EN_UA_023816.txt,United States,Antagonist,Conspirator,Antagonist,Antagonist,Spy,Spy
+EN_CC_200022.txt,United Nations Environment Program,Antagonist,Deceiver,Antagonist,Antagonist,Incompetent,Incompetent
+EN_UA_017310.txt,Ukraine,Protagonist,Underdog,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+EN_CC_100076.txt,Reuters,Antagonist,Incompetent,Antagonist,Antagonist,Bigot,Bigot
+EN_CC_100013.txt,Jeffrey Epstein,Antagonist,Corrupt,Antagonist,Antagonist,Bigot,Bigot
+EN_UA_021270.txt,Zelensky's,Antagonist,Bigot,Protagonist,Protagonist,Rebel,Rebel
+EN_UA_014829.txt,Russia,Innocent,Victim,Antagonist,Antagonist,Instigator,Instigator
+EN_CC_200016.txt,Climate Defiance,Antagonist,"Saboteur, Conspirator",Antagonist,Antagonist,Instigator,Instigator
+EN_UA_300039.txt,Ohio’s state government,Innocent,Forgotten,Antagonist,Antagonist,Corrupt,Corrupt
+EN_CC_200098.txt,Biden,Antagonist,Tyrant,Innocent,Innocent,Forgotten,Forgotten
+EN_UA_300135.txt,President Zelensky,Protagonist,Underdog,Antagonist,Antagonist,Terrorist,Terrorist
+EN_UA_029053.txt,Biden,Protagonist,Peacemaker,Antagonist,Antagonist,Tyrant,Tyrant
+EN_UA_104434.txt,Putin’s,Antagonist,Instigator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+EN_UA_025764.txt,Washington,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+EN_CC_200221.txt,USAID,Antagonist,Conspirator,Antagonist,Antagonist,Corrupt,Corrupt
+EN_UA_000104.txt,“Russia,Antagonist,Instigator,Innocent,Innocent,Exploited,Exploited
+EN_UA_300127.txt,Russia,Antagonist,Foreign Adversary,Innocent,Innocent,Scapegoat,Scapegoat
+EN_CC_200052.txt,Guterres’,Antagonist,Incompetent,Innocent,Innocent,Forgotten,Forgotten
+EN_CC_300040.txt,ConocoPhillips,Antagonist,Deceiver,Innocent,Innocent,Exploited,Exploited
+EN_UA_100601.txt,Belarus,Antagonist,Instigator,Antagonist,Antagonist,Terrorist,Terrorist
+EN_UA_025165.txt,the West,Antagonist,"Instigator, Foreign Adversary",Innocent,Innocent,Victim,Victim
+EN_UA_021918.txt,China’s Liberation Army,Antagonist,Foreign Adversary,Innocent,Innocent,Exploited,Exploited
+EN_UA_027676.txt,Nato,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+EN_CC_200324.txt,COP28,Antagonist,Corrupt,Antagonist,Antagonist,Instigator,Instigator
+EN_UA_020543.txt,Ukraine,Innocent,Victim,Antagonist,Antagonist,Traitor,Traitor
+EN_UA_028520.txt,Ukraine,Protagonist,"Rebel, Underdog",Antagonist,Antagonist,Incompetent,Incompetent
+EN_CC_200245.txt,Democrat party,Antagonist,Corrupt,Innocent,Innocent,Forgotten,Forgotten
+EN_UA_004209.txt,Finland’s,Antagonist,Traitor,Protagonist,Protagonist,Rebel,Rebel
+EN_UA_100688.txt,Vladimir Putin,Antagonist,Instigator,Antagonist,Antagonist,Terrorist,Terrorist
+EN_UA_002991.txt,“Russia,Antagonist,Instigator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+EN_UA_300117.txt,Ukrainians,Innocent,Victim,Antagonist,Antagonist,Terrorist,Terrorist
+EN_CC_200092.txt,Bill Gates,Antagonist,"Instigator, Corrupt",Antagonist,Antagonist,Corrupt,Corrupt
+EN_UA_300035.txt,President Joe Biden's,Protagonist,Guardian,Antagonist,Antagonist,Bigot,Bigot
+EN_UA_011260.txt,European Union,Antagonist,Conspirator,Innocent,Innocent,Forgotten,Forgotten
+EN_CC_100106.txt,Al Gore,Antagonist,Incompetent,Antagonist,Antagonist,Saboteur,Saboteur
+EN_CC_200188.txt,Maryland Public Service Commission,Antagonist,Incompetent,Antagonist,Antagonist,Instigator,Instigator
+EN_UA_023816.txt,Brussels,Antagonist,Conspirator,Antagonist,Antagonist,Spy,Spy
+EN_UA_011260.txt,Kyiv regime,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+EN_CC_200188.txt,Murphy,Antagonist,Incompetent,Antagonist,Antagonist,Incompetent,Incompetent
+EN_CC_200218.txt,First Solar,Antagonist,Corrupt,Antagonist,Antagonist,Corrupt,Corrupt
+EN_UA_300035.txt,Russia,Antagonist,Terrorist,Antagonist,Antagonist,Terrorist,Terrorist
+EN_CC_200234.txt,Gates,Antagonist,Deceiver,Antagonist,Antagonist,Incompetent,Incompetent
+EN_UA_300073.txt,Kyiv,Antagonist,Incompetent,Antagonist,Antagonist,Tyrant,Tyrant
+EN_UA_024321.txt,Moscow's,Antagonist,Foreign Adversary,Antagonist,Antagonist,Traitor,Traitor
+EN_CC_100014.txt,Purina's Dumor,Antagonist,Conspirator,Antagonist,Antagonist,Tyrant,Tyrant
+EN_CC_100136.txt,Global Warming Policy Foundation,Antagonist,Deceiver,Innocent,Innocent,Exploited,Exploited
+EN_CC_200098.txt,Democrats,Antagonist,Tyrant,Innocent,Innocent,Forgotten,Forgotten
+EN_UA_300048.txt,BIDEN FAMILY,Antagonist,Corrupt,Antagonist,Antagonist,Corrupt,Corrupt
+EN_UA_027676.txt,China,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+EN_UA_103403.txt,Moscow,Antagonist,Instigator,Antagonist,Antagonist,Terrorist,Terrorist
+EN_UA_002668.txt,Ukrainians,Protagonist,Martyr,Protagonist,Protagonist,Rebel,Rebel
+EN_UA_300010.txt,Hunter Biden’s,Antagonist,Corrupt,Innocent,Innocent,Victim,Victim
+EN_UA_017831.txt,Mike Pence,Antagonist,Traitor,Antagonist,Antagonist,Spy,Spy
+EN_UA_023008.txt,Davos/UK dominated media,Antagonist,Deceiver,Innocent,Innocent,Exploited,Exploited
+EN_UA_300153.txt,CIA,Antagonist,Conspirator,Innocent,Innocent,Exploited,Exploited
+EN_UA_300133.txt,Islamabad,Antagonist,Deceiver,Innocent,Innocent,Exploited,Exploited
+EN_UA_300053.txt,Ukraine,Antagonist,Corrupt,Antagonist,Antagonist,Corrupt,Corrupt
+EN_CC_200144.txt,Aileen Getty’s,Antagonist,Conspirator,Antagonist,Antagonist,Bigot,Bigot
+EN_UA_300108.txt,Putin’s,Antagonist,Tyrant,Antagonist,Antagonist,Instigator,Instigator
+EN_CC_200097.txt,Abigail Disney,Antagonist,Conspirator,Protagonist,Protagonist,Guardian,Guardian
+EN_CC_200292.txt,Greta Thunberg,Antagonist,Corrupt,Innocent,Innocent,Victim,Victim
+EN_CC_200105.txt,Mark Van den Oever,Protagonist,Rebel,Innocent,Innocent,Victim,Victim
+EN_UA_013727.txt,NATO,Antagonist,Corrupt,Antagonist,Antagonist,Bigot,Bigot
+EN_UA_100601.txt,Russia,Antagonist,Instigator,Antagonist,Antagonist,Terrorist,Terrorist
+EN_CC_200132.txt,Sri Lanka’s,Antagonist,Incompetent,Innocent,Innocent,Forgotten,Forgotten
+EN_CC_200154.txt,President Joe Biden’s,Antagonist,Corrupt,Antagonist,Antagonist,Corrupt,Corrupt
+EN_UA_013710.txt,ICC,Antagonist,Corrupt,Antagonist,Antagonist,Bigot,Bigot
+EN_UA_026697.txt,Jourova,Antagonist,Corrupt,Protagonist,Protagonist,Peacemaker,Peacemaker
+EN_UA_021263.txt,Israel,Innocent,Victim,Protagonist,Protagonist,Rebel,Rebel
+EN_UA_000923.txt,Boris Johnson,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+EN_UA_020543.txt,Israel,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+EN_UA_300153.txt,Oleksii Reznikov,Antagonist,Conspirator,Antagonist,Antagonist,Instigator,Instigator
+EN_UA_002416.txt,Meta's,Antagonist,Incompetent,Innocent,Innocent,Exploited,Exploited
+EN_UA_100864.txt,Russia,Antagonist,Saboteur,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+EN_CC_100035.txt,Alexandria Ocasio-Cortez,Antagonist,Bigot,Innocent,Innocent,Exploited,Exploited
+EN_UA_103025.txt,Joe Biden,Antagonist,Incompetent,Antagonist,Antagonist,Bigot,Bigot
+EN_CC_200105.txt,Bill Gates,Antagonist,Deceiver,Antagonist,Antagonist,Incompetent,Incompetent
+EN_CC_200137.txt,Andreas Malm,Antagonist,Terrorist,Antagonist,Antagonist,Terrorist,Terrorist
+EN_UA_015443.txt,Ukraine,Protagonist,Underdog,Protagonist,Protagonist,Rebel,Rebel
+EN_UA_022339.txt,Ukraine's military,Antagonist,Incompetent,Protagonist,Protagonist,Rebel,Rebel
+EN_UA_016012.txt,Oleksandr Usyk,Protagonist,Martyr,Innocent,Innocent,Victim,Victim
+EN_UA_103025.txt,EU,Antagonist,Incompetent,Antagonist,Antagonist,Bigot,Bigot
+EN_CC_200092.txt,NOAA,Antagonist,"Incompetent, Deceiver",Innocent,Innocent,Exploited,Exploited
+EN_UA_012234.txt,KREMLIN propagandists,Antagonist,Deceiver,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+EN_UA_103517.txt,Putin's,Antagonist,Tyrant,Antagonist,Antagonist,Tyrant,Tyrant
+EN_UA_025652.txt,West’,Antagonist,"Conspirator, Deceiver",Antagonist,Antagonist,Incompetent,Incompetent
+EN_UA_004616.txt,Russians,Antagonist,Instigator,Antagonist,Antagonist,Instigator,Instigator
+EN_CC_100106.txt,Al Gore,Antagonist,Deceiver,Innocent,Innocent,Exploited,Exploited
+EN_CC_200105.txt,Netherlands,Antagonist,Tyrant,Antagonist,Antagonist,Saboteur,Saboteur
+EN_UA_024628.txt,Washington,Protagonist,Guardian,Protagonist,Protagonist,Rebel,Rebel
+EN_UA_027676.txt,China,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+EN_UA_025764.txt,France,Antagonist,Instigator,Protagonist,Protagonist,Rebel,Rebel
+EN_UA_003579.txt,UN World Food Program,Protagonist,Peacemaker,Antagonist,Antagonist,Incompetent,Incompetent
+EN_UA_016012.txt,Russia,Antagonist,Foreign Adversary,Innocent,Innocent,Exploited,Exploited
+EN_UA_002416.txt,Clegg,Protagonist,Peacemaker,Antagonist,Antagonist,Terrorist,Terrorist
+EN_UA_DEV_216.txt,EU,Antagonist,Incompetent,Antagonist,Antagonist,Incompetent,Incompetent
+EN_CC_200245.txt,John Kerry,Antagonist,Incompetent,Antagonist,Antagonist,Terrorist,Terrorist
+EN_UA_029155.txt,President of Poland,Antagonist,"Saboteur, Conspirator",Antagonist,Antagonist,Terrorist,Terrorist
+EN_UA_004209.txt,NATO,Antagonist,Instigator,Antagonist,Antagonist,Terrorist,Terrorist
+EN_UA_010909.txt,Samantha Power,Antagonist,Instigator,Innocent,Innocent,Victim,Victim
+EN_UA_024050.txt,Germany has,Antagonist,Traitor,Innocent,Innocent,Forgotten,Forgotten
+EN_CC_200048.txt,Letitia James,Antagonist,Bigot,Antagonist,Antagonist,Terrorist,Terrorist
+EN_UA_024628.txt,United States,Protagonist,Guardian,Antagonist,Antagonist,Instigator,Instigator
+EN_UA_029053.txt,Ukraine,Innocent,Victim,Antagonist,Antagonist,Incompetent,Incompetent
+EN_UA_300043.txt,Zelensky,Antagonist,"Incompetent, Traitor",Antagonist,Antagonist,Traitor,Traitor
+EN_UA_300117.txt,Russia,Antagonist,"Instigator, Foreign Adversary",Protagonist,Protagonist,Guardian,Guardian
+EN_UA_012611.txt,US,Antagonist,Conspirator,Protagonist,Protagonist,Guardian,Guardian
+EN_UA_024050.txt,U.K.,Antagonist,Conspirator,Innocent,Innocent,Scapegoat,Scapegoat
+EN_UA_004616.txt,European countries,Protagonist,Guardian,Antagonist,Antagonist,Tyrant,Tyrant
+EN_UA_025764.txt,Ukraine,Innocent,Exploited,Protagonist,Protagonist,Rebel,Rebel
+EN_CC_100036.txt,(NASA),Antagonist,Conspirator,Protagonist,Protagonist,Underdog,Underdog
+EN_UA_013344.txt,Vladimir Putin,Antagonist,Deceiver,Antagonist,Antagonist,Spy,Spy
+EN_UA_004209.txt,Russia,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+EN_CC_200221.txt,Larry Summers,Antagonist,Conspirator,Antagonist,Antagonist,Corrupt,Corrupt
+EN_UA_022339.txt,Russian civilians,Innocent,Victim,Antagonist,Antagonist,Incompetent,Incompetent
+EN_UA_300108.txt,Alexei Navalny,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+EN_UA_300079.txt,Joe Biden,Antagonist,Tyrant,Antagonist,Antagonist,Tyrant,Tyrant
+EN_UA_300032.txt,London,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+EN_UA_010091.txt,Ukraine,Innocent,Victim,Antagonist,Antagonist,Traitor,Traitor
+EN_UA_013617.txt,American Secretary of State Madeleine Albright,Antagonist,Corrupt,Innocent,Innocent,Forgotten,Forgotten
+EN_UA_024847.txt,Joe Biden’s,Antagonist,Saboteur,Innocent,Innocent,Victim,Victim
+EN_UA_022051.txt,United Kingdom,Antagonist,Instigator,Protagonist,Protagonist,Rebel,Rebel
+EN_UA_027787.txt,Kremlin,Protagonist,Guardian,Antagonist,Antagonist,Terrorist,Terrorist
+EN_UA_021263.txt,Ukraine,Innocent,Victim,Antagonist,Antagonist,Terrorist,Terrorist
+EN_UA_300016.txt,China,Antagonist,Foreign Adversary,Protagonist,Protagonist,Underdog,Underdog
+EN_CC_100038.txt,the Fed,Antagonist,Tyrant,Innocent,Innocent,Exploited,Exploited
+EN_CC_200152.txt,Pentagon,Antagonist,Deceiver,Innocent,Innocent,Forgotten,Forgotten
+EN_CC_200041.txt,EPA,Antagonist,Tyrant,Innocent,Innocent,Exploited,Exploited
+EN_CC_200134.txt,North America,Innocent,Victim,Antagonist,Antagonist,Bigot,Bigot
+EN_UA_010909.txt,John Kerry,Antagonist,Instigator,Innocent,Innocent,Victim,Victim
+EN_CC_200016.txt,Far Left,Antagonist,Terrorist,Innocent,Innocent,Forgotten,Forgotten
+EN_CC_200289.txt,NOAA,Antagonist,Deceiver,Protagonist,Protagonist,Martyr,Martyr
+EN_UA_300139.txt,Vasily Prozorov,Protagonist,Martyr,Innocent,Innocent,Forgotten,Forgotten
+EN_UA_025165.txt,Kiev,Protagonist,Underdog,Innocent,Innocent,Exploited,Exploited
+EN_UA_028520.txt,Viktor Orbán’s,Antagonist,Corrupt,Antagonist,Antagonist,Corrupt,Corrupt
+EN_CC_200144.txt,Amy Klobuchar,Innocent,Victim,Innocent,Innocent,Exploited,Exploited
+EN_UA_DEV_216.txt,Hungary,Protagonist,Underdog,Antagonist,Antagonist,Incompetent,Incompetent
+EN_CC_200016.txt,No Sale Gun,Antagonist,Terrorist,Innocent,Innocent,Forgotten,Forgotten
+EN_UA_300139.txt,Marina Stefanchuk,Antagonist,Corrupt,Innocent,Innocent,Exploited,Exploited
+EN_UA_024321.txt,Moscow,Antagonist,Instigator,Protagonist,Protagonist,Rebel,Rebel
+EN_UA_028103.txt,Armin Papperger,Innocent,Victim,Antagonist,Antagonist,Conspirator,Conspirator
+EN_UA_012803.txt,Vladimir Putin,Antagonist,Deceiver,Antagonist,Antagonist,Incompetent,Incompetent
+EN_UA_019640.txt,Russia,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+EN_UA_300048.txt,HUNTER,Antagonist,Corrupt,Antagonist,Antagonist,Terrorist,Terrorist
+EN_UA_300050.txt,Brussels,Antagonist,"Corrupt, Traitor",Innocent,Innocent,Forgotten,Forgotten
+EN_UA_000923.txt,Putin,Antagonist,Instigator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+EN_UA_002531.txt,Russian invaders,Antagonist,Terrorist,Antagonist,Antagonist,Terrorist,Terrorist
+EN_UA_000923.txt,UK,Protagonist,Guardian,Antagonist,Antagonist,Corrupt,Corrupt
+EN_UA_024847.txt,Seymour Hersh,Protagonist,Virtuous,Antagonist,Antagonist,Terrorist,Terrorist
+EN_UA_021310.txt,China,Antagonist,Foreign Adversary,Protagonist,Protagonist,Rebel,Rebel
+EN_UA_016012.txt,Vladimir Putin,Antagonist,Tyrant,Protagonist,Protagonist,Rebel,Rebel
+EN_UA_015962.txt,Putin's Russia,Antagonist,Tyrant,Protagonist,Protagonist,Peacemaker,Peacemaker
+EN_UA_024628.txt,Russia,Antagonist,Foreign Adversary,Antagonist,Antagonist,Instigator,Instigator
+EN_CC_100035.txt,Gates,Antagonist,Conspirator,Antagonist,Antagonist,Incompetent,Incompetent
+EN_UA_300040.txt,Ukrainian government,Antagonist,Terrorist,Antagonist,Antagonist,Traitor,Traitor
+EN_CC_100095.txt,Greta Thunberg,Antagonist,Instigator,Antagonist,Antagonist,Deceiver,Deceiver
+EN_CC_200343.txt,Marxists,Antagonist,Conspirator,Antagonist,Antagonist,Corrupt,Corrupt
+EN_UA_004616.txt,Ukrainians,Protagonist,Underdog,Antagonist,Antagonist,Instigator,Instigator
+EN_CC_200144.txt,Sen. Joe Manchin,Innocent,Victim,Protagonist,Protagonist,Rebel,Rebel
+EN_UA_001032.txt,Joe Biden,Protagonist,Guardian,Antagonist,Antagonist,Corrupt,Corrupt
+EN_UA_025165.txt,US politicians,Antagonist,Traitor,Antagonist,Antagonist,Corrupt,Corrupt
+EN_UA_029053.txt,the West,Antagonist,Incompetent,Protagonist,Protagonist,Rebel,Rebel
+EN_UA_014014.txt,Lula,Protagonist,Rebel,Protagonist,Protagonist,Rebel,Rebel
+EN_UA_017831.txt,Ukraine,Innocent,Victim,Protagonist,Protagonist,Rebel,Rebel
+EN_UA_300013.txt,The West,Antagonist,"Instigator, Tyrant",Innocent,Innocent,Forgotten,Forgotten
+EN_UA_001032.txt,Ukraine?,Innocent,Victim,Innocent,Innocent,Exploited,Exploited
+EN_UA_300005.txt,Orbán’s,Protagonist,Peacemaker,Protagonist,Protagonist,Peacemaker,Peacemaker
+EN_CC_200098.txt,Harris,Antagonist,"Deceiver, Corrupt",Antagonist,Antagonist,Incompetent,Incompetent
+EN_CC_200254.txt,Biden’s,Antagonist,Deceiver,Antagonist,Antagonist,Tyrant,Tyrant
+EN_CC_200188.txt,Biden administration’s,Antagonist,Incompetent,Antagonist,Antagonist,Incompetent,Incompetent
+EN_UA_103995.txt,Benjamin Netanyahu,Antagonist,Instigator,Antagonist,Antagonist,Terrorist,Terrorist
+EN_CC_200152.txt,Gov. DeSantis,Protagonist,Rebel,Antagonist,Antagonist,Tyrant,Tyrant
+EN_CC_200144.txt,White House,Antagonist,Conspirator,Protagonist,Protagonist,Rebel,Rebel
+EN_UA_004343.txt,Ukraine,Protagonist,Virtuous,Antagonist,Antagonist,Corrupt,Corrupt
+EN_UA_300011.txt,President Vladimir Putin’s,Antagonist,Incompetent,Innocent,Innocent,Exploited,Exploited
+EN_UA_013727.txt,Ukraine,Innocent,Victim,Innocent,Innocent,Victim,Victim
+EN_UA_021310.txt,China,Antagonist,Spy,Antagonist,Antagonist,Spy,Spy
+EN_CC_200058.txt,Donald Zepeda,Protagonist,Rebel,Innocent,Innocent,Exploited,Exploited
+EN_CC_100038.txt,the Fed,Antagonist,Incompetent,Innocent,Innocent,Forgotten,Forgotten
+EN_UA_022339.txt,China,Protagonist,Virtuous,Protagonist,Protagonist,Peacemaker,Peacemaker
+EN_UA_300139.txt,Ruslan Stefanchuk,Antagonist,Corrupt,Innocent,Innocent,Exploited,Exploited
+EN_CC_200343.txt,Biden,Antagonist,Deceiver,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+EN_UA_300129.txt,the U.S.,Antagonist,"Instigator, Foreign Adversary",Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+EN_CC_100002.txt,Piers Corbyn,Protagonist,Rebel,Antagonist,Antagonist,Spy,Spy
+EN_UA_017831.txt,America,Innocent,Victim,Innocent,Innocent,Exploited,Exploited
+EN_CC_100004.txt,China,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+EN_UA_300031.txt,Ukraine,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+EN_CC_200145.txt,“China,Antagonist,Foreign Adversary,Antagonist,Antagonist,Tyrant,Tyrant
+EN_UA_300142.txt,Oleg Deripaska,Antagonist,Corrupt,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+EN_CC_100014.txt,Republicans,Innocent,Victim,Antagonist,Antagonist,Terrorist,Terrorist
+EN_UA_028103.txt,Moscow,Antagonist,Conspirator,Antagonist,Antagonist,Conspirator,Conspirator
+EN_UA_023008.txt,Carlson,Innocent,Scapegoat,Antagonist,Antagonist,Incompetent,Incompetent
+EN_UA_102990.txt,Ukrainian Government’s,Antagonist,Saboteur,Antagonist,Antagonist,Saboteur,Saboteur
+EN_CC_200098.txt,Biden,Antagonist,"Deceiver, Corrupt",Antagonist,Antagonist,Incompetent,Incompetent
+EN_UA_002531.txt,Mayor Ivan Fedorov,Innocent,Victim,Antagonist,Antagonist,Terrorist,Terrorist
+EN_UA_300079.txt,Germany,Antagonist,Tyrant,Antagonist,Antagonist,Tyrant,Tyrant
+EN_CC_200254.txt,Schumer,Antagonist,Deceiver,Innocent,Innocent,Forgotten,Forgotten
+EN_UA_300053.txt,Kiev,Antagonist,Corrupt,Antagonist,Antagonist,Traitor,Traitor
+EN_UA_300006.txt,Ukraine,Innocent,Victim,Innocent,Innocent,Scapegoat,Scapegoat
+EN_UA_000923.txt,"""Brexit Britain",Protagonist,Virtuous,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+EN_UA_300032.txt,Kiev,Antagonist,Incompetent,Innocent,Innocent,Forgotten,Forgotten
+EN_UA_300005.txt,Meloni,Antagonist,Instigator,Protagonist,Protagonist,Peacemaker,Peacemaker
+EN_UA_103861.txt,Donald Trump,Protagonist,"Peacemaker, Guardian",Innocent,Innocent,Forgotten,Forgotten
+EN_UA_DEV_216.txt,Europe,Antagonist,Incompetent,Protagonist,Protagonist,Underdog,Underdog
+EN_UA_026142.txt,Israel’s,Antagonist,"Instigator, Tyrant",Antagonist,Antagonist,Terrorist,Terrorist
+EN_UA_029155.txt,Russia,Innocent,Scapegoat,Protagonist,Protagonist,Guardian,Guardian
+EN_UA_002531.txt,Russian forces,Antagonist,Saboteur,Innocent,Innocent,Victim,Victim
+EN_UA_011260.txt,Ukraine,Antagonist,"Foreign Adversary, Tyrant",Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+EN_UA_024628.txt,Germany,Protagonist,Guardian,Protagonist,Protagonist,Rebel,Rebel
+EN_UA_300153.txt,CIA,Antagonist,Saboteur,Antagonist,Antagonist,Saboteur,Saboteur
+EN_UA_300139.txt,Ukrainians,Innocent,"Exploited, Victim",Innocent,Innocent,Forgotten,Forgotten
+EN_CC_200221.txt,Al Gore,Antagonist,Conspirator,Innocent,Innocent,Scapegoat,Scapegoat
+EN_UA_029053.txt,Ayatollah Khamenei,Antagonist,"Instigator, Tyrant",Antagonist,Antagonist,Tyrant,Tyrant
+EN_UA_104876.txt,President Volodymyr Zelensky,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+EN_CC_100123.txt,Professor Harries,Antagonist,Bigot,Innocent,Innocent,Forgotten,Forgotten
+EN_UA_026740.txt,ICJ,Antagonist,Incompetent,Innocent,Innocent,Forgotten,Forgotten
+EN_CC_200052.txt,António Guterres,Antagonist,Bigot,Antagonist,Antagonist,Instigator,Instigator
+EN_CC_100012.txt,Biden,Antagonist,"Corrupt, Traitor",Antagonist,Antagonist,Tyrant,Tyrant
+EN_CC_100003.txt,Fonda,Antagonist,Incompetent,Antagonist,Antagonist,Instigator,Instigator
+EN_UA_010909.txt,Moscow,Innocent,Scapegoat,Innocent,Innocent,Victim,Victim
+EN_CC_100047.txt,Democrats,Antagonist,Corrupt,Antagonist,Antagonist,Bigot,Bigot
+EN_UA_015962.txt,Vyacheslav Gladkov,Protagonist,Guardian,Antagonist,Antagonist,Terrorist,Terrorist
+EN_CC_200101.txt,Justin Trudeau Liberals,Antagonist,Corrupt,Antagonist,Antagonist,Incompetent,Incompetent
+EN_CC_300040.txt,California,Protagonist,Virtuous,Antagonist,Antagonist,Instigator,Instigator
+EN_UA_300040.txt,Ukraine’s,Antagonist,"Instigator, Tyrant",Antagonist,Antagonist,Traitor,Traitor
+EN_UA_013617.txt,Putin,Protagonist,Guardian,Antagonist,Antagonist,Corrupt,Corrupt
+EN_UA_023008.txt,Hillary Clinton,Antagonist,Deceiver,Antagonist,Antagonist,Incompetent,Incompetent
+EN_UA_025764.txt,Russia,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+EN_CC_100076.txt,Daily Sceptic,Protagonist,Guardian,Innocent,Innocent,Victim,Victim
+EN_UA_027879.txt,Russia,Protagonist,Guardian,Protagonist,Protagonist,Peacemaker,Peacemaker
+EN_UA_013257.txt,Russia,Protagonist,Underdog,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+EN_CC_300040.txt,BP,Antagonist,Deceiver,Innocent,Innocent,Exploited,Exploited
+EN_CC_100014.txt,Bill Gates,Antagonist,Conspirator,Antagonist,Antagonist,Traitor,Traitor
+EN_UA_029155.txt,US,Antagonist,Saboteur,Antagonist,Antagonist,Spy,Spy
+EN_UA_300012.txt,Kremlin's,Antagonist,Tyrant,Antagonist,Antagonist,Spy,Spy
+EN_UA_300036.txt,Ukraine,Innocent,Victim,Antagonist,Antagonist,Terrorist,Terrorist
+EN_UA_300142.txt,Russia,Antagonist,Foreign Adversary,Antagonist,Antagonist,Conspirator,Conspirator
+EN_UA_300082.txt,Kiev,Antagonist,Deceiver,Protagonist,Protagonist,Rebel,Rebel
+EN_UA_024050.txt,"Poland,",Antagonist,Conspirator,Antagonist,Antagonist,Incompetent,Incompetent
+EN_CC_100076.txt,Daily Sceptic,Innocent,Scapegoat,Antagonist,Antagonist,Bigot,Bigot
+EN_UA_300082.txt,Kiev,Antagonist,Terrorist,Innocent,Innocent,Victim,Victim
+EN_UA_DEV_216.txt,the U.S.,Antagonist,Tyrant,Protagonist,Protagonist,Guardian,Guardian
+EN_UA_014637.txt,Russia,Antagonist,Foreign Adversary,Protagonist,Protagonist,Rebel,Rebel
+EN_CC_200097.txt,Rory Kennedy,Antagonist,Conspirator,Protagonist,Protagonist,Guardian,Guardian
+EN_CC_100066.txt,California Resources Corp.,Antagonist,Conspirator,Innocent,Innocent,Exploited,Exploited
+EN_UA_021123.txt,United States’,Protagonist,Martyr,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+EN_UA_021310.txt,US,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+EN_UA_000104.txt,government of Germany,Antagonist,Incompetent,Antagonist,Antagonist,Corrupt,Corrupt

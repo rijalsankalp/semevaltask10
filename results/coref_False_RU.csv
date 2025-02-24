@@ -1,0 +1,372 @@
+article_id,ent_span,main_role,fine_grained_roles,max_main_role,avg_main_role,max_fg_role,avg_fg_role
+RU-URW-1020.txt,Владимир Путин якобы,Innocent,Scapegoat,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1138.txt,США,Antagonist,"Instigator, Foreign Adversary",Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1036.txt,спецслужбы Украины. Удары,Antagonist,Terrorist,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1176.txt,"""Новости здорового человека""",Antagonist,Deceiver,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1025.txt,Ральф Сирен в,Antagonist,Terrorist,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1162.txt,Киеву именно,Antagonist,Terrorist,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1106.txt,Российская разведка рассекретила,Protagonist,Guardian,Antagonist,Antagonist,Шпион,Шпион
+RU-URW-1012.txt,Игорь Чуркин может,Innocent,Victim,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1074.txt,задуматься,Antagonist,Instigator,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1145.txt,Сергей Шойгу в,Protagonist,Guardian,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1010.txt,Трампа о завершении,Antagonist,Incompetent,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1122.txt,СК РФ по,Protagonist,Virtuous,Antagonist,Antagonist,Заговорщик,Заговорщик
+RU-URW-1138.txt,Байден разрешил,Antagonist,Foreign Adversary,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1128.txt,Украине возник,Innocent,Victim,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1140.txt,Зеленского «вором,Antagonist,Deceiver,Protagonist,Protagonist,Мученик,Мученик
+RU-URW-1119.txt,Нидерланды начали,Antagonist,Foreign Adversary,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1049.txt,Россию,Innocent,Victim,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1161.txt,России.,Innocent,Victim,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1155.txt,Турция не,Antagonist,Conspirator,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1037.txt,на,Innocent,Victim,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1165.txt,"""Действие и солидарность""",Antagonist,Deceiver,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1011.txt,дом препятствует,Antagonist,Incompetent,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1008.txt,"Часов Яре, Волчанске",Innocent,Victim,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1049.txt,ВСУ,Antagonist,Terrorist,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1030.txt,ФСБ России,Protagonist,Guardian,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1078.txt,избрали,Antagonist,Conspirator,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1041.txt,Владимир Путин,Protagonist,Guardian,Protagonist,Protagonist,Мученик,Мученик
+RU-URW-1083.txt,"Беженцы, эвакуированные Вооруженными силами России из окрестностей Часова Яра,",Innocent,Victim,Antagonist,Antagonist,Подстрекатель,Подстрекатель
+RU-URW-1071.txt,"""Киевсовет",Antagonist,Tyrant,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1143.txt,Армия России,Protagonist,Guardian,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1150.txt,Украине и,Antagonist,Foreign Adversary,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1029.txt,Никол Пашинян принял,Antagonist,"Conspirator, Incompetent",Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1137.txt,«Параграф-88»,Antagonist,Terrorist,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1141.txt,готовы,Protagonist,Guardian,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1153.txt,Украина не,Antagonist,Foreign Adversary,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1145.txt,США.Оперативно,Antagonist,Foreign Adversary,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1008.txt,"Волчанске, под",Innocent,Victim,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1116.txt,главам стран ШОС за предложения,Protagonist,Peacemaker,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1138.txt,"Йонсона, Киев имеет",Antagonist,Foreign Adversary,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1033.txt,Горловку,Innocent,Victim,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1062.txt,Андрей Климов.,Protagonist,Virtuous,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1030.txt,Росгвардию,Protagonist,Guardian,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1070.txt,Киева,Antagonist,"Incompetent, Terrorist",Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1138.txt,НАТО,Antagonist,"Instigator, Foreign Adversary",Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1137.txt,Дарьи Дугиной в августе,Innocent,Victim,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1030.txt,МЧС,Protagonist,Guardian,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1070.txt,Запада,Antagonist,Foreign Adversary,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1104.txt,украинских спецслужб.,Antagonist,"Saboteur, Foreign Adversary",Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1031.txt,Лихачев,Protagonist,Virtuous,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1016.txt,Запад продолжает,Antagonist,Foreign Adversary,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1058.txt,Донецкой Народной Республики,Innocent,Victim,Antagonist,Antagonist,Коррумпированный,Коррумпированный
+RU-URW-1123.txt,«Россию,Innocent,Victim,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1035.txt,добавил,Protagonist,Peacemaker,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1158.txt,премьеру Индии за,Protagonist,Peacemaker,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1106.txt,Эммануэль Макрон ранее,Antagonist,Instigator,Antagonist,Antagonist,Шпион,Шпион
+RU-URW-1072.txt,России и,Protagonist,Peacemaker,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1117.txt,Дональда Трампа озвучить,Protagonist,Peacemaker,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1019.txt,Россия поддерживает,Protagonist,Peacemaker,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1172.txt,нужна,Antagonist,Saboteur,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1157.txt,Зеленский и,Antagonist,Deceiver,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1040.txt,Главным управлением разведки Министерства обороны Украины,Antagonist,Conspirator,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1112.txt,ВСУ не,Antagonist,"Instigator, Terrorist",Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1145.txt,Владимиру Путину об,Protagonist,Guardian,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1161.txt,Вадим Колесниченко.,Protagonist,Virtuous,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1066.txt,ВСУ,Antagonist,Terrorist,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1162.txt,Франция преступят,Antagonist,Foreign Adversary,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1072.txt,Китаю необходимо,Protagonist,Peacemaker,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1096.txt,Канье Уэста.,Antagonist,Bigot,Protagonist,Protagonist,Бунтарь,Бунтарь
+RU-URW-1123.txt,Киев,Antagonist,Instigator,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1075.txt,Польша усилила,Antagonist,Foreign Adversary,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1068.txt,Российские медики,Protagonist,Guardian,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1175.txt,"Макрона по """"европеизации”""""французского",Antagonist,Incompetent,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1071.txt,Сидор Ковпак,Protagonist,Rebel,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1140.txt,Алексей Кочетков,Protagonist,Virtuous,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1033.txt,"""ВСУ",Antagonist,Terrorist,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1031.txt,Киева,Antagonist,"Saboteur, Terrorist",Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1006.txt,российские системы ПВО сбили,Protagonist,Guardian,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1055.txt,Столтенберг,Antagonist,Foreign Adversary,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1027.txt,Аннели Кольк заявила,Antagonist,Instigator,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1107.txt,Ростиславу Журавлёву установят,Protagonist,Martyr,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1137.txt,Константина Малофеева в марте,Innocent,Victim,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1165.txt,США.,Antagonist,Foreign Adversary,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1148.txt,украинские спецслужбы.,Antagonist,Terrorist,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1099.txt,Виктор Орбан планирует,Protagonist,Peacemaker,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1156.txt,Москва неоднократно,Protagonist,Guardian,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1162.txt,"Польша,",Antagonist,Foreign Adversary,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1134.txt,"Армен Бадалян,",Protagonist,Virtuous,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1151.txt,НАТО в,Antagonist,Foreign Adversary,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1108.txt,Зеленского транслирует,Antagonist,"Deceiver, Traitor",Innocent,Innocent,Эксплуатируемый,Эксплуатируемый
+RU-URW-1039.txt,(ВСУ),Antagonist,Instigator,Innocent,Innocent,Эксплуатируемый,Эксплуатируемый
+RU-URW-1103.txt,Киев слабеет,Antagonist,Incompetent,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1176.txt,Владислава Роговенко назвала,Protagonist,Peacemaker,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1119.txt,Россия давно,Protagonist,Guardian,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1018.txt,"Владимиру Зеленскому,",Antagonist,"Instigator, Corrupt",Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1097.txt,КНР всегда,Protagonist,Peacemaker,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1086.txt,вооруженные силы Украины использовали,Antagonist,Terrorist,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1142.txt,КНР,Innocent,Scapegoat,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1016.txt,Россия продолжает,Protagonist,Guardian,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1019.txt,"""Украина отказывается",Antagonist,Instigator,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1044.txt,применяют,Antagonist,Terrorist,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1094.txt,Трутнев довольно,Protagonist,Virtuous,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1075.txt,"Анджея Почобута.
+Напомним",Innocent,Exploited,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1140.txt,НАТО на,Antagonist,Conspirator,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1058.txt,ВС России,Protagonist,Guardian,Antagonist,Antagonist,Коррумпированный,Коррумпированный
+RU-URW-1137.txt,украинские спецслужбы.,Antagonist,Terrorist,Innocent,Innocent,Козел отпущения,Козел отпущения
+RU-URW-1050.txt,Нидерланды,Antagonist,"Instigator, Foreign Adversary",Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1148.txt,ФСБ России сообщили,Protagonist,Guardian,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1098.txt,Михаил Галузин заявил,Protagonist,Virtuous,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1035.txt,Украина воюет,Innocent,Victim,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1050.txt,Украине,Antagonist,Instigator,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1029.txt,США во,Antagonist,"Conspirator, Foreign Adversary",Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1028.txt,киевских властей.,Antagonist,Tyrant,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1011.txt,Украине бить,Innocent,Exploited,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1088.txt,Орбан сделал,Protagonist,Peacemaker,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1108.txt,"Мазепу,",Innocent,Exploited,Innocent,Innocent,Эксплуатируемый,Эксплуатируемый
+RU-URW-1021.txt,Западу нужна,Antagonist,"Conspirator, Instigator, Foreign Adversary",Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1030.txt,Александр Богомаз,Innocent,Victim,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1121.txt,Россию при,Innocent,Victim,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1155.txt,Дмитрий Песков заявил,Protagonist,Virtuous,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1067.txt,России,Protagonist,Guardian,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1080.txt,Трамп неоднократно,Protagonist,Peacemaker,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1164.txt,Павел Филипчук сообщил,Protagonist,Guardian,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1048.txt,Следственный комитет России,Protagonist,Guardian,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1108.txt,Швеции.,Antagonist,Instigator,Innocent,Innocent,Эксплуатируемый,Эксплуатируемый
+RU-URW-1057.txt,Дмитрия Андреевича Артюхова,Protagonist,Virtuous,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1075.txt,Минска значительным,Innocent,Victim,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1111.txt,Андрее Макаревиче*,Antagonist,Traitor,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1088.txt,Йенс Столтенберг (фото),Antagonist,Instigator,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1019.txt,Запад не,Antagonist,"Instigator, Foreign Adversary",Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1131.txt,Лариса Толстыкина.,Protagonist,Virtuous,Innocent,Innocent,Забытый,Забытый
+RU-URW-1078.txt,Украину своим,Innocent,Exploited,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1141.txt,Нидерланды одобрили,Antagonist,Foreign Adversary,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1162.txt,НАТО в,Antagonist,Foreign Adversary,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1141.txt,"Дания, Бельгия",Antagonist,Foreign Adversary,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1113.txt,Дмитрия Гордона*,Antagonist,Instigator,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1125.txt,"русскоязычных и русские магазины,",Innocent,Victim,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1149.txt,Министерству юстиции потребуется,Protagonist,Guardian,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1104.txt,ФСБ.,Protagonist,Guardian,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1134.txt,"демократы-глобалисты, а",Antagonist,Conspirator,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1026.txt,"России, напоминают",Innocent,Victim,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1051.txt,ВСУ,Antagonist,Terrorist,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1169.txt,"Орбана,",Protagonist,Virtuous,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1115.txt,академического сообщества и,Protagonist,Virtuous,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1063.txt,Владимира Зеленского о,Antagonist,"Incompetent, Deceiver",Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1060.txt,"""Российские военные",Protagonist,Guardian,Protagonist,Protagonist,Миротворец,Миротворец
+RU-URW-1030.txt,МВД,Protagonist,Guardian,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1021.txt,Украины. Это,Innocent,Exploited,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1068.txt,Михаил Ширимейто,Innocent,Exploited,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1037.txt,"Белоруссии, участие",Protagonist,Guardian,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1162.txt,ВСУ пытаются,Antagonist,Terrorist,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1115.txt,"представители органов власти, академического",Protagonist,Virtuous,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1039.txt,Министерство обороны РФ,Protagonist,Guardian,Innocent,Innocent,Эксплуатируемый,Эксплуатируемый
+RU-URW-1005.txt,Николай Стариков в,Protagonist,Virtuous,Protagonist,Protagonist,Мученик,Мученик
+RU-URW-1138.txt,России,Innocent,Victim,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1082.txt,Эвакуированные из-под Часова Яра мирные жители рассказали,Innocent,Victim,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1140.txt,США и,Antagonist,Foreign Adversary,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1173.txt,Джо Байден,Antagonist,Incompetent,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1176.txt,НАТО уже,Antagonist,Foreign Adversary,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1018.txt,Виктор Орбан прибыл,Protagonist,Peacemaker,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1064.txt,Владимир Зеленский озвучил,Antagonist,Deceiver,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1075.txt,Белоруссии. Кроме,Antagonist,Tyrant,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1132.txt,Александр Богомаз,Protagonist,Virtuous,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1037.txt,Украины. Об,Antagonist,Instigator,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1100.txt,Украины почти,Antagonist,"Instigator, Terrorist",Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1195.txt,Белгородской,Innocent,Victim,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1027.txt,"наемников Вооруженных сил Украины, ликвидированных",Antagonist,Terrorist,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1022.txt,Запада потребность,Antagonist,Foreign Adversary,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1141.txt,Бельгия и,Antagonist,Foreign Adversary,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1018.txt,"западных стран. 
+В",Antagonist,"Conspirator, Foreign Adversary",Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1042.txt,Украины,Antagonist,Terrorist,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1035.txt,российские войска ежедневно,Antagonist,Instigator,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1074.txt,Цзиньпин во,Protagonist,Virtuous,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1036.txt,РФ начали,Protagonist,Guardian,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1051.txt,гражданка,Innocent,Victim,Protagonist,Protagonist,Мученик,Мученик
+RU-URW-1159.txt,Богдан Махно приехал,Protagonist,Virtuous,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1095.txt,"сейчас,",Protagonist,Guardian,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1047.txt,"военный эксперт, полковник",Protagonist,Peacemaker,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1092.txt,российские военные нанесли,Protagonist,Guardian,Antagonist,Antagonist,Диверсант,Диверсант
+RU-URW-1082.txt,Попову добавили,Antagonist,Corrupt,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1155.txt,"""Азов""*",Antagonist,Terrorist,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1137.txt,Киев заявил,Antagonist,Instigator,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1065.txt,Украина уже,Innocent,"Exploited, Victim",Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1114.txt,Россия готова,Protagonist,Peacemaker,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1017.txt,Россия тихо,Innocent,Victim,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1041.txt,Владимир Путин,Protagonist,Guardian,Protagonist,Protagonist,Мученик,Мученик
+RU-URW-1163.txt,адмиралу Ефтимову не,Antagonist,Traitor,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1006.txt,киевского режима совершить,Antagonist,Terrorist,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1034.txt,ВСУ,Antagonist,Foreign Adversary,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1038.txt,"Зеленского""",Antagonist,Conspirator,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1075.txt,Белоруссией жандармерией,Innocent,Victim,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1156.txt,Запада делают,Antagonist,Foreign Adversary,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1026.txt,Роджер Уикер «прославился»,Antagonist,Instigator,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1067.txt,Российской Федерации»,Innocent,Victim,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1100.txt,Алексей Текслер на,Protagonist,Guardian,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1156.txt,НАТО.,Antagonist,Foreign Adversary,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1010.txt,Ермак:,Antagonist,Instigator,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1107.txt,Максим Магро получили,Innocent,Victim,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1074.txt,Владимиром Путиным на,Protagonist,Guardian,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1162.txt,Италия и,Antagonist,Foreign Adversary,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1047.txt,Подразделения Вооруженных сил Украины,Antagonist,Terrorist,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1121.txt,НАТО в,Antagonist,Instigator,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1075.txt,Варшаве недовольны,Innocent,Exploited,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1121.txt,Североатлантическом альянсе стараются,Antagonist,Foreign Adversary,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1137.txt,ФСБ предотвратила,Protagonist,Guardian,Innocent,Innocent,Козел отпущения,Козел отпущения
+RU-URW-1074.txt,Нин призвала,Protagonist,Virtuous,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1157.txt,Филиппа Симана судят,Antagonist,Foreign Adversary,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1047.txt,ВСУ,Antagonist,Terrorist,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1140.txt,Дональда Трампа в,Antagonist,Conspirator,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1151.txt,города,Antagonist,Terrorist,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1078.txt,Владимира Зеленского рассмотреть,Antagonist,Incompetent,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1037.txt,Минск жестко,Protagonist,Peacemaker,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1156.txt,"Владимира Зеленского,",Antagonist,Instigator,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1145.txt,ВСУ закрепиться,Antagonist,Terrorist,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1125.txt,украинцы нападают,Antagonist,Bigot,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1087.txt,"Украине, который",Antagonist,Terrorist,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1008.txt,Торецком -,Innocent,Victim,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1016.txt,Европейский союз усилили,Antagonist,Foreign Adversary,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1055.txt,РФ,Innocent,Victim,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1038.txt,Запада за,Antagonist,"Instigator, Foreign Adversary",Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1164.txt,Киев отрицает,Antagonist,Deceiver,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1155.txt,США.,Antagonist,Foreign Adversary,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1045.txt,тем самым,Innocent,Victim,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1028.txt,Таисия Повалий пожаловалась,Innocent,Victim,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1162.txt,"Германия,",Antagonist,Foreign Adversary,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1129.txt,Россия может,Antagonist,Instigator,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1136.txt,Украине,Antagonist,Instigator,Innocent,Innocent,Козел отпущения,Козел отпущения
+RU-URW-1087.txt,России готовит,Protagonist,Peacemaker,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1063.txt,Совет Федераций считает,Protagonist,Virtuous,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1163.txt,ДАНС (Государственное,Antagonist,Incompetent,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1045.txt,Украинские власти приняли,Antagonist,Incompetent,Innocent,Innocent,Козел отпущения,Козел отпущения
+RU-URW-1145.txt,Российские войска не,Protagonist,Guardian,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1082.txt,операторы дронов-камикадзе ВСУ устраивали,Antagonist,Terrorist,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1111.txt,Раиса Рязанова высказалась,Protagonist,Virtuous,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1176.txt,Юлия Верба (полтора,Protagonist,Guardian,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1005.txt,Кайи Каллас на,Antagonist,Instigator,Protagonist,Protagonist,Мученик,Мученик
+RU-URW-1025.txt,Командиры ВСУ зачастую,Antagonist,Incompetent,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1035.txt,Игорь Лапин в,Innocent,Victim,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1081.txt,"Украины,",Antagonist,Terrorist,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1126.txt,что,Antagonist,Foreign Adversary,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1124.txt,Франция и,Antagonist,Foreign Adversary,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1195.txt,ВСУ,Antagonist,Terrorist,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1162.txt,ВСУ.,Antagonist,Foreign Adversary,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1137.txt,"Мария Захарова, в",Protagonist,Virtuous,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1012.txt,"Кристиан Рубилар.
+«Срок",Protagonist,Virtuous,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1162.txt,Российская армия взяла,Protagonist,Guardian,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1109.txt,"""Киев упрекнули",Antagonist,"Terrorist, Traitor",Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1017.txt,Европейского союза —,Antagonist,Instigator,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1114.txt,государств ШОС по,Protagonist,Peacemaker,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1117.txt,Карлсона там,Innocent,Forgotten,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1013.txt,Украины в,Innocent,Victim,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1044.txt,"России, они",Protagonist,Guardian,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1029.txt,Роджером Уикером делегация,Antagonist,Instigator,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1112.txt,России.,Innocent,Victim,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1172.txt,Орбан,Protagonist,Peacemaker,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1001.txt,граждане РФ совершили,Protagonist,Virtuous,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1141.txt,Норвегия также,Antagonist,Foreign Adversary,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1162.txt,ЛНР.,Innocent,Victim,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1008.txt,ВС РФ заняли,Protagonist,Guardian,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1079.txt,НАТО Джулианн,Antagonist,Foreign Adversary,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1099.txt,Трамп не,Antagonist,Instigator,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1119.txt,Дания и Нидерланды,Antagonist,Foreign Adversary,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1066.txt,Белгородской области,Innocent,Victim,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1128.txt,и их,Antagonist,Instigator,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1030.txt,Брянск-прикрытие,Protagonist,Guardian,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1150.txt,НАТО и,Antagonist,Foreign Adversary,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1155.txt,"Украине,",Innocent,Exploited,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1008.txt,укронацистов до двух,Antagonist,Terrorist,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1195.txt,ДНР,Innocent,Victim,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1116.txt,Путин:,Protagonist,Peacemaker,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1081.txt,Российские военнослужащие в,Protagonist,Guardian,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1176.txt,Зеленского клоуном,Antagonist,Incompetent,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1036.txt,Харькове на,Innocent,Victim,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1080.txt,Ермак.,Antagonist,Incompetent,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1097.txt,Стубб заявил,Protagonist,Peacemaker,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1134.txt,Никола Пашиняна пересмотреть,Antagonist,Traitor,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1161.txt,НАТО ознаменуются,Antagonist,Foreign Adversary,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1015.txt,Зеленского — только,Innocent,Exploited,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1065.txt,Россия теряет,Innocent,Victim,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1095.txt,Зеленского прекратить,Antagonist,Incompetent,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1124.txt,"Германия,",Antagonist,Foreign Adversary,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1125.txt,Татьяна.,Innocent,Victim,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1098.txt,Зеленского.,Antagonist,Incompetent,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1115.txt,бизнеса говорили,Protagonist,Virtuous,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1041.txt,Андрей Белоусов,Protagonist,Virtuous,Protagonist,Protagonist,Мученик,Мученик
+RU-URW-1056.txt,Трампа,Antagonist,Incompetent,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1062.txt,НАТО это,Antagonist,"Conspirator, Foreign Adversary",Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1045.txt,"
+Западные",Antagonist,Terrorist,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1163.txt,Златомира Девленского.,Innocent,Victim,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1105.txt,"Украине,",Innocent,Exploited,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1165.txt,Россию в,Innocent,Victim,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1021.txt,американцы и Запад не,Antagonist,Foreign Adversary,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1116.txt,Киева и,Innocent,Exploited,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1040.txt,Павел Запорожец,Antagonist,Terrorist,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1156.txt,"Киевом,",Antagonist,Terrorist,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1138.txt,Йенса Столтенберга,Antagonist,Foreign Adversary,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1151.txt,"""ВС РФ весьма",Protagonist,Virtuous,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1149.txt,Аллы Пугачевой возник,Antagonist,Spy,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1096.txt,«Сорок сороков»,Protagonist,Virtuous,Protagonist,Protagonist,Бунтарь,Бунтарь
+RU-URW-1012.txt,Украина не,Antagonist,Incompetent,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1083.txt,российские военные не эвакуировали,Protagonist,Guardian,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1106.txt,командование французской армии было,Antagonist,Instigator,Antagonist,Antagonist,Шпион,Шпион
+RU-URW-1067.txt,Украины,Antagonist,Terrorist,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1108.txt,Карл XII использовал,Antagonist,Foreign Adversary,Innocent,Innocent,Эксплуатируемый,Эксплуатируемый
+RU-URW-1010.txt,Дональда Трампа о готовности,Protagonist,Peacemaker,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1103.txt,Зеленский —,Antagonist,Incompetent,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1076.txt,Украинские военные за,Antagonist,Instigator,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1065.txt,Байдену и,Antagonist,Foreign Adversary,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1156.txt,"Россией,",Protagonist,Peacemaker,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1079.txt,"Столтенберг, который",Antagonist,Conspirator,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1020.txt,Анналена Бербок заявила,Antagonist,Instigator,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1046.txt,Украина,Antagonist,Incompetent,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1130.txt,украинская воинская часть.,Antagonist,Instigator,Protagonist,Protagonist,Миротворец,Миротворец
+RU-URW-1129.txt,Владимир Зеленский в,Antagonist,Instigator,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1153.txt,Вооруженных силах Украины (ВСУ),Antagonist,Foreign Adversary,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1055.txt,администрация Байдена,Antagonist,Foreign Adversary,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1159.txt,Владимир Кузьмин.,Protagonist,Virtuous,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1103.txt,Запад не,Antagonist,Foreign Adversary,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1005.txt,Александр Вучич в,Protagonist,Virtuous,Protagonist,Protagonist,Мученик,Мученик
+RU-URW-1109.txt,эвакуирует,Antagonist,Deceiver,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1158.txt,Владимир Путин провел,Protagonist,Guardian,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1121.txt,"Украины.""Все",Innocent,Exploited,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1027.txt,власти Эстонии демонстративно,Antagonist,Bigot,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1097.txt,президент России сообщил,Protagonist,Peacemaker,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1005.txt,Шольц станет,Antagonist,Saboteur,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1141.txt,Конгрессмены США,Antagonist,Foreign Adversary,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1159.txt,юнармейцев к,Protagonist,Virtuous,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1169.txt,Виктор Орбан выполняет,Protagonist,Peacemaker,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1124.txt,Великобритания напрямую,Antagonist,Foreign Adversary,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1128.txt,по урегулированию,Protagonist,Peacemaker,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1107.txt,Даниил Пионтковский и его,Innocent,Victim,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1105.txt,НАТО в,Antagonist,"Conspirator, Foreign Adversary",Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1128.txt,Владимир Путин заявил,Protagonist,Peacemaker,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1162.txt,ВСУ пытались,Antagonist,Terrorist,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1015.txt,"американцы, и",Antagonist,Foreign Adversary,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1161.txt,Украине.,Innocent,Exploited,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1124.txt,"""Дмитрий Песков в",Protagonist,Virtuous,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1011.txt,Соединенные Штаты разрешат,Antagonist,Foreign Adversary,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1027.txt,красноармейцев на,Innocent,Forgotten,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1142.txt,Генсек НАТО,Antagonist,Instigator,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1108.txt,Петра Великого поставили,Protagonist,Virtuous,Innocent,Innocent,Эксплуатируемый,Эксплуатируемый
+RU-URW-1041.txt,Александра Лукашенко,Protagonist,Guardian,Protagonist,Protagonist,Мученик,Мученик
+RU-URW-1083.txt,били,Antagonist,Terrorist,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1176.txt,Мила Бараева призвала,Protagonist,Peacemaker,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1092.txt,Вооруженных сил Украины (ВСУ),Antagonist,Terrorist,Protagonist,Protagonist,Миротворец,Миротворец
+RU-URW-1124.txt,"США,",Antagonist,Foreign Adversary,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1034.txt,огнеборцев,Protagonist,Guardian,Antagonist,Antagonist,Шпион,Шпион
+RU-URW-1058.txt,украинских войск,Antagonist,Instigator,Antagonist,Antagonist,Коррумпированный,Коррумпированный
+RU-URW-1094.txt,главы дальневосточных регионов и руководители,Protagonist,Virtuous,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1129.txt,Виктор Орбан выдвинул,Protagonist,Peacemaker,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1143.txt,"фашистов, которые",Antagonist,Instigator,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1024.txt,Украины пo,Antagonist,Terrorist,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1172.txt,Путина предложить,Protagonist,Peacemaker,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1041.txt,Вячеслав Володин,Protagonist,Virtuous,Protagonist,Protagonist,Мученик,Мученик
+RU-URW-1172.txt,"Владимиром Зеленским,",Antagonist,Incompetent,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1049.txt,«США,Antagonist,"Instigator, Foreign Adversary",Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1027.txt,Посольство России в Эстонии выразило,Protagonist,Guardian,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1195.txt,Курской,Innocent,Victim,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1070.txt,Россией,Protagonist,Peacemaker,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1048.txt,Вооруженных сил Украины,Antagonist,Terrorist,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1156.txt,Дмитрий Медведев считает,Protagonist,Virtuous,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1038.txt,Украине.,Innocent,Exploited,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1022.txt,«Украина говорит:,Innocent,Exploited,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1017.txt,Украины и,Antagonist,Instigator,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1143.txt,Украине,Antagonist,Terrorist,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1142.txt,неизбежна,Antagonist,Conspirator,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1056.txt,официальный представитель Кремля,Protagonist,Virtuous,Protagonist,Protagonist,Хранитель,Хранитель
+RU-URW-1058.txt,Игорь Кимаковский,Protagonist,Guardian,Antagonist,Antagonist,Коррумпированный,Коррумпированный

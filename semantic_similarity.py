@@ -1,6 +1,7 @@
 
 import numpy as np
 from pathlib import Path
+import pandas as pd
 from spacy.lang.en.stop_words import STOP_WORDS
 import re
 
@@ -11,11 +12,11 @@ from gensim.models import KeyedVectors
 from LoadData import LoadData
 
 
-def load_glove_vectors(path):
+def load_word_vectors(path):
     """
-    Load GloVe embedding vectors in `path`.
+    Load word embedding vectors in `path`.
     """
-    model = KeyedVectors.load_word2vec_format(path, binary=False, no_header=True)
+    model = KeyedVectors.load_word2vec_format(path, binary=False)
 
     return model
 
@@ -106,13 +107,31 @@ def process_sentence(sent, emb_model, role_vectors,
 
     return x
 
-def process_documents(base_dir, labels, subdirs, role_labels, emb_model, role_vectors, c_window):
-    max_match_count = 0
-    avg_match_count = 0
-    total_instances = 0
-    empty_instances = 0
+def process_documents(base_dir, labels, subdirs, role_labels, emb_model, role_vectors, c_window, use_corefs=False):
+    """
+    Process all documents in the given directory.
 
-    for doc, ent_span, ent_corefs, ent_sents, doc_labels in iterate_documents(base_dir, labels, subdirs):
+    Args:
+        base_dir (str): The base directory containing the documents.
+        labels (pandas.DataFrame): The labels file.
+        subdirs (list): The subdirectories to search for documents.
+        role_labels (dict): The role labels.
+        emb_model (word to vector model): The word embedding model.
+        role_vectors (np.array): The role vectors.
+        c_window (int): The context window.
+        use_corefs (bool): Use coreferences.
+    """
+    fg_max_match_count = 0
+    fg_avg_match_count = 0
+    max_main_role_match_count = 0
+    avg_main_role_match_count = 0
+    total_instances = 0
+
+    # Init df that keeps, doc_labels['article_id], doc_labels['ent_span'], true_roles, max_role, avg_role, w_avg_role
+    df = pd.DataFrame(columns=['article_id', 'ent_span', 'main_role', 'fine_grained_roles', 'max_main_role','avg_main_role', 'max_fg_role','avg_fg_role'])
+
+
+    for doc, ent_span, ent_corefs, ent_sents, doc_labels in iterate_documents(base_dir, labels, subdirs, use_corefs):
         print("=====", ent_span)
 
         x_sents = list()
@@ -125,38 +144,68 @@ def process_documents(base_dir, labels, subdirs, role_labels, emb_model, role_ve
         x_max = np.max(x_sents, axis=0)
         x_avg = np.mean(x_sents, axis=0)
 
-        max_role = role_labels['role_list'][np.argmax(x_max)]
-        avg_role = role_labels['role_list'][np.argmax(x_avg)]
-
-        true_roles = doc_labels['sub_roles']
+        max_fg_role = role_labels['role_list'][np.argmax(x_max)]
+        #reverse mapping to get the main role
+        if max_fg_role in role_labels['Antagonist']:
+            max_m_role = 'Antagonist'
+        elif max_fg_role in role_labels['Protagonist']:
+            max_m_role = 'Protagonist'
+        else:
+            max_m_role = 'Innocent'
         
-        max_match_count += 1 if [max_role] == true_roles else 0
-        avg_match_count += 1 if [avg_role] == true_roles else 0
+        avg_fg_role = role_labels['role_list'][np.argmax(x_avg)]
+        #revere mapping to get the main role
+        if avg_fg_role in role_labels['Antagonist']:
+            avg_m_role = 'Antagonist'
+        elif avg_fg_role in role_labels['Protagonist']:
+            avg_m_role = 'Protagonist'
+        else:
+            avg_m_role = 'Innocent'
+
+        true_fg_roles = doc_labels['sub_roles']
+        true_m_role = doc_labels['main_role']
+
+        
+        fg_max_match_count += 1 if [max_fg_role] == true_fg_roles else 0
+        fg_avg_match_count += 1 if [avg_fg_role] == true_fg_roles else 0
+
+        max_main_role_match_count += 1 if max_m_role == true_m_role else 0
+        avg_main_role_match_count += 1 if avg_m_role == true_m_role else 0
+        
         total_instances += 1
 
-        print(f"Max role: {max_role}")
-        print(f"Average role: {avg_role}")
-        print(f"True roles: {true_roles}\n")
+        df = pd.concat([df, pd.DataFrame([{'article_id': doc_labels['article_id'], 'ent_span': ent_span, 'main_role': true_m_role, 'fine_grained_roles': ", ".join(true_fg_roles), 'max_main_role': max_m_role, 'avg_main_role': avg_m_role, 'max_fg_role':max_fg_role, 'avg_fg_role':avg_fg_role}])], ignore_index=True)
+        #print(df)
 
-    print(f"Total instances: {total_instances}, Empty instances: {empty_instances}")
-    print(f"Exact match ratio - Max: {max_match_count / total_instances}, Average: {avg_match_count / total_instances}")
+        # print(f"Max role: {max_role}")
+        # print(f"Average role: {avg_role}")
+        # print(f"True roles: {true_roles}\n")
+
+    print(f"Total instances: {total_instances}")
+    print(f"Exact match ratio - Max: {fg_max_match_count / total_instances}, Average: {fg_avg_match_count / total_instances}")
+    print("Main role match ratio - Max: {}, Average: {}".format(max_main_role_match_count / total_instances, avg_main_role_match_count / total_instances))
+
+    df.to_csv(f"results/coref_{str(use_corefs)}_{subdirs}.csv", index=False)
 
 if __name__ == "__main__":
+
+
+
     base_dir = "train"
     labels_file = "subtask-1-annotations.txt"
-    subdirs = ["EN"]
+    subdir = "RU"
 
     ld = LoadData()
-    labels = ld.load_data(base_dir, labels_file, subdirs)
+    labels = ld.load_data(base_dir, labels_file, subdir)
     # Cast these columns as int
     labels['start_offset'] = labels['start_offset'].astype(int)
     labels['end_offset'] = labels['end_offset'].astype(int)
 
-    role_labels = get_role_labels()
-    emb_model = load_glove_vectors("embeddings/glove.6B.100d.txt")
+    role_labels = get_role_labels(subdir)
+    emb_model = load_word_vectors(f"embeddings/cc.{subdir.lower()}.300.vec")
 
     role_vectors = get_role_vectors(emb_model, role_labels['role_list'])
-    c_window = 15  # size of context window for model
+    c_window = None  # size of context window for model
     
 
-    process_documents(base_dir, labels, subdirs, role_labels, emb_model, role_vectors, c_window)
+    process_documents(base_dir, labels, subdir, role_labels, emb_model, role_vectors, c_window, use_corefs=True)
