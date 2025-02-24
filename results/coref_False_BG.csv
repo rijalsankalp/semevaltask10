@@ -1,0 +1,628 @@
+article_id,ent_span,main_role,fine_grained_roles,max_main_role,avg_main_role,max_fg_role,avg_fg_role
+A9_BG_4840.txt,САЩ,Antagonist,Instigator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_663.txt,САЩ,Antagonist,Conspirator,Innocent,Innocent,Victim,Victim
+A9_BG_3290.txt,Шолц,Antagonist,"Incompetent, Deceiver",Innocent,Innocent,Victim,Victim
+BG_869.txt,Русия,Antagonist,"Terrorist, Tyrant",Antagonist,Antagonist,Tyrant,Tyrant
+BG_582.txt,Щатите,Innocent,Victim,Innocent,Innocent,Scapegoat,Scapegoat
+A7_URW_BG_2786.txt,Олаф Шолц,Antagonist,Tyrant,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_423.txt,Зеленски,Antagonist,Incompetent,Innocent,Innocent,Victim,Victim
+BG_538.txt,Русия,Innocent,Victim,Innocent,Innocent,Scapegoat,Scapegoat
+BG_699.txt,САЩ,Antagonist,"Conspirator, Instigator, Foreign Adversary",Innocent,Innocent,Scapegoat,Scapegoat
+BG_3669.txt,Европа,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A9_BG_5984.txt,Украйна,Protagonist,Martyr,Innocent,Innocent,Exploited,Exploited
+BG_629.txt,НАТО,Antagonist,Incompetent,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_526.txt,Вашингтон,Antagonist,Foreign Adversary,Antagonist,Antagonist,Terrorist,Terrorist
+A9_BG_4185.txt,Запада,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A9_BG_5402.txt,Киев,Protagonist,Rebel,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A9_BG_7690.txt,Европа,Innocent,Victim,Protagonist,Protagonist,Peacemaker,Peacemaker
+BG_439.txt,САЩ,Antagonist,Conspirator,Antagonist,Antagonist,Corrupt,Corrupt
+A9_BG_4605.txt,Владимир Зеленски,Antagonist,Tyrant,Antagonist,Antagonist,Deceiver,Deceiver
+BG_7367.txt,Володимир Зеленски,Antagonist,Incompetent,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_430.txt,САЩ,Antagonist,Conspirator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_4819.txt,Русия,Antagonist,Tyrant,Innocent,Innocent,Victim,Victim
+BG_8060.txt,Украйна,Antagonist,Corrupt,Innocent,Innocent,Victim,Victim
+BG_576.txt,Елена,Antagonist,Bigot,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A9_BG_3142.txt,Сабанадзе,Antagonist,Traitor,Antagonist,Antagonist,Traitor,Traitor
+BG_866.txt,Африка,Innocent,Victim,Innocent,Innocent,Scapegoat,Scapegoat
+A7_URW_BG_3062.txt,ЕС,Antagonist,Tyrant,Innocent,Innocent,Scapegoat,Scapegoat
+BG_454.txt,Киев,Antagonist,Corrupt,Innocent,Innocent,Victim,Victim
+A9_BG_3704.txt,Съединените щати,Antagonist,Foreign Adversary,Innocent,Innocent,Scapegoat,Scapegoat
+BG_1164.txt,ЕС,Antagonist,Incompetent,Antagonist,Antagonist,Terrorist,Terrorist
+BG_4624.txt,Русия,Protagonist,Virtuous,Protagonist,Protagonist,Peacemaker,Peacemaker
+A9_BG_2972.txt,Украйна,Antagonist,Terrorist,Antagonist,Antagonist,Terrorist,Terrorist
+A7_URW_BG_4230.txt,Западът,Antagonist,Incompetent,Antagonist,Antagonist,Incompetent,Incompetent
+A7_URW_BG_3808.txt,САЩ,Antagonist,Foreign Adversary,Innocent,Innocent,Scapegoat,Scapegoat
+BG_494.txt,Русия,Innocent,Victim,Antagonist,Antagonist,Terrorist,Terrorist
+A8_CC_BG_9754.txt,Хелен Валгрен,Antagonist,Instigator,Innocent,Innocent,Scapegoat,Scapegoat
+A7_URW_BG_6975.txt,Вашингтон,Antagonist,Saboteur,Innocent,Innocent,Exploited,Exploited
+A7_URW_BG_5265.txt,Зеленски,Antagonist,Traitor,Innocent,Innocent,Scapegoat,Scapegoat
+BG_4884.txt,Байдън,Antagonist,"Conspirator, Foreign Adversary",Innocent,Innocent,Scapegoat,Scapegoat
+BG_3671.txt,Роберт Фицо,Protagonist,Martyr,Protagonist,Protagonist,Peacemaker,Peacemaker
+A9_BG_4189.txt,Лондон,Antagonist,Saboteur,Antagonist,Antagonist,Saboteur,Saboteur
+BG_456.txt,КНДР,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A9_BG_6229.txt,Украйна,Innocent,Exploited,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_573.txt,Енергодар,Innocent,Victim,Antagonist,Antagonist,Terrorist,Terrorist
+A7_URW_BG_2951.txt,Украйна,Antagonist,Incompetent,Innocent,Innocent,Scapegoat,Scapegoat
+BG_678.txt,САЩ,Antagonist,Tyrant,Antagonist,Antagonist,Deceiver,Deceiver
+BG_676.txt,САЩ,Antagonist,"Conspirator, Instigator, Foreign Adversary",Innocent,Innocent,Victim,Victim
+A9_BG_3182.txt,НАТО,Antagonist,Conspirator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_620.txt,Русия,Innocent,Victim,Antagonist,Antagonist,Spy,Spy
+BG_866.txt,НАТО,Protagonist,Peacemaker,Innocent,Innocent,Scapegoat,Scapegoat
+A7_URW_BG_6121.txt,Брюксел,Antagonist,Conspirator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_1345.txt,Лонг Бийч,Innocent,Victim,Innocent,Innocent,Victim,Victim
+A9_BG_5903.txt,Америка,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_894.txt,САЩ,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A7_URW_BG_2710.txt,САЩ,Antagonist,Foreign Adversary,Innocent,Innocent,Scapegoat,Scapegoat
+BG_696.txt,Русия,Innocent,Victim,Antagonist,Antagonist,Terrorist,Terrorist
+A7_URW_BG_5735.txt,Владимир Путин,Protagonist,Peacemaker,Protagonist,Protagonist,Peacemaker,Peacemaker
+A9_BG_3440.txt,Русия,Antagonist,Incompetent,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_676.txt,Зеленски,Innocent,Exploited,Innocent,Innocent,Victim,Victim
+BG_616.txt,Въоръжените сили на Украйна (ВСУ,Antagonist,Terrorist,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A9_BG_3390.txt,ЕС,Antagonist,Conspirator,Antagonist,Antagonist,Terrorist,Terrorist
+BG_4819.txt,Украйна,Protagonist,Peacemaker,Innocent,Innocent,Victim,Victim
+BG_4732.txt,Владимир Зеленски,Antagonist,"Incompetent, Corrupt",Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_630.txt,Илон Мъск,Protagonist,Virtuous,Antagonist,Antagonist,Spy,Spy
+BG_585.txt,Северски,Innocent,Victim,Antagonist,Antagonist,Terrorist,Terrorist
+A7_URW_BG_5759.txt,Дагестан,Innocent,Victim,Antagonist,Antagonist,Terrorist,Terrorist
+BG_508.txt,Запада,Antagonist,Foreign Adversary,Protagonist,Protagonist,Rebel,Rebel
+A7_URW_BG_3499.txt,Еманюел Макрон,Antagonist,Deceiver,Antagonist,Antagonist,Corrupt,Corrupt
+BG_4613.txt,Владимир Путин,Protagonist,Peacemaker,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_559.txt,Съединените щати,Antagonist,Foreign Adversary,Protagonist,Protagonist,Virtuous,Virtuous
+A9_BG_4571.txt,САЩ,Antagonist,Conspirator,Antagonist,Antagonist,Incompetent,Incompetent
+BG_423.txt,Украйна,Antagonist,Instigator,Innocent,Innocent,Victim,Victim
+BG_1089.txt,България,Antagonist,Incompetent,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_457.txt,Путин,Antagonist,Tyrant,Antagonist,Antagonist,Spy,Spy
+BG_555.txt,Марк Рюте,Antagonist,Bigot,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_3669.txt,Еманюел Макрон,Antagonist,"Incompetent, Instigator",Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A9_BG_3390.txt,НАТО,Antagonist,Conspirator,Antagonist,Antagonist,Terrorist,Terrorist
+BG_663.txt,Украйна,Antagonist,Incompetent,Innocent,Innocent,Victim,Victim
+A9_BG_4216.txt,Германия,Antagonist,Foreign Adversary,Antagonist,Antagonist,Terrorist,Terrorist
+BG_612.txt,САЩ,Antagonist,"Foreign Adversary, Terrorist",Innocent,Innocent,Victim,Victim
+BG_637.txt,НАТО,Antagonist,"Incompetent, Corrupt",Innocent,Innocent,Scapegoat,Scapegoat
+A9_BG_5190.txt,Киев,Antagonist,Terrorist,Antagonist,Antagonist,Terrorist,Terrorist
+BG_620.txt,Вашингтон,Antagonist,"Conspirator, Instigator, Foreign Adversary",Antagonist,Antagonist,Spy,Spy
+BG_699.txt,НАТО,Antagonist,"Conspirator, Instigator, Foreign Adversary",Innocent,Innocent,Scapegoat,Scapegoat
+BG_629.txt,НАТО,Antagonist,"Foreign Adversary, Deceiver, Traitor",Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A9_BG_5225.txt,Владимир Путин,Antagonist,Tyrant,Antagonist,Antagonist,Corrupt,Corrupt
+BG_508.txt,Великобритания,Antagonist,"Conspirator, Foreign Adversary",Protagonist,Protagonist,Rebel,Rebel
+A7_URW_BG_3572.txt,Будапеща,Protagonist,Peacemaker,Protagonist,Protagonist,Peacemaker,Peacemaker
+A9_BG_5596.txt,Европа,Antagonist,Incompetent,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_560.txt,Киев,Antagonist,Corrupt,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_551.txt,САЩ,Antagonist,"Foreign Adversary, Terrorist",Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_620.txt,Съединените щати,Antagonist,"Conspirator, Instigator, Foreign Adversary",Antagonist,Antagonist,Spy,Spy
+BG_560.txt,Запада,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_494.txt,Дагестан,Innocent,Victim,Antagonist,Antagonist,Terrorist,Terrorist
+A9_BG_4718.txt,Котин,Antagonist,Corrupt,Antagonist,Antagonist,Deceiver,Deceiver
+BG_7367.txt,Украйна,Antagonist,Incompetent,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_3368.txt,Владимир Путин,Protagonist,Peacemaker,Innocent,Innocent,Scapegoat,Scapegoat
+A9_BG_2931.txt,Дейвид Куртен,Protagonist,Peacemaker,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A9_BG_3395.txt,Русия,Innocent,Victim,Antagonist,Antagonist,Incompetent,Incompetent
+BG_839.txt,Кремъл,Antagonist,Tyrant,Innocent,Innocent,Victim,Victim
+BG_529.txt,Русия,Innocent,Victim,Antagonist,Antagonist,Terrorist,Terrorist
+BG_676.txt,Москва,Protagonist,Peacemaker,Innocent,Innocent,Victim,Victim
+BG_526.txt,НАТО,Antagonist,Terrorist,Antagonist,Antagonist,Terrorist,Terrorist
+BG_1767.txt,Вашингтон,Antagonist,"Deceiver, Corrupt",Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A9_BG_4216.txt,Великобритания,Antagonist,Foreign Adversary,Antagonist,Antagonist,Terrorist,Terrorist
+BG_866.txt,Соната Култър,Protagonist,Rebel,Innocent,Innocent,Scapegoat,Scapegoat
+BG_7367.txt,Западът,Antagonist,Incompetent,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A9_BG_3379.txt,Запада,Antagonist,"Instigator, Foreign Adversary",Antagonist,Antagonist,Spy,Spy
+BG_684.txt,Русия,Innocent,Scapegoat,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A9_BG_5143.txt,Киев,Protagonist,Underdog,Innocent,Innocent,Scapegoat,Scapegoat
+BG_629.txt,Турция,Innocent,Forgotten,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_555.txt,Вашингтон,Antagonist,Traitor,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A7_URW_BG_3618.txt,Европа,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_521.txt,Крим,Innocent,Victim,Antagonist,Antagonist,Terrorist,Terrorist
+BG_723.txt,Ким Чен Ун,Antagonist,"Conspirator, Tyrant",Antagonist,Antagonist,Corrupt,Corrupt
+BG_637.txt,Украйна,Innocent,Victim,Innocent,Innocent,Scapegoat,Scapegoat
+BG_4732.txt,САЩ,Antagonist,"Conspirator, Instigator, Foreign Adversary",Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A9_BG_3652.txt,Брюксел,Antagonist,Conspirator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A9_BG_4851.txt,САЩ,Antagonist,Incompetent,Protagonist,Protagonist,Rebel,Rebel
+BG_678.txt,Владимир Путин,Protagonist,Guardian,Antagonist,Antagonist,Deceiver,Deceiver
+A9_BG_4830.txt,САЩ,Antagonist,Conspirator,Antagonist,Antagonist,Terrorist,Terrorist
+A9_BG_3379.txt,Русия,Innocent,Victim,Antagonist,Antagonist,Spy,Spy
+BG_548.txt,САЩ,Protagonist,Virtuous,Innocent,Innocent,Victim,Victim
+A8_CC_BG_8654.txt,Европейския съюз (ЕС,Antagonist,Incompetent,Antagonist,Antagonist,Traitor,Traitor
+BG_497.txt,Съединените щати,Antagonist,Instigator,Antagonist,Antagonist,Terrorist,Terrorist
+BG_494.txt,Украйна,Antagonist,Terrorist,Antagonist,Antagonist,Terrorist,Terrorist
+A7_URW_BG_5683.txt,Джо Байдън,Protagonist,Guardian,Innocent,Innocent,Scapegoat,Scapegoat
+A7_URW_BG_5178.txt,Украйна,Innocent,Victim,Innocent,Innocent,Victim,Victim
+A9_BG_4905.txt,Украйна,Antagonist,Tyrant,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A9_BG_4016.txt,Лондон,Antagonist,Incompetent,Antagonist,Antagonist,Incompetent,Incompetent
+BG_4713.txt,Западът,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_629.txt,САЩ,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_456.txt,Русия,Antagonist,Instigator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_670.txt,НАТО,Antagonist,Instigator,Innocent,Innocent,Scapegoat,Scapegoat
+BG_723.txt,Владимир Путин,Antagonist,"Conspirator, Tyrant",Antagonist,Antagonist,Corrupt,Corrupt
+A7_URW_BG_2951.txt,Русия,Innocent,Victim,Innocent,Innocent,Scapegoat,Scapegoat
+A9_BG_3390.txt,Западът,Antagonist,Instigator,Antagonist,Antagonist,Terrorist,Terrorist
+A9_BG_4483.txt,Киев,Antagonist,Deceiver,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_855.txt,ЕС,Antagonist,Deceiver,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_839.txt,България,Protagonist,Virtuous,Innocent,Innocent,Victim,Victim
+A7_URW_BG_2962.txt,САЩ,Antagonist,Instigator,Innocent,Innocent,Scapegoat,Scapegoat
+BG_616.txt,Крим,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A9_BG_3390.txt,Лондон,Antagonist,Conspirator,Antagonist,Antagonist,Terrorist,Terrorist
+BG_678.txt,Русия,Innocent,Victim,Antagonist,Antagonist,Deceiver,Deceiver
+BG_684.txt,Южна Осетия,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A9_BG_6815.txt,Владимир Путин,Antagonist,Tyrant,Antagonist,Antagonist,Corrupt,Corrupt
+BG_637.txt,Байдън,Antagonist,"Instigator, Foreign Adversary",Innocent,Innocent,Scapegoat,Scapegoat
+BG_481.txt,Украйна,Antagonist,Incompetent,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A9_BG_3652.txt,Вашингтон,Antagonist,Conspirator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_4366.txt,Вашингтон,Antagonist,Instigator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A7_URW_BG_6694.txt,Запада,Antagonist,Instigator,Antagonist,Antagonist,Spy,Spy
+BG_616.txt,Съединените щати,Antagonist,"Conspirator, Foreign Adversary",Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_497.txt,Въоръжените сили на Украйна (ВСУ,Antagonist,Foreign Adversary,Antagonist,Antagonist,Terrorist,Terrorist
+A9_BG_2963.txt,Киев,Antagonist,Incompetent,Innocent,Innocent,Scapegoat,Scapegoat
+BG_3753.txt,САЩ,Antagonist,"Conspirator, Foreign Adversary",Innocent,Innocent,Scapegoat,Scapegoat
+A7_URW_BG_3062.txt,Урсула фон дер Лайен,Antagonist,Tyrant,Innocent,Innocent,Scapegoat,Scapegoat
+BG_481.txt,Западът,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_546.txt,Украйна,Antagonist,Incompetent,Antagonist,Antagonist,Corrupt,Corrupt
+BG_628.txt,Валери Герасимов,Antagonist,Incompetent,Innocent,Innocent,Scapegoat,Scapegoat
+A9_BG_3440.txt,Украйна,Protagonist,Martyr,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_839.txt,Китай,Antagonist,Foreign Adversary,Innocent,Innocent,Victim,Victim
+BG_529.txt,Украйна,Antagonist,Terrorist,Antagonist,Antagonist,Terrorist,Terrorist
+A9_BG_4571.txt,Западът,Antagonist,Deceiver,Antagonist,Antagonist,Incompetent,Incompetent
+A9_BG_4606.txt,Киев,Antagonist,Incompetent,Protagonist,Protagonist,Peacemaker,Peacemaker
+BG_585.txt,Темрюк,Innocent,Victim,Antagonist,Antagonist,Terrorist,Terrorist
+A7_URW_BG_5994.txt,Кремъл,Antagonist,Terrorist,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_1249.txt,Дейвид Атънбъро,Protagonist,Virtuous,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_971.txt,Бил Гейтс,Antagonist,Instigator,Innocent,Innocent,Exploited,Exploited
+BG_704.txt,Президента на Руската Федерация В.В.Путин,Protagonist,Peacemaker,Antagonist,Antagonist,Incompetent,Incompetent
+A7_URW_BG_7035.txt,Запад,Antagonist,Conspirator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_751.txt,Путин,Protagonist,Peacemaker,Innocent,Innocent,Scapegoat,Scapegoat
+BG_839.txt,Путин,Antagonist,Tyrant,Innocent,Innocent,Victim,Victim
+BG_6019.txt,Володимир Зеленски,Antagonist,Corrupt,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A7_URW_BG_4663.txt,Борис Джонсън,Antagonist,Incompetent,Innocent,Innocent,Scapegoat,Scapegoat
+A7_URW_BG_5448.txt,Путин,Antagonist,Deceiver,Antagonist,Antagonist,Corrupt,Corrupt
+BG_751.txt,Зеленски,Antagonist,Corrupt,Innocent,Innocent,Scapegoat,Scapegoat
+BG_629.txt,Афганистан,Antagonist,Terrorist,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_699.txt,Германия,Antagonist,"Conspirator, Instigator, Foreign Adversary",Innocent,Innocent,Scapegoat,Scapegoat
+BG_3351.txt,Русия,Protagonist,Rebel,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A9_BG_3431.txt,Вашингтон,Antagonist,Conspirator,Antagonist,Antagonist,Saboteur,Saboteur
+BG_676.txt,Путин,Protagonist,Peacemaker,Innocent,Innocent,Victim,Victim
+BG_751.txt,Западът,Antagonist,"Conspirator, Foreign Adversary",Innocent,Innocent,Scapegoat,Scapegoat
+A8_CC_BG_9298.txt,Антониу Гутериш,Protagonist,Guardian,Innocent,Innocent,Scapegoat,Scapegoat
+A9_BG_3431.txt,Лондон,Antagonist,Conspirator,Antagonist,Antagonist,Saboteur,Saboteur
+BG_869.txt,Украйна,Innocent,"Victim, Forgotten",Antagonist,Antagonist,Tyrant,Tyrant
+A7_URW_BG_5759.txt,НАТО,Antagonist,Tyrant,Antagonist,Antagonist,Terrorist,Terrorist
+A7_URW_BG_4793.txt,НАТО,Antagonist,Tyrant,Innocent,Innocent,Victim,Victim
+A7_URW_BG_3499.txt,НАТО,Antagonist,Foreign Adversary,Antagonist,Antagonist,Corrupt,Corrupt
+BG_628.txt,Северна Корея,Innocent,Victim,Innocent,Innocent,Scapegoat,Scapegoat
+A7_URW_BG_5759.txt,Украинските разузнавателни служби,Antagonist,Foreign Adversary,Antagonist,Antagonist,Terrorist,Terrorist
+BG_8455.txt,Брюксел,Antagonist,"Instigator, Foreign Adversary",Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A9_BG_3431.txt,Киев,Antagonist,Terrorist,Antagonist,Antagonist,Saboteur,Saboteur
+A9_BG_4718.txt,Галущенко,Antagonist,Corrupt,Antagonist,Antagonist,Deceiver,Deceiver
+BG_5406.txt,Владимир Путин,Antagonist,Tyrant,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A9_BG_5226.txt,Владимир Путин,Antagonist,Tyrant,Antagonist,Antagonist,Corrupt,Corrupt
+BG_5360.txt,ъединените щати и техните европейски съюзници,Antagonist,Instigator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A7_URW_BG_7035.txt,Европа,Antagonist,Corrupt,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A9_BG_6815.txt,Литва,Innocent,Victim,Antagonist,Antagonist,Corrupt,Corrupt
+A9_BG_4971.txt,Украйна,Antagonist,Corrupt,Innocent,Innocent,Scapegoat,Scapegoat
+BG_869.txt,Китай,Antagonist,Foreign Adversary,Antagonist,Antagonist,Tyrant,Tyrant
+BG_560.txt,Съединените щати,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_628.txt,Владимир Путин,Protagonist,Underdog,Innocent,Innocent,Scapegoat,Scapegoat
+A9_BG_3379.txt,Лондон,Antagonist,Tyrant,Antagonist,Antagonist,Spy,Spy
+BG_3079.txt,Русия,Protagonist,Rebel,Antagonist,Antagonist,Corrupt,Corrupt
+BG_457.txt,Украйна,Innocent,Victim,Antagonist,Antagonist,Spy,Spy
+A9_BG_3182.txt,Молдова,Innocent,Exploited,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A9_BG_5984.txt,Русия,Antagonist,Tyrant,Innocent,Innocent,Exploited,Exploited
+A7_URW_BG_5178.txt,Сирия,Innocent,Victim,Innocent,Innocent,Victim,Victim
+A9_BG_4768.txt,Киев,Innocent,Exploited,Innocent,Innocent,Scapegoat,Scapegoat
+A9_BG_3586.txt,Украйна,Innocent,Exploited,Innocent,Innocent,Forgotten,Forgotten
+A7_URW_BG_2951.txt,Западът,Antagonist,Instigator,Innocent,Innocent,Scapegoat,Scapegoat
+A9_BG_4189.txt,Съединените щати,Antagonist,Instigator,Antagonist,Antagonist,Saboteur,Saboteur
+BG_839.txt,Румен Радев,Antagonist,Incompetent,Innocent,Innocent,Victim,Victim
+BG_679.txt,Русия,Innocent,Victim,Antagonist,Antagonist,Terrorist,Terrorist
+BG_4732.txt,Обединеното кралство,Antagonist,"Conspirator, Instigator, Foreign Adversary",Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A6_CC_BG_8520.txt,Терзиев,Antagonist,Incompetent,Innocent,Innocent,Scapegoat,Scapegoat
+BG_439.txt,Зеленски,Antagonist,Corrupt,Antagonist,Antagonist,Corrupt,Corrupt
+BG_1345.txt,Байдън,Antagonist,Incompetent,Innocent,Innocent,Victim,Victim
+A9_BG_4851.txt,Греъм,Antagonist,Incompetent,Protagonist,Protagonist,Rebel,Rebel
+BG_8385.txt,НАТО,Antagonist,Deceiver,Innocent,Innocent,Scapegoat,Scapegoat
+A9_BG_3363.txt,Запада,Antagonist,Tyrant,Protagonist,Protagonist,Virtuous,Virtuous
+BG_529.txt,Вашингтон,Antagonist,"Conspirator, Foreign Adversary",Antagonist,Antagonist,Terrorist,Terrorist
+A9_BG_2931.txt,Запада,Antagonist,Incompetent,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_612.txt,Райдър,Antagonist,Conspirator,Innocent,Innocent,Victim,Victim
+BG_548.txt,Кремъл,Antagonist,"Conspirator, Foreign Adversary",Innocent,Innocent,Victim,Victim
+A9_BG_3762.txt,Запад,Antagonist,Conspirator,Innocent,Innocent,Scapegoat,Scapegoat
+BG_457.txt,Владимир Путин,Antagonist,Tyrant,Antagonist,Antagonist,Spy,Spy
+A9_BG_4737.txt,Зеленски,Antagonist,Incompetent,Protagonist,Protagonist,Peacemaker,Peacemaker
+A7_URW_BG_5735.txt,Русия,Protagonist,Peacemaker,Protagonist,Protagonist,Peacemaker,Peacemaker
+A9_BG_5225.txt,Молдова,Innocent,Victim,Antagonist,Antagonist,Corrupt,Corrupt
+BG_480.txt,украинския народ,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_541.txt,НАТО,Antagonist,"Incompetent, Foreign Adversary",Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_1390.txt,BP,Protagonist,Rebel,Protagonist,Protagonist,Guardian,Guardian
+BG_620.txt,Западът,Antagonist,"Conspirator, Instigator, Foreign Adversary",Antagonist,Antagonist,Spy,Spy
+BG_1767.txt,Брюксел,Antagonist,"Deceiver, Corrupt",Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A9_BG_4605.txt,Запад,Antagonist,Conspirator,Antagonist,Antagonist,Deceiver,Deceiver
+BG_1163.txt,Брюксел,Antagonist,Incompetent,Innocent,Innocent,Scapegoat,Scapegoat
+BG_576.txt,украинските власти,Antagonist,Tyrant,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_546.txt,Русия,Antagonist,Instigator,Antagonist,Antagonist,Corrupt,Corrupt
+BG_4884.txt,Тони Блинкен,Antagonist,"Conspirator, Foreign Adversary",Innocent,Innocent,Scapegoat,Scapegoat
+A9_BG_3109.txt,Виктория Нуланд,Antagonist,"Instigator, Foreign Adversary",Antagonist,Antagonist,Spy,Spy
+A9_BG_4851.txt,Нюланд,Antagonist,Incompetent,Protagonist,Protagonist,Rebel,Rebel
+BG_3671.txt,Украйна,Innocent,Victim,Protagonist,Protagonist,Peacemaker,Peacemaker
+A6_CC_BG_9522.txt,малките островни държави,Innocent,Victim,Innocent,Innocent,Scapegoat,Scapegoat
+A7_URW_BG_6121.txt,Европа,Antagonist,Tyrant,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A7_URW_BG_4629.txt,САЩ,Antagonist,Instigator,Innocent,Innocent,Scapegoat,Scapegoat
+BG_3867.txt,Володимир Зеленски,Antagonist,Incompetent,Protagonist,Protagonist,Peacemaker,Peacemaker
+BG_8385.txt,НАТО,Antagonist,Corrupt,Innocent,Innocent,Scapegoat,Scapegoat
+BG_573.txt,Руската Федерация,Innocent,Victim,Antagonist,Antagonist,Terrorist,Terrorist
+BG_723.txt,Русия,Antagonist,"Foreign Adversary, Tyrant",Antagonist,Antagonist,Corrupt,Corrupt
+A7_URW_BG_2710.txt,Европейският съюз,Antagonist,Foreign Adversary,Innocent,Innocent,Scapegoat,Scapegoat
+A7_URW_BG_4451.txt,Украйна,Antagonist,Incompetent,Antagonist,Antagonist,Incompetent,Incompetent
+BG_3364.txt,Владимир Путин,Protagonist,Peacemaker,Antagonist,Antagonist,Spy,Spy
+A9_BG_4189.txt,Киев,Antagonist,Terrorist,Antagonist,Antagonist,Saboteur,Saboteur
+A7_URW_BG_6121.txt,Джордж Сорос,Antagonist,Conspirator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A7_URW_BG_6694.txt,Володимир Зеленски,Antagonist,Corrupt,Antagonist,Antagonist,Spy,Spy
+BG_1098.txt,Shell,Antagonist,Corrupt,Innocent,Innocent,Victim,Victim
+A9_BG_3298.txt,САЩ,Antagonist,Incompetent,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_629.txt,Доналд Тръмп,Antagonist,"Instigator, Foreign Adversary",Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A7_URW_BG_2882.txt,Матео Салвини,Protagonist,Virtuous,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_4624.txt,Зеленски,Antagonist,Instigator,Protagonist,Protagonist,Peacemaker,Peacemaker
+A9_BG_4844.txt,Крим,Innocent,Victim,Antagonist,Antagonist,Terrorist,Terrorist
+BG_620.txt,Севастопол,Innocent,Victim,Antagonist,Antagonist,Spy,Spy
+A9_BG_5082.txt,САЩ,Antagonist,Conspirator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_1164.txt,европейски елити,Antagonist,"Instigator, Tyrant",Antagonist,Antagonist,Terrorist,Terrorist
+A9_BG_3390.txt,Русия,Innocent,Victim,Antagonist,Antagonist,Terrorist,Terrorist
+BG_3671.txt,големите западни демокрации,Antagonist,Instigator,Protagonist,Protagonist,Peacemaker,Peacemaker
+A7_URW_BG_3618.txt,Зеленски,Antagonist,Tyrant,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_508.txt,Русия,Innocent,Victim,Protagonist,Protagonist,Rebel,Rebel
+BG_839.txt,Украйна,Innocent,Victim,Innocent,Innocent,Victim,Victim
+BG_678.txt,Западът,Antagonist,Tyrant,Antagonist,Antagonist,Deceiver,Deceiver
+A7_URW_BG_2962.txt,Европа,Innocent,Victim,Innocent,Innocent,Scapegoat,Scapegoat
+BG_751.txt,Украйна,Innocent,Exploited,Innocent,Innocent,Scapegoat,Scapegoat
+A6_CC_BG_11938.txt,Ландрут,Protagonist,Virtuous,Innocent,Innocent,Victim,Victim
+BG_679.txt,Украйна,Antagonist,Terrorist,Antagonist,Antagonist,Terrorist,Terrorist
+BG_723.txt,Зеленски,Protagonist,Rebel,Antagonist,Antagonist,Corrupt,Corrupt
+A9_BG_5965.txt,Украйна,Innocent,Exploited,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_8060.txt,САЩ,Antagonist,"Conspirator, Foreign Adversary",Innocent,Innocent,Victim,Victim
+A7_URW_BG_8093.txt,Европа,Protagonist,Peacemaker,Innocent,Innocent,Scapegoat,Scapegoat
+A9_BG_4016.txt,НАТО,Antagonist,Instigator,Antagonist,Antagonist,Incompetent,Incompetent
+A9_BG_3431.txt,Владимир Зеленски,Antagonist,Terrorist,Antagonist,Antagonist,Saboteur,Saboteur
+BG_866.txt,Украйна,Innocent,Victim,Innocent,Innocent,Scapegoat,Scapegoat
+A9_BG_5871.txt,Москва,Antagonist,Terrorist,Antagonist,Antagonist,Spy,Spy
+BG_541.txt,Украйна,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_509.txt,САЩ,Antagonist,Conspirator,Innocent,Innocent,Forgotten,Forgotten
+A7_URW_BG_3062.txt,Русия,Innocent,Victim,Innocent,Innocent,Scapegoat,Scapegoat
+BG_3629.txt,Зеленски,Antagonist,Incompetent,Protagonist,Protagonist,Peacemaker,Peacemaker
+A9_BG_4971.txt,Полша,Innocent,Victim,Innocent,Innocent,Scapegoat,Scapegoat
+BG_3351.txt,Зеленски,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A9_BG_3652.txt,НАТО,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A7_URW_BG_5925.txt,Джорджа Мелони,Antagonist,Conspirator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A6_CC_BG_9522.txt,Австралия,Antagonist,Saboteur,Innocent,Innocent,Scapegoat,Scapegoat
+A7_URW_BG_5077.txt,НАТО,Antagonist,Conspirator,Protagonist,Protagonist,Peacemaker,Peacemaker
+A7_URW_BG_3566.txt,Съединените американски щати,Antagonist,Tyrant,Antagonist,Antagonist,Corrupt,Corrupt
+BG_423.txt,Източна Украйна,Antagonist,Instigator,Innocent,Innocent,Victim,Victim
+A9_BG_5155.txt,Съединените щати,Antagonist,Foreign Adversary,Innocent,Innocent,Scapegoat,Scapegoat
+A6_CC_BG_10565.txt,YouTube,Antagonist,Corrupt,Antagonist,Antagonist,Incompetent,Incompetent
+BG_630.txt,Русия,Antagonist,Incompetent,Antagonist,Antagonist,Spy,Spy
+BG_1345.txt,Ню Джърси,Innocent,Victim,Innocent,Innocent,Victim,Victim
+A7_URW_BG_3240.txt,САЩ,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A7_URW_BG_7035.txt,Фицо,Protagonist,Rebel,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_894.txt,Джон Стосел,Protagonist,Rebel,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_548.txt,Румен Радев,Antagonist,Incompetent,Innocent,Innocent,Victim,Victim
+A9_BG_4577.txt,Гестапо Зеленски,Antagonist,Tyrant,Antagonist,Antagonist,Spy,Spy
+A7_URW_BG_6121.txt,Унгария,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_4819.txt,Путин,Antagonist,Tyrant,Innocent,Innocent,Victim,Victim
+BG_1164.txt,европейците,Innocent,Victim,Antagonist,Antagonist,Terrorist,Terrorist
+A9_BG_7303.txt,Байдън,Antagonist,Incompetent,Innocent,Innocent,Scapegoat,Scapegoat
+A9_BG_4622.txt,Шолц,Antagonist,Traitor,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_866.txt,Русия,Antagonist,Tyrant,Innocent,Innocent,Scapegoat,Scapegoat
+BG_504.txt,НАТО,Antagonist,Conspirator,Innocent,Innocent,Exploited,Exploited
+A9_BG_4571.txt,Украйна,Antagonist,Tyrant,Antagonist,Antagonist,Incompetent,Incompetent
+BG_723.txt,КНДР,Antagonist,"Foreign Adversary, Tyrant",Antagonist,Antagonist,Corrupt,Corrupt
+A6_CC_BG_10525.txt,Италия,Protagonist,Guardian,Innocent,Innocent,Scapegoat,Scapegoat
+BG_3867.txt,западни държави,Antagonist,"Foreign Adversary, Tyrant",Protagonist,Protagonist,Peacemaker,Peacemaker
+BG_696.txt,Украйна,Antagonist,"Instigator, Terrorist",Antagonist,Antagonist,Terrorist,Terrorist
+BG_678.txt,САЩ,Antagonist,Terrorist,Antagonist,Antagonist,Deceiver,Deceiver
+A9_BG_5817.txt,Брюксел,Antagonist,Traitor,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A7_URW_BG_6700.txt,Европейския съюз,Antagonist,Saboteur,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A9_BG_3543.txt,Украйна,Antagonist,Tyrant,Antagonist,Antagonist,Incompetent,Incompetent
+BG_4732.txt,Украйна,Antagonist,Incompetent,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A9_BG_3385.txt,Украйна,Innocent,Exploited,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A9_BG_3599.txt,Армения,Protagonist,Rebel,Protagonist,Protagonist,Peacemaker,Peacemaker
+BG_435.txt,Владимир Зеленски,Innocent,Exploited,Antagonist,Antagonist,Spy,Spy
+A9_BG_5225.txt,Литва,Innocent,Victim,Antagonist,Antagonist,Corrupt,Corrupt
+BG_538.txt,САЩ,Antagonist,Foreign Adversary,Innocent,Innocent,Scapegoat,Scapegoat
+BG_423.txt,руското население,Innocent,Victim,Innocent,Innocent,Victim,Victim
+BG_430.txt,американците,Innocent,Exploited,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A7_URW_BG_3616.txt,Украйна,Antagonist,Deceiver,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_1044.txt,ГЕРБ,Antagonist,Incompetent,Innocent,Innocent,Scapegoat,Scapegoat
+BG_670.txt,украински войници,Innocent,Victim,Innocent,Innocent,Scapegoat,Scapegoat
+A9_BG_4606.txt,Владимир Путин,Protagonist,Peacemaker,Protagonist,Protagonist,Peacemaker,Peacemaker
+A7_URW_BG_5868.txt,Владимир Путин,Antagonist,Deceiver,Innocent,Innocent,Scapegoat,Scapegoat
+BG_704.txt,М.Саакашвили,Antagonist,"Foreign Adversary, Terrorist",Antagonist,Antagonist,Incompetent,Incompetent
+BG_629.txt,Югославия,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_4648.txt,Москва,Protagonist,"Peacemaker, Virtuous",Antagonist,Antagonist,Spy,Spy
+BG_457.txt,Вашингтон,Innocent,Victim,Antagonist,Antagonist,Spy,Spy
+BG_526.txt,Русия,Innocent,Victim,Antagonist,Antagonist,Terrorist,Terrorist
+BG_463.txt,КНДР,Innocent,Victim,Innocent,Innocent,Scapegoat,Scapegoat
+A9_BG_3563.txt,Путин,Protagonist,Peacemaker,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A7_URW_BG_7035.txt,НАТО,Antagonist,Instigator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_480.txt,Владимир Зеленски,Antagonist,"Incompetent, Traitor",Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_894.txt,Германия,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A7_URW_BG_3808.txt,Дания,Antagonist,Foreign Adversary,Innocent,Innocent,Scapegoat,Scapegoat
+BG_751.txt,Путин,Protagonist,Virtuous,Innocent,Innocent,Scapegoat,Scapegoat
+BG_751.txt,Зеленски,Antagonist,Incompetent,Innocent,Innocent,Scapegoat,Scapegoat
+A7_URW_BG_2596.txt,Русия,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A7_URW_BG_5720.txt,Зеленски,Antagonist,Deceiver,Antagonist,Antagonist,Saboteur,Saboteur
+BG_553.txt,Западът,Antagonist,Instigator,Protagonist,Protagonist,Underdog,Underdog
+BG_526.txt,Севастопол,Innocent,Victim,Antagonist,Antagonist,Terrorist,Terrorist
+BG_616.txt,Пентагона,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_3909.txt,Украйна,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A7_URW_BG_6121.txt,Вашингтон,Antagonist,Conspirator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_696.txt,Вашингтон,Antagonist,Instigator,Antagonist,Antagonist,Terrorist,Terrorist
+BG_637.txt,Вашингтон,Antagonist,Instigator,Innocent,Innocent,Scapegoat,Scapegoat
+BG_1390.txt,Equinor,Protagonist,Rebel,Protagonist,Protagonist,Guardian,Guardian
+A6_CC_BG_8520.txt,Васил Терзиев,Antagonist,Incompetent,Innocent,Innocent,Scapegoat,Scapegoat
+BG_546.txt,САЩ,Antagonist,Foreign Adversary,Antagonist,Antagonist,Corrupt,Corrupt
+BG_538.txt,Севастопол,Innocent,Victim,Innocent,Innocent,Scapegoat,Scapegoat
+A9_BG_3543.txt,България,Antagonist,Corrupt,Antagonist,Antagonist,Incompetent,Incompetent
+BG_5942.txt,САЩ,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A9_BG_4374.txt,Байдън,Antagonist,Foreign Adversary,Protagonist,Protagonist,Peacemaker,Peacemaker
+A6_CC_BG_11388.txt,Citigroup Inc,Antagonist,Saboteur,Innocent,Innocent,Scapegoat,Scapegoat
+A9_BG_7303.txt,Клинтън,Antagonist,Incompetent,Innocent,Innocent,Scapegoat,Scapegoat
+A9_BG_8450.txt,Украйна,Antagonist,Terrorist,Antagonist,Antagonist,Terrorist,Terrorist
+BG_541.txt,Русия,Protagonist,Rebel,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A9_BG_437.txt,Зеленски,Antagonist,Incompetent,Antagonist,Antagonist,Spy,Spy
+BG_704.txt,Запада,Antagonist,Instigator,Antagonist,Antagonist,Incompetent,Incompetent
+A9_BG_2566.txt,Латвия,Antagonist,Conspirator,Antagonist,Antagonist,Spy,Spy
+BG_582.txt,Северна Корея,Antagonist,Foreign Adversary,Innocent,Innocent,Scapegoat,Scapegoat
+A9_BG_3818.txt,Москва,Protagonist,Peacemaker,Antagonist,Antagonist,Terrorist,Terrorist
+BG_3368.txt,Украйна,Innocent,Victim,Innocent,Innocent,Scapegoat,Scapegoat
+BG_612.txt,Русия,Innocent,Victim,Innocent,Innocent,Victim,Victim
+A9_BG_4978.txt,Руската федерация,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_561.txt,ЕС,Antagonist,Corrupt,Innocent,Innocent,Exploited,Exploited
+A9_BG_4737.txt,Владимир Путин,Protagonist,Peacemaker,Protagonist,Protagonist,Peacemaker,Peacemaker
+BG_585.txt,Ейск,Innocent,Victim,Antagonist,Antagonist,Terrorist,Terrorist
+BG_701.txt,Украйна,Antagonist,Corrupt,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_3079.txt,ЕС,Antagonist,"Foreign Adversary, Corrupt",Antagonist,Antagonist,Corrupt,Corrupt
+BG_3351.txt,Зеленски,Antagonist,Incompetent,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A9_BG_4197.txt,Владимир Зеленски,Antagonist,Traitor,Antagonist,Antagonist,Incompetent,Incompetent
+A7_URW_BG_5868.txt,Русия,Antagonist,Incompetent,Innocent,Innocent,Scapegoat,Scapegoat
+BG_3753.txt,Русия,Protagonist,Guardian,Innocent,Innocent,Scapegoat,Scapegoat
+BG_679.txt,Севастопол,Innocent,Victim,Antagonist,Antagonist,Terrorist,Terrorist
+A9_BG_4576.txt,Полша,Antagonist,Tyrant,Protagonist,Protagonist,Rebel,Rebel
+A9_BG_4189.txt,Великобритания,Antagonist,Instigator,Antagonist,Antagonist,Saboteur,Saboteur
+BG_561.txt,Унгария,Protagonist,Virtuous,Innocent,Innocent,Exploited,Exploited
+BG_628.txt,Русия,Innocent,Forgotten,Innocent,Innocent,Scapegoat,Scapegoat
+A7_URW_BG_7035.txt,Орбан,Protagonist,Rebel,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A9_BG_7303.txt,Тръмп,Antagonist,Incompetent,Innocent,Innocent,Scapegoat,Scapegoat
+BG_548.txt,Кремъл,Antagonist,Deceiver,Innocent,Innocent,Victim,Victim
+A9_BG_8028.txt,Вашингтон,Antagonist,Instigator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_670.txt,Запад,Antagonist,"Conspirator, Instigator, Foreign Adversary",Innocent,Innocent,Scapegoat,Scapegoat
+BG_855.txt,Руската федерация,Protagonist,"Virtuous, Guardian",Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_3909.txt,Русия,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A7_URW_BG_5178.txt,Владимир Путин,Antagonist,Tyrant,Innocent,Innocent,Victim,Victim
+BG_423.txt,САЩ,Antagonist,Foreign Adversary,Innocent,Innocent,Victim,Victim
+BG_457.txt,Северна Корея»,Antagonist,Foreign Adversary,Antagonist,Antagonist,Spy,Spy
+BG_548.txt,Путин,Antagonist,Tyrant,Innocent,Innocent,Victim,Victim
+BG_628.txt,Сергей Шойгу,Antagonist,Incompetent,Innocent,Innocent,Scapegoat,Scapegoat
+A9_BG_3431.txt,Русия,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+A9_BG_3290.txt,Зеленски,Antagonist,Corrupt,Innocent,Innocent,Victim,Victim
+A7_URW_BG_2658.txt,Байдън,Antagonist,Foreign Adversary,Innocent,Innocent,Scapegoat,Scapegoat
+A7_URW_BG_3566.txt,Европа,Antagonist,Foreign Adversary,Antagonist,Antagonist,Corrupt,Corrupt
+BG_559.txt,Сирия,Innocent,Victim,Protagonist,Protagonist,Virtuous,Virtuous
+A9_BG_7303.txt,ЕС,Antagonist,Corrupt,Innocent,Innocent,Scapegoat,Scapegoat
+A9_BG_6875.txt,Европейския съюз,Antagonist,Traitor,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A9_BG_4571.txt,НАТО,Antagonist,Conspirator,Antagonist,Antagonist,Incompetent,Incompetent
+A9_BG_2972.txt,САЩ,Antagonist,Foreign Adversary,Antagonist,Antagonist,Terrorist,Terrorist
+BG_3909.txt,Западните страни,Antagonist,"Instigator, Tyrant",Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_551.txt,Русия,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_5914.txt,Русия,Antagonist,Incompetent,Antagonist,Antagonist,Incompetent,Incompetent
+A9_BG_4978.txt,САЩ,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A9_BG_5082.txt,Володимир Зеленски,Innocent,Scapegoat,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_585.txt,Краснодар,Innocent,Victim,Antagonist,Antagonist,Terrorist,Terrorist
+BG_430.txt,САЩ,Antagonist,Corrupt,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A9_BG_4483.txt,САЩ,Antagonist,Instigator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A6_CC_BG_11388.txt,Bank of America Corp,Antagonist,Saboteur,Innocent,Innocent,Scapegoat,Scapegoat
+BG_456.txt,Байдън,Antagonist,Incompetent,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A9_BG_4844.txt,ВСУ,Antagonist,Terrorist,Antagonist,Antagonist,Terrorist,Terrorist
+BG_1163.txt,ЕС,Antagonist,Incompetent,Innocent,Innocent,Scapegoat,Scapegoat
+BG_473.txt,Запад,Antagonist,Tyrant,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_3364.txt,Украйна,Innocent,Victim,Antagonist,Antagonist,Spy,Spy
+BG_1826.txt,Людмил Кърджилов,Protagonist,Rebel,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_553.txt,Украйна,Innocent,Victim,Protagonist,Protagonist,Underdog,Underdog
+BG_6045.txt,Русия,Antagonist,Incompetent,Innocent,Innocent,Scapegoat,Scapegoat
+A9_BG_5053.txt,Русия,Antagonist,Tyrant,Antagonist,Antagonist,Incompetent,Incompetent
+A9_BG_4272.txt,Западът,Antagonist,Incompetent,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A9_BG_5548.txt,Украйна,Protagonist,Martyr,Protagonist,Protagonist,Peacemaker,Peacemaker
+BG_513.txt,Байдън,Antagonist,Conspirator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_670.txt,САЩ,Antagonist,Instigator,Innocent,Innocent,Scapegoat,Scapegoat
+BG_573.txt,Зеленски,Antagonist,Tyrant,Antagonist,Antagonist,Terrorist,Terrorist
+A9_BG_4898.txt,Владимир Путин,Antagonist,Tyrant,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A7_URW_BG_5448.txt,Зеленски,Antagonist,Incompetent,Antagonist,Antagonist,Corrupt,Corrupt
+A7_URW_BG_6694.txt,Борис Джонсън,Antagonist,Saboteur,Antagonist,Antagonist,Spy,Spy
+BG_629.txt,Великобритания,Innocent,Forgotten,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A9_BG_3290.txt,САЩ,Antagonist,"Conspirator, Foreign Adversary",Innocent,Innocent,Victim,Victim
+A7_URW_BG_2783.txt,Американците,Antagonist,Instigator,Innocent,Innocent,Scapegoat,Scapegoat
+A7_URW_BG_3564.txt,Западът,Antagonist,Instigator,Antagonist,Antagonist,Bigot,Bigot
+A7_URW_BG_5077.txt,Доналд Тръмп,Protagonist,Peacemaker,Protagonist,Protagonist,Peacemaker,Peacemaker
+A9_BG_4216.txt,Франция,Antagonist,Foreign Adversary,Antagonist,Antagonist,Terrorist,Terrorist
+BG_723.txt,ООН,Antagonist,Incompetent,Antagonist,Antagonist,Corrupt,Corrupt
+BG_3284.txt,Германия,Antagonist,Foreign Adversary,Antagonist,Antagonist,Terrorist,Terrorist
+A9_BG_4483.txt,Великобритания,Antagonist,Instigator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A9_BG_3385.txt,Запада,Antagonist,Tyrant,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A7_URW_BG_2710.txt,Европейският съюз,Antagonist,Traitor,Innocent,Innocent,Scapegoat,Scapegoat
+BG_704.txt,Цхинвал,Innocent,Victim,Antagonist,Antagonist,Incompetent,Incompetent
+A9_BG_3672.txt,Запад,Antagonist,"Conspirator, Instigator",Antagonist,Antagonist,Corrupt,Corrupt
+BG_1044.txt,ЕС,Antagonist,Incompetent,Innocent,Innocent,Scapegoat,Scapegoat
+A9_BG_4885.txt,Джо Байдън,Antagonist,Deceiver,Antagonist,Antagonist,Incompetent,Incompetent
+BG_888.txt,JP Morgan,Antagonist,Traitor,Innocent,Innocent,Scapegoat,Scapegoat
+A7_URW_BG_3370.txt,САЩ,Antagonist,Incompetent,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_4884.txt,Украйна,Antagonist,Incompetent,Innocent,Innocent,Scapegoat,Scapegoat
+BG_423.txt,Украйна,Antagonist,Incompetent,Innocent,Innocent,Victim,Victim
+A6_CC_BG_12082.txt,Европейският съюз,Antagonist,Incompetent,Innocent,Innocent,Scapegoat,Scapegoat
+BG_676.txt,Украйна,Innocent,Victim,Innocent,Innocent,Victim,Victim
+BG_559.txt,Украйна,Innocent,Victim,Protagonist,Protagonist,Virtuous,Virtuous
+BG_666.txt,Украйна,Antagonist,Instigator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A9_BG_3586.txt,Blackrock,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+A7_URW_BG_2882.txt,Европейския съюз,Antagonist,Incompetent,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_5470.txt,Путин,Antagonist,Tyrant,Antagonist,Antagonist,Tyrant,Tyrant
+A7_URW_BG_4629.txt,НАТО,Antagonist,Instigator,Innocent,Innocent,Scapegoat,Scapegoat
+BG_576.txt,Съпругата на Владимир Зеленски,Antagonist,Incompetent,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_3909.txt,Западните лидери,Antagonist,Incompetent,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_509.txt,Запада,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+BG_629.txt,САЩ,Antagonist,"Deceiver, Traitor",Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A9_BG_2973.txt,ЕС,Antagonist,Foreign Adversary,Innocent,Innocent,Scapegoat,Scapegoat
+A9_BG_5226.txt,Молдова,Innocent,Victim,Antagonist,Antagonist,Corrupt,Corrupt
+A7_URW_BG_5178.txt,Сахел,Innocent,Victim,Innocent,Innocent,Victim,Victim
+A9_BG_3142.txt,Чхиквадзе,Antagonist,Traitor,Antagonist,Antagonist,Traitor,Traitor
+A9_BG_2566.txt,Литва,Antagonist,Conspirator,Antagonist,Antagonist,Spy,Spy
+A9_BG_4830.txt,украинските ултранацисти,Antagonist,Tyrant,Antagonist,Antagonist,Terrorist,Terrorist
+BG_696.txt,НАТО,Antagonist,"Conspirator, Instigator, Foreign Adversary",Antagonist,Antagonist,Terrorist,Terrorist
+BG_701.txt,Западът,Antagonist,"Instigator, Foreign Adversary",Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A6_CC_BG_11938.txt,ЕС,Protagonist,Guardian,Innocent,Innocent,Victim,Victim
+BG_612.txt,Севастопол,Innocent,Victim,Innocent,Innocent,Victim,Victim
+BG_939.txt,Урсула фон дер Лай/н/ен,Antagonist,Deceiver,Antagonist,Antagonist,Traitor,Traitor
+A9_BG_4658.txt,Русия,Antagonist,Tyrant,Antagonist,Antagonist,Spy,Spy
+A7_URW_BG_8093.txt,Америка,Antagonist,Instigator,Innocent,Innocent,Scapegoat,Scapegoat
+BG_612.txt,ВСУ,Antagonist,Terrorist,Innocent,Innocent,Victim,Victim
+BG_613.txt,Кремъл,Antagonist,Tyrant,Antagonist,Antagonist,Spy,Spy
+BG_4366.txt,Европа,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A7_URW_BG_6700.txt,Съединените щати,Antagonist,Saboteur,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A9_BG_3273.txt,Америка,Antagonist,Foreign Adversary,Antagonist,Antagonist,Traitor,Traitor
+BG_3909.txt,Русия,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_679.txt,Република Крим,Innocent,Victim,Antagonist,Antagonist,Terrorist,Terrorist
+BG_473.txt,Владимир Путин,Antagonist,Conspirator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A9_BG_2963.txt,Западът,Antagonist,Incompetent,Innocent,Innocent,Scapegoat,Scapegoat
+BG_3867.txt,Украйна,Antagonist,Incompetent,Protagonist,Protagonist,Peacemaker,Peacemaker
+BG_555.txt,Украйна,Antagonist,Corrupt,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A7_URW_BG_5078.txt,Владимир Путин,Antagonist,Tyrant,Innocent,Innocent,Scapegoat,Scapegoat
+A7_URW_BG_4906.txt,патриарх Даниил,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_699.txt,Русия,Innocent,Victim,Innocent,Innocent,Scapegoat,Scapegoat
+A9_BG_4851.txt,Запада,Antagonist,Incompetent,Protagonist,Protagonist,Rebel,Rebel
+A7_URW_BG_3566.txt,Руската федерация,Innocent,Exploited,Antagonist,Antagonist,Corrupt,Corrupt
+A9_BG_5965.txt,Зеленски,Antagonist,Traitor,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_3351.txt,Путин,Protagonist,Peacemaker,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_637.txt,Урсула,Antagonist,Incompetent,Innocent,Innocent,Scapegoat,Scapegoat
+BG_696.txt,Лондон,Antagonist,Instigator,Antagonist,Antagonist,Terrorist,Terrorist
+BG_497.txt,Севастопол,Innocent,Victim,Antagonist,Antagonist,Terrorist,Terrorist
+BG_616.txt,Севастопол,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A9_BG_7720.txt,Зеленски,Antagonist,Corrupt,Antagonist,Antagonist,Corrupt,Corrupt
+BG_3759.txt,САЩ,Antagonist,"Conspirator, Foreign Adversary",Innocent,Innocent,Scapegoat,Scapegoat
+A7_URW_BG_2596.txt,Европа,Antagonist,Instigator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A9_BG_3675.txt,Макрон,Antagonist,Incompetent,Innocent,Innocent,Scapegoat,Scapegoat
+A9_BG_4389.txt,Путин,Protagonist,Peacemaker,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_1352.txt,Кузман Илиев,Protagonist,Rebel,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A7_URW_BG_2882.txt,Йенс Столтенберг,Antagonist,Tyrant,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_560.txt,Владимир Путин,Antagonist,Instigator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_521.txt,Киев,Antagonist,Corrupt,Antagonist,Antagonist,Terrorist,Terrorist
+BG_508.txt,САЩ,Antagonist,"Conspirator, Foreign Adversary",Protagonist,Protagonist,Rebel,Rebel
+BG_679.txt,САЩ,Antagonist,Instigator,Antagonist,Antagonist,Terrorist,Terrorist
+BG_629.txt,Аржентина,Antagonist,Terrorist,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_637.txt,Шолц,Antagonist,Incompetent,Innocent,Innocent,Scapegoat,Scapegoat
+A9_BG_4576.txt,Украйна,Protagonist,Martyr,Protagonist,Protagonist,Rebel,Rebel
+A9_BG_4116.txt,Европа,Protagonist,Martyr,Innocent,Innocent,Scapegoat,Scapegoat
+BG_3079.txt,НАТО,Antagonist,"Conspirator, Foreign Adversary",Antagonist,Antagonist,Corrupt,Corrupt
+BG_481.txt,Русия,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_6019.txt,Борис Джонсън,Antagonist,"Instigator, Foreign Adversary",Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A7_URW_BG_5077.txt,Европейският съюз,Antagonist,Conspirator,Protagonist,Protagonist,Peacemaker,Peacemaker
+A9_BG_3543.txt,САЩ,Antagonist,Foreign Adversary,Antagonist,Antagonist,Incompetent,Incompetent
+A9_BG_4197.txt,НАТО,Antagonist,Incompetent,Antagonist,Antagonist,Incompetent,Incompetent
+BG_8453.txt,Украйна,Antagonist,Incompetent,Antagonist,Antagonist,Incompetent,Incompetent
+A9_BG_2973.txt,Кишинев,Antagonist,Incompetent,Innocent,Innocent,Scapegoat,Scapegoat
+BG_696.txt,Брюксел,Antagonist,Instigator,Antagonist,Antagonist,Terrorist,Terrorist
+A9_BG_4216.txt,НАТО,Antagonist,Conspirator,Antagonist,Antagonist,Terrorist,Terrorist
+A7_URW_BG_2783.txt,Западът,Antagonist,Instigator,Innocent,Innocent,Scapegoat,Scapegoat
+A7_URW_BG_2783.txt,Санду,Antagonist,Corrupt,Innocent,Innocent,Scapegoat,Scapegoat
+BG_699.txt,Украйна,Antagonist,Foreign Adversary,Innocent,Innocent,Scapegoat,Scapegoat
+BG_7379.txt,Украйна,Antagonist,Incompetent,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A9_BG_3390.txt,Вашингтон,Antagonist,Conspirator,Antagonist,Antagonist,Terrorist,Terrorist
+A9_BG_3672.txt,Русия,Innocent,Victim,Antagonist,Antagonist,Corrupt,Corrupt
+A7_URW_BG_2969.txt,НАТО,Antagonist,Instigator,Antagonist,Antagonist,Incompetent,Incompetent
+BG_839.txt,Володимир Зеленски,Protagonist,Peacemaker,Innocent,Innocent,Victim,Victim
+BG_699.txt,Франция,Antagonist,"Conspirator, Instigator, Foreign Adversary",Innocent,Innocent,Scapegoat,Scapegoat
+BG_799.txt,САЩ,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_3867.txt,Руската федерация,Innocent,Victim,Protagonist,Protagonist,Peacemaker,Peacemaker
+A9_BG_3109.txt,Джо Байдън,Antagonist,"Instigator, Foreign Adversary",Antagonist,Antagonist,Spy,Spy
+BG_5918.txt,Украйна,Antagonist,Incompetent,Antagonist,Antagonist,Incompetent,Incompetent
+A9_BG_3779.txt,Шолц,Antagonist,Saboteur,Innocent,Innocent,Scapegoat,Scapegoat
+A7_URW_BG_5634.txt,Москва,Antagonist,Tyrant,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_704.txt,Югославия,Innocent,Victim,Antagonist,Antagonist,Incompetent,Incompetent
+BG_473.txt,Владимир Зеленски,Innocent,Exploited,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_582.txt,Путин,Antagonist,Instigator,Innocent,Innocent,Scapegoat,Scapegoat
+BG_629.txt,Украйна,Innocent,Exploited,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A9_BG_7303.txt,Буш,Antagonist,Incompetent,Innocent,Innocent,Scapegoat,Scapegoat
+BG_4366.txt,украинските въоръжени сили,Antagonist,Incompetent,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_548.txt,Украйна,Innocent,Victim,Innocent,Innocent,Victim,Victim
+BG_4228.txt,Виетнам,Protagonist,Virtuous,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A7_URW_BG_4230.txt,Байдън,Antagonist,Incompetent,Antagonist,Antagonist,Incompetent,Incompetent
+BG_624.txt,Руската федерация,Innocent,Victim,Antagonist,Antagonist,Incompetent,Incompetent
+A9_BG_3142.txt,Украйна,Antagonist,Corrupt,Antagonist,Antagonist,Traitor,Traitor
+BG_699.txt,Великобритания,Antagonist,"Conspirator, Instigator, Foreign Adversary",Innocent,Innocent,Scapegoat,Scapegoat
+BG_548.txt,България,Innocent,Victim,Innocent,Innocent,Victim,Victim
+BG_869.txt,Байдън,Antagonist,Incompetent,Antagonist,Antagonist,Tyrant,Tyrant
+BG_701.txt,Европейският съюз,Antagonist,"Conspirator, Instigator, Foreign Adversary",Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_504.txt,САЩ,Antagonist,Conspirator,Innocent,Innocent,Exploited,Exploited
+A7_URW_BG_5857.txt,НАТО,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_529.txt,Севастопол,Innocent,Victim,Antagonist,Antagonist,Terrorist,Terrorist
+BG_624.txt,Русия,Innocent,Victim,Antagonist,Antagonist,Incompetent,Incompetent
+A7_URW_BG_5683.txt,Франция,Protagonist,Guardian,Innocent,Innocent,Scapegoat,Scapegoat
+BG_5406.txt,Володимир Зеленски,Protagonist,Rebel,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_895.txt,Брюксел,Antagonist,Tyrant,Innocent,Innocent,Exploited,Exploited
+BG_430.txt,Русия,Innocent,Scapegoat,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_670.txt,Украйна,Antagonist,Foreign Adversary,Innocent,Innocent,Scapegoat,Scapegoat
+A7_URW_BG_2882.txt,НАТО,Antagonist,Incompetent,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A7_URW_BG_4793.txt,Съединените американски щати,Antagonist,Tyrant,Innocent,Innocent,Victim,Victim
+BG_4819.txt,В. Зеленски,Protagonist,Peacemaker,Innocent,Innocent,Victim,Victim
+BG_585.txt,киевския режим,Antagonist,Instigator,Antagonist,Antagonist,Terrorist,Terrorist
+BG_4366.txt,Съединените щати,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A9_BG_4971.txt,Русия,Antagonist,Tyrant,Innocent,Innocent,Scapegoat,Scapegoat
+BG_684.txt,Украйна,Antagonist,Instigator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A6_CC_BG_10345.txt,Английският комитет по изменение на климата (CCC,Antagonist,Incompetent,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_4613.txt,Запада,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_553.txt,Русия,Protagonist,Peacemaker,Protagonist,Protagonist,Underdog,Underdog
+BG_704.txt,Русия,Protagonist,Peacemaker,Antagonist,Antagonist,Incompetent,Incompetent
+A9_BG_3182.txt,Запада,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_4624.txt,Украйна,Antagonist,Incompetent,Protagonist,Protagonist,Peacemaker,Peacemaker
+BG_480.txt,Ермак,Antagonist,Incompetent,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_894.txt,Европа,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A7_URW_BG_4359.txt,Зеленски,Antagonist,Incompetent,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_678.txt,Украйна,Innocent,Victim,Antagonist,Antagonist,Deceiver,Deceiver
+BG_559.txt,Вашингтон,Innocent,Victim,Protagonist,Protagonist,Virtuous,Virtuous
+BG_576.txt,Украйна,Antagonist,Bigot,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A9_BG_4839.txt,Украйна,Innocent,"Exploited, Victim",Innocent,Innocent,Scapegoat,Scapegoat
+BG_551.txt,Западът,Antagonist,"Instigator, Foreign Adversary",Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A6_CC_BG_8841.txt,WWF България,Protagonist,Guardian,Innocent,Innocent,Victim,Victim
+BG_869.txt,Володимир Зеленски,Protagonist,Underdog,Antagonist,Antagonist,Tyrant,Tyrant
+A8_CC_BG_8534.txt,Русия,Protagonist,Virtuous,Antagonist,Antagonist,Terrorist,Terrorist
+A9_BG_6815.txt,Молдова,Innocent,Victim,Antagonist,Antagonist,Corrupt,Corrupt
+A9_BG_4189.txt,Вашингтон,Antagonist,Saboteur,Antagonist,Antagonist,Saboteur,Saboteur
+A7_URW_BG_3564.txt,Владимир Путин,Protagonist,Guardian,Antagonist,Antagonist,Bigot,Bigot
+A7_URW_BG_5925.txt,Мелони,Antagonist,Deceiver,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A9_BG_6875.txt,Европа,Protagonist,Martyr,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A9_BG_4272.txt,Съединените американски щати,Antagonist,Incompetent,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A9_BG_4389.txt,Владимир Зеленски,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A7_URW_BG_3919.txt,Байдън,Antagonist,Incompetent,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_684.txt,Саакашвили,Antagonist,"Instigator, Terrorist",Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_430.txt,Тръмп,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A7_URW_BG_5634.txt,Киев,Protagonist,Underdog,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_666.txt,Русия,Protagonist,Rebel,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_839.txt,Европа,Protagonist,Guardian,Innocent,Innocent,Victim,Victim
+BG_3909.txt,Западът,Antagonist,"Conspirator, Instigator, Foreign Adversary",Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_637.txt,Макрон,Antagonist,Incompetent,Innocent,Innocent,Scapegoat,Scapegoat
+BG_463.txt,Съединените щати,Antagonist,Instigator,Innocent,Innocent,Scapegoat,Scapegoat
+A7_URW_BG_5925.txt,Урсула фон дер Лайен,Antagonist,Incompetent,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A7_URW_BG_6975.txt,Владимир Путин,Protagonist,Guardian,Innocent,Innocent,Exploited,Exploited
+A9_BG_2566.txt,Естония,Antagonist,Conspirator,Antagonist,Antagonist,Spy,Spy
+BG_676.txt,украинският народ,Innocent,Victim,Innocent,Innocent,Victim,Victim
+BG_624.txt,Украинските въоръжени сили (ВСУ,Antagonist,Terrorist,Antagonist,Antagonist,Incompetent,Incompetent
+A7_URW_BG_2962.txt,САЩ,Antagonist,Conspirator,Innocent,Innocent,Scapegoat,Scapegoat
+BG_8455.txt,Украйна,Antagonist,Corrupt,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A9_BG_3734.txt,Русия,Antagonist,Incompetent,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_799.txt,Севастопол,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A9_BG_3599.txt,Словакия,Protagonist,Rebel,Protagonist,Protagonist,Peacemaker,Peacemaker
+A6_CC_BG_10345.txt,Крис Старк,Antagonist,Deceiver,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A9_BG_3818.txt,Киев,Antagonist,Terrorist,Antagonist,Antagonist,Terrorist,Terrorist
+BG_684.txt,Турция,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_4845.txt,Въоръжените сили на Украйна,Antagonist,Incompetent,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+A9_BG_3652.txt,ЕС,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_4188.txt,Зеленски,Antagonist,"Incompetent, Corrupt",Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+BG_435.txt,Вашингтон,Antagonist,Tyrant,Antagonist,Antagonist,Spy,Spy
+A9_BG_3204.txt,Олаф Шолц,Antagonist,Incompetent,Antagonist,Antagonist,Terrorist,Terrorist
+A9_BG_3779.txt,Макрон,Antagonist,Saboteur,Innocent,Innocent,Scapegoat,Scapegoat
+BG_869.txt,Владимир Путин,Antagonist,"Terrorist, Tyrant",Antagonist,Antagonist,Tyrant,Tyrant
+BG_508.txt,Украйна,Antagonist,"Bigot, Tyrant",Protagonist,Protagonist,Rebel,Rebel
+A7_URW_BG_5077.txt,Джо Байдън,Antagonist,Incompetent,Protagonist,Protagonist,Peacemaker,Peacemaker
+A9_BG_7303.txt,Обама,Antagonist,Incompetent,Innocent,Innocent,Scapegoat,Scapegoat

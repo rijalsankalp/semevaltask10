@@ -1,0 +1,2332 @@
+article_id,ent_span,main_role,fine_grained_roles,max_main_role,avg_main_role,max_fg_role,avg_fg_role
+HI_340.txt,यूक्रेन,Innocent,Exploited,Innocent,Innocent,Forgotten,Forgotten
+HI_43.txt,मोदी,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_391.txt,नाटो,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_113.txt,पुतिन,Antagonist,Deceiver,Innocent,Innocent,Forgotten,Forgotten
+HI_255.txt,रूस की सेना,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_86.txt,नई दिल्ली,Protagonist,"Virtuous, Guardian",Innocent,Innocent,Victim,Victim
+HI_336.txt,हेमिल,Innocent,Exploited,Innocent,Innocent,Forgotten,Forgotten
+HI_251.txt,कीर स्टार्मर,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_360.txt,ट्रंप,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_311.txt,लॉयड ऑस्टिन,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_228.txt,यूक्रेन,Protagonist,Underdog,Antagonist,Antagonist,Saboteur,Saboteur
+HI_274.txt,रूसी लड़ाकू,Antagonist,"Foreign Adversary, Tyrant",Antagonist,Antagonist,Saboteur,Saboteur
+HI_304.txt,पुतिन,Protagonist,"Rebel, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_123.txt,राष्ट्रपति जेलेंस्की,Protagonist,Virtuous,Protagonist,Protagonist,Peacemaker,Peacemaker
+HI_389.txt,पेसकोव,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_282.txt,ज़ेलेंस्की,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_55.txt,USSR 1991,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_55.txt,रूस,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_374.txt,पुतिन,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_2.txt,अमेरिका,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_89.txt,पश्चिमी देशों,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_106.txt,रूस,Protagonist,"Virtuous, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_286.txt,दक्षिण कोरियाई खुफिया एजेंसियों,Protagonist,Virtuous,Antagonist,Antagonist,Tyrant,Tyrant
+HI_102.txt,यूक्रेन,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_223.txt,यूक्रेन,Antagonist,Deceiver,Antagonist,Antagonist,Saboteur,Saboteur
+HI_102.txt,रूसी,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+HI_313.txt,रूसी सैनिक,Protagonist,"Rebel, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_153.txt,क्रेमिना,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_112.txt,यूक्रेनी इकाइयों,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_285.txt,रूस,Protagonist,Rebel,Antagonist,Antagonist,Tyrant,Tyrant
+HI_55.txt,पुतिन,Innocent,Exploited,Innocent,Innocent,Forgotten,Forgotten
+HI_370.txt,अमेरिका,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_7.txt,रूस,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_197.txt,यूक्रेनी सेना,Protagonist,"Rebel, Underdog",Innocent,Innocent,Forgotten,Forgotten
+HI_6.txt,यूक्रेन,Innocent,Forgotten,Antagonist,Antagonist,Bigot,Bigot
+HI_321.txt,रूस,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_119.txt,कुकी,Innocent,Forgotten,Innocent,Innocent,Forgotten,Forgotten
+HI_316.txt,रूस-,Protagonist,Rebel,Innocent,Innocent,Forgotten,Forgotten
+HI_378.txt,एलन मेंडोजा,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_7.txt,भारत,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_243.txt,पश्चिमी देशों,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_113.txt,रूस,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+HI_124.txt,जर्मनी,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_400.txt,यूक्रेन,Protagonist,"Rebel, Underdog",Innocent,Innocent,Forgotten,Forgotten
+HI_274.txt,रूस,Antagonist,"Foreign Adversary, Tyrant",Antagonist,Antagonist,Saboteur,Saboteur
+HI_225.txt,जेलेंस्की,Protagonist,"Rebel, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_45.txt,व्लादिमीर पुतिन,Antagonist,Deceiver,Protagonist,Protagonist,Rebel,Rebel
+HI_45.txt,क्रासिकोव,Protagonist,Guardian,Protagonist,Protagonist,Rebel,Rebel
+HI_195.txt,जवाहरलाल नेहरू,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_175.txt,रूसी सैनिक,Antagonist,"Foreign Adversary, Tyrant",Innocent,Innocent,Forgotten,Forgotten
+HI_229.txt,कुर्क्स,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_2.txt,पश्चिमी,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_94.txt,Reuters,Antagonist,Deceiver,Innocent,Innocent,Forgotten,Forgotten
+HI_147.txt,भारत,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_314.txt,अल्पसंख्यकों,Innocent,"Exploited, Victim",Innocent,Innocent,Forgotten,Forgotten
+HI_358.txt,मोदी,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_305.txt,रूसियों,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+HI_395.txt,उत्तर कोरियाई सैनिकों,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_58.txt,भारत-,Protagonist,Guardian,Protagonist,Protagonist,Guardian,Guardian
+HI_259.txt,यूक्रेनी सेना,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_401.txt,बाइडेन,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_42.txt,रूसी सेना,Antagonist,Tyrant,Innocent,Innocent,Forgotten,Forgotten
+HI_55.txt,अमेरिका,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_112.txt,एलेक्सी स्मिरनोव,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_253.txt,उलरिच कुहेन,Protagonist,Virtuous,Antagonist,Antagonist,Saboteur,Saboteur
+HI_312.txt,अमेरिकी सरकार,Antagonist,"Incompetent, Foreign Adversary",Antagonist,Antagonist,Instigator,Instigator
+HI_162.txt,व्लादिमीर पुतिन,Protagonist,Rebel,Innocent,Innocent,Forgotten,Forgotten
+HI_254.txt,नरेंद्र मोदी,Protagonist,"Virtuous, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_175.txt,कॉन्स्टेंटिन रेज़ेंको,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_372.txt,रूस,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_45.txt,क्रासिकोव,Antagonist,Terrorist,Protagonist,Protagonist,Rebel,Rebel
+HI_118.txt,यूरोप,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_196.txt,व्लादिमीर ज़ेलेंस्की,Protagonist,"Guardian, Underdog",Innocent,Innocent,Forgotten,Forgotten
+HI_84.txt,भारत,Protagonist,"Virtuous, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_320.txt,अमेरिका,Protagonist,"Virtuous, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_46.txt,नाटो,Antagonist,Corrupt,Antagonist,Antagonist,Saboteur,Saboteur
+HI_216.txt,यूक्रेन,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+HI_357.txt,बाइडन,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_322.txt,यूक्रेन,Protagonist,Underdog,Antagonist,Antagonist,Saboteur,Saboteur
+HI_272.txt,एलेक्सी नवेलनी,Protagonist,Rebel,Antagonist,Antagonist,Saboteur,Saboteur
+HI_255.txt,रणधीर जायसवाल,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_49.txt,पश्चिम देशों,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_388.txt,अमेरिका,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_390.txt,यूक्रेन,Protagonist,Underdog,Antagonist,Antagonist,Saboteur,Saboteur
+HI_55.txt,USSR,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_193.txt,क्वाड नेताओं,Protagonist,Virtuous,Antagonist,Antagonist,Saboteur,Saboteur
+HI_45.txt,अमेरिका,Protagonist,Peacemaker,Protagonist,Protagonist,Rebel,Rebel
+HI_311.txt,जो बाइडेन,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_301.txt,डोनाल्ड ट्रंप,Protagonist,"Rebel, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_50.txt,गगनदीप सिंह,Innocent,"Exploited, Victim",Innocent,Innocent,Forgotten,Forgotten
+HI_254.txt,युवक,Innocent,"Exploited, Victim",Innocent,Innocent,Forgotten,Forgotten
+HI_312.txt,कनाडा,Antagonist,Foreign Adversary,Antagonist,Antagonist,Instigator,Instigator
+HI_61.txt,भारत,Antagonist,Conspirator,Innocent,Innocent,Forgotten,Forgotten
+HI_27.txt,केंद्र सरकार,Antagonist,Traitor,Innocent,Innocent,Forgotten,Forgotten
+HI_400.txt,रूस,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_142.txt,संतोष कुमार मल्ल,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_307.txt,उत्तर कोरिया,Protagonist,"Rebel, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_33.txt,रूस,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_394.txt,एंटनी ब्लिंकन,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_82.txt,पीएम मोदी,Protagonist,Peacemaker,Protagonist,Protagonist,Peacemaker,Peacemaker
+HI_176.txt,अमेरिका,Antagonist,"Foreign Adversary, Deceiver",Innocent,Innocent,Forgotten,Forgotten
+HI_66.txt,चीन,Antagonist,Foreign Adversary,Innocent,Innocent,Victim,Victim
+HI_286.txt,योनहाप समाचार एजेंसी,Protagonist,Virtuous,Antagonist,Antagonist,Tyrant,Tyrant
+HI_217.txt,जेलेंस्की,Antagonist,Incompetent,Innocent,Innocent,Forgotten,Forgotten
+HI_379.txt,रूस,Protagonist,Rebel,Antagonist,Antagonist,Saboteur,Saboteur
+HI_178.txt,रूस,Antagonist,Tyrant,Antagonist,Antagonist,Saboteur,Saboteur
+HI_284.txt,राजनयिकों,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_202.txt,यूक्रेन,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+HI_390.txt,वोलोदिमीर जेलेंस्की,Protagonist,"Guardian, Underdog",Antagonist,Antagonist,Saboteur,Saboteur
+HI_27.txt,मणिपुर,Innocent,Forgotten,Innocent,Innocent,Forgotten,Forgotten
+HI_23.txt,अमेरिकी,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_312.txt,अमेरिका,Protagonist,Virtuous,Antagonist,Antagonist,Instigator,Instigator
+HI_249.txt,व्लादिमीर पुतिन,Protagonist,"Rebel, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_163.txt,पीएम मोदी,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_278.txt,यूक्रेन,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_378.txt,यूक्रेन,Protagonist,"Rebel, Underdog",Innocent,Innocent,Forgotten,Forgotten
+HI_187.txt,भारत,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_60.txt,रूस,Antagonist,Corrupt,Antagonist,Antagonist,Saboteur,Saboteur
+HI_315.txt,व्लादिमीर पुतिन,Protagonist,"Virtuous, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_326.txt,यूक्रेन,Protagonist,Underdog,Antagonist,Antagonist,Saboteur,Saboteur
+HI_117.txt,रूस,Antagonist,Foreign Adversary,Innocent,Innocent,Victim,Victim
+HI_249.txt,अमेरिका,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_30.txt,पुतिन,Antagonist,Deceiver,Innocent,Innocent,Forgotten,Forgotten
+HI_308.txt,उत्तर कोरिया,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_70.txt,रूस,Antagonist,Corrupt,Innocent,Innocent,Forgotten,Forgotten
+HI_22.txt,अवदीवका,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_203.txt,पश्चिम एशिया,Innocent,Exploited,Antagonist,Antagonist,Terrorist,Terrorist
+HI_155.txt,यूक्रेन,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_386.txt,व्लादिमीर पुतिन,Protagonist,"Rebel, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_253.txt,रूस,Protagonist,Rebel,Antagonist,Antagonist,Saboteur,Saboteur
+HI_388.txt,यूक्रेन,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_271.txt,रूस,Antagonist,Tyrant,Antagonist,Antagonist,Saboteur,Saboteur
+HI_96.txt,रूस,Antagonist,Tyrant,Innocent,Innocent,Forgotten,Forgotten
+HI_29.txt,सुरक्षा गार्ड,Innocent,Victim,Antagonist,Antagonist,Terrorist,Terrorist
+HI_368.txt,जो बाइडन,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_179.txt,रॉयटर्स,Antagonist,"Instigator, Deceiver",Innocent,Innocent,Forgotten,Forgotten
+HI_342.txt,एंद्रेई येरमाक,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_319.txt,रूस,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_389.txt,यूक्रेन,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_267.txt,जेलेंस्की,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_153.txt,जनरल स्टाफ,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_331.txt,यूक्रेन,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_124.txt,जेलेंस्की,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_391.txt,जो बाइडेन,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_257.txt,रूस के रक्षा मंत्रालय,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_7.txt,रूस,Antagonist,Deceiver,Innocent,Innocent,Forgotten,Forgotten
+HI_362.txt,रूसी,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+HI_248.txt,12 लोग,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_40.txt,वादिम क्रासिकोव,Antagonist,Spy,Innocent,Innocent,Forgotten,Forgotten
+HI_16.txt,भारतीयों,Innocent,"Exploited, Scapegoat",Innocent,Innocent,Forgotten,Forgotten
+HI_47.txt,मोदी,Protagonist,Peacemaker,Antagonist,Antagonist,Saboteur,Saboteur
+HI_46.txt,चीन,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_235.txt,दुनिया,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_55.txt,रूस,Antagonist,"Saboteur, Instigator",Innocent,Innocent,Forgotten,Forgotten
+HI_234.txt,महाराष्ट्र,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_124.txt,अशरफ गनी,Antagonist,Incompetent,Innocent,Innocent,Forgotten,Forgotten
+HI_23.txt,व्लादिमीर पुतिन,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_266.txt,यूक्रेन,Innocent,Victim,Antagonist,Antagonist,Tyrant,Tyrant
+HI_201.txt,भारत,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_361.txt,रूस,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_218.txt,अमेरिका,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_264.txt,दक्षिण कोरिया,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_70.txt,क्रीमियाई तातर मुसलमान,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_390.txt,रूस,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_187.txt,मोदी,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_272.txt,चरमपंथ,Antagonist,Saboteur,Antagonist,Antagonist,Saboteur,Saboteur
+HI_113.txt,निकिता ख्रुश्चेव,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_217.txt,डोनाल्ड ट्रंप,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_394.txt,बाइेडन प्रशासन,Protagonist,Rebel,Innocent,Innocent,Forgotten,Forgotten
+HI_357.txt,यूक्रेनी,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_231.txt,लद्दाख की जनता,Innocent,"Exploited, Victim",Antagonist,Antagonist,Saboteur,Saboteur
+HI_33.txt,वेस्टर्न मिलिट्री डिस्ट्रिक्ट,Innocent,Exploited,Innocent,Innocent,Forgotten,Forgotten
+HI_395.txt,कीव,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_32.txt,फाइनेंशियल टाइम्स,Antagonist,Saboteur,Antagonist,Antagonist,Saboteur,Saboteur
+HI_389.txt,अमेरिका,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_310.txt,उत्तर कोरिया,Protagonist,"Virtuous, Guardian",Antagonist,Antagonist,Tyrant,Tyrant
+HI_77.txt,शहर प्रशासन,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_259.txt,कीव,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_193.txt,विक्रम मिस्री,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_325.txt,डेमोक्रेटिक पार्टी,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_250.txt,विदेशी मीडिया,Antagonist,Saboteur,Innocent,Innocent,Forgotten,Forgotten
+HI_117.txt,रूस,Protagonist,Guardian,Innocent,Innocent,Victim,Victim
+HI_337.txt,रूस,Antagonist,Tyrant,Innocent,Innocent,Forgotten,Forgotten
+HI_24.txt,जेलेन्स्की,Antagonist,Saboteur,Innocent,Innocent,Victim,Victim
+HI_47.txt,मोदी,Protagonist,Virtuous,Antagonist,Antagonist,Saboteur,Saboteur
+HI_27.txt,नरेंद्र मोदी,Antagonist,Bigot,Innocent,Innocent,Forgotten,Forgotten
+HI_54.txt,नाटो,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_22.txt,रूस,Antagonist,Bigot,Innocent,Innocent,Forgotten,Forgotten
+HI_2.txt,वॉशिंगटन,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_311.txt,मार्क रूट,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_124.txt,पोलैंड,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_55.txt,रूसी एलिट्स,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_202.txt,नागरिकों,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_246.txt,यूक्रेन की वायु सेना,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_113.txt,जो बाइडेन,Protagonist,"Peacemaker, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_79.txt,यूक्रेन,Antagonist,Deceiver,Innocent,Innocent,Forgotten,Forgotten
+HI_312.txt,बिडेन,Antagonist,Foreign Adversary,Antagonist,Antagonist,Instigator,Instigator
+HI_235.txt,गाजा,Innocent,Forgotten,Antagonist,Antagonist,Saboteur,Saboteur
+HI_383.txt,डोनाल्ड ट्रंप,Protagonist,"Virtuous, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_385.txt,ब्रांस्क,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_181.txt,मोदी,Protagonist,Virtuous,Antagonist,Antagonist,Saboteur,Saboteur
+HI_318.txt,आंद्रेई सिनिसिन,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_247.txt,रूसी सेना,Antagonist,Tyrant,Antagonist,Antagonist,Saboteur,Saboteur
+HI_307.txt,विदेश मंत्री,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_316.txt,पुतिन,Protagonist,"Virtuous, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_221.txt,अमेरिका,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_234.txt,ईएसआरआई इंडिया,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_303.txt,नागरिक,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_231.txt,लद्दाख,Protagonist,"Rebel, Virtuous",Antagonist,Antagonist,Saboteur,Saboteur
+HI_373.txt,रूस,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_239.txt,हिमालय,Innocent,Victim,Antagonist,Antagonist,Instigator,Instigator
+HI_277.txt,व्लादिमीर पुतिन,Antagonist,"Conspirator, Tyrant",Antagonist,Antagonist,Spy,Spy
+HI_379.txt,पश्चिमी देश,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_104.txt,यूक्रेन,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_396.txt,यूक्रेन,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_101.txt,मोदी,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_169.txt,यूक्रेन,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+HI_70.txt,ईरान,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_372.txt,रूस,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_239.txt,भगीरथी,Innocent,Victim,Antagonist,Antagonist,Instigator,Instigator
+HI_388.txt,मास्को,Protagonist,Rebel,Antagonist,Antagonist,Saboteur,Saboteur
+HI_55.txt,पुतिन,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_311.txt,बाइडेन,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_80.txt,अमेरिकी,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_32.txt,रूस,Antagonist,"Conspirator, Corrupt",Antagonist,Antagonist,Saboteur,Saboteur
+HI_327.txt,यूक्रेन,Protagonist,Underdog,Antagonist,Antagonist,Saboteur,Saboteur
+HI_316.txt,व्लादिमीर पुतिन,Protagonist,"Virtuous, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_206.txt,भारत सरकार,Protagonist,Guardian,Antagonist,Antagonist,Traitor,Traitor
+HI_118.txt,पोलैंड,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_168.txt,टीएस तिरुमूर्ति,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_74.txt,स्विट्जरलैंड,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_206.txt,नागरिकों,Innocent,Victim,Antagonist,Antagonist,Traitor,Traitor
+HI_46.txt,ब्राज़ील,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_44.txt,भारत,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_255.txt,रूस,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_397.txt,नाटो,Antagonist,Tyrant,Innocent,Innocent,Forgotten,Forgotten
+HI_254.txt,यूक्रेन,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_226.txt,खारकीव,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_83.txt,यूक्रेन,Innocent,Victim,Protagonist,Protagonist,Martyr,Martyr
+HI_312.txt,भारतीय,Innocent,"Exploited, Victim",Antagonist,Antagonist,Instigator,Instigator
+HI_120.txt,अमेरिका,Antagonist,Deceiver,Antagonist,Antagonist,Saboteur,Saboteur
+HI_249.txt,यूक्रेन,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_286.txt,यूक्रेन,Innocent,Victim,Antagonist,Antagonist,Tyrant,Tyrant
+HI_112.txt,यूक्रेनी सैनिकों,Antagonist,Terrorist,Innocent,Innocent,Forgotten,Forgotten
+HI_226.txt,बाइडेन,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_66.txt,मॉस्को,Protagonist,Guardian,Innocent,Innocent,Victim,Victim
+HI_59.txt,नरेंद्र मोदी,Antagonist,"Incompetent, Deceiver",Innocent,Innocent,Victim,Victim
+HI_46.txt,यूक्रेन,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_41.txt,रूस,Antagonist,Conspirator,Antagonist,Antagonist,Saboteur,Saboteur
+HI_1.txt,राष्ट्रपति पुतिन,Protagonist,Virtuous,Antagonist,Antagonist,Saboteur,Saboteur
+HI_153.txt,सेवरोडोनेट्स,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_327.txt,रूस,Protagonist,Rebel,Antagonist,Antagonist,Saboteur,Saboteur
+HI_248.txt,बच्ची,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_285.txt,रूस,Antagonist,Incompetent,Antagonist,Antagonist,Tyrant,Tyrant
+HI_165.txt,सैनिकों,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_397.txt,व्लादिमीर पुतिन,Protagonist,"Virtuous, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_128.txt,ट्रंप,Antagonist,Bigot,Innocent,Innocent,Forgotten,Forgotten
+HI_285.txt,यूक्रेन,Innocent,Victim,Antagonist,Antagonist,Tyrant,Tyrant
+HI_314.txt,डोनल्ड ट्रंप,Protagonist,"Virtuous, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_161.txt,पुतिन,Protagonist,Rebel,Innocent,Innocent,Forgotten,Forgotten
+HI_187.txt,भारत,Protagonist,"Peacemaker, Virtuous",Innocent,Innocent,Forgotten,Forgotten
+HI_321.txt,यूक्रेनी सेना,Protagonist,"Guardian, Underdog",Antagonist,Antagonist,Saboteur,Saboteur
+HI_6.txt,यूक्रेन,Antagonist,Traitor,Antagonist,Antagonist,Bigot,Bigot
+HI_123.txt,चीन,Antagonist,Deceiver,Protagonist,Protagonist,Peacemaker,Peacemaker
+HI_3.txt,अमेरिका,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_312.txt,भारत,Protagonist,"Rebel, Virtuous",Antagonist,Antagonist,Instigator,Instigator
+HI_155.txt,भारत,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_225.txt,मॉस्को,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_22.txt,यूक्रेन,Antagonist,Corrupt,Innocent,Innocent,Forgotten,Forgotten
+HI_245.txt,मार्क रूते,Protagonist,"Virtuous, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_113.txt,प्रदर्शनकारी,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_379.txt,क्रेमलिन,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_117.txt,चीन,Antagonist,Foreign Adversary,Innocent,Innocent,Victim,Victim
+HI_117.txt,रूस,Antagonist,Terrorist,Innocent,Innocent,Victim,Victim
+HI_312.txt,भारत,Innocent,"Exploited, Victim",Antagonist,Antagonist,Instigator,Instigator
+HI_50.txt,केंद्र सरकार,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_98.txt,पुतिन,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_123.txt,चीन,Antagonist,Deceiver,Protagonist,Protagonist,Peacemaker,Peacemaker
+HI_172.txt,व्लादिमीर पुतिन,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+HI_48.txt,जमात नुसरत अल-इस्लाम वाल मुस्लिमीन (JNIM,Antagonist,Terrorist,Protagonist,Protagonist,Rebel,Rebel
+HI_315.txt,पुतिन,Protagonist,"Virtuous, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_138.txt,विष्णु देव साय,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_234.txt,हिमाचल प्रदेश,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_43.txt,भारत,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_117.txt,ताजिकिस्तान,Innocent,Victim,Innocent,Innocent,Victim,Victim
+HI_55.txt,रूस,Protagonist,"Peacemaker, Virtuous, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_230.txt,भारत,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_22.txt,पश्चिमी देशों,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_348.txt,यूरोपीय संघ,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_284.txt,रूसी राजनयिकों,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_228.txt,कीव,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_272.txt,नवेलनी,Protagonist,Rebel,Antagonist,Antagonist,Saboteur,Saboteur
+HI_273.txt,पेस्कोव,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_32.txt,भारत,Antagonist,Deceiver,Antagonist,Antagonist,Saboteur,Saboteur
+HI_3.txt,इवान गेर्शकोविच,Innocent,Scapegoat,Innocent,Innocent,Forgotten,Forgotten
+HI_70.txt,पश्चिमी देश,Antagonist,"Saboteur, Instigator",Innocent,Innocent,Forgotten,Forgotten
+HI_6.txt,यूक्रेन,Innocent,Victim,Antagonist,Antagonist,Bigot,Bigot
+HI_239.txt,यमकेश्वर,Innocent,Victim,Antagonist,Antagonist,Instigator,Instigator
+HI_257.txt,सर्गेई सोब्यानिन,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_189.txt,वलोडिमिर ज़ेलेंस्की,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_55.txt,अमेरिका,Antagonist,"Saboteur, Foreign Adversary",Innocent,Innocent,Forgotten,Forgotten
+HI_171.txt,यूक्रेन,Protagonist,Underdog,Antagonist,Antagonist,Saboteur,Saboteur
+HI_13.txt,व्लादिमीर पुतिन,Antagonist,Instigator,Antagonist,Antagonist,Saboteur,Saboteur
+HI_27.txt,राज्य,Innocent,Exploited,Innocent,Innocent,Forgotten,Forgotten
+HI_314.txt,पाकिस्तान,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_164.txt,पश्चिमी देशों,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_196.txt,नागरिकों,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_32.txt,ब्रिटेन का मीडिया,Antagonist,"Conspirator, Bigot",Antagonist,Antagonist,Saboteur,Saboteur
+HI_228.txt,रूसी सेना,Antagonist,Tyrant,Antagonist,Antagonist,Saboteur,Saboteur
+HI_305.txt,रूस,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+HI_314.txt,मोदी,Protagonist,"Virtuous, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_56.txt,NATO,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_267.txt,मोदी,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_386.txt,रूस,Protagonist,Rebel,Antagonist,Antagonist,Saboteur,Saboteur
+HI_46.txt,गाजा,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_104.txt,यूक्रेन,Protagonist,Rebel,Innocent,Innocent,Forgotten,Forgotten
+HI_392.txt,बाइडेन,Protagonist,Rebel,Innocent,Innocent,Forgotten,Forgotten
+HI_127.txt,वोलोदिमीर जेलेंस्की,Antagonist,Saboteur,Innocent,Innocent,Forgotten,Forgotten
+HI_254.txt,तेलंगाना सरकार,Protagonist,"Virtuous, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_48.txt,वैगनर लड़ाकों,Protagonist,Martyr,Protagonist,Protagonist,Rebel,Rebel
+HI_96.txt,अमेरिका,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_112.txt,यूक्रेन,Antagonist,"Instigator, Terrorist",Innocent,Innocent,Forgotten,Forgotten
+HI_377.txt,दिमित्री पेसकोव,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_117.txt,एयरलाइन कंपनियां,Innocent,Victim,Innocent,Innocent,Victim,Victim
+HI_321.txt,पश्चिमी देशों,Protagonist,"Virtuous, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_399.txt,क्रिवी रिह,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_147.txt,PM मोदी,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_16.txt,मोदी,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_104.txt,रूस,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+HI_265.txt,रूस,Protagonist,Rebel,Innocent,Innocent,Forgotten,Forgotten
+HI_33.txt,पीएम मोदी,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_111.txt,राष्ट्रपति व्लादिमीर पुतिन,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_267.txt,यूक्रेन,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_303.txt,बोरिसोग्लबस्क,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_208.txt,अनुसूचित जाति,Innocent,Exploited,Innocent,Innocent,Victim,Victim
+HI_324.txt,पिता,Protagonist,Martyr,Innocent,Innocent,Forgotten,Forgotten
+HI_387.txt,डोनाल्ड ट्रम्प,Protagonist,"Virtuous, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_249.txt,ट्रंप,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_197.txt,वलोडोमिर जेलेंस्की,Protagonist,"Guardian, Underdog",Innocent,Innocent,Forgotten,Forgotten
+HI_70.txt,ईरान,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_99.txt,क्रेमलिन,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_49.txt,पुतिन,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_285.txt,मॉस्को,Antagonist,Instigator,Antagonist,Antagonist,Tyrant,Tyrant
+HI_307.txt,दक्षिण कोरिया,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_248.txt,रूस,Antagonist,"Foreign Adversary, Tyrant",Innocent,Innocent,Forgotten,Forgotten
+HI_239.txt,अनुपम त्रिवेदी,Protagonist,Virtuous,Antagonist,Antagonist,Instigator,Instigator
+HI_283.txt,बच्चों,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_69.txt,रूस,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_42.txt,अंबिका तमांग,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_123.txt,चीन,Antagonist,Deceiver,Protagonist,Protagonist,Peacemaker,Peacemaker
+HI_301.txt,रूस,Antagonist,Tyrant,Innocent,Innocent,Forgotten,Forgotten
+HI_166.txt,युवा यूक्रेनी सांसद,Protagonist,"Rebel, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_201.txt,अमेरिका,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_23.txt,रूसी,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_300.txt,मानव जीवन,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_100.txt,एस जयशंकर,Protagonist,Virtuous,Antagonist,Antagonist,Saboteur,Saboteur
+HI_329.txt,ब्रायन लांज़ा,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_323.txt,मैथ्यू सैविल,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_266.txt,अमेरिका,Protagonist,Guardian,Antagonist,Antagonist,Tyrant,Tyrant
+HI_46.txt,यूरोप,Antagonist,Incompetent,Antagonist,Antagonist,Saboteur,Saboteur
+HI_249.txt,यूक्रेन,Antagonist,Incompetent,Innocent,Innocent,Forgotten,Forgotten
+HI_141.txt,मानवता,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_101.txt,रूस,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+HI_383.txt,यूक्रेन,Protagonist,Underdog,Antagonist,Antagonist,Saboteur,Saboteur
+HI_309.txt,वसीली नेबेंजिया,Protagonist,"Rebel, Guardian",Antagonist,Antagonist,Tyrant,Tyrant
+HI_78.txt,पोल्टावा,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_173.txt,रूस,Protagonist,Peacemaker,Antagonist,Antagonist,Saboteur,Saboteur
+HI_157.txt,रूस,Antagonist,Tyrant,Innocent,Innocent,Forgotten,Forgotten
+HI_311.txt,मॉस्को,Protagonist,Rebel,Innocent,Innocent,Forgotten,Forgotten
+HI_264.txt,रूसी सेना,Antagonist,Tyrant,Innocent,Innocent,Forgotten,Forgotten
+HI_356.txt,यूक्रेन,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_216.txt,नाटो,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+HI_255.txt,भारतीयों,Innocent,"Exploited, Victim",Innocent,Innocent,Forgotten,Forgotten
+HI_67.txt,रूस,Antagonist,Tyrant,Innocent,Innocent,Forgotten,Forgotten
+HI_175.txt,रूसी,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+HI_63.txt,अमेरिका,Protagonist,"Virtuous, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_320.txt,व्लादिमीर पुतिन,Antagonist,"Foreign Adversary, Tyrant",Antagonist,Antagonist,Saboteur,Saboteur
+HI_94.txt,इटली,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_315.txt,अमेरिका,Protagonist,Virtuous,Antagonist,Antagonist,Saboteur,Saboteur
+HI_252.txt,यूक्रेनी सेना,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_129.txt,वन विभाग,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_333.txt,यूक्रेन,Antagonist,"Instigator, Deceiver",Antagonist,Antagonist,Terrorist,Terrorist
+HI_108.txt,अप्रवासियों,Antagonist,Terrorist,Innocent,Innocent,Forgotten,Forgotten
+HI_123.txt,मोदी,Protagonist,Virtuous,Protagonist,Protagonist,Peacemaker,Peacemaker
+HI_123.txt,रूस,Innocent,Victim,Protagonist,Protagonist,Peacemaker,Peacemaker
+HI_22.txt,यूक्रेनी सैनिक,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_145.txt,जकार्ता,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_27.txt,प्रधानमंत्री,Antagonist,Bigot,Innocent,Innocent,Forgotten,Forgotten
+HI_117.txt,कजाखस्तान,Innocent,Victim,Innocent,Innocent,Victim,Victim
+HI_262.txt,यूक्रेन,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_7.txt,कुलेबा,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_202.txt,यूक्रेनी सेना,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_81.txt,नाटो चार्टर,Protagonist,Guardian,Antagonist,Antagonist,Terrorist,Terrorist
+HI_393.txt,वाशिंगटन,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_201.txt,मोदी,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_205.txt,यूक्रेन,Innocent,Victim,Antagonist,Antagonist,Instigator,Instigator
+HI_116.txt,अमेरिका,Antagonist,Foreign Adversary,Antagonist,Antagonist,Tyrant,Tyrant
+HI_96.txt,रूस,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+HI_314.txt,कमला हैरिस,Antagonist,Incompetent,Innocent,Innocent,Forgotten,Forgotten
+HI_124.txt,यूक्रेनियंस,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_388.txt,क्रेमलिन,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_311.txt,उत्तर कोरिया,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_203.txt,अल-कायदा,Antagonist,Terrorist,Antagonist,Antagonist,Terrorist,Terrorist
+HI_370.txt,जो बाइडन,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_305.txt,यूक्रेनी सेना,Protagonist,"Guardian, Underdog",Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+HI_280.txt,ज़ेलेंस्की,Protagonist,Underdog,Antagonist,Antagonist,Saboteur,Saboteur
+HI_183.txt,फिनलैंड,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_100.txt,रूस,Antagonist,Tyrant,Antagonist,Antagonist,Saboteur,Saboteur
+HI_303.txt,रूसी बलों,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_142.txt,सीमांचल,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_13.txt,भारत,Protagonist,Peacemaker,Antagonist,Antagonist,Saboteur,Saboteur
+HI_304.txt,सैनिकों,Antagonist,Tyrant,Innocent,Innocent,Forgotten,Forgotten
+HI_117.txt,मुस्लिम ब्रदरहुड,Antagonist,Terrorist,Innocent,Innocent,Victim,Victim
+HI_106.txt,उत्तर कोरिया,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_314.txt,जो बाइडन,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_129.txt,अतिरिक्त मुख्य सचिव,Protagonist,"Virtuous, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_196.txt,जेलेंस्की,Protagonist,"Guardian, Underdog",Innocent,Innocent,Forgotten,Forgotten
+HI_388.txt,पश्चिमी देशों,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_206.txt,एडवर्ड स्नोडेन,Protagonist,"Rebel, Virtuous",Antagonist,Antagonist,Traitor,Traitor
+HI_400.txt,रूस,Protagonist,Rebel,Innocent,Innocent,Forgotten,Forgotten
+HI_69.txt,व्लादिमीर पुतिन,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_70.txt,रूस,Antagonist,Corrupt,Innocent,Innocent,Forgotten,Forgotten
+HI_190.txt,मोदी,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_332.txt,रूस,Antagonist,Tyrant,Antagonist,Antagonist,Saboteur,Saboteur
+HI_239.txt,लैंसडाउन,Innocent,Victim,Antagonist,Antagonist,Instigator,Instigator
+HI_252.txt,यूक्रेन,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_86.txt,रूस,Antagonist,Tyrant,Innocent,Innocent,Victim,Victim
+HI_257.txt,वोरोब्योव,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_83.txt,नरेंद्र मोदी,Protagonist,Peacemaker,Protagonist,Protagonist,Martyr,Martyr
+HI_378.txt,ज़ेलेंस्की,Protagonist,"Rebel, Guardian, Underdog",Innocent,Innocent,Forgotten,Forgotten
+HI_103.txt,अमेरिका,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_273.txt,अमेरिकी ख़ुफिया एजेंसी,Antagonist,"Incompetent, Deceiver",Innocent,Innocent,Forgotten,Forgotten
+HI_70.txt,रूसी,Antagonist,Terrorist,Innocent,Innocent,Forgotten,Forgotten
+HI_105.txt,रूसी “मिसाइलों,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+HI_317.txt,चीन,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_400.txt,बाइडेन,Antagonist,Incompetent,Innocent,Innocent,Forgotten,Forgotten
+HI_380.txt,यूक्रेन,Protagonist,Underdog,Antagonist,Antagonist,Saboteur,Saboteur
+HI_100.txt,यूक्रेन,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_123.txt,रूस,Antagonist,Corrupt,Protagonist,Protagonist,Peacemaker,Peacemaker
+HI_14.txt,रूसी सेना,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_284.txt,रूस,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_7.txt,व्लादिमीर पुतिन,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_70.txt,अमेरिका,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_201.txt,मोदी,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_52.txt,भारतीय नागरिकों,Innocent,Exploited,Antagonist,Antagonist,Saboteur,Saboteur
+HI_66.txt,यूरोपीय देश,Innocent,Scapegoat,Innocent,Innocent,Victim,Victim
+HI_46.txt,पश्चिम,Antagonist,Saboteur,Antagonist,Antagonist,Saboteur,Saboteur
+HI_358.txt,भारत,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_222.txt,पुतिन,Protagonist,"Virtuous, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_70.txt,व्लादिमीर पुतिन,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+HI_388.txt,अमेरिका,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_196.txt,चीन,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_2.txt,चीन,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_56.txt,यूक्रेन,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_162.txt,रूस,Protagonist,"Rebel, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_355.txt,अमेरिका,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_22.txt,यूक्रेन,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_397.txt,बेलग्रेड,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_42.txt,सरकार,Antagonist,Corrupt,Innocent,Innocent,Forgotten,Forgotten
+HI_170.txt,रूस,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_261.txt,यूक्रेनी महिलाओं,Protagonist,Underdog,Antagonist,Antagonist,Saboteur,Saboteur
+HI_317.txt,ट्रंप,Protagonist,"Virtuous, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_282.txt,एस जयशंकर,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_392.txt,रूस,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_236.txt,मानव समुदाय,Innocent,Victim,Antagonist,Antagonist,Instigator,Instigator
+HI_261.txt,एयर डिफ़ेंस यूनिट,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_204.txt,नौजवानों,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_30.txt,चीन,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_221.txt,जेलेंस्की,Protagonist,"Guardian, Underdog",Innocent,Innocent,Forgotten,Forgotten
+HI_271.txt,भारत,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_224.txt,जेलेंस्की,Protagonist,Underdog,Antagonist,Antagonist,Saboteur,Saboteur
+HI_33.txt,लीबिया,Innocent,Exploited,Innocent,Innocent,Forgotten,Forgotten
+HI_192.txt,रूस,Protagonist,Rebel,Innocent,Innocent,Forgotten,Forgotten
+HI_193.txt,किशिदा,Protagonist,Virtuous,Antagonist,Antagonist,Saboteur,Saboteur
+HI_251.txt,रूस,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_166.txt,रूस,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_400.txt,अमेरिका,Antagonist,Incompetent,Innocent,Innocent,Forgotten,Forgotten
+HI_118.txt,यूक्रेन,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_181.txt,यूक्रेन,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_7.txt,रूस,Innocent,Forgotten,Innocent,Innocent,Forgotten,Forgotten
+HI_46.txt,अमेरिका,Antagonist,Incompetent,Antagonist,Antagonist,Saboteur,Saboteur
+HI_42.txt,एजेंटों,Antagonist,Deceiver,Innocent,Innocent,Forgotten,Forgotten
+HI_329.txt,यूरोप,Antagonist,Incompetent,Antagonist,Antagonist,Saboteur,Saboteur
+HI_173.txt,रूस,Protagonist,Virtuous,Antagonist,Antagonist,Saboteur,Saboteur
+HI_191.txt,मोदी,Protagonist,"Virtuous, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_80.txt,रूस,Antagonist,Tyrant,Antagonist,Antagonist,Saboteur,Saboteur
+HI_149.txt,विशेषज्ञों,Protagonist,Virtuous,Antagonist,Antagonist,Saboteur,Saboteur
+HI_264.txt,यूक्रेन,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_61.txt,भारत,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_392.txt,जेलेंस्की,Protagonist,"Guardian, Underdog",Innocent,Innocent,Forgotten,Forgotten
+HI_166.txt,यूक्रेन,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+HI_78.txt,जेलेंस्की,Protagonist,Rebel,Innocent,Innocent,Forgotten,Forgotten
+HI_6.txt,खार्किव,Innocent,Victim,Antagonist,Antagonist,Bigot,Bigot
+HI_164.txt,पीएम मेलोनी,Protagonist,"Virtuous, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_78.txt,वलोदिमीर जेलेंस्की,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_23.txt,यूक्रेनी सेना,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_325.txt,ट्रंप,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_77.txt,रूसी सेना,Antagonist,Tyrant,Antagonist,Antagonist,Saboteur,Saboteur
+HI_52.txt,भारतीय नागरिक,Protagonist,Rebel,Antagonist,Antagonist,Saboteur,Saboteur
+HI_3.txt,पश्चिमी,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_252.txt,यूक्रेन की सेना,Protagonist,"Guardian, Underdog",Innocent,Innocent,Forgotten,Forgotten
+HI_23.txt,यूक्रेन,Protagonist,"Virtuous, Underdog",Innocent,Innocent,Forgotten,Forgotten
+HI_23.txt,अमेरिका,Antagonist,Traitor,Innocent,Innocent,Forgotten,Forgotten
+HI_227.txt,पुतिन,Antagonist,Incompetent,Innocent,Innocent,Forgotten,Forgotten
+HI_53.txt,ब्राजील,Protagonist,"Peacemaker, Virtuous",Innocent,Innocent,Victim,Victim
+HI_193.txt,भारत,Protagonist,Virtuous,Antagonist,Antagonist,Saboteur,Saboteur
+HI_128.txt,जो बाइडेन,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_201.txt,चीन,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_29.txt,माखचकाला,Innocent,Victim,Antagonist,Antagonist,Terrorist,Terrorist
+HI_33.txt,सर्बियन,Innocent,Exploited,Innocent,Innocent,Forgotten,Forgotten
+HI_22.txt,वाशिंगटन,Antagonist,Deceiver,Innocent,Innocent,Forgotten,Forgotten
+HI_319.txt,यूक्रेन,Protagonist,"Guardian, Underdog",Antagonist,Antagonist,Saboteur,Saboteur
+HI_317.txt,रूस,Protagonist,Rebel,Innocent,Innocent,Forgotten,Forgotten
+HI_25.txt,अमेरिका,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+HI_64.txt,आईसीसी,Protagonist,"Virtuous, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_45.txt,खानगोशविलि,Protagonist,Rebel,Protagonist,Protagonist,Rebel,Rebel
+HI_307.txt,प्योंगयांग,Protagonist,Rebel,Innocent,Innocent,Forgotten,Forgotten
+HI_365.txt,सुमी,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_45.txt,व्लादीमिर पुतिन,Antagonist,Deceiver,Protagonist,Protagonist,Rebel,Rebel
+HI_44.txt,भारतीय,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_266.txt,कीव,Innocent,Victim,Antagonist,Antagonist,Tyrant,Tyrant
+HI_42.txt,भारतीय अधिकारी,Antagonist,Incompetent,Innocent,Innocent,Forgotten,Forgotten
+HI_329.txt,अमेरिका,Protagonist,"Peacemaker, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_222.txt,व्लादिमीर पुतिन,Protagonist,"Virtuous, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_396.txt,अमेरिका,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+HI_22.txt,यूक्रेन,Antagonist,Incompetent,Innocent,Innocent,Forgotten,Forgotten
+HI_283.txt,यूक्रेन,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_323.txt,यूक्रेन,Protagonist,Underdog,Antagonist,Antagonist,Saboteur,Saboteur
+HI_49.txt,व्लादिमीर पुतिन,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_253.txt,रूस,Protagonist,Rebel,Antagonist,Antagonist,Saboteur,Saboteur
+HI_208.txt,कृषि विकास अधिकारी,Antagonist,Deceiver,Innocent,Innocent,Victim,Victim
+HI_203.txt,रूस,Protagonist,Guardian,Antagonist,Antagonist,Terrorist,Terrorist
+HI_362.txt,पुतिन,Protagonist,Rebel,Innocent,Innocent,Forgotten,Forgotten
+HI_86.txt,भारत,Protagonist,"Virtuous, Guardian",Innocent,Innocent,Victim,Victim
+HI_254.txt,सूफियान,Innocent,"Exploited, Victim",Innocent,Innocent,Forgotten,Forgotten
+HI_161.txt,फ्रांस,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_386.txt,लोगों,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_22.txt,कुपियांस्क,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_275.txt,विदेश मंत्रालय,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_2.txt,अमेरिका,Innocent,Scapegoat,Innocent,Innocent,Forgotten,Forgotten
+HI_306.txt,सेना,Protagonist,"Guardian, Underdog",Antagonist,Antagonist,Saboteur,Saboteur
+HI_389.txt,पुतिन,Protagonist,"Rebel, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_247.txt,ऊर्जा ठिकाने,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_299.txt,दक्षिण-पूर्व एशिया,Innocent,"Victim, Forgotten",Antagonist,Antagonist,Saboteur,Saboteur
+HI_45.txt,जर्मनी,Antagonist,Foreign Adversary,Protagonist,Protagonist,Rebel,Rebel
+HI_91.txt,कुर्स्क,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_301.txt,अमेरिकी नागरिकों,Innocent,"Exploited, Forgotten",Innocent,Innocent,Forgotten,Forgotten
+HI_23.txt,पश्चिमी,Antagonist,Incompetent,Innocent,Innocent,Forgotten,Forgotten
+HI_314.txt,ट्रंप,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_195.txt,रूस,Antagonist,"Foreign Adversary, Tyrant",Innocent,Innocent,Forgotten,Forgotten
+HI_45.txt,वादिम क्रासिकोव,Antagonist,Spy,Protagonist,Protagonist,Rebel,Rebel
+HI_133.txt,हिमालयन मोनाल,Innocent,Victim,Antagonist,Antagonist,Instigator,Instigator
+HI_212.txt,वोल्डिमीर जेलेंस्की,Antagonist,Foreign Adversary,Antagonist,Antagonist,Instigator,Instigator
+HI_195.txt,यूक्रेन,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_396.txt,नाटो,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+HI_117.txt,किर्गिस्तान,Innocent,Victim,Innocent,Innocent,Victim,Victim
+HI_253.txt,व्लादिमीर पुतिन,Protagonist,Rebel,Antagonist,Antagonist,Saboteur,Saboteur
+HI_43.txt,पश्चिमी देशों,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_381.txt,अमेरिका,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_279.txt,अमेरिका,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_127.txt,संयुक्त राष्ट्र,Protagonist,"Virtuous, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_104.txt,रूसी,Antagonist,"Instigator, Tyrant",Innocent,Innocent,Forgotten,Forgotten
+HI_398.txt,यूक्रेन,Protagonist,Underdog,Antagonist,Antagonist,Saboteur,Saboteur
+HI_213.txt,अमेरिका,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_120.txt,चार्ल्स ब्राउन जूनियर,Protagonist,Virtuous,Antagonist,Antagonist,Saboteur,Saboteur
+HI_80.txt,NATO,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_70.txt,पाकिस्तान,Antagonist,Deceiver,Innocent,Innocent,Forgotten,Forgotten
+HI_161.txt,नाटो गठबंधन,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_168.txt,यूक्रेन,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_252.txt,ICRC,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_142.txt,बीरपुर बैराज,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_29.txt,यूक्रेन,Antagonist,Conspirator,Antagonist,Antagonist,Terrorist,Terrorist
+HI_116.txt,जर्मनी,Antagonist,Instigator,Antagonist,Antagonist,Tyrant,Tyrant
+HI_85.txt,रूसी सेना,Antagonist,Tyrant,Innocent,Innocent,Forgotten,Forgotten
+HI_24.txt,रूस,Antagonist,Terrorist,Innocent,Innocent,Victim,Victim
+HI_90.txt,रूस,Protagonist,Rebel,Antagonist,Antagonist,Saboteur,Saboteur
+HI_385.txt,वलोडिमिर ज़ेलेंस्की,Protagonist,"Guardian, Underdog",Antagonist,Antagonist,Saboteur,Saboteur
+HI_122.txt,यूक्रेन,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_397.txt,सर्बिया,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_23.txt,यूरोपीय यूनियन,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_41.txt,बाइडन,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_42.txt,विदेश मंत्रालय,Antagonist,Deceiver,Innocent,Innocent,Forgotten,Forgotten
+HI_321.txt,पक्रौस्क,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_180.txt,रूस,Protagonist,Rebel,Innocent,Innocent,Forgotten,Forgotten
+HI_23.txt,यूक्रेन,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_39.txt,यूक्रेन,Innocent,Victim,Antagonist,Antagonist,Terrorist,Terrorist
+HI_113.txt,यूक्रेन,Protagonist,Rebel,Innocent,Innocent,Forgotten,Forgotten
+HI_106.txt,अमेरिका,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_165.txt,कुर्स्क,Antagonist,Tyrant,Innocent,Innocent,Forgotten,Forgotten
+HI_45.txt,व्लादिमीर पुतिन,Protagonist,Peacemaker,Protagonist,Protagonist,Rebel,Rebel
+HI_377.txt,रूसी सेना,Protagonist,"Rebel, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_7.txt,रूस,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_375.txt,यूक्रेनी,Antagonist,Spy,Antagonist,Antagonist,Saboteur,Saboteur
+HI_45.txt,वादिम क्रासिकोव,Antagonist,Terrorist,Protagonist,Protagonist,Rebel,Rebel
+HI_16.txt,भारत,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_395.txt,नाटो देशों,Protagonist,"Virtuous, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_316.txt,चीन,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_208.txt,वन गुर्जरों,Innocent,Exploited,Innocent,Innocent,Victim,Victim
+HI_228.txt,कुर्क्स,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_56.txt,रूस,Protagonist,Virtuous,Antagonist,Antagonist,Saboteur,Saboteur
+HI_166.txt,रूसी सदस्य,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_41.txt,अमेरिका,Innocent,Exploited,Antagonist,Antagonist,Saboteur,Saboteur
+HI_281.txt,यूक्रेन,Protagonist,Underdog,Antagonist,Antagonist,Saboteur,Saboteur
+HI_311.txt,पेंटागन,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_325.txt,यूक्रेन,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_164.txt,यूक्रेन,Protagonist,"Rebel, Underdog",Innocent,Innocent,Forgotten,Forgotten
+HI_70.txt,यूक्रेन,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_106.txt,रूस,Protagonist,"Virtuous, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_268.txt,यूक्रेन,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_124.txt,जेलेंस्की,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_377.txt,क्रेमलिन,Protagonist,"Rebel, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_115.txt,यूक्रेन,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_262.txt,उत्तर कोरिया,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_33.txt,रूस,Antagonist,Corrupt,Innocent,Innocent,Forgotten,Forgotten
+HI_285.txt,अमेरिका,Protagonist,Guardian,Antagonist,Antagonist,Tyrant,Tyrant
+HI_32.txt,भारत,Antagonist,Deceiver,Antagonist,Antagonist,Saboteur,Saboteur
+HI_249.txt,डोनाल्ड ट्रंप,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_394.txt,डोनाल्‍ड ट्रंप,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_221.txt,रूस,Antagonist,"Instigator, Tyrant",Innocent,Innocent,Forgotten,Forgotten
+HI_106.txt,अमेरिका,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_208.txt,भीम,Protagonist,Rebel,Innocent,Innocent,Victim,Victim
+HI_285.txt,प्योंगयांग,Antagonist,Foreign Adversary,Antagonist,Antagonist,Tyrant,Tyrant
+HI_123.txt,चीन,Antagonist,Foreign Adversary,Protagonist,Protagonist,Peacemaker,Peacemaker
+HI_280.txt,पुतिन,Protagonist,"Virtuous, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_230.txt,पुतिन,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_267.txt,भारत,Protagonist,"Peacemaker, Virtuous",Innocent,Innocent,Forgotten,Forgotten
+HI_176.txt,वोलोदिमीर जेलेंस्की,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_304.txt,रूस,Antagonist,Incompetent,Innocent,Innocent,Forgotten,Forgotten
+HI_117.txt,रूस,Antagonist,Instigator,Innocent,Innocent,Victim,Victim
+HI_122.txt,रूस,Antagonist,Tyrant,Innocent,Innocent,Forgotten,Forgotten
+HI_202.txt,रूस,Antagonist,"Foreign Adversary, Tyrant",Innocent,Innocent,Forgotten,Forgotten
+HI_281.txt,सदस्य,Protagonist,"Virtuous, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_392.txt,ट्रंप,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_18.txt,इवान गर्शकोविच,Innocent,Exploited,Innocent,Innocent,Forgotten,Forgotten
+HI_310.txt,रूस,Protagonist,"Rebel, Virtuous",Antagonist,Antagonist,Tyrant,Tyrant
+HI_197.txt,रूसी,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_277.txt,रूसी सेना,Antagonist,Tyrant,Antagonist,Antagonist,Spy,Spy
+HI_92.txt,यूक्रेन,Antagonist,Deceiver,Antagonist,Antagonist,Tyrant,Tyrant
+HI_206.txt,विदेशी नेताओं,Innocent,Victim,Antagonist,Antagonist,Traitor,Traitor
+HI_257.txt,रूसी अधिकारियों,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_161.txt,NATO,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_2.txt,नरेंद्र मोदी,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_308.txt,व्लादिमीर पुतिन,Protagonist,"Rebel, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_40.txt,वादिम,Antagonist,Terrorist,Innocent,Innocent,Forgotten,Forgotten
+HI_388.txt,सैनिक,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_240.txt,लैंसडाउन,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_394.txt,ब्लिंकन,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_224.txt,नरेंद्र मोदी,Protagonist,"Peacemaker, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_270.txt,अजीत डोभाल,Protagonist,Virtuous,Antagonist,Antagonist,Saboteur,Saboteur
+HI_279.txt,ईरान,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_118.txt,स्लोवाकिया,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_117.txt,शेख मंसूर बटालियन,Protagonist,Rebel,Innocent,Innocent,Victim,Victim
+HI_24.txt,भारत,Protagonist,Virtuous,Innocent,Innocent,Victim,Victim
+HI_246.txt,पांच लोग,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_115.txt,यूक्रेन,Antagonist,"Instigator, Foreign Adversary",Innocent,Innocent,Forgotten,Forgotten
+HI_13.txt,भारत,Protagonist,Peacemaker,Antagonist,Antagonist,Saboteur,Saboteur
+HI_99.txt,पेस्कोव,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_280.txt,यूक्रेन,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_260.txt,वोलोदिमीर ज़ेलेंस्की,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_1.txt,मोदी,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_116.txt,ब्रिटेन,Antagonist,Foreign Adversary,Antagonist,Antagonist,Tyrant,Tyrant
+HI_320.txt,यूक्रेन,Protagonist,Underdog,Antagonist,Antagonist,Saboteur,Saboteur
+HI_257.txt,महिला,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_227.txt,यूक्रेन की सेना,Protagonist,Rebel,Innocent,Innocent,Forgotten,Forgotten
+HI_379.txt,पेसकोव,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_247.txt,नाटो,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_117.txt,मास्को,Antagonist,Tyrant,Innocent,Innocent,Victim,Victim
+HI_66.txt,पश्चिम,Antagonist,Foreign Adversary,Innocent,Innocent,Victim,Victim
+HI_130.txt,नॉर्थवेस्ट,Protagonist,Virtuous,Antagonist,Antagonist,Saboteur,Saboteur
+HI_238.txt,हरिद्वार,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_146.txt,बेनेडिक्ट सोजा,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_229.txt,रूसी सेना,Antagonist,Tyrant,Antagonist,Antagonist,Saboteur,Saboteur
+HI_21.txt,नरेन्द्र मोदी,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_394.txt,जो बाइडेन,Protagonist,Rebel,Innocent,Innocent,Forgotten,Forgotten
+HI_375.txt,रूसी सैनिकों,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_202.txt,पुतिन,Protagonist,"Rebel, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_101.txt,भारत,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_15.txt,नाटो,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_175.txt,अलेक्जेंड्रोव्का बस्ती,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_383.txt,जेलेंस्की,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_53.txt,भारत,Antagonist,Foreign Adversary,Innocent,Innocent,Victim,Victim
+HI_153.txt,पोपसना,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_275.txt,भारत,Protagonist,"Virtuous, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_285.txt,कीव,Innocent,Victim,Antagonist,Antagonist,Tyrant,Tyrant
+HI_191.txt,पुतिन,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_153.txt,हैदाई,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_49.txt,इवान गेर्शकोविच,Antagonist,Spy,Innocent,Innocent,Forgotten,Forgotten
+HI_112.txt,सेना,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_7.txt,चीन,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_191.txt,भारत,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_263.txt,विदेश मंत्रालय,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_60.txt,भारत,Antagonist,Conspirator,Antagonist,Antagonist,Saboteur,Saboteur
+HI_278.txt,व्लोदिमीर जेलेंस्की,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_386.txt,सुमी,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_42.txt,विदेश मंत्रालय,Antagonist,Corrupt,Innocent,Innocent,Forgotten,Forgotten
+HI_206.txt,एडवर्ड,Protagonist,Virtuous,Antagonist,Antagonist,Traitor,Traitor
+HI_124.txt,रूस,Antagonist,Terrorist,Innocent,Innocent,Forgotten,Forgotten
+HI_245.txt,रूस,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_72.txt,पश्चिमी देशों,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_258.txt,यूक्रेनी सेना,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_39.txt,भारत,Protagonist,Virtuous,Antagonist,Antagonist,Terrorist,Terrorist
+HI_243.txt,उत्तर कोरिया,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_157.txt,अमेरिकी कांग्रेस,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_372.txt,अमेरिका,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_122.txt,पश्चिमी देशों,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_66.txt,रूस,Antagonist,Foreign Adversary,Innocent,Innocent,Victim,Victim
+HI_314.txt,रिपब्लिकन पार्टी,Protagonist,"Virtuous, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_46.txt,रूस,Protagonist,Virtuous,Antagonist,Antagonist,Saboteur,Saboteur
+HI_105.txt,रूसी सेना,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+HI_262.txt,रूस,Antagonist,Tyrant,Innocent,Innocent,Forgotten,Forgotten
+HI_326.txt,रूस,Protagonist,Rebel,Antagonist,Antagonist,Saboteur,Saboteur
+HI_281.txt,यूक्रेनी कंपनियां,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_117.txt,हंगरी,Innocent,Victim,Innocent,Innocent,Victim,Victim
+HI_2.txt,यूरोप,Innocent,Exploited,Innocent,Innocent,Forgotten,Forgotten
+HI_206.txt,व्लादिमीर पुतिन,Protagonist,Guardian,Antagonist,Antagonist,Traitor,Traitor
+HI_395.txt,यूक्रेन,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_270.txt,एस जयशंकर,Protagonist,Virtuous,Antagonist,Antagonist,Saboteur,Saboteur
+HI_6.txt,यूक्रेन,Innocent,Victim,Antagonist,Antagonist,Bigot,Bigot
+HI_208.txt,ठाकुरों,Antagonist,Corrupt,Innocent,Innocent,Victim,Victim
+HI_39.txt,नरेंद्र मोदी,Protagonist,Guardian,Antagonist,Antagonist,Terrorist,Terrorist
+HI_27.txt,मणिपुर,Innocent,"Victim, Forgotten",Innocent,Innocent,Forgotten,Forgotten
+HI_112.txt,यूक्रेनी सेना,Antagonist,Terrorist,Innocent,Innocent,Forgotten,Forgotten
+HI_83.txt,अज्ञात सैनिक,Protagonist,Martyr,Protagonist,Protagonist,Martyr,Martyr
+HI_53.txt,यूक्रेन,Protagonist,Peacemaker,Innocent,Innocent,Victim,Victim
+HI_124.txt,पुतिन,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+HI_155.txt,नरेंद्र मोदी सरकार,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_100.txt,भारत,Protagonist,"Peacemaker, Virtuous, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_267.txt,यूक्रेन,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_68.txt,रूस की सेना,Antagonist,Saboteur,Innocent,Innocent,Forgotten,Forgotten
+HI_102.txt,यूक्रेनी सेना,Protagonist,"Rebel, Underdog",Innocent,Innocent,Forgotten,Forgotten
+HI_84.txt,नरेन्द्र मोदी,Protagonist,"Virtuous, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_118.txt,मोल्दोवा,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_264.txt,रूस,Antagonist,Tyrant,Innocent,Innocent,Forgotten,Forgotten
+HI_314.txt,ट्रंप,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_93.txt,यूक्रेन,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_321.txt,दोनेत्स्क,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_227.txt,रूस,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_396.txt,जो बाइडेन प्रशासन,Antagonist,"Incompetent, Deceiver",Innocent,Innocent,Forgotten,Forgotten
+HI_29.txt,डर्बेंट,Innocent,Victim,Antagonist,Antagonist,Terrorist,Terrorist
+HI_329.txt,रूस,Antagonist,"Foreign Adversary, Tyrant",Antagonist,Antagonist,Saboteur,Saboteur
+HI_145.txt,इंडोनेशिया की सरकार,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_193.txt,भारत,Protagonist,Peacemaker,Antagonist,Antagonist,Saboteur,Saboteur
+HI_317.txt,उषा वेंस,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_303.txt,बेलगोरोद,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_104.txt,जेलेंस्की,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_281.txt,रूसी वायु सेना,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_308.txt,यूक्रेन,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_266.txt,पश्चिमी देशों,Protagonist,Virtuous,Antagonist,Antagonist,Tyrant,Tyrant
+HI_112.txt,निवासियों,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_321.txt,रूसी सेना,Antagonist,Tyrant,Antagonist,Antagonist,Saboteur,Saboteur
+HI_197.txt,कुर्स्क,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_37.txt,भारत,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_2.txt,मोदी,Protagonist,Rebel,Innocent,Innocent,Forgotten,Forgotten
+HI_29.txt,दागेस्तान,Innocent,Victim,Antagonist,Antagonist,Terrorist,Terrorist
+HI_117.txt,सरकार,Antagonist,Incompetent,Innocent,Innocent,Victim,Victim
+HI_260.txt,यूक्रेन,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_314.txt,ईसाइयों,Innocent,"Exploited, Victim",Innocent,Innocent,Forgotten,Forgotten
+HI_116.txt,रूस,Antagonist,Foreign Adversary,Antagonist,Antagonist,Tyrant,Tyrant
+HI_120.txt,चीन,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_372.txt,अमेरिका,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_87.txt,रूस,Antagonist,Tyrant,Antagonist,Antagonist,Saboteur,Saboteur
+HI_319.txt,ज़ेलेंस्की,Protagonist,"Guardian, Underdog",Antagonist,Antagonist,Saboteur,Saboteur
+HI_117.txt,नाइजीरिया,Innocent,Victim,Innocent,Innocent,Victim,Victim
+HI_2.txt,भारत,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_164.txt,राष्ट्रपति पुतिन,Antagonist,"Foreign Adversary, Tyrant",Innocent,Innocent,Forgotten,Forgotten
+HI_22.txt,यूक्रेन,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_83.txt,जेलेंस्की,Protagonist,Guardian,Protagonist,Protagonist,Martyr,Martyr
+HI_6.txt,व्लादिमिर पुतिन,Innocent,Exploited,Antagonist,Antagonist,Bigot,Bigot
+HI_3.txt,पॉल व्हेलन,Antagonist,Spy,Innocent,Innocent,Forgotten,Forgotten
+HI_99.txt,पुतिन,Antagonist,Deceiver,Antagonist,Antagonist,Saboteur,Saboteur
+HI_252.txt,वोलोदिमीर जेलेंस्की,Protagonist,"Guardian, Underdog",Innocent,Innocent,Forgotten,Forgotten
+HI_46.txt,यूक्रेन,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_226.txt,रूस,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_219.txt,यूक्रेन,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_275.txt,रणधीर जायसवाल,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_303.txt,वोरोनिश,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_309.txt,किम जोंग उन,Antagonist,Foreign Adversary,Antagonist,Antagonist,Tyrant,Tyrant
+HI_206.txt,एंजेला मर्केल,Innocent,Victim,Antagonist,Antagonist,Traitor,Traitor
+HI_9.txt,रूस,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_6.txt,रूस,Antagonist,Foreign Adversary,Antagonist,Antagonist,Bigot,Bigot
+HI_66.txt,अमेरिका,Innocent,Victim,Innocent,Innocent,Victim,Victim
+HI_61.txt,भारत,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_48.txt,वैगनर आर्मी,Protagonist,Virtuous,Protagonist,Protagonist,Rebel,Rebel
+HI_111.txt,रूस,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_117.txt,नागरिक उड्डयन क्षेत्र,Innocent,Victim,Innocent,Innocent,Victim,Victim
+HI_116.txt,जर्मनी,Antagonist,Foreign Adversary,Antagonist,Antagonist,Tyrant,Tyrant
+HI_117.txt,यूक्रेन,Innocent,Victim,Innocent,Innocent,Victim,Victim
+HI_226.txt,अमेरिका,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_400.txt,रॉबर्ट फिको,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_332.txt,पुतिन,Antagonist,"Foreign Adversary, Tyrant",Antagonist,Antagonist,Saboteur,Saboteur
+HI_42.txt,भारत सरकार,Antagonist,Incompetent,Innocent,Innocent,Forgotten,Forgotten
+HI_112.txt,कुर्स्क,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_55.txt,अमेरिका,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_317.txt,नरेंद्र मोदी,Protagonist,"Virtuous, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_44.txt,भारत,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_395.txt,ब्लिंकन,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_346.txt,यूक्रेन,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_6.txt,रूस,Antagonist,Tyrant,Antagonist,Antagonist,Bigot,Bigot
+HI_305.txt,यूक्रेनी सैनिकों,Protagonist,"Guardian, Underdog",Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+HI_246.txt,रूसी सेना,Protagonist,Rebel,Innocent,Innocent,Forgotten,Forgotten
+HI_3.txt,तुर्किये,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_7.txt,रूस,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_400.txt,बाइडेन प्रशासन,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_73.txt,व्लादिमीर पुतिन,Antagonist,Tyrant,Innocent,Innocent,Forgotten,Forgotten
+HI_331.txt,रूस,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_307.txt,अमेरिका,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_268.txt,यूक्रेन,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_321.txt,निप्रोव,Protagonist,"Guardian, Underdog",Antagonist,Antagonist,Saboteur,Saboteur
+HI_257.txt,आंद्रेई वोरोब्योव,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_80.txt,यूक्रेन,Innocent,"Exploited, Victim",Antagonist,Antagonist,Saboteur,Saboteur
+HI_77.txt,जेलेंस्की,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_224.txt,व्लादिमीर पुतिन,Protagonist,Rebel,Antagonist,Antagonist,Saboteur,Saboteur
+HI_393.txt,रूस,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_193.txt,मोदी,Protagonist,"Virtuous, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_241.txt,जो बाइडेन,Protagonist,Peacemaker,Antagonist,Antagonist,Saboteur,Saboteur
+HI_117.txt,मोदी,Protagonist,Guardian,Innocent,Innocent,Victim,Victim
+HI_227.txt,यूक्रेनी सैनिक,Protagonist,"Rebel, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_331.txt,यूक्रेन,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_387.txt,डोनाल्ड ट्रम्प,Protagonist,Peacemaker,Antagonist,Antagonist,Saboteur,Saboteur
+HI_179.txt,भारतीय विदेश मंत्रालय,Protagonist,"Virtuous, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_207.txt,वक्ताओं,Protagonist,"Virtuous, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_263.txt,भारत,Protagonist,Virtuous,Antagonist,Antagonist,Saboteur,Saboteur
+HI_117.txt,उज़्बेकिस्तान,Innocent,Victim,Innocent,Innocent,Victim,Victim
+HI_224.txt,भारत खासकर,Protagonist,"Peacemaker, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_318.txt,रूस,Protagonist,Rebel,Antagonist,Antagonist,Saboteur,Saboteur
+HI_248.txt,ओलेह सिनीहुबोव,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_278.txt,कीव,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_329.txt,क्राइमिया,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_6.txt,रूस,Antagonist,Foreign Adversary,Antagonist,Antagonist,Bigot,Bigot
+HI_174.txt,उत्तर कोरिया,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_136.txt,फ्रांसीसी विज्ञापन निगरानी संस्था,Protagonist,"Virtuous, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_362.txt,जो बाइडन,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_386.txt,पश्चिमी देशों,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_309.txt,रूस,Protagonist,Rebel,Antagonist,Antagonist,Tyrant,Tyrant
+HI_33.txt,श्रीलंकन युवा,Innocent,Exploited,Innocent,Innocent,Forgotten,Forgotten
+HI_65.txt,खारकीव,Innocent,"Exploited, Victim",Antagonist,Antagonist,Saboteur,Saboteur
+HI_48.txt,अल-कायदा,Antagonist,Terrorist,Protagonist,Protagonist,Rebel,Rebel
+HI_117.txt,मध्य एशियाई,Innocent,Victim,Innocent,Innocent,Victim,Victim
+HI_368.txt,रूस,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_33.txt,बोस्नियन,Innocent,Exploited,Innocent,Innocent,Forgotten,Forgotten
+HI_27.txt,मोदी,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_127.txt,वासिली नेबेंजिया,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_255.txt,भारतीय नागरिक,Innocent,"Exploited, Victim",Innocent,Innocent,Forgotten,Forgotten
+HI_216.txt,नाटो,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_219.txt,अमेरिका,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_66.txt,मास्को,Antagonist,Tyrant,Innocent,Innocent,Victim,Victim
+HI_316.txt,भारत,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_30.txt,यूरोपीय संघ,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_119.txt,गौरव गोगोई,Protagonist,"Rebel, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_189.txt,ज़ेलेंस्की,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_196.txt,क्रीमिया,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_400.txt,व्लादिमीर पुतिन,Protagonist,"Rebel, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_263.txt,रॉयटर्स,Antagonist,Deceiver,Antagonist,Antagonist,Saboteur,Saboteur
+HI_30.txt,ओरबान,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_24.txt,मोदी,Protagonist,Virtuous,Innocent,Innocent,Victim,Victim
+HI_102.txt,पोलटावा,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_329.txt,ट्रंप,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_136.txt,शेल,Antagonist,Deceiver,Innocent,Innocent,Forgotten,Forgotten
+HI_23.txt,यूक्रेनी सेना,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_111.txt,प्रधानमंत्री नरेंद्र मोदी,Protagonist,"Virtuous, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_157.txt,रूस,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_301.txt,वोलोदिमीर जेलेंस्की,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_317.txt,तुलसी गेबार्ड,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_77.txt,वोलोदिमीर जेलेंस्की,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_318.txt,व्लादिमीर पुतिन,Protagonist,"Rebel, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_246.txt,पश्चिमी देशों,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_133.txt,पक्षी प्रजातियां,Innocent,Victim,Antagonist,Antagonist,Instigator,Instigator
+HI_286.txt,उत्तर कोरिया,Protagonist,Rebel,Antagonist,Antagonist,Tyrant,Tyrant
+HI_304.txt,यूक्रेनी सेना,Protagonist,"Guardian, Underdog",Innocent,Innocent,Forgotten,Forgotten
+HI_116.txt,जापान,Antagonist,Foreign Adversary,Antagonist,Antagonist,Tyrant,Tyrant
+HI_394.txt,रूस,Antagonist,"Foreign Adversary, Tyrant",Innocent,Innocent,Forgotten,Forgotten
+HI_121.txt,पश्चिमी देशों,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_222.txt,ब्रिक्स शिखर,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_287.txt,प्रधानमंत्री,Protagonist,Virtuous,Antagonist,Antagonist,Saboteur,Saboteur
+HI_7.txt,कुलेबा,Antagonist,Saboteur,Innocent,Innocent,Forgotten,Forgotten
+HI_53.txt,रूस,Antagonist,Tyrant,Innocent,Innocent,Victim,Victim
+HI_124.txt,वोलोडिमिर जेलेंस्की,Protagonist,"Guardian, Underdog",Innocent,Innocent,Forgotten,Forgotten
+HI_49.txt,वादिम कसीकोव,Antagonist,Spy,Innocent,Innocent,Forgotten,Forgotten
+HI_187.txt,मोदी,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_269.txt,व्लादिमीर पुतिन,Protagonist,Virtuous,Antagonist,Antagonist,Saboteur,Saboteur
+HI_282.txt,भारत,Protagonist,Peacemaker,Antagonist,Antagonist,Saboteur,Saboteur
+HI_279.txt,जो बाइडन,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_301.txt,सहयोगियों,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_72.txt,मॉस्को,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+HI_68.txt,यूक्रेन,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_273.txt,दमित्री पेस्कोव,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_399.txt,अमेरिका,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_113.txt,रूस,Antagonist,Tyrant,Innocent,Innocent,Forgotten,Forgotten
+HI_386.txt,रूस,Antagonist,"Foreign Adversary, Tyrant",Antagonist,Antagonist,Saboteur,Saboteur
+HI_67.txt,अमेरिका,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_283.txt,ज़ेलेंस्की,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_48.txt,माली के विद्रोहियों,Antagonist,Terrorist,Protagonist,Protagonist,Rebel,Rebel
+HI_173.txt,मॉस्को,Protagonist,"Rebel, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_304.txt,रूस,Antagonist,Tyrant,Innocent,Innocent,Forgotten,Forgotten
+HI_23.txt,यूरोप,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_173.txt,रूस,Protagonist,Virtuous,Antagonist,Antagonist,Saboteur,Saboteur
+HI_124.txt,नीदरलैंड,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_254.txt,मोहम्मद सूफियान,Innocent,"Exploited, Victim",Innocent,Innocent,Forgotten,Forgotten
+HI_179.txt,विदेश मंत्रालय,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_277.txt,जासूस,Protagonist,Virtuous,Antagonist,Antagonist,Spy,Spy
+HI_27.txt,यूक्रेन,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_363.txt,जो बाइडन,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_195.txt,जेलेंस्की,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_113.txt,विद्रोहियों,Antagonist,Terrorist,Innocent,Innocent,Forgotten,Forgotten
+HI_384.txt,यूक्रेन,Protagonist,"Rebel, Underdog",Innocent,Innocent,Forgotten,Forgotten
+HI_30.txt,हंगरी,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_257.txt,रामेंस्कोए,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_55.txt,पुतिन,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_399.txt,नागरिकों,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_65.txt,व्लादिमीर पुतिन,Antagonist,Tyrant,Antagonist,Antagonist,Saboteur,Saboteur
+HI_205.txt,कीव,Innocent,Victim,Antagonist,Antagonist,Instigator,Instigator
+HI_164.txt,पश्चिमी देशों,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_318.txt,पुतिन,Protagonist,"Rebel, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_6.txt,ब्रिटेन,Protagonist,Guardian,Antagonist,Antagonist,Bigot,Bigot
+HI_136.txt,टोटल एनर्जीज़,Antagonist,Deceiver,Innocent,Innocent,Forgotten,Forgotten
+HI_322.txt,मैरी एन मार्श,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_1.txt,भारत,Protagonist,Peacemaker,Antagonist,Antagonist,Saboteur,Saboteur
+HI_324.txt,कमेनस्चिक,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_44.txt,पुतिन,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_103.txt,अमेरिका,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_33.txt,भारतीयों,Innocent,Exploited,Innocent,Innocent,Forgotten,Forgotten
+HI_180.txt,NATO,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_170.txt,वोलोदिमीर जेलेंस्की,Protagonist,"Peacemaker, Virtuous, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_2.txt,रूसी,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_273.txt,क्रेनी सेना के इंटेलिजेंस सूत्रों,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_394.txt,रूसी सेना,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_188.txt,मोदी,Protagonist,Rebel,Innocent,Innocent,Forgotten,Forgotten
+HI_94.txt,रणधीर जायसवाल,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_360.txt,वोलोडिमिर जेलेंस्की,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+HI_329.txt,यूक्रेन,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_319.txt,पुतिन,Antagonist,"Instigator, Foreign Adversary",Antagonist,Antagonist,Saboteur,Saboteur
+HI_176.txt,रूस,Protagonist,Rebel,Innocent,Innocent,Forgotten,Forgotten
+HI_278.txt,अमेरिकी राष्ट्रपति,Protagonist,"Virtuous, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_245.txt,जेलेंस्की,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_175.txt,यूक्रेनी रक्षा मंत्रालय,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_46.txt,रूस,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_321.txt,ज़ेलेंस्की,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_301.txt,जेलेंस्की,Antagonist,Deceiver,Innocent,Innocent,Forgotten,Forgotten
+HI_70.txt,अमेरिका,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_398.txt,ज़ापोरिज्जिया,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_332.txt,यूक्रेन,Protagonist,Underdog,Antagonist,Antagonist,Saboteur,Saboteur
+HI_303.txt,रूस,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_178.txt,पुतिन,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_279.txt,रूस,Antagonist,"Foreign Adversary, Tyrant",Antagonist,Antagonist,Saboteur,Saboteur
+HI_124.txt,रूसी सेना,Antagonist,Tyrant,Innocent,Innocent,Forgotten,Forgotten
+HI_42.txt,चरणजीत सिंह,Antagonist,Incompetent,Innocent,Innocent,Forgotten,Forgotten
+HI_396.txt,सैक्स,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_100.txt,व्लादिमीर जेलेंस्की,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_174.txt,जेलेंस्की,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_274.txt,पूर्वी यूक्रेन,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_69.txt,नरेंद्र मोदी,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_318.txt,मॉस्को,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_286.txt,उत्तर कोरियाई सैनिक,Protagonist,Guardian,Antagonist,Antagonist,Tyrant,Tyrant
+HI_161.txt,इमैनुएल मैक्रों,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_30.txt,विक्टर ओरबान,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_329.txt,लांज़ा,Antagonist,"Incompetent, Deceiver",Antagonist,Antagonist,Saboteur,Saboteur
+HI_304.txt,कुर्स्क,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_65.txt,पश्चिमी देशों,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_363.txt,पुतिन,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_389.txt,रूस,Protagonist,Rebel,Antagonist,Antagonist,Saboteur,Saboteur
+HI_25.txt,अमेरिका,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_145.txt,ढाका,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_96.txt,यूक्रेन,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_399.txt,डोनाल्ड ट्रंप,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_86.txt,चीन,Protagonist,Peacemaker,Innocent,Innocent,Victim,Victim
+HI_320.txt,यूक्रेनी सेना,Protagonist,"Guardian, Underdog",Antagonist,Antagonist,Saboteur,Saboteur
+HI_105.txt,जनरल स्टाफ,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_22.txt,यूक्रेन,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+HI_115.txt,यूक्रेन,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+HI_55.txt,रूस,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_252.txt,रूस,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_222.txt,मोदी,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_127.txt,रूसी राष्ट्रपति,Antagonist,"Foreign Adversary, Tyrant",Innocent,Innocent,Forgotten,Forgotten
+HI_14.txt,रूस,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_301.txt,बाइडेन प्रशासन,Antagonist,Incompetent,Innocent,Innocent,Forgotten,Forgotten
+HI_276.txt,रूस,Antagonist,Incompetent,Antagonist,Antagonist,Saboteur,Saboteur
+HI_113.txt,यूक्रेन,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_123.txt,चीन,Antagonist,Foreign Adversary,Protagonist,Protagonist,Peacemaker,Peacemaker
+HI_208.txt,भीम,Innocent,Forgotten,Innocent,Innocent,Victim,Victim
+HI_177.txt,यूक्रेन,Protagonist,Underdog,Antagonist,Antagonist,Tyrant,Tyrant
+HI_49.txt,पॉल व्हेलन,Antagonist,Spy,Innocent,Innocent,Forgotten,Forgotten
+HI_232.txt,वैज्ञानिकों,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_6.txt,जेलेंस्की,Innocent,Victim,Antagonist,Antagonist,Bigot,Bigot
+HI_3.txt,अमेरिका-,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_266.txt,यूक्रेनी सेना,Protagonist,"Guardian, Underdog",Antagonist,Antagonist,Tyrant,Tyrant
+HI_358.txt,भारत,Protagonist,"Peacemaker, Virtuous",Innocent,Innocent,Forgotten,Forgotten
+HI_399.txt,यूक्रेन,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_6.txt,रूसी,Antagonist,Foreign Adversary,Antagonist,Antagonist,Bigot,Bigot
+HI_99.txt,NATO,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_234.txt,राजस्थान,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_228.txt,यूक्रेन,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_40.txt,रूस,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_316.txt,यूक्रेन,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_104.txt,जवाहरलाल नेहरू,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_45.txt,रूस,Antagonist,Foreign Adversary,Protagonist,Protagonist,Rebel,Rebel
+HI_6.txt,पुतिन,Protagonist,Virtuous,Antagonist,Antagonist,Bigot,Bigot
+HI_191.txt,रूस,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_283.txt,व्लादिमीर पुतिन,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_398.txt,रूस,Antagonist,"Instigator, Tyrant",Antagonist,Antagonist,Saboteur,Saboteur
+HI_256.txt,जो बाइडेन,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_310.txt,पश्चिमी देशों,Antagonist,Foreign Adversary,Antagonist,Antagonist,Tyrant,Tyrant
+HI_130.txt,स्नोहोमिश काउंटी पीयूडी आधिकारिक,Protagonist,Virtuous,Antagonist,Antagonist,Saboteur,Saboteur
+HI_23.txt,यूक्रेन,Antagonist,Corrupt,Innocent,Innocent,Forgotten,Forgotten
+HI_117.txt,यूरोपीय देश,Innocent,Victim,Innocent,Innocent,Victim,Victim
+HI_233.txt,वैज्ञानिक,Protagonist,"Virtuous, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_388.txt,कीव,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_3.txt,इवान गेर्शकोविच,Innocent,Scapegoat,Innocent,Innocent,Forgotten,Forgotten
+HI_321.txt,रूसी सेनाएं,Antagonist,Tyrant,Antagonist,Antagonist,Saboteur,Saboteur
+HI_221.txt,अमेरिका,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_325.txt,रूस,Protagonist,Rebel,Innocent,Innocent,Forgotten,Forgotten
+HI_261.txt,महिलाएं,Protagonist,Underdog,Antagonist,Antagonist,Saboteur,Saboteur
+HI_341.txt,क्रेन,Innocent,Exploited,Innocent,Innocent,Forgotten,Forgotten
+HI_102.txt,यूक्रेन,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_115.txt,रूस,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_396.txt,एलन मस्क,Protagonist,Rebel,Innocent,Innocent,Forgotten,Forgotten
+HI_113.txt,क्रीमिया,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_54.txt,पश्चिमी देशों,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_325.txt,पुतिन,Protagonist,"Rebel, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_103.txt,यूरोपीय देशों,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_315.txt,रूस,Protagonist,Virtuous,Antagonist,Antagonist,Saboteur,Saboteur
+HI_157.txt,यूक्रेन,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_231.txt,केंद्र सरकार,Protagonist,Virtuous,Antagonist,Antagonist,Saboteur,Saboteur
+HI_285.txt,यूक्रेनी सेना,Protagonist,Underdog,Antagonist,Antagonist,Tyrant,Tyrant
+HI_229.txt,रूस,Antagonist,Instigator,Antagonist,Antagonist,Saboteur,Saboteur
+HI_318.txt,पश्चिमी देशों,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_330.txt,रूस,Protagonist,Rebel,Antagonist,Antagonist,Saboteur,Saboteur
+HI_220.txt,अमेरिका,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_33.txt,सीरिया-,Innocent,Exploited,Innocent,Innocent,Forgotten,Forgotten
+HI_2.txt,पश्चिमी नेताओं,Antagonist,Bigot,Innocent,Innocent,Forgotten,Forgotten
+HI_89.txt,मोदी,Protagonist,Virtuous,Antagonist,Antagonist,Saboteur,Saboteur
+HI_269.txt,पुतिन,Protagonist,Virtuous,Antagonist,Antagonist,Saboteur,Saboteur
+HI_101.txt,कीव,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_127.txt,पुतिन,Antagonist,"Instigator, Terrorist",Innocent,Innocent,Forgotten,Forgotten
+HI_391.txt,व्लादिमीर पुतिन,Protagonist,"Rebel, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_311.txt,रूस,Protagonist,Rebel,Innocent,Innocent,Forgotten,Forgotten
+HI_67.txt,पश्चिम देश,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_196.txt,भारत,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_105.txt,रूस,Antagonist,Tyrant,Innocent,Innocent,Forgotten,Forgotten
+HI_16.txt,यूक्रेन,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_128.txt,कमला हैरिस,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_200.txt,गंभीर सिंह चौहान,Protagonist,Virtuous,Antagonist,Antagonist,Saboteur,Saboteur
+HI_45.txt,रूसी राजनयिकों,Innocent,Scapegoat,Protagonist,Protagonist,Rebel,Rebel
+HI_284.txt,पोलिश अधिकारियों,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_330.txt,अनातोली खरापचिन्सिकी,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_386.txt,बच्चे,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_29.txt,रूस,Innocent,Victim,Antagonist,Antagonist,Terrorist,Terrorist
+HI_266.txt,कुर्स्क,Innocent,Victim,Antagonist,Antagonist,Tyrant,Tyrant
+HI_332.txt,यूक्रेनी सेना,Protagonist,"Guardian, Underdog",Antagonist,Antagonist,Saboteur,Saboteur
+HI_163.txt,पीएम मोदी,Protagonist,"Peacemaker, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_70.txt,रूस,Antagonist,Tyrant,Innocent,Innocent,Forgotten,Forgotten
+HI_393.txt,कीव,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_279.txt,नेटो,Protagonist,Virtuous,Antagonist,Antagonist,Saboteur,Saboteur
+HI_53.txt,भारत,Innocent,Victim,Innocent,Innocent,Victim,Victim
+HI_165.txt,यूक्रेन,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_172.txt,पश्चिमी देशों,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_386.txt,पुतिन,Protagonist,"Rebel, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_2.txt,यूक्रेन,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_224.txt,यूरोप,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_326.txt,जॉन बार्यन्स,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_312.txt,भारत के छात्रों,Innocent,"Exploited, Victim",Antagonist,Antagonist,Instigator,Instigator
+HI_400.txt,डोनाल्ड ट्रंप,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_2.txt,पुतिन,Innocent,Forgotten,Innocent,Innocent,Forgotten,Forgotten
+HI_30.txt,यूक्रेन,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_128.txt,रूस,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_188.txt,अमेरिका,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_392.txt,यूक्रेन,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_176.txt,कुर्स्क,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_89.txt,भारत,Protagonist,Virtuous,Antagonist,Antagonist,Saboteur,Saboteur
+HI_8.txt,दिमित्री पेसकोव,Antagonist,Deceiver,Innocent,Innocent,Forgotten,Forgotten
+HI_6.txt,यूक्रेन,Innocent,Victim,Antagonist,Antagonist,Bigot,Bigot
+HI_323.txt,ज़ेलेंस्की,Protagonist,"Guardian, Underdog",Antagonist,Antagonist,Saboteur,Saboteur
+HI_302.txt,उत्तर कोरिया,Protagonist,"Rebel, Guardian",Antagonist,Antagonist,Tyrant,Tyrant
+HI_54.txt,रूस,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_29.txt,रूस,Innocent,Victim,Antagonist,Antagonist,Terrorist,Terrorist
+HI_263.txt,रणधीर जायसवाल,Protagonist,"Virtuous, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_64.txt,पुतिन,Antagonist,Tyrant,Antagonist,Antagonist,Saboteur,Saboteur
+HI_66.txt,यूक्रेन,Innocent,Victim,Innocent,Innocent,Victim,Victim
+HI_320.txt,यूक्रेन,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_104.txt,भारत,Protagonist,"Peacemaker, Virtuous",Innocent,Innocent,Forgotten,Forgotten
+HI_397.txt,अमेरिका,Antagonist,"Instigator, Deceiver",Innocent,Innocent,Forgotten,Forgotten
+HI_36.txt,जो बायडेन,Antagonist,Incompetent,Antagonist,Antagonist,Saboteur,Saboteur
+HI_46.txt,रूस,Antagonist,Instigator,Antagonist,Antagonist,Saboteur,Saboteur
+HI_273.txt,यूक्रेनी सेना,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_218.txt,चीन,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_116.txt,अमेरिका,Antagonist,Foreign Adversary,Antagonist,Antagonist,Tyrant,Tyrant
+HI_318.txt,अमेरिका,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_16.txt,रूस,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_102.txt,शैक्षणिक संस्था,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_6.txt,यूक्रेन,Innocent,Victim,Antagonist,Antagonist,Bigot,Bigot
+HI_157.txt,भारत,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_229.txt,सेरही पोपको,Protagonist,"Guardian, Underdog",Antagonist,Antagonist,Saboteur,Saboteur
+HI_206.txt,कॉन्ट्रैक्टर,Protagonist,Rebel,Antagonist,Antagonist,Traitor,Traitor
+HI_255.txt,भारतीय नौजवानों,Innocent,"Exploited, Victim",Innocent,Innocent,Forgotten,Forgotten
+HI_88.txt,नरेंद्र मोदी,Antagonist,"Incompetent, Deceiver",Innocent,Innocent,Victim,Victim
+HI_44.txt,रूस,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+HI_262.txt,उत्तर कोरिया की सेना,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_214.txt,अमेरिका,Protagonist,"Virtuous, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_150.txt,50 लाख से ज्यादा लोगों,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_326.txt,मेलिंगा हेरिंग,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_284.txt,रूस,Antagonist,"Conspirator, Foreign Adversary",Innocent,Innocent,Forgotten,Forgotten
+HI_304.txt,यूक्रेन,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_277.txt,यूक्रेन,Innocent,Victim,Antagonist,Antagonist,Spy,Spy
+HI_70.txt,यूरोप,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_266.txt,वोलोदिमीर जेलेंस्की,Protagonist,Guardian,Antagonist,Antagonist,Tyrant,Tyrant
+HI_124.txt,फ्रांस,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_116.txt,सोवियत संघ,Antagonist,Foreign Adversary,Antagonist,Antagonist,Tyrant,Tyrant
+HI_101.txt,भारत,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_396.txt,अमेरिका,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_72.txt,पश्चिमी देश,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_260.txt,रूस,Antagonist,"Foreign Adversary, Deceiver",Innocent,Innocent,Forgotten,Forgotten
+HI_307.txt,रूस,Protagonist,Rebel,Innocent,Innocent,Forgotten,Forgotten
+HI_99.txt,रूस,Protagonist,Rebel,Antagonist,Antagonist,Saboteur,Saboteur
+HI_258.txt,जॉर्जिया मेलोनी,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_1.txt,व्लादिमीर पुतिन,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_7.txt,भारत,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_322.txt,कमला हैरिस,Protagonist,"Virtuous, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_53.txt,अटलांटिक-पार,Antagonist,Foreign Adversary,Innocent,Innocent,Victim,Victim
+HI_29.txt,ऑर्थोडॉक्स चर्च के पादरी,Innocent,Victim,Antagonist,Antagonist,Terrorist,Terrorist
+HI_49.txt,अलसू कुर्माशेवा,Antagonist,Spy,Innocent,Innocent,Forgotten,Forgotten
+HI_227.txt,रूस की सेना,Antagonist,Incompetent,Innocent,Innocent,Forgotten,Forgotten
+HI_210.txt,मानव जीवन,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_390.txt,यूक्रेनी सेना,Protagonist,"Guardian, Underdog",Antagonist,Antagonist,Saboteur,Saboteur
+HI_266.txt,जेलेंस्की,Protagonist,Guardian,Antagonist,Antagonist,Tyrant,Tyrant
+HI_64.txt,यूक्रेन,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_124.txt,चेक,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_257.txt,मॉस्को,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_123.txt,चीन,Antagonist,Corrupt,Protagonist,Protagonist,Peacemaker,Peacemaker
+HI_188.txt,वलोडोमिर जेलेंस्की,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_197.txt,रूस,Antagonist,"Foreign Adversary, Tyrant",Innocent,Innocent,Forgotten,Forgotten
+HI_175.txt,यूक्रेन,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_166.txt,यूक्रेनी सांसद,Protagonist,"Rebel, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_234.txt,बिहार,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_104.txt,नई दिल्ली,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_269.txt,पश्चिम,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_387.txt,ज़ेलेंस्की,Protagonist,"Guardian, Underdog",Antagonist,Antagonist,Saboteur,Saboteur
+HI_120.txt,NATO सहयोगी,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_257.txt,रूस,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_99.txt,अमेरिका,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_91.txt,व्लादिमीर पुतिन,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_54.txt,रूसी,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_206.txt,FBI,Antagonist,Incompetent,Antagonist,Antagonist,Traitor,Traitor
+HI_331.txt,विदेश मंत्रालय,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_112.txt,संघीय सुरक्षा सेवा (FSB,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_216.txt,मोदी,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_22.txt,जेलेंस्की,Antagonist,Incompetent,Innocent,Innocent,Forgotten,Forgotten
+HI_175.txt,अन्ना माल्यर,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_331.txt,कुर्स्क,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_303.txt,यूक्रेन,Antagonist,"Instigator, Foreign Adversary",Innocent,Innocent,Forgotten,Forgotten
+HI_112.txt,यूक्रेन,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+HI_201.txt,व्लादिमीर पुतिन,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_25.txt,पुतिन,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_280.txt,मोदी,Protagonist,Virtuous,Antagonist,Antagonist,Saboteur,Saboteur
+HI_202.txt,कुर्स्क,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_73.txt,यूक्रेन,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_393.txt,जेलेंस्की,Protagonist,"Guardian, Underdog",Innocent,Innocent,Forgotten,Forgotten
+HI_333.txt,रूस,Innocent,Victim,Antagonist,Antagonist,Terrorist,Terrorist
+HI_117.txt,अफ्रीका,Innocent,Victim,Innocent,Innocent,Victim,Victim
+HI_270.txt,भारत,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_142.txt,बिहार के कई जिलों,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_196.txt,यूक्रेनी राष्ट्रपति,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_247.txt,कीव,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_238.txt,हिमाचल,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_323.txt,बाइडन,Protagonist,"Virtuous, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_79.txt,सर्गेई रयाबकोव,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_23.txt,यूक्रेन,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_202.txt,जेलेंस्की,Protagonist,"Rebel, Guardian, Underdog",Innocent,Innocent,Forgotten,Forgotten
+HI_262.txt,डोनबास,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_282.txt,मोदी,Protagonist,Virtuous,Antagonist,Antagonist,Saboteur,Saboteur
+HI_153.txt,लिसिचांस्क,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_46.txt,यूक्रेन,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_124.txt,एयरफोर्स,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_197.txt,रूसी सेना,Antagonist,Tyrant,Innocent,Innocent,Forgotten,Forgotten
+HI_129.txt,केन्द्र सरकार,Protagonist,"Virtuous, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_355.txt,ट्रंप,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_397.txt,रूस,Protagonist,"Rebel, Virtuous",Innocent,Innocent,Forgotten,Forgotten
+HI_8.txt,वादिम क्रासिकोव,Antagonist,Terrorist,Innocent,Innocent,Forgotten,Forgotten
+HI_150.txt,एशिया,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_173.txt,एलेक्सी मालिनिन,Protagonist,"Virtuous, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_66.txt,नागरिक उड्डयन क्षेत्र,Innocent,Victim,Innocent,Innocent,Victim,Victim
+HI_331.txt,यूक्रेन,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_73.txt,यूक्रेन,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_2.txt,मास्को,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_394.txt,बाइडेन,Antagonist,Incompetent,Innocent,Innocent,Forgotten,Forgotten
+HI_49.txt,पुतिन,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_278.txt,यूक्रेन,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_196.txt,रूस,Antagonist,"Foreign Adversary, Tyrant",Innocent,Innocent,Forgotten,Forgotten
+HI_74.txt,भारत,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_221.txt,यूक्रेन,Protagonist,"Rebel, Underdog",Innocent,Innocent,Forgotten,Forgotten
+HI_321.txt,यूक्रेन,Protagonist,Underdog,Antagonist,Antagonist,Saboteur,Saboteur
+HI_249.txt,यूक्रेन,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_212.txt,वोल्डिमीर जेलेंस्की,Protagonist,Virtuous,Antagonist,Antagonist,Instigator,Instigator
+HI_27.txt,भारत सरकार,Antagonist,Incompetent,Innocent,Innocent,Forgotten,Forgotten
+HI_366.txt,यूक्रेन,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+HI_168.txt,बूचा,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_301.txt,वोलोदिमीर जेलेंस्की,Antagonist,Deceiver,Innocent,Innocent,Forgotten,Forgotten
+HI_227.txt,वोलोदिमीर जेलेंस्की,Protagonist,Rebel,Innocent,Innocent,Forgotten,Forgotten
+HI_78.txt,रूस,Antagonist,Tyrant,Innocent,Innocent,Forgotten,Forgotten
+HI_14.txt,बाइडेन,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_266.txt,रूस,Antagonist,Foreign Adversary,Antagonist,Antagonist,Tyrant,Tyrant
+HI_244.txt,अमेरिका,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_250.txt,रूस,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_49.txt,व्लादिमीर पुतिन,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_312.txt,कमला हैरिस,Antagonist,Incompetent,Antagonist,Antagonist,Instigator,Instigator
+HI_312.txt,ट्रंप,Antagonist,"Foreign Adversary, Tyrant",Antagonist,Antagonist,Instigator,Instigator
+HI_374.txt,जो बाइडन,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_6.txt,खार्किव,Innocent,Exploited,Antagonist,Antagonist,Bigot,Bigot
+HI_155.txt,चीन,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_54.txt,रूस,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_87.txt,भारत,Protagonist,"Peacemaker, Virtuous",Antagonist,Antagonist,Saboteur,Saboteur
+HI_124.txt,रूस,Antagonist,Tyrant,Innocent,Innocent,Forgotten,Forgotten
+HI_378.txt,पुतिन,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_91.txt,नाटो सेना,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_255.txt,रूसी सेना,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_86.txt,यूक्रेन,Innocent,Victim,Innocent,Innocent,Victim,Victim
+HI_74.txt,भारत,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_55.txt,अमेरिका,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_253.txt,ब्रिटेन,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_312.txt,मोदी,Protagonist,Guardian,Antagonist,Antagonist,Instigator,Instigator
+HI_100.txt,भारत,Protagonist,Peacemaker,Antagonist,Antagonist,Saboteur,Saboteur
+HI_202.txt,प्रवक्ता,Protagonist,"Guardian, Underdog",Innocent,Innocent,Forgotten,Forgotten
+HI_264.txt,ऑस्टिन,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_398.txt,मायकोलाइव,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_83.txt,भारत,Protagonist,Virtuous,Protagonist,Protagonist,Martyr,Martyr
+HI_222.txt,ब्रिक्स,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_52.txt,रूस की सरकार,Protagonist,Virtuous,Antagonist,Antagonist,Saboteur,Saboteur
+HI_117.txt,पोलैंड,Innocent,Victim,Innocent,Innocent,Victim,Victim
+HI_285.txt,पश्चिमी देशों,Protagonist,Guardian,Antagonist,Antagonist,Tyrant,Tyrant
+HI_383.txt,अमेरिका,Protagonist,"Virtuous, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_213.txt,जो बाइडेन,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_92.txt,यूरोप,Antagonist,Foreign Adversary,Antagonist,Antagonist,Tyrant,Tyrant
+HI_24.txt,उक्रेन,Innocent,Victim,Innocent,Innocent,Victim,Victim
+HI_117.txt,मॉस्को,Protagonist,Guardian,Innocent,Innocent,Victim,Victim
+HI_109.txt,चीन,Protagonist,"Virtuous, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_117.txt,लीबिया,Innocent,Victim,Innocent,Innocent,Victim,Victim
+HI_117.txt,अबू बकर अल-बगदादी,Antagonist,Terrorist,Innocent,Innocent,Victim,Victim
+HI_204.txt,यूक्रेन,Antagonist,Incompetent,Innocent,Innocent,Forgotten,Forgotten
+HI_102.txt,अस्पताल,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_206.txt,अमेरिका,Antagonist,"Incompetent, Deceiver",Antagonist,Antagonist,Traitor,Traitor
+HI_314.txt,अमरेका,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_124.txt,रूस,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+HI_320.txt,मारिया ज़ोलकीना,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_187.txt,मोदी,Protagonist,"Peacemaker, Virtuous",Innocent,Innocent,Forgotten,Forgotten
+HI_73.txt,रूस,Antagonist,Tyrant,Innocent,Innocent,Forgotten,Forgotten
+HI_117.txt,विभिन्न क्षेत्रों/,Innocent,Victim,Innocent,Innocent,Victim,Victim
+HI_309.txt,पश्चिमी देश,Antagonist,Foreign Adversary,Antagonist,Antagonist,Tyrant,Tyrant
+HI_112.txt,यूरोप,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_157.txt,भारत,Protagonist,"Peacemaker, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_384.txt,व्लादिमीर पुतिन,Protagonist,"Rebel, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_60.txt,फाइनेंशियल टाइम्स,Antagonist,Deceiver,Antagonist,Antagonist,Saboteur,Saboteur
+HI_191.txt,नरेंद्र मोदी,Protagonist,"Virtuous, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_228.txt,रूसी रक्षा मंत्रालय,Protagonist,Rebel,Antagonist,Antagonist,Saboteur,Saboteur
+HI_224.txt,मोदी,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_2.txt,रूस-,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_136.txt,एयरलाइन केएलएम,Antagonist,Deceiver,Innocent,Innocent,Forgotten,Forgotten
+HI_23.txt,यूक्रेन,Innocent,Forgotten,Innocent,Innocent,Forgotten,Forgotten
+HI_113.txt,रूस,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+HI_360.txt,यूक्रेन,Antagonist,Incompetent,Innocent,Innocent,Forgotten,Forgotten
+HI_164.txt,अमेरिका,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_336.txt,रूस,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_153.txt,सेवेरोडोनेट्स्क,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_105.txt,यूक्रेन,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_338.txt,मैक्स बर्गमन,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_195.txt,नरेन्द्र मोदी,Protagonist,"Virtuous, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_44.txt,पीएम मोदी,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_70.txt,पाकिस्तान,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_267.txt,जेलेंस्की,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_173.txt,पश्चिम देश,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_317.txt,भारत,Protagonist,"Peacemaker, Virtuous, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_319.txt,दमित्रो लिटविन,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_278.txt,यूक्रेन,Protagonist,"Guardian, Underdog",Innocent,Innocent,Forgotten,Forgotten
+HI_206.txt,अमेरिकी राष्ट्रीय सुरक्षा एजेंसी,Antagonist,"Deceiver, Corrupt, Spy",Antagonist,Antagonist,Traitor,Traitor
+HI_308.txt,चोए,Protagonist,"Virtuous, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_311.txt,नाटो,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_2.txt,चीन,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_311.txt,सबरीना सिंह,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_94.txt,चेक गणराज्य,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_340.txt,मरीना मिरोन,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_124.txt,रूस,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+HI_39.txt,भारत,Protagonist,Peacemaker,Antagonist,Antagonist,Terrorist,Terrorist
+HI_246.txt,रूस,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_365.txt,यूक्रेन,Protagonist,Rebel,Innocent,Innocent,Forgotten,Forgotten
+HI_155.txt,रूस,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+HI_98.txt,रूस,Protagonist,Rebel,Innocent,Innocent,Forgotten,Forgotten
+HI_3.txt,वादिम,Antagonist,Terrorist,Innocent,Innocent,Forgotten,Forgotten
+HI_18.txt,वादिम क्रासिकोव,Antagonist,"Terrorist, Spy",Innocent,Innocent,Forgotten,Forgotten
+HI_348.txt,अमेरिका,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_314.txt,जो बाइडन,Antagonist,Incompetent,Innocent,Innocent,Forgotten,Forgotten
+HI_118.txt,रूसी सैन्य बलों,Antagonist,Terrorist,Antagonist,Antagonist,Saboteur,Saboteur
+HI_378.txt,रूस,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_302.txt,जापान,Protagonist,"Rebel, Guardian",Antagonist,Antagonist,Tyrant,Tyrant
+HI_7.txt,यूक्रेन,Innocent,Exploited,Innocent,Innocent,Forgotten,Forgotten
+HI_195.txt,भारत,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_56.txt,व्लादिमीर पुतिन,Antagonist,Instigator,Antagonist,Antagonist,Saboteur,Saboteur
+HI_89.txt,भारत,Protagonist,Rebel,Antagonist,Antagonist,Saboteur,Saboteur
+HI_309.txt,पश्चिम के देश,Antagonist,Foreign Adversary,Antagonist,Antagonist,Tyrant,Tyrant
+HI_385.txt,पुतिन,Protagonist,"Rebel, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_188.txt,अमेरिका,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_128.txt,डोनाल्ड ट्रंप,Antagonist,Incompetent,Innocent,Innocent,Forgotten,Forgotten
+HI_303.txt,व्याचेस्लाव ग्लैडकोव,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_398.txt,खेरसॉन,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_202.txt,डोनेट्स्क,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_272.txt,यूलिया नवेलनी,Protagonist,Rebel,Antagonist,Antagonist,Saboteur,Saboteur
+HI_314.txt,ट्रंप,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_81.txt,उत्तरी अटलांटिक संधि संगठन (नाटो,Protagonist,Guardian,Antagonist,Antagonist,Terrorist,Terrorist
+HI_385.txt,रूस,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_62.txt,रूसी सेना,Antagonist,Tyrant,Innocent,Innocent,Forgotten,Forgotten
+HI_248.txt,खारकीव,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_379.txt,यूक्रेन,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_385.txt,जेलेंस्की,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_319.txt,लांज़ा,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_117.txt,कादिरोव,Antagonist,Traitor,Innocent,Innocent,Victim,Victim
+HI_82.txt,पीएम मोदी,Protagonist,"Peacemaker, Virtuous",Protagonist,Protagonist,Peacemaker,Peacemaker
+HI_246.txt,ओलेह किपर,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_256.txt,अमेरिका,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_174.txt,उत्तर कोरियाई,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_94.txt,भारत,Protagonist,"Virtuous, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_277.txt,रूस,Antagonist,Foreign Adversary,Antagonist,Antagonist,Spy,Spy
+HI_366.txt,बाइडन,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_214.txt,अमेरिका,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_225.txt,जेलेंस्की,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_305.txt,व्लादिमीर पुतिन,Protagonist,"Rebel, Guardian",Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+HI_269.txt,मॉस्को,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_23.txt,यूक्रेन,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_379.txt,पश्चिम,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_22.txt,वोलोदिमिर जेलेंस्की,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_121.txt,भारत,Antagonist,Bigot,Innocent,Innocent,Forgotten,Forgotten
+HI_131.txt,भारत,Protagonist,Virtuous,Antagonist,Antagonist,Saboteur,Saboteur
+HI_182.txt,अमेरिका,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_99.txt,व्लादिमीर पुतिन,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_340.txt,रूस,Antagonist,Tyrant,Innocent,Innocent,Forgotten,Forgotten
+HI_23.txt,रूस,Protagonist,Rebel,Innocent,Innocent,Forgotten,Forgotten
+HI_344.txt,जी-7 देशों,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_246.txt,जेलेंस्की,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_306.txt,पुतिन,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_335.txt,नेटो,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_258.txt,चीन,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_168.txt,रूस,Antagonist,Corrupt,Innocent,Innocent,Forgotten,Forgotten
+HI_68.txt,मारियुपोल मैटरनिटी हॉस्पिटल,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_16.txt,पीएम मोदी,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_247.txt,व्यक्ति,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_56.txt,अमेरिका,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_385.txt,अमेरिका,Protagonist,"Virtuous, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_25.txt,रूस,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_7.txt,मॉस्को,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_225.txt,कुर्स्क,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_124.txt,यूक्रेन की सेना,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_234.txt,ओडिशा,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_40.txt,रूसी सेना,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_112.txt,सर्गेई मिरोनोव,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_202.txt,यूक्रेन,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_43.txt,यूएस कॉन्ग्रेस,Antagonist,Saboteur,Innocent,Innocent,Forgotten,Forgotten
+HI_96.txt,यूरोप,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_124.txt,यूक्रेन,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_54.txt,नाटो,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_333.txt,रूस,Innocent,Victim,Antagonist,Antagonist,Terrorist,Terrorist
+HI_6.txt,यूक्रेनी नागरिकों,Innocent,Victim,Antagonist,Antagonist,Bigot,Bigot
+HI_278.txt,रूस,Antagonist,"Foreign Adversary, Tyrant",Innocent,Innocent,Forgotten,Forgotten
+HI_222.txt,यूक्रेनी पक्ष,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_91.txt,यूक्रेन,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+HI_279.txt,सर कीएर,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_25.txt,NATO,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_266.txt,उत्तर कोरिया,Antagonist,Foreign Adversary,Antagonist,Antagonist,Tyrant,Tyrant
+HI_120.txt,यूक्रेन,Protagonist,Underdog,Antagonist,Antagonist,Saboteur,Saboteur
+HI_187.txt,नाटो,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_321.txt,मारिया ज़ोलकीना,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_195.txt,यूक्रेन,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_23.txt,रूसी सैनिकों,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_285.txt,उत्तर कोरियाई सेना,Antagonist,Foreign Adversary,Antagonist,Antagonist,Tyrant,Tyrant
+HI_133.txt,पक्षी,Innocent,Victim,Antagonist,Antagonist,Instigator,Instigator
+HI_109.txt,नाटो,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_90.txt,जो बाइडेन,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_2.txt,मास्को,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_265.txt,ड्रैगन ड्रोन,Antagonist,Saboteur,Innocent,Innocent,Forgotten,Forgotten
+HI_255.txt,नरेंद्र मोदी,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_388.txt,व्लादिमीर पुतिन,Protagonist,"Rebel, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_266.txt,यूक्रेनी खुफिया एजेंसियों,Protagonist,Guardian,Antagonist,Antagonist,Tyrant,Tyrant
+HI_124.txt,राष्ट्रपति पुतिन,Antagonist,Tyrant,Innocent,Innocent,Forgotten,Forgotten
+HI_304.txt,यूक्रेन,Protagonist,"Guardian, Underdog",Innocent,Innocent,Forgotten,Forgotten
+HI_49.txt,रूस,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_22.txt,मरिंका,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_221.txt,पुतिन,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_279.txt,सर कीएर स्टार्मर,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_280.txt,डोभाल,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_334.txt,नरेंद्र मोदी,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_70.txt,यूक्रेन,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_45.txt,ज़ेलिमखान खांगोशविली,Innocent,Victim,Protagonist,Protagonist,Rebel,Rebel
+HI_395.txt,रूस,Protagonist,Rebel,Antagonist,Antagonist,Saboteur,Saboteur
+HI_219.txt,ब्रिटेन,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_241.txt,मोदी,Protagonist,Peacemaker,Antagonist,Antagonist,Saboteur,Saboteur
+HI_123.txt,भारत,Protagonist,"Peacemaker, Virtuous",Protagonist,Protagonist,Peacemaker,Peacemaker
+HI_247.txt,यूक्रेन,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_388.txt,रूस,Protagonist,Rebel,Antagonist,Antagonist,Saboteur,Saboteur
+HI_254.txt,रूसी सेना,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_386.txt,यूक्रेन,Protagonist,Underdog,Antagonist,Antagonist,Saboteur,Saboteur
+HI_96.txt,यूक्रेन,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_393.txt,ट्रंप,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_285.txt,किम जोंग,Antagonist,"Foreign Adversary, Tyrant",Antagonist,Antagonist,Tyrant,Tyrant
+HI_138.txt,प्रधानमंत्री मोदी,Protagonist,"Virtuous, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_91.txt,सारातोव,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_187.txt,यूक्रेन,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_245.txt,जेलेंस्की,Protagonist,"Guardian, Underdog",Innocent,Innocent,Forgotten,Forgotten
+HI_14.txt,कमला हैरिस,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_287.txt,भारत,Protagonist,Virtuous,Antagonist,Antagonist,Saboteur,Saboteur
+HI_394.txt,ट्रंप,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_70.txt,कतर,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_102.txt,यूक्रेनी राष्ट्रपति,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_87.txt,एस जयशंकर,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_109.txt,नाटो,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_176.txt,कीव शासन,Antagonist,"Instigator, Foreign Adversary, Tyrant",Innocent,Innocent,Forgotten,Forgotten
+HI_99.txt,यूक्रेन,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_30.txt,विक्टर ओरबान,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_123.txt,चीन,Protagonist,Peacemaker,Protagonist,Protagonist,Peacemaker,Peacemaker
+HI_244.txt,जो बाइडेन,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_312.txt,बिडेन,Antagonist,Incompetent,Antagonist,Antagonist,Instigator,Instigator
+HI_103.txt,अमेरिका,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_116.txt,बेल्जियम,Innocent,Victim,Antagonist,Antagonist,Tyrant,Tyrant
+HI_188.txt,अमेरिका,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_142.txt,बिहार,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_65.txt,यूक्रेन,Innocent,"Exploited, Victim",Antagonist,Antagonist,Saboteur,Saboteur
+HI_254.txt,भारतीय नागरिकों,Innocent,"Exploited, Victim",Innocent,Innocent,Forgotten,Forgotten
+HI_334.txt,मोदी,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_268.txt,रूस,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_164.txt,यूक्रेन,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_187.txt,रूस,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+HI_94.txt,भारत,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_324.txt,दमित्रो कमेनस्चिक,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_396.txt,व्लादिमीर पुतिन,Protagonist,"Rebel, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_52.txt,आठ भारतीयों,Innocent,"Exploited, Victim",Antagonist,Antagonist,Saboteur,Saboteur
+HI_388.txt,दिमित्री पेस्कोव,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_224.txt,एस जयशंकर,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_286.txt,व्लादिमीर पुतिन,Protagonist,"Rebel, Guardian",Antagonist,Antagonist,Tyrant,Tyrant
+HI_269.txt,एंटोनियो गुटरेस,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_22.txt,बाइडेन,Antagonist,Deceiver,Innocent,Innocent,Forgotten,Forgotten
+HI_157.txt,स्विट्जरलैंड,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_387.txt,वलोडिमिर ज़ेलेंस्की,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_202.txt,पश्चिम देशों,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_123.txt,चीन,Antagonist,Foreign Adversary,Protagonist,Protagonist,Peacemaker,Peacemaker
+HI_62.txt,यूक्रेन,Innocent,"Exploited, Victim",Innocent,Innocent,Forgotten,Forgotten
+HI_245.txt,कीअर स्टॉर्मर,Protagonist,"Virtuous, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_321.txt,बुग्लेडार,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_206.txt,अमेरिका,Antagonist,"Conspirator, Incompetent",Antagonist,Antagonist,Traitor,Traitor
+HI_23.txt,रूस,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_397.txt,नाटो,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_3.txt,रूस,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_283.txt,रूस,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_9.txt,पश्चिम,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_181.txt,भारत,Protagonist,Peacemaker,Antagonist,Antagonist,Saboteur,Saboteur
+HI_128.txt,व्लादिमीर पुतिन,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_7.txt,व्लादिमीर पुतिन,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_378.txt,कुर्स्क,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_166.txt,रूस,Antagonist,"Instigator, Foreign Adversary",Innocent,Innocent,Forgotten,Forgotten
+HI_314.txt,हिंदुओं,Innocent,"Exploited, Victim",Innocent,Innocent,Forgotten,Forgotten
+HI_7.txt,भारत,Protagonist,"Peacemaker, Virtuous",Innocent,Innocent,Forgotten,Forgotten
+HI_174.txt,किरिलो बुडानोव,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_392.txt,अमेरिकी प्रशासन,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_46.txt,इजरायल,Antagonist,Instigator,Antagonist,Antagonist,Saboteur,Saboteur
+HI_394.txt,यूक्रेन,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_234.txt,भारत,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_211.txt,ExxonMobilजो,Antagonist,Deceiver,Innocent,Innocent,Forgotten,Forgotten
+HI_173.txt,अमेरिका,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_176.txt,केरीन जीन पियरे,Antagonist,Deceiver,Innocent,Innocent,Forgotten,Forgotten
+HI_211.txt,डॉ. एमिली ग्रीनफ़ील्ड,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_89.txt,भारत,Protagonist,"Peacemaker, Virtuous",Antagonist,Antagonist,Saboteur,Saboteur
+HI_388.txt,यूक्रेन,Protagonist,Underdog,Antagonist,Antagonist,Saboteur,Saboteur
+HI_277.txt,जेलेंस्की,Protagonist,"Virtuous, Guardian",Antagonist,Antagonist,Spy,Spy
+HI_58.txt,रूस,Antagonist,Tyrant,Protagonist,Protagonist,Guardian,Guardian
+HI_174.txt,पुतिन,Antagonist,Tyrant,Innocent,Innocent,Forgotten,Forgotten
+HI_131.txt,भारत,Protagonist,Virtuous,Antagonist,Antagonist,Saboteur,Saboteur
+HI_282.txt,बाइडन,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_173.txt,जेलेंस्की,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_226.txt,नागरिकों,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_128.txt,अमेरिका,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_301.txt,यूक्रेन,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_249.txt,यूक्रेन,Innocent,"Exploited, Victim",Innocent,Innocent,Forgotten,Forgotten
+HI_45.txt,रूस,Protagonist,Peacemaker,Protagonist,Protagonist,Rebel,Rebel
+HI_271.txt,यूक्रेन,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_171.txt,चीन,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_229.txt,यूक्रेन,Protagonist,"Rebel, Underdog",Antagonist,Antagonist,Saboteur,Saboteur
+HI_270.txt,यूरोप,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_335.txt,यूक्रेन,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_197.txt,यूक्रेनियों,Protagonist,Martyr,Innocent,Innocent,Forgotten,Forgotten
+HI_196.txt,रूस के सैनिक,Antagonist,Tyrant,Innocent,Innocent,Forgotten,Forgotten
+HI_305.txt,यूक्रेन,Protagonist,Underdog,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+HI_277.txt,वोलोदिमीर जेलेंस्की,Protagonist,"Virtuous, Guardian",Antagonist,Antagonist,Spy,Spy
+HI_189.txt,युक्त राष्ट्र,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_168.txt,भारत,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_359.txt,जो बाइडन,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_246.txt,हथियार डिपो,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_392.txt,ट्रंप,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_336.txt,अश्विन भाई मांगुकिया,Innocent,Exploited,Innocent,Innocent,Forgotten,Forgotten
+HI_322.txt,अमेरिका,Protagonist,"Virtuous, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_63.txt,यूक्रेन,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_170.txt,यूक्रेन,Protagonist,"Peacemaker, Virtuous",Innocent,Innocent,Forgotten,Forgotten
+HI_2.txt,भारत-,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_101.txt,मोदी,Antagonist,Traitor,Innocent,Innocent,Forgotten,Forgotten
+HI_43.txt,यूक्रेन,Innocent,Forgotten,Innocent,Innocent,Forgotten,Forgotten
+HI_299.txt,पैसिफिक वॉकर सर्कुलेशन,Antagonist,Instigator,Antagonist,Antagonist,Saboteur,Saboteur
+HI_62.txt,रूसी सैन्य,Antagonist,Tyrant,Innocent,Innocent,Forgotten,Forgotten
+HI_273.txt,ब्रिटिश खु़फिया एजेंसी,Antagonist,"Incompetent, Deceiver",Innocent,Innocent,Forgotten,Forgotten
+HI_55.txt,अमेरिका,Antagonist,"Instigator, Foreign Adversary",Innocent,Innocent,Forgotten,Forgotten
+HI_113.txt,यूक्रेन,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_33.txt,यूक्रेन,Antagonist,Deceiver,Innocent,Innocent,Forgotten,Forgotten
+HI_394.txt,जो बाइडेन,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_70.txt,रूसी,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+HI_163.txt,भारत,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_324.txt,विक्टर,Protagonist,Martyr,Innocent,Innocent,Forgotten,Forgotten
+HI_253.txt,अमेरिका,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_203.txt,इस्लामिक स्टेट,Antagonist,Terrorist,Antagonist,Antagonist,Terrorist,Terrorist
+HI_67.txt,यूक्रेन,Innocent,"Exploited, Victim",Innocent,Innocent,Forgotten,Forgotten
+HI_65.txt,अमेरिका,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_53.txt,अमेरिका,Antagonist,Foreign Adversary,Innocent,Innocent,Victim,Victim
+HI_222.txt,भारत,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_323.txt,सैविल,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_83.txt,प्रधानमंत्री मोदी,Protagonist,"Peacemaker, Virtuous",Protagonist,Protagonist,Martyr,Martyr
+HI_310.txt,किम जोंग,Protagonist,"Virtuous, Guardian",Antagonist,Antagonist,Tyrant,Tyrant
+HI_102.txt,पोलटावा,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_309.txt,उत्तर कोरिया,Antagonist,Foreign Adversary,Antagonist,Antagonist,Tyrant,Tyrant
+HI_246.txt,दक्षिणी ओडेसा,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_82.txt,यूक्रेन,Protagonist,Virtuous,Protagonist,Protagonist,Peacemaker,Peacemaker
+HI_117.txt,रूस,Antagonist,"Saboteur, Foreign Adversary, Deceiver",Innocent,Innocent,Victim,Victim
+HI_281.txt,यूक्रेन,Antagonist,"Instigator, Foreign Adversary",Antagonist,Antagonist,Saboteur,Saboteur
+HI_276.txt,वागनर समूह,Protagonist,Virtuous,Antagonist,Antagonist,Saboteur,Saboteur
+HI_255.txt,व्लादिमीर पुतिन,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_175.txt,यूक्रेनी रक्षकों,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_121.txt,भारत,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_79.txt,कीव,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_231.txt,लद्दाख,Innocent,"Exploited, Victim",Antagonist,Antagonist,Saboteur,Saboteur
+HI_306.txt,रूस,Antagonist,"Foreign Adversary, Tyrant",Antagonist,Antagonist,Saboteur,Saboteur
+HI_2.txt,व्लादिमीर पुतिन,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_174.txt,किम जोंग उन,Antagonist,"Foreign Adversary, Tyrant",Innocent,Innocent,Forgotten,Forgotten
+HI_20.txt,भारतीय,Innocent,Exploited,Innocent,Innocent,Forgotten,Forgotten
+HI_197.txt,पुतिन,Antagonist,Tyrant,Innocent,Innocent,Forgotten,Forgotten
+HI_393.txt,नॉर्थ कोरिया,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_279.txt,पुतिन,Protagonist,"Rebel, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_73.txt,रूस,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+HI_397.txt,यूक्रेन,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_257.txt,तीन लोग,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_208.txt,ग्रामीण परिवार,Innocent,"Exploited, Victim",Innocent,Innocent,Victim,Victim
+HI_211.txt,पृथ्वी,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_213.txt,अमेरिकी,Protagonist,"Virtuous, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_355.txt,हैरिस,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_282.txt,यूक्रेन,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_29.txt,ISIS-K,Antagonist,Terrorist,Antagonist,Antagonist,Terrorist,Terrorist
+HI_283.txt,प्रधानमंत्री,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_22.txt,यूक्रेन,Innocent,Forgotten,Innocent,Innocent,Forgotten,Forgotten
+HI_328.txt,रूस,Protagonist,Rebel,Antagonist,Antagonist,Saboteur,Saboteur
+HI_66.txt,राष्ट्रपति वलोडिमिर जेलेंस्की,Innocent,Victim,Innocent,Innocent,Victim,Victim
+HI_195.txt,मोदी,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_121.txt,यूक्रेन,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+HI_287.txt,ग्लासगो,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_53.txt,यूक्रेन,Protagonist,Virtuous,Innocent,Innocent,Victim,Victim
+HI_307.txt,उत्तर कोरियाई सैनिक,Protagonist,"Rebel, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_50.txt,केंद्र सरकार,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_94.txt,यूक्रेन,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_267.txt,अमेरिका,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_321.txt,नेटो,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_198.txt,अमेरिका,Protagonist,"Virtuous, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_313.txt,यूक्रेन,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_161.txt,व्लादिमीर पुतिन,Protagonist,"Rebel, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_192.txt,नॉर्वे,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_214.txt,नाटो,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_323.txt,रूस,Protagonist,Rebel,Antagonist,Antagonist,Saboteur,Saboteur
+HI_259.txt,कीव,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_249.txt,ट्रंप,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_86.txt,झापरोवा,Protagonist,Guardian,Innocent,Innocent,Victim,Victim
+HI_222.txt,रूस,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_304.txt,जेलेंस्की,Protagonist,"Guardian, Underdog",Innocent,Innocent,Forgotten,Forgotten
+HI_182.txt,यूक्रेन,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_93.txt,रूस,Antagonist,Tyrant,Innocent,Innocent,Forgotten,Forgotten
+HI_221.txt,वोलोदिमीर जेलेंस्की,Protagonist,"Rebel, Guardian, Underdog",Innocent,Innocent,Forgotten,Forgotten
+HI_237.txt,ग्रह,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_50.txt,पंजाब,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_285.txt,रूस,Antagonist,"Instigator, Tyrant",Antagonist,Antagonist,Tyrant,Tyrant
+HI_388.txt,नागरिक,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_278.txt,रूस,Antagonist,Tyrant,Innocent,Innocent,Forgotten,Forgotten
+HI_247.txt,व्लादिमिर जेलेंस्की,Protagonist,Underdog,Antagonist,Antagonist,Saboteur,Saboteur
+HI_73.txt,पुतिन,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+HI_252.txt,संयुक्त राष्ट्र,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_157.txt,भारत,Protagonist,"Virtuous, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_116.txt,ब्रिटेन,Antagonist,Foreign Adversary,Antagonist,Antagonist,Tyrant,Tyrant
+HI_205.txt,पुतिन,Antagonist,Instigator,Antagonist,Antagonist,Instigator,Instigator
+HI_256.txt,ब्रिटेन,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_117.txt,यूक्रेन,Innocent,Victim,Innocent,Innocent,Victim,Victim
+HI_397.txt,रूस,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_82.txt,भारत,Protagonist,Peacemaker,Protagonist,Protagonist,Peacemaker,Peacemaker
+HI_161.txt,पश्चिम,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_206.txt,विकास यादव,Innocent,Scapegoat,Antagonist,Antagonist,Traitor,Traitor
+HI_104.txt,पुतिन,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_52.txt,सरकार,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_91.txt,रूस,Protagonist,Rebel,Innocent,Innocent,Forgotten,Forgotten
+HI_112.txt,पुतिन,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_396.txt,जेफरी डी सैक्स,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_162.txt,नाटो,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_233.txt,साइंटिस्ट,Protagonist,"Virtuous, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_390.txt,अमेरिका,Protagonist,"Rebel, Virtuous",Antagonist,Antagonist,Saboteur,Saboteur
+HI_29.txt,NATO,Antagonist,Foreign Adversary,Antagonist,Antagonist,Terrorist,Terrorist
+HI_117.txt,रोमानिया,Innocent,Victim,Innocent,Innocent,Victim,Victim
+HI_308.txt,लावरोव,Protagonist,"Rebel, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_42.txt,उरगेन तमांग,Innocent,"Exploited, Victim",Innocent,Innocent,Forgotten,Forgotten
+HI_399.txt,वोलोदिमीर जेलेंस्की,Protagonist,"Guardian, Underdog",Innocent,Innocent,Forgotten,Forgotten
+HI_264.txt,लॉयड ऑस्टिन,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_23.txt,यूक्रेनी,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_22.txt,रूस,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+HI_39.txt,नरेंद्र मोदी,Protagonist,Peacemaker,Antagonist,Antagonist,Terrorist,Terrorist
+HI_316.txt,चीन,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_49.txt,पुतिन,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_142.txt,राज्य जल संसाधन विभाग,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_283.txt,भारत,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_121.txt,रूस,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_42.txt,तमिलनाडु का एक और एजेंट,Antagonist,Deceiver,Innocent,Innocent,Forgotten,Forgotten
+HI_225.txt,वोलोदिमीर जेलेंस्की,Protagonist,"Rebel, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_90.txt,पश्चिमी देश,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_39.txt,भारत,Protagonist,Peacemaker,Antagonist,Antagonist,Terrorist,Terrorist
+HI_123.txt,यूक्रेन,Innocent,Victim,Protagonist,Protagonist,Peacemaker,Peacemaker
+HI_261.txt,विचेज़ ऑफ़ बुचा,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_195.txt,मास्को,Protagonist,Rebel,Innocent,Innocent,Forgotten,Forgotten
+HI_305.txt,कुर्स्क,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+HI_322.txt,ज़ेलेंस्की,Protagonist,"Guardian, Underdog",Antagonist,Antagonist,Saboteur,Saboteur
+HI_66.txt,रूस,Antagonist,Foreign Adversary,Innocent,Innocent,Victim,Victim
+HI_104.txt,नरेन्द्र मोदी,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_259.txt,यूक्रेन,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_61.txt,अमेरिका,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_317.txt,अमेरिका,Protagonist,"Virtuous, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_279.txt,बाइडन,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_196.txt,व्लादिमीर पुतिन,Antagonist,"Foreign Adversary, Tyrant",Innocent,Innocent,Forgotten,Forgotten
+HI_83.txt,भारत,Protagonist,"Peacemaker, Guardian",Protagonist,Protagonist,Martyr,Martyr
+HI_93.txt,नई दिल्ली,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_89.txt,मोदी,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_128.txt,डेमोक्रेटिक पार्टी,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_237.txt,वैज्ञानिक,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_302.txt,किम जोंग,Antagonist,"Instigator, Tyrant",Antagonist,Antagonist,Tyrant,Tyrant
+HI_234.txt,उत्तर प्रदेश,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_42.txt,राजू बिस्टा,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_124.txt,यूक्रेन की सेना,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_89.txt,मोदी,Protagonist,Virtuous,Antagonist,Antagonist,Saboteur,Saboteur
+HI_13.txt,अमेरिका,Protagonist,Peacemaker,Antagonist,Antagonist,Saboteur,Saboteur
+HI_201.txt,रूस,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_238.txt,उत्तराखंड,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_73.txt,यूक्रेन,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_63.txt,यूरोपीय देशों,Protagonist,"Virtuous, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_281.txt,पश्चिमी मुल्कों,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_124.txt,बेल्जियम,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_43.txt,भारत,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_282.txt,जो बाइडन,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_2.txt,भारत,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_386.txt,अमेरिका,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_172.txt,यूक्रेन,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_70.txt,मुसलमानों,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_317.txt,यूक्रेन,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_307.txt,चोए सोन हुई,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_313.txt,रूस,Antagonist,Tyrant,Antagonist,Antagonist,Saboteur,Saboteur
+HI_384.txt,रूस,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_22.txt,नाटो,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_349.txt,ट्रंप,Protagonist,"Rebel, Virtuous",Antagonist,Antagonist,Saboteur,Saboteur
+HI_120.txt,यूरोपीय देशों,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_377.txt,व्लादिमीर पुतिन,Protagonist,"Rebel, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_317.txt,विवेक रामास्वामी,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_30.txt,ओरबान,Antagonist,Conspirator,Innocent,Innocent,Forgotten,Forgotten
+HI_72.txt,यूक्रेन,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_234.txt,गुजरात,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_230.txt,व्लादिमfर पुतिन,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_274.txt,यूक्रेनियों,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_55.txt,रूस,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+HI_54.txt,अमेरिका,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_242.txt,व्लादिमीर पुतिन,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+HI_382.txt,अमेरिका,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_197.txt,पुतिन,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+HI_103.txt,पुतिन,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_65.txt,रूस,Antagonist,Tyrant,Antagonist,Antagonist,Saboteur,Saboteur
+HI_161.txt,यूक्रेन,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_282.txt,मोदी,Protagonist,Peacemaker,Antagonist,Antagonist,Saboteur,Saboteur
+HI_120.txt,अमेरिका,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_271.txt,नरेंद्र मोदी,Protagonist,Peacemaker,Antagonist,Antagonist,Saboteur,Saboteur
+HI_46.txt,रूस,Antagonist,"Foreign Adversary, Tyrant",Antagonist,Antagonist,Saboteur,Saboteur
+HI_301.txt,ट्रंप,Protagonist,"Rebel, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_259.txt,जेलेंस्की,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_341.txt,ओल्गा ओनुच,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_105.txt,सेवरोडोनेट्स,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_210.txt,गंभीर सिंह चौहान,Protagonist,"Virtuous, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_124.txt,यूक्रेन की सेना,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_24.txt,मोदी,Protagonist,Virtuous,Innocent,Innocent,Victim,Victim
+HI_16.txt,नरेंद्र मोदी,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_112.txt,रूस,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_315.txt,भारत,Protagonist,Virtuous,Antagonist,Antagonist,Saboteur,Saboteur
+HI_117.txt,पाकिस्तान,Innocent,Victim,Innocent,Innocent,Victim,Victim
+HI_87.txt,यूक्रेन,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_312.txt,अमेरिका,Antagonist,"Foreign Adversary, Tyrant",Antagonist,Antagonist,Instigator,Instigator
+HI_249.txt,रूस,Antagonist,"Instigator, Tyrant",Innocent,Innocent,Forgotten,Forgotten
+HI_254.txt,मोदी,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_70.txt,पाकिस्तान,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_132.txt,वायुमंडल,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_202.txt,रूसी अधिकारियों,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_40.txt,अलसु,Antagonist,Deceiver,Innocent,Innocent,Forgotten,Forgotten
+HI_383.txt,रूस,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_3.txt,अलसु कुर्माशेवा,Innocent,Scapegoat,Innocent,Innocent,Forgotten,Forgotten
+HI_49.txt,रूस,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_177.txt,नाटो,Antagonist,Foreign Adversary,Antagonist,Antagonist,Tyrant,Tyrant
+HI_393.txt,यूक्रेन,Protagonist,"Rebel, Underdog",Innocent,Innocent,Forgotten,Forgotten
+HI_250.txt,विदेशी मीडिया,Antagonist,Deceiver,Innocent,Innocent,Forgotten,Forgotten
+HI_269.txt,रूस,Protagonist,Underdog,Antagonist,Antagonist,Saboteur,Saboteur
+HI_314.txt,एशियाई देश,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_187.txt,ऐसे,Protagonist,Rebel,Innocent,Innocent,Forgotten,Forgotten
+HI_49.txt,रूस,Antagonist,Incompetent,Innocent,Innocent,Forgotten,Forgotten
+HI_116.txt,फ्रांस,Antagonist,Foreign Adversary,Antagonist,Antagonist,Tyrant,Tyrant
+HI_286.txt,योनहाप,Protagonist,Virtuous,Antagonist,Antagonist,Tyrant,Tyrant
+HI_309.txt,पुतिन,Protagonist,"Rebel, Guardian",Antagonist,Antagonist,Tyrant,Tyrant
+HI_117.txt,अल्जीरिया,Innocent,Victim,Innocent,Innocent,Victim,Victim
+HI_179.txt,भारत,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_185.txt,नाटो,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_272.txt,रूस,Antagonist,Deceiver,Antagonist,Antagonist,Saboteur,Saboteur
+HI_312.txt,ट्रंप,Protagonist,"Virtuous, Guardian",Antagonist,Antagonist,Instigator,Instigator
+HI_396.txt,बाइडेन,Antagonist,"Incompetent, Deceiver",Innocent,Innocent,Forgotten,Forgotten
+HI_258.txt,व्लादिमीर पुतिन,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_22.txt,अमेरिका,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_116.txt,लक्जमबर्ग,Innocent,Victim,Antagonist,Antagonist,Tyrant,Tyrant
+HI_231.txt,सोनम वांगचुक,Protagonist,"Virtuous, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_372.txt,यूक्रेन,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_113.txt,राष्ट्रपति बोरिस येल्तसिन,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_78.txt,यूक्रेन,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_320.txt,यूक्रेनी शहरों,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_391.txt,ट्रंप,Protagonist,"Rebel, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_1.txt,रूस,Protagonist,Virtuous,Antagonist,Antagonist,Saboteur,Saboteur
+HI_309.txt,अमेरिका,Protagonist,"Virtuous, Guardian",Antagonist,Antagonist,Tyrant,Tyrant
+HI_306.txt,जेलेंस्की,Protagonist,"Guardian, Underdog",Antagonist,Antagonist,Saboteur,Saboteur
+HI_164.txt,राष्ट्रपति जेलेंस्की,Protagonist,"Rebel, Underdog",Innocent,Innocent,Forgotten,Forgotten
+HI_164.txt,नाटो,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_245.txt,इमैनुएल मैक्रों,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_116.txt,अमेरिका,Antagonist,Foreign Adversary,Antagonist,Antagonist,Tyrant,Tyrant
+HI_1.txt,रूस,Protagonist,Virtuous,Antagonist,Antagonist,Saboteur,Saboteur
+HI_310.txt,यूक्रेन,Protagonist,Underdog,Antagonist,Antagonist,Tyrant,Tyrant
+HI_174.txt,यूक्रेनी रक्षा खुफिया निदेशालय,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_108.txt,डोनाल्ड ट्रंप,Antagonist,Incompetent,Innocent,Innocent,Forgotten,Forgotten
+HI_318.txt,चीन,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_104.txt,मोदी सरकार,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_155.txt,पश्चिमी देश,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_234.txt,जिले,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_306.txt,यूक्रेन,Protagonist,"Rebel, Underdog",Antagonist,Antagonist,Saboteur,Saboteur
+HI_183.txt,अमेरिका,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_23.txt,यूक्रेनी सेना,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_332.txt,यूक्रेन,Protagonist,Underdog,Antagonist,Antagonist,Saboteur,Saboteur
+HI_220.txt,बाइडेन,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_224.txt,नरेंद्र मोदी,Protagonist,"Peacemaker, Virtuous, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_249.txt,यूक्रेन,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_195.txt,नई दिल्ली,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_385.txt,यूक्रन,Protagonist,Underdog,Antagonist,Antagonist,Saboteur,Saboteur
+HI_61.txt,फाइनेंशियल टाइम्स,Antagonist,Saboteur,Innocent,Innocent,Forgotten,Forgotten
+HI_33.txt,मोदी,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_55.txt,पुतिन,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_325.txt,टिमोथी कुज़मा,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_92.txt,अमेरिका,Antagonist,Foreign Adversary,Antagonist,Antagonist,Tyrant,Tyrant
+HI_93.txt,नरेन्द्र मोदी,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_52.txt,रूसी,Antagonist,Deceiver,Antagonist,Antagonist,Saboteur,Saboteur
+HI_37.txt,मोदी,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_96.txt,अमेरिका,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_245.txt,जेलेंस्की,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_323.txt,नाटो,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_290.txt,फ्राइडेरिक ओटो,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_46.txt,ग्लोबल साउथ,Protagonist,Virtuous,Antagonist,Antagonist,Saboteur,Saboteur
+HI_124.txt,यूक्रेन,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_372.txt,जो बाइडन,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_89.txt,व्लादिमीर पुतिन,Protagonist,Virtuous,Antagonist,Antagonist,Saboteur,Saboteur
+HI_173.txt,रूसी सरकार,Protagonist,Virtuous,Antagonist,Antagonist,Saboteur,Saboteur
+HI_348.txt,चीन,Protagonist,Rebel,Antagonist,Antagonist,Saboteur,Saboteur
+HI_203.txt,ISIS,Antagonist,Terrorist,Antagonist,Antagonist,Terrorist,Terrorist
+HI_23.txt,यूक्रेन,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_258.txt,रूसी सेना,Protagonist,Rebel,Innocent,Innocent,Forgotten,Forgotten
+HI_266.txt,किम जोंग,Antagonist,Tyrant,Antagonist,Antagonist,Tyrant,Tyrant
+HI_1.txt,नरेन्द्र मोदी,Protagonist,"Peacemaker, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_390.txt,रूसी सेनाएं,Antagonist,"Foreign Adversary, Tyrant",Antagonist,Antagonist,Saboteur,Saboteur
+HI_312.txt,ट्रंप,Antagonist,Foreign Adversary,Antagonist,Antagonist,Instigator,Instigator
+HI_3.txt,रूस,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_210.txt,मनुष्य,Antagonist,Instigator,Antagonist,Antagonist,Saboteur,Saboteur
+HI_258.txt,वोलोदिमीर जेलेंस्की,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_310.txt,पुतिन,Protagonist,"Rebel, Guardian",Antagonist,Antagonist,Tyrant,Tyrant
+HI_77.txt,यूक्रेन,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_335.txt,मुल्कों,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_225.txt,मायकोला ओलेशचुक,Protagonist,"Rebel, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_82.txt,नरेंद्र मोदी,Protagonist,Guardian,Protagonist,Protagonist,Peacemaker,Peacemaker
+HI_24.txt,मोदी,Protagonist,Virtuous,Innocent,Innocent,Victim,Victim
+HI_70.txt,जोको विडोडो,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_317.txt,डोनाल्ड ट्रंप,Protagonist,"Virtuous, Guardian, Underdog",Innocent,Innocent,Forgotten,Forgotten
+HI_385.txt,यूक्रेन,Protagonist,Rebel,Antagonist,Antagonist,Saboteur,Saboteur
+HI_304.txt,पुतिन,Antagonist,"Incompetent, Foreign Adversary",Innocent,Innocent,Forgotten,Forgotten
+HI_323.txt,यूरोपीय संघ,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_25.txt,रूसियों,Innocent,Exploited,Innocent,Innocent,Forgotten,Forgotten
+HI_254.txt,व्लादिमीर पुतिन,Protagonist,"Virtuous, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_301.txt,डोनाल्ड ट्रंप,Protagonist,"Virtuous, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_96.txt,नाटो,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_399.txt,मायकोलाइव,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_131.txt,भारत,Protagonist,Virtuous,Antagonist,Antagonist,Saboteur,Saboteur
+HI_356.txt,यूक्रेन,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_367.txt,बाइडन,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_322.txt,डेमोक्रेटिक पार्टी,Protagonist,"Virtuous, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_58.txt,चीन,Antagonist,Foreign Adversary,Protagonist,Protagonist,Guardian,Guardian
+HI_23.txt,रूसी रक्षा विभाग,Antagonist,Corrupt,Innocent,Innocent,Forgotten,Forgotten
+HI_283.txt,बच्चे,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_170.txt,व्लादिमीर पुतिन,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_50.txt,कुलदीप सिंह धालीवाल,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_83.txt,कीव,Innocent,Victim,Protagonist,Protagonist,Martyr,Martyr
+HI_116.txt,पुतिन,Antagonist,Instigator,Antagonist,Antagonist,Tyrant,Tyrant
+HI_113.txt,NATO,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_246.txt,रूस,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_113.txt,पश्चिमी देशों,Antagonist,Conspirator,Innocent,Innocent,Forgotten,Forgotten
+HI_283.txt,अस्पताल,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_164.txt,ब्रिटेन,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_53.txt,भारत,Protagonist,Virtuous,Innocent,Innocent,Victim,Victim
+HI_284.txt,पोलैंड,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_204.txt,युवाओं,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_267.txt,मोदी,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_399.txt,रूस,Antagonist,"Instigator, Tyrant",Innocent,Innocent,Forgotten,Forgotten
+HI_48.txt,माली की आर्मी,Protagonist,Martyr,Protagonist,Protagonist,Rebel,Rebel
+HI_238.txt,बिहारी लाल,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_23.txt,यूक्रेन,Antagonist,Corrupt,Innocent,Innocent,Forgotten,Forgotten
+HI_246.txt,रूसी सेना,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_100.txt,मोदी,Protagonist,Peacemaker,Antagonist,Antagonist,Saboteur,Saboteur
+HI_303.txt,मास्को,Protagonist,Rebel,Innocent,Innocent,Forgotten,Forgotten
+HI_117.txt,यूक्रेन,Innocent,Victim,Innocent,Innocent,Victim,Victim
+HI_164.txt,पश्चिमी देशों,Antagonist,Incompetent,Innocent,Innocent,Forgotten,Forgotten
+HI_72.txt,व्लादिमीर पुतिन,Antagonist,Tyrant,Innocent,Innocent,Forgotten,Forgotten
+HI_256.txt,अमेरिका,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_308.txt,चोए सोन हुई,Protagonist,"Virtuous, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_49.txt,कसीकोव,Antagonist,"Terrorist, Spy",Innocent,Innocent,Forgotten,Forgotten
+HI_169.txt,रूस,Antagonist,Deceiver,Innocent,Innocent,Forgotten,Forgotten
+HI_124.txt,रूस,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+HI_6.txt,रूसी,Antagonist,Terrorist,Antagonist,Antagonist,Bigot,Bigot
+HI_30.txt,ओरबान,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_282.txt,वोलोदीमीर ज़ेलेंस्की,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_326.txt,अमेरिका,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_400.txt,काराचेव,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_312.txt,अमित शाह,Innocent,Victim,Antagonist,Antagonist,Instigator,Instigator
+HI_314.txt,चीन,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_261.txt,रूस,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_22.txt,रूस,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_283.txt,लोग,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_53.txt,यूक्रेन,Innocent,Victim,Innocent,Innocent,Victim,Victim
+HI_339.txt,ज़ेलेंस्की,Antagonist,Incompetent,Antagonist,Antagonist,Saboteur,Saboteur
+HI_117.txt,पश्चिम एशिया,Innocent,Victim,Innocent,Innocent,Victim,Victim
+HI_85.txt,यूक्रेन,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_79.txt,रूस,Protagonist,"Rebel, Underdog",Innocent,Innocent,Forgotten,Forgotten
+HI_63.txt,रूस,Antagonist,Tyrant,Innocent,Innocent,Forgotten,Forgotten
+HI_16.txt,रूस,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+HI_197.txt,यूक्रेन,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_100.txt,यूक्रेनी,Protagonist,Peacemaker,Antagonist,Antagonist,Saboteur,Saboteur
+HI_390.txt,जो बाइडेन,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_246.txt,यूक्रेन,Antagonist,"Instigator, Foreign Adversary",Innocent,Innocent,Forgotten,Forgotten
+HI_176.txt,नाटो मास्टर्स,Antagonist,"Instigator, Foreign Adversary, Tyrant",Innocent,Innocent,Forgotten,Forgotten
+HI_329.txt,ट्रंप प्रशासन,Protagonist,Peacemaker,Antagonist,Antagonist,Saboteur,Saboteur
+HI_101.txt,भारत,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_395.txt,पेंटागन,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_255.txt,पुतिन,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_92.txt,पश्चिमी मीडिया,Antagonist,"Foreign Adversary, Deceiver",Antagonist,Antagonist,Tyrant,Tyrant
+HI_322.txt,जो बाइडन,Protagonist,"Virtuous, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_316.txt,रूस,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_117.txt,प्रवासी श्रमिकों,Innocent,Victim,Innocent,Innocent,Victim,Victim
+HI_279.txt,उत्तर कोरिया,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_70.txt,पुतिन,Antagonist,Corrupt,Innocent,Innocent,Forgotten,Forgotten
+HI_116.txt,डेनमार्क,Innocent,Victim,Antagonist,Antagonist,Tyrant,Tyrant
+HI_226.txt,वोलोदिमिर जेलेंस्की,Protagonist,Rebel,Antagonist,Antagonist,Saboteur,Saboteur
+HI_399.txt,खेरसॉन,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_206.txt,FBI,Antagonist,"Incompetent, Deceiver, Corrupt",Antagonist,Antagonist,Traitor,Traitor
+HI_21.txt,पुतिन,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_113.txt,यूक्रेन,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_383.txt,ट्रंप,Protagonist,"Virtuous, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_49.txt,नागरिकों,Innocent,Scapegoat,Innocent,Innocent,Forgotten,Forgotten
+HI_116.txt,यूक्रेन,Innocent,Victim,Antagonist,Antagonist,Tyrant,Tyrant
+HI_201.txt,श्चिमी देश,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_400.txt,ब्रियांस्क,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_264.txt,मायकोलाइवका,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_61.txt,फाइनेंशियल टाइम्स,Antagonist,Deceiver,Innocent,Innocent,Forgotten,Forgotten
+HI_333.txt,यूक्रेन,Antagonist,Terrorist,Antagonist,Antagonist,Terrorist,Terrorist
+HI_196.txt,सैनिकों,Protagonist,Martyr,Innocent,Innocent,Forgotten,Forgotten
+HI_161.txt,उत्तरी यूरोपीय देशों,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_170.txt,यूक्रेन,Innocent,"Exploited, Victim",Innocent,Innocent,Forgotten,Forgotten
+HI_197.txt,पूर्वी यूक्रेन,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_317.txt,मोदी,Protagonist,"Virtuous, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_228.txt,सेरही पोपको,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_22.txt,यूक्रेन,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_206.txt,रूस,Protagonist,Guardian,Antagonist,Antagonist,Traitor,Traitor
+HI_375.txt,रूस,Antagonist,Incompetent,Antagonist,Antagonist,Saboteur,Saboteur
+HI_27.txt,दिल्ली मेईतेई समन्वय समिति (डीएमसीसी,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_22.txt,डोनाल्ड ट्रम्प,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_246.txt,क्रीमिया,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_164.txt,फ्रांस,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_397.txt,मिखाइल गोर्बाचेव,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_310.txt,अमेरिका,Antagonist,Foreign Adversary,Antagonist,Antagonist,Tyrant,Tyrant
+HI_259.txt,रूस,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+HI_135.txt,भारत,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_325.txt,यूक्रेनी लोग,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_309.txt,यूक्रेन,Protagonist,Underdog,Antagonist,Antagonist,Tyrant,Tyrant
+HI_171.txt,रूस,Antagonist,Tyrant,Antagonist,Antagonist,Saboteur,Saboteur
+HI_219.txt,अमेरिका,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_275.txt,रॉयटर्स,Antagonist,Deceiver,Innocent,Innocent,Forgotten,Forgotten
+HI_253.txt,यूक्रेन,Protagonist,Underdog,Antagonist,Antagonist,Saboteur,Saboteur
+HI_3.txt,अलसु,Antagonist,Deceiver,Innocent,Innocent,Forgotten,Forgotten
+HI_117.txt,अमेरिका,Antagonist,Incompetent,Innocent,Innocent,Victim,Victim
+HI_256.txt,जेलेंस्की,Protagonist,"Guardian, Underdog",Innocent,Innocent,Forgotten,Forgotten
+HI_55.txt,यूक्रेन,Antagonist,"Instigator, Foreign Adversary",Innocent,Innocent,Forgotten,Forgotten
+HI_387.txt,रूस,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_397.txt,सैक्स,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_66.txt,रूसी एयरलाइंस,Innocent,Victim,Innocent,Innocent,Victim,Victim
+HI_331.txt,यूक्रेनी सेना,Protagonist,"Guardian, Underdog",Innocent,Innocent,Forgotten,Forgotten
+HI_116.txt,नीदरलैंड,Innocent,Victim,Antagonist,Antagonist,Tyrant,Tyrant
+HI_385.txt,जो बाइडेन,Protagonist,"Virtuous, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_74.txt,भारत,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_2.txt,यूक्रेन,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_40.txt,पॉल व्हेलन,Antagonist,Spy,Innocent,Innocent,Forgotten,Forgotten
+HI_118.txt,बच्चे,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_171.txt,NATO सहयोगी,Protagonist,"Virtuous, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_153.txt,रुबिज़ने,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_203.txt,अमेरिका,Protagonist,Guardian,Antagonist,Antagonist,Terrorist,Terrorist
+HI_70.txt,अमेरिका,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_187.txt,प्रधानमंत्री नरेंद्र,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_44.txt,मोदी,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_183.txt,नाटो,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_142.txt,वाल्मिकीनगर,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_201.txt,पुतिन,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_113.txt,जॉर्जिया,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_253.txt,पश्चिमी देश,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_32.txt,भारत,Protagonist,Peacemaker,Antagonist,Antagonist,Saboteur,Saboteur
+HI_250.txt,भारत,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_206.txt,अमेरिकी सिस्टम,Antagonist,Incompetent,Antagonist,Antagonist,Traitor,Traitor
+HI_202.txt,रूसी क्षेत्र,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_275.txt,यूक्रेन,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_27.txt,मणिपुर,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_272.txt,पुतिन,Antagonist,Tyrant,Antagonist,Antagonist,Saboteur,Saboteur
+HI_113.txt,विक्टर यानुकोविच,Antagonist,Traitor,Innocent,Innocent,Forgotten,Forgotten
+HI_393.txt,बाइ़डेन,Protagonist,"Rebel, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_271.txt,भारत,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_258.txt,रूस,Protagonist,Rebel,Innocent,Innocent,Forgotten,Forgotten
+HI_314.txt,नरेंद्र मोदी,Protagonist,"Virtuous, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_77.txt,रूस,Antagonist,Tyrant,Antagonist,Antagonist,Saboteur,Saboteur
+HI_118.txt,रोमानिया,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_36.txt,वोलोडिमिर ज़ेलेंस्की,Protagonist,Virtuous,Antagonist,Antagonist,Saboteur,Saboteur
+HI_223.txt,रूस,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_339.txt,ब्रायन लांज़ा,Protagonist,Peacemaker,Antagonist,Antagonist,Saboteur,Saboteur
+HI_108.txt,ट्रंप,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_189.txt,भारत,Protagonist,"Peacemaker, Virtuous",Innocent,Innocent,Forgotten,Forgotten
+HI_86.txt,ब्राजील,Protagonist,Peacemaker,Innocent,Innocent,Victim,Victim
+HI_275.txt,रूस,Protagonist,Rebel,Innocent,Innocent,Forgotten,Forgotten
+HI_66.txt,रूस,Protagonist,Guardian,Innocent,Innocent,Victim,Victim
+HI_14.txt,बाइडेन,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_148.txt,अडानी ग्रुप (A,Protagonist,Virtuous,Antagonist,Antagonist,Saboteur,Saboteur
+HI_388.txt,पश्चिम,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_14.txt,अलसु कुर्माशेवा,Antagonist,Deceiver,Innocent,Innocent,Forgotten,Forgotten
+HI_105.txt,रूसी सैनिक,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+HI_32.txt,रूस,Antagonist,Deceiver,Antagonist,Antagonist,Saboteur,Saboteur
+HI_167.txt,भारत,Protagonist,Peacemaker,Antagonist,Antagonist,Saboteur,Saboteur
+HI_96.txt,यूक्रेन,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_70.txt,तुर्की,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_388.txt,रूस,Antagonist,"Foreign Adversary, Tyrant",Antagonist,Antagonist,Saboteur,Saboteur
+HI_312.txt,कमला हैरिस,Antagonist,Foreign Adversary,Antagonist,Antagonist,Instigator,Instigator
+HI_167.txt,यूक्रेन,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_49.txt,रूस,Antagonist,Conspirator,Innocent,Innocent,Forgotten,Forgotten
+HI_2.txt,पश्चिमी देश,Antagonist,Saboteur,Innocent,Innocent,Forgotten,Forgotten
+HI_22.txt,इजराइल,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+HI_117.txt,यूक्रेन,Innocent,Victim,Innocent,Innocent,Victim,Victim
+HI_6.txt,नाटो,Antagonist,Saboteur,Antagonist,Antagonist,Bigot,Bigot
+HI_326.txt,नेटो,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_328.txt,यूक्रेन,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_7.txt,शुरू,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+HI_120.txt,रूस,Antagonist,Tyrant,Antagonist,Antagonist,Saboteur,Saboteur
+HI_167.txt,भारत,Protagonist,Virtuous,Antagonist,Antagonist,Saboteur,Saboteur
+HI_55.txt,जेलसिंकी,Antagonist,Traitor,Innocent,Innocent,Forgotten,Forgotten
+HI_229.txt,रूसी रक्षा मंत्रालय,Protagonist,Rebel,Antagonist,Antagonist,Saboteur,Saboteur
+HI_48.txt,वैगनर चीफ,Protagonist,Rebel,Protagonist,Protagonist,Rebel,Rebel
+HI_45.txt,क्रासिकोव,Antagonist,Terrorist,Protagonist,Protagonist,Rebel,Rebel
+HI_102.txt,रूस,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+HI_82.txt,रूस,Protagonist,Virtuous,Protagonist,Protagonist,Peacemaker,Peacemaker
+HI_302.txt,साउथ कोरिया,Innocent,Victim,Antagonist,Antagonist,Tyrant,Tyrant
+HI_24.txt,व्लादिमीर पुतिन,Protagonist,Virtuous,Innocent,Innocent,Victim,Victim
+HI_117.txt,भारत,Protagonist,Guardian,Innocent,Innocent,Victim,Victim
+HI_77.txt,कीव,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_173.txt,पश्चिम,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_252.txt,कुर्स्क,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_239.txt,नैनीताल,Innocent,Victim,Antagonist,Antagonist,Instigator,Instigator
+HI_385.txt,बाइडेन प्रशासन,Protagonist,"Virtuous, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_124.txt,जेलेंस्की,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_258.txt,भारत,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_272.txt,पुतिन,Antagonist,"Terrorist, Tyrant",Antagonist,Antagonist,Saboteur,Saboteur
+HI_24.txt,मोदी,Protagonist,Peacemaker,Innocent,Innocent,Victim,Victim
+HI_285.txt,कुर्स्क,Innocent,Victim,Antagonist,Antagonist,Tyrant,Tyrant
+HI_27.txt,मोदी,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_197.txt,लड़ाकों,Protagonist,"Rebel, Underdog",Innocent,Innocent,Forgotten,Forgotten
+HI_199.txt,वैज्ञानिकों,Protagonist,Virtuous,Antagonist,Antagonist,Saboteur,Saboteur
+HI_320.txt,क्राइमिया,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_161.txt,रूस,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_145.txt,ह्यूस्टन,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_118.txt,रूस,Antagonist,Instigator,Antagonist,Antagonist,Saboteur,Saboteur
+HI_178.txt,व्लादिमीर पुतिन,Protagonist,Rebel,Antagonist,Antagonist,Saboteur,Saboteur
+HI_167.txt,रूस,Antagonist,Instigator,Antagonist,Antagonist,Saboteur,Saboteur
+HI_274.txt,कोस्तियातिन्विका,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_255.txt,कबूतरबाजों,Antagonist,Deceiver,Innocent,Innocent,Forgotten,Forgotten
+HI_258.txt,यूक्रेन,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_393.txt,नाटो,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_309.txt,मॉस्को,Protagonist,Rebel,Antagonist,Antagonist,Tyrant,Tyrant
+HI_29.txt,यूक्रेन,Antagonist,Foreign Adversary,Antagonist,Antagonist,Terrorist,Terrorist
+HI_175.txt,रूसी सेना,Antagonist,Tyrant,Innocent,Innocent,Forgotten,Forgotten
+HI_382.txt,चीन,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_22.txt,रूस,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_121.txt,नरेंद्र मोदी,Protagonist,"Virtuous, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_42.txt,नेपाली/गोरखा एजेंट,Antagonist,Deceiver,Innocent,Innocent,Forgotten,Forgotten
+HI_235.txt,सूडान,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_285.txt,जेलेंस्की,Protagonist,Underdog,Antagonist,Antagonist,Tyrant,Tyrant
+HI_219.txt,ऑस्ट्रेलिया,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_264.txt,डोनेट्स्क,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_177.txt,रूस,Protagonist,Rebel,Antagonist,Antagonist,Tyrant,Tyrant
+HI_226.txt,रुस्तेम उमरोव,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_128.txt,कमला हैरिस,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_357.txt,यूक्रेन,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_255.txt,भारतीय विदेश मंत्रालय,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_169.txt,यूक्रेनी,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+HI_153.txt,सर्गी हैदाई,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_133.txt,पक्षियों,Innocent,Victim,Antagonist,Antagonist,Instigator,Instigator
+HI_398.txt,यूक्रेन,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_70.txt,इंडोनेशिया,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_283.txt,नरेंद्र मोदी,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_188.txt,अमेरिकी,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_269.txt,यूक्रेन,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_188.txt,मोदी,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_251.txt,यूक्रेन,Antagonist,Instigator,Antagonist,Antagonist,Saboteur,Saboteur
+HI_90.txt,व्लादिमीर पुतिन,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_197.txt,पोक्रोव्स्क,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_300.txt,हिंद-प्रशांत क्षेत्र,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_24.txt,रूस,Protagonist,Guardian,Innocent,Innocent,Victim,Victim
+HI_173.txt,पुतिन,Protagonist,"Rebel, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_46.txt,पश्चिमी,Antagonist,Saboteur,Antagonist,Antagonist,Saboteur,Saboteur
+HI_278.txt,यूक्रेनी,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_171.txt,चार्ल्स ब्राउन,Protagonist,"Virtuous, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_246.txt,यूक्रेन की सेना,Antagonist,Tyrant,Innocent,Innocent,Forgotten,Forgotten
+HI_262.txt,अधिकारी,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_57.txt,गैपोनोव,Antagonist,"Conspirator, Deceiver",Antagonist,Antagonist,Saboteur,Saboteur
+HI_46.txt,भारत,Protagonist,Virtuous,Antagonist,Antagonist,Saboteur,Saboteur
+HI_188.txt,नरेन्द्र मोदी,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_123.txt,चीन,Antagonist,Foreign Adversary,Protagonist,Protagonist,Peacemaker,Peacemaker
+HI_103.txt,रूस,Protagonist,Rebel,Innocent,Innocent,Forgotten,Forgotten
+HI_325.txt,ज़ेलेंस्की,Protagonist,"Guardian, Underdog",Innocent,Innocent,Forgotten,Forgotten
+HI_320.txt,रूस,Antagonist,"Foreign Adversary, Tyrant",Antagonist,Antagonist,Saboteur,Saboteur
+HI_169.txt,रूस,Antagonist,"Foreign Adversary, Tyrant",Innocent,Innocent,Forgotten,Forgotten
+HI_305.txt,रूस,Antagonist,"Foreign Adversary, Tyrant",Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+HI_301.txt,ट्रंप,Protagonist,"Peacemaker, Rebel",Innocent,Innocent,Forgotten,Forgotten
+HI_254.txt,रूस,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_105.txt,रुबिज़ने,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_112.txt,राष्ट्रपति जेलेंस्की,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_228.txt,जो बाइडेन,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_303.txt,कु‌र्स्क,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_30.txt,ओरबान,Antagonist,Incompetent,Innocent,Innocent,Forgotten,Forgotten
+HI_115.txt,रूस,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_195.txt,एस. जयशंकर,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_312.txt,भारत,Protagonist,"Virtuous, Guardian",Antagonist,Antagonist,Instigator,Instigator
+HI_284.txt,रूसी राजनयिकों,Antagonist,"Foreign Adversary, Spy",Innocent,Innocent,Forgotten,Forgotten
+HI_56.txt,रूस,Protagonist,Virtuous,Antagonist,Antagonist,Saboteur,Saboteur
+HI_64.txt,मंगोलिया,Antagonist,Incompetent,Antagonist,Antagonist,Saboteur,Saboteur
+HI_145.txt,वेनिस,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_216.txt,अमेरिका,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+HI_123.txt,प्रधानमंत्री मोदी,Protagonist,Peacemaker,Protagonist,Protagonist,Peacemaker,Peacemaker
+HI_277.txt,पुतिन,Antagonist,"Conspirator, Tyrant",Antagonist,Antagonist,Spy,Spy
+HI_52.txt,भारत के सात छात्रों,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_170.txt,रूस,Innocent,"Exploited, Victim",Innocent,Innocent,Forgotten,Forgotten
+HI_235.txt,संयुक्त राष्ट्र,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_145.txt,लागोस,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_53.txt,रूस,Antagonist,Instigator,Innocent,Innocent,Victim,Victim
+HI_155.txt,भारत,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_121.txt,नरेन्द्र मोदी,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_278.txt,रूस,Antagonist,"Instigator, Tyrant",Innocent,Innocent,Forgotten,Forgotten
+HI_260.txt,उत्तर कोरियाई सैनिकों,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_303.txt,गवर्नर,Protagonist,"Rebel, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_100.txt,जेलेंस्की,Protagonist,"Peacemaker, Virtuous",Antagonist,Antagonist,Saboteur,Saboteur
+HI_45.txt,वादिम क्रासिकोव,Antagonist,Spy,Protagonist,Protagonist,Rebel,Rebel
+HI_7.txt,पश्चिम,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_53.txt,चीन,Protagonist,"Peacemaker, Virtuous",Innocent,Innocent,Victim,Victim
+HI_108.txt,डोनाल्ड ट्रंप,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_276.txt,रूस,Antagonist,Tyrant,Antagonist,Antagonist,Saboteur,Saboteur
+HI_172.txt,रूस,Protagonist,Rebel,Innocent,Innocent,Forgotten,Forgotten
+HI_398.txt,वोलोदिमीर जेलेंस्की,Protagonist,"Guardian, Underdog",Antagonist,Antagonist,Saboteur,Saboteur
+HI_229.txt,कीव,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_264.txt,सेरेब्रियांका,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_207.txt,एआईटीयूसी,Protagonist,Peacemaker,Antagonist,Antagonist,Saboteur,Saboteur
+HI_142.txt,बिहार सरकार,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_324.txt,यूक्रेन,Antagonist,Incompetent,Innocent,Innocent,Forgotten,Forgotten
+HI_116.txt,जर्मनी,Antagonist,Foreign Adversary,Antagonist,Antagonist,Tyrant,Tyrant
+HI_205.txt,रूस,Antagonist,"Instigator, Tyrant",Antagonist,Antagonist,Instigator,Instigator
+HI_180.txt,ब्रिटेन,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_53.txt,भारत,Protagonist,Virtuous,Innocent,Innocent,Victim,Victim
+HI_305.txt,रूसी सेना,Antagonist,"Incompetent, Tyrant",Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+HI_228.txt,रूस,Antagonist,Tyrant,Antagonist,Antagonist,Saboteur,Saboteur
+HI_117.txt,दझोखर दुदायेव बटालियन,Protagonist,Rebel,Innocent,Innocent,Victim,Victim
+HI_89.txt,मोदी,Protagonist,Virtuous,Antagonist,Antagonist,Saboteur,Saboteur
+HI_320.txt,कुर्स्क,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_239.txt,कोटद्वार,Innocent,Victim,Antagonist,Antagonist,Instigator,Instigator
+HI_204.txt,यूक्रेन,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_187.txt,रूस,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_101.txt,यूक्रेनियन,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_371.txt,जो बाडेन,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_305.txt,पुतिन,Antagonist,"Foreign Adversary, Tyrant",Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+HI_314.txt,भारत,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_61.txt,रूस,Antagonist,Corrupt,Innocent,Innocent,Forgotten,Forgotten
+HI_274.txt,रूसी सेना,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_3.txt,भारत,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_245.txt,यूक्रेन,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_389.txt,यूरोपीय सहयोगियों,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_316.txt,मोदी,Protagonist,"Virtuous, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_77.txt,विताली क्लित्स्को,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_18.txt,रूस,Antagonist,Deceiver,Innocent,Innocent,Forgotten,Forgotten
+HI_216.txt,अमेरिका,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_78.txt,मॉस्को,Antagonist,Tyrant,Innocent,Innocent,Forgotten,Forgotten
+HI_40.txt,इवान,Antagonist,Spy,Innocent,Innocent,Forgotten,Forgotten
+HI_89.txt,अमेरिका,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_119.txt,मणिपुर,Innocent,"Victim, Forgotten",Innocent,Innocent,Forgotten,Forgotten
+HI_214.txt,व्लादिमीर जेलेंस्की,Antagonist,Incompetent,Antagonist,Antagonist,Saboteur,Saboteur
+HI_252.txt,एंड्री सिबिहा,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_55.txt,रूस,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_46.txt,यूक्रेन,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_307.txt,मॉस्को,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_379.txt,अमेरिका,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_326.txt,रूस,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_60.txt,यूरोप,Antagonist,Bigot,Antagonist,Antagonist,Saboteur,Saboteur
+HI_66.txt,रूस,Antagonist,Conspirator,Innocent,Innocent,Victim,Victim
+HI_388.txt,पुतिन,Protagonist,"Rebel, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_353.txt,ट्रंप,Protagonist,"Peacemaker, Virtuous, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_319.txt,ओलेक्ज़ेंडर मेरेज़को,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_314.txt,बांग्लादेश,Antagonist,"Foreign Adversary, Tyrant",Innocent,Innocent,Forgotten,Forgotten
+HI_193.txt,बाइडेन,Protagonist,Virtuous,Antagonist,Antagonist,Saboteur,Saboteur
+HI_60.txt,भारत सरकार,Innocent,Scapegoat,Antagonist,Antagonist,Saboteur,Saboteur
+HI_3.txt,इवान,Antagonist,Spy,Innocent,Innocent,Forgotten,Forgotten
+HI_22.txt,रूसी विमान,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_399.txt,पश्चिमी देशों,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_117.txt,नेपाली,Innocent,Forgotten,Innocent,Innocent,Victim,Victim
+HI_305.txt,कीव,Protagonist,"Guardian, Underdog",Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+HI_261.txt,यूक्रेन,Protagonist,Underdog,Antagonist,Antagonist,Saboteur,Saboteur
+HI_148.txt,गौतम अडानी,Protagonist,"Virtuous, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_272.txt,जो बाइडन,Protagonist,Virtuous,Antagonist,Antagonist,Saboteur,Saboteur
+HI_70.txt,सऊदी अरब,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_23.txt,यूरोपीय,Antagonist,Incompetent,Innocent,Innocent,Forgotten,Forgotten
+HI_138.txt,मुख्यमंत्री,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_46.txt,भारत,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_232.txt,यूएन,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_311.txt,यूक्रेन,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_33.txt,भारत,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_273.txt,क्रेमलिन,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_234.txt,आईपीई ग्लोबल,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_273.txt,उत्तर कोरिया,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_228.txt,नागरिक,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_303.txt,सवासलेका,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_52.txt,कीर्ति वर्धन सिंह,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_94.txt,रूस,Antagonist,Tyrant,Innocent,Innocent,Forgotten,Forgotten
+HI_32.txt,रूस,Antagonist,Deceiver,Antagonist,Antagonist,Saboteur,Saboteur
+HI_127.txt,यूक्रेन,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_8.txt,इवान गेर्शकोविच,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_193.txt,भारत,Protagonist,Peacemaker,Antagonist,Antagonist,Saboteur,Saboteur
+HI_33.txt,रूस,Antagonist,Deceiver,Innocent,Innocent,Forgotten,Forgotten
+HI_281.txt,फ्रांसिस्को सेरा-मार्टिन्स,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_142.txt,13 जिले,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_377.txt,पेसकोव,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_324.txt,यूक्रेन,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_190.txt,रूस,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_22.txt,कीव,Antagonist,Deceiver,Innocent,Innocent,Forgotten,Forgotten
+HI_310.txt,सोंग किम,Protagonist,"Virtuous, Guardian",Antagonist,Antagonist,Tyrant,Tyrant
+HI_118.txt,नागरिकों,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_380.txt,फ्रांस,Protagonist,"Virtuous, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_308.txt,मॉस्को,Protagonist,Rebel,Innocent,Innocent,Forgotten,Forgotten
+HI_283.txt,रूस,Antagonist,Tyrant,Innocent,Innocent,Forgotten,Forgotten
+HI_22.txt,कीव,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+HI_118.txt,महिलाएं,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_242.txt,अमेरिका,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_32.txt,भारत,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_181.txt,रूस,Antagonist,Instigator,Antagonist,Antagonist,Saboteur,Saboteur
+HI_260.txt,रूस,Antagonist,Tyrant,Innocent,Innocent,Forgotten,Forgotten
+HI_37.txt,पश्चिमी देश,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_118.txt,हंगरी,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_391.txt,पश्चिमी देशों,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_173.txt,नाटो,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_271.txt,मोदी,Antagonist,Incompetent,Antagonist,Antagonist,Saboteur,Saboteur
+HI_174.txt,उत्तर कोरियाई सैनिक,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_173.txt,यूक्रेन,Antagonist,"Foreign Adversary, Tyrant",Antagonist,Antagonist,Saboteur,Saboteur
+HI_24.txt,नरेंद्र मोदी,Protagonist,Peacemaker,Innocent,Innocent,Victim,Victim
+HI_2.txt,पश्चिम,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_201.txt,पश्चिमी देश,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_66.txt,अमेरिका,Antagonist,Foreign Adversary,Innocent,Innocent,Victim,Victim
+HI_117.txt,अरब,Protagonist,Guardian,Innocent,Innocent,Victim,Victim
+HI_116.txt,इटली,Antagonist,Foreign Adversary,Antagonist,Antagonist,Tyrant,Tyrant
+HI_77.txt,लुत्स्क,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_305.txt,रूसी सैनिक,Antagonist,Incompetent,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+HI_20.txt,नरेन्द्र मोदी,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_273.txt,किम जोंग,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_53.txt,भारत,Innocent,Victim,Innocent,Innocent,Victim,Victim
+HI_310.txt,रूसी सेना,Protagonist,"Rebel, Guardian",Antagonist,Antagonist,Tyrant,Tyrant
+HI_181.txt,भारत,Protagonist,Rebel,Antagonist,Antagonist,Saboteur,Saboteur
+HI_57.txt,फाइनेंशियल टाइम्स,Antagonist,Deceiver,Antagonist,Antagonist,Saboteur,Saboteur
+HI_270.txt,नरेंद्र मोदी,Protagonist,"Peacemaker, Virtuous",Antagonist,Antagonist,Saboteur,Saboteur
+HI_398.txt,नागरिकों,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_55.txt,यूक्रेन,Antagonist,Incompetent,Innocent,Innocent,Forgotten,Forgotten
+HI_224.txt,रूस,Protagonist,Virtuous,Antagonist,Antagonist,Saboteur,Saboteur
+HI_64.txt,क्रेमलिन,Antagonist,Tyrant,Antagonist,Antagonist,Saboteur,Saboteur
+HI_178.txt,यूक्रेन,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_117.txt,अंगोला,Innocent,Victim,Innocent,Innocent,Victim,Victim
+HI_282.txt,नरेंद्र मोदी,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_70.txt,रूस,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_116.txt,फ्रांस,Antagonist,Foreign Adversary,Antagonist,Antagonist,Tyrant,Tyrant
+HI_117.txt,इस्लामिक स्टेट,Antagonist,Terrorist,Innocent,Innocent,Victim,Victim
+HI_257.txt,यूक्रेन,Antagonist,"Foreign Adversary, Tyrant",Innocent,Innocent,Forgotten,Forgotten
+HI_311.txt,उत्तर अटलांटिक संधि संगठन,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_201.txt,नरेन्द्र मोदी,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_325.txt,ट्रंप,Protagonist,"Virtuous, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_195.txt,पुतिन,Protagonist,Rebel,Innocent,Innocent,Forgotten,Forgotten
+HI_39.txt,भारत,Protagonist,"Peacemaker, Virtuous",Antagonist,Antagonist,Terrorist,Terrorist
+HI_48.txt,वैगनर लड़ाकों,Innocent,Victim,Protagonist,Protagonist,Rebel,Rebel
+HI_385.txt,रूस,Protagonist,Rebel,Antagonist,Antagonist,Saboteur,Saboteur
+HI_387.txt,बेथ सैनर,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_391.txt,डोनाल्ड ट्रंप,Protagonist,"Peacemaker, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_195.txt,नई दिल्ली,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_315.txt,चीन,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_313.txt,डॉक्टर,Innocent,"Exploited, Victim",Antagonist,Antagonist,Saboteur,Saboteur
+HI_23.txt,अमेरिका,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_316.txt,पाकिस्तान,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_285.txt,उत्तर कोरिया,Antagonist,Foreign Adversary,Antagonist,Antagonist,Tyrant,Tyrant
+HI_55.txt,पुतिन,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_117.txt,श्रीलंका,Innocent,Victim,Innocent,Innocent,Victim,Victim
+HI_117.txt,अफ्रीकी राज्यों,Innocent,Victim,Innocent,Innocent,Victim,Victim
+HI_279.txt,व्लादिमीर पुतिन,Protagonist,"Rebel, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_234.txt,आंध्र प्रदेश,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_161.txt,पोलैंड,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_155.txt,यूक्रेन,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_101.txt,नरेंद्र मोदी,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_237.txt,News18,Protagonist,"Virtuous, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_22.txt,गाजा,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_47.txt,पोलैंड,Protagonist,Virtuous,Antagonist,Antagonist,Saboteur,Saboteur
+HI_119.txt,मेइतेई,Innocent,Forgotten,Innocent,Innocent,Forgotten,Forgotten
+HI_116.txt,जर्मनी,Antagonist,Foreign Adversary,Antagonist,Antagonist,Tyrant,Tyrant
+HI_381.txt,रूस,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_273.txt,रूसी सेना,Protagonist,Rebel,Innocent,Innocent,Forgotten,Forgotten
+HI_78.txt,पोलटावा,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_42.txt,चरणजीत सिंह,Antagonist,Corrupt,Innocent,Innocent,Forgotten,Forgotten
+HI_1.txt,भारत,Protagonist,Virtuous,Antagonist,Antagonist,Saboteur,Saboteur
+HI_52.txt,भारतीय दूतावास,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_279.txt,यूक्रेन,Protagonist,Underdog,Antagonist,Antagonist,Saboteur,Saboteur
+HI_79.txt,पश्चिमी देशों,Antagonist,"Instigator, Foreign Adversary",Innocent,Innocent,Forgotten,Forgotten
+HI_144.txt,पेड़ों,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_281.txt,यूक्रेन,Antagonist,Instigator,Antagonist,Antagonist,Saboteur,Saboteur
+HI_153.txt,रूसी सेना,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+HI_224.txt,भारत,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_207.txt,सीटू,Protagonist,Peacemaker,Antagonist,Antagonist,Saboteur,Saboteur
+HI_318.txt,यूक्रेन,Protagonist,Underdog,Antagonist,Antagonist,Saboteur,Saboteur
+HI_82.txt,मोदी,Protagonist,Virtuous,Protagonist,Protagonist,Peacemaker,Peacemaker
+HI_289.txt,वैलेरी मैसन-डेलोमोट,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_253.txt,पुतिन,Protagonist,Rebel,Antagonist,Antagonist,Saboteur,Saboteur
+HI_363.txt,बाइडन,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_307.txt,यूक्रेन,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_266.txt,रूस,Antagonist,Tyrant,Antagonist,Antagonist,Tyrant,Tyrant
+HI_100.txt,नरेंद्र मोदी,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_127.txt,रूस,Antagonist,"Foreign Adversary, Tyrant",Innocent,Innocent,Forgotten,Forgotten
+HI_174.txt,यूक्रेन,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_36.txt,यूक्रेन,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_329.txt,रिपब्लिकन पार्टी,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_222.txt,मोदी,Protagonist,"Virtuous, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_308.txt,सर्गेई लावरोव,Protagonist,"Rebel, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_375.txt,रूसी सेना,Antagonist,Incompetent,Antagonist,Antagonist,Saboteur,Saboteur
+HI_123.txt,भारत,Protagonist,Peacemaker,Protagonist,Protagonist,Peacemaker,Peacemaker
+HI_117.txt,भारत,Protagonist,Guardian,Innocent,Innocent,Victim,Victim
+HI_166.txt,वालेरी स्टावित्स्की,Antagonist,"Instigator, Foreign Adversary",Innocent,Innocent,Forgotten,Forgotten
+HI_70.txt,यूएई,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_254.txt,पुतिन,Protagonist,"Virtuous, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_118.txt,रूस,Antagonist,Tyrant,Antagonist,Antagonist,Saboteur,Saboteur
+HI_54.txt,पश्चिमी सैन्य,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_123.txt,भारत,Protagonist,Virtuous,Protagonist,Protagonist,Peacemaker,Peacemaker
+HI_307.txt,यूक्रेन,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_117.txt,बाइडेन प्रशासन,Antagonist,"Incompetent, Foreign Adversary",Innocent,Innocent,Victim,Victim
+HI_176.txt,व्लादिमीर पुतिन,Protagonist,"Rebel, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_122.txt,व्लादिमीर पुतिन,Antagonist,Tyrant,Innocent,Innocent,Forgotten,Forgotten
+HI_163.txt,क्वाड,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_174.txt,रूस,Antagonist,Tyrant,Innocent,Innocent,Forgotten,Forgotten
+HI_356.txt,ट्रंप,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+HI_329.txt,डोनाल्ड ट्रंप,Protagonist,"Peacemaker, Guardian",Antagonist,Antagonist,Saboteur,Saboteur
+HI_116.txt,नॉर्वे,Innocent,Victim,Antagonist,Antagonist,Tyrant,Tyrant
+HI_202.txt,रूसी सेना,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_252.txt,रक्षा मंत्रालय,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_30.txt,रूस,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_234.txt,उत्तराखंड,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_3.txt,पॉल व्हेलन,Innocent,Scapegoat,Innocent,Innocent,Forgotten,Forgotten
+HI_303.txt,हवाई अड्डों,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_279.txt,ब्रिटेन,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_382.txt,रूस,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_223.txt,कोरिया,Antagonist,Deceiver,Antagonist,Antagonist,Saboteur,Saboteur
+HI_279.txt,व्हाइट हाउस,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_8.txt,रूस,Antagonist,Deceiver,Innocent,Innocent,Forgotten,Forgotten
+HI_83.txt,भारत,Protagonist,Peacemaker,Protagonist,Protagonist,Martyr,Martyr
+HI_55.txt,अमेरिका,Antagonist,"Instigator, Foreign Adversary",Innocent,Innocent,Forgotten,Forgotten
+HI_166.txt,ऑलेक्जेंडर मारिकोव्स्की,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_46.txt,रूस,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_70.txt,तुर्की,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_387.txt,यूक्रेन,Protagonist,Underdog,Antagonist,Antagonist,Saboteur,Saboteur
+HI_286.txt,यून सूक येओल,Protagonist,Virtuous,Antagonist,Antagonist,Tyrant,Tyrant
+HI_119.txt,नरेंद्र मोदी,Antagonist,Incompetent,Innocent,Innocent,Forgotten,Forgotten
+HI_185.txt,व्लादिमीर पुतिन,Protagonist,Peacemaker,Antagonist,Antagonist,Saboteur,Saboteur
+HI_266.txt,यूक्रेन,Protagonist,Underdog,Antagonist,Antagonist,Tyrant,Tyrant
+HI_375.txt,रूसी सैनिकों,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_218.txt,अमेरिकी,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_224.txt,अजीत डोभाल,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_229.txt,नागरिक,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_210.txt,पृथ्वी,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_364.txt,ब्रिटेन,Protagonist,"Virtuous, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_175.txt,मारियुपोल,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_124.txt,वोलोडिमिर जेलेंस्की,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_80.txt,नाटो,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_157.txt,भारत,Protagonist,"Peacemaker, Virtuous",Innocent,Innocent,Forgotten,Forgotten
+HI_161.txt,बाइडेन,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+HI_383.txt,वलोडिमिर जेलेंस्की,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_7.txt,यूक्रेनी,Antagonist,Saboteur,Innocent,Innocent,Forgotten,Forgotten
+HI_229.txt,रूस,Antagonist,Instigator,Antagonist,Antagonist,Saboteur,Saboteur
+HI_90.txt,यूक्रेन,Antagonist,Deceiver,Antagonist,Antagonist,Saboteur,Saboteur
+HI_251.txt,जो बाइडेन,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_58.txt,जापान,Protagonist,Guardian,Protagonist,Protagonist,Guardian,Guardian
+HI_117.txt,अंतरराष्ट्रीय सरोकारों,Innocent,Victim,Innocent,Innocent,Victim,Victim
+HI_395.txt,रूस,Antagonist,"Foreign Adversary, Tyrant",Antagonist,Antagonist,Saboteur,Saboteur
+HI_185.txt,स्टोल्टेनबर्ग,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+HI_329.txt,वोलोदिमीर ज़ेलेंस्की,Protagonist,"Guardian, Underdog",Antagonist,Antagonist,Saboteur,Saboteur
+HI_225.txt,यूक्रेनी सैनिकों,Protagonist,Rebel,Innocent,Innocent,Forgotten,Forgotten
+HI_49.txt,रूस,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+HI_324.txt,अमेरिका,Protagonist,"Virtuous, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_157.txt,खार्किव,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_246.txt,रूसी सेना,Protagonist,"Rebel, Guardian",Innocent,Innocent,Forgotten,Forgotten
+HI_118.txt,यूक्रेन,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_180.txt,यूक्रेन,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+HI_390.txt,उत्तर कोरिया,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+HI_102.txt,वलोदिमीर जेलेंस्की,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+HI_319.txt,क्राइमिया,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+HI_119.txt,पूर्वोत्तर,Innocent,Forgotten,Innocent,Innocent,Forgotten,Forgotten
+HI_278.txt,मारियुपोल,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+HI_92.txt,रूस,Protagonist,Rebel,Antagonist,Antagonist,Tyrant,Tyrant
+HI_68.txt,रूसी,Antagonist,Terrorist,Innocent,Innocent,Forgotten,Forgotten
+HI_113.txt,रूस,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+HI_301.txt,अमेरिका,Protagonist,"Virtuous, Guardian",Innocent,Innocent,Forgotten,Forgotten

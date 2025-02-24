@@ -30,12 +30,17 @@ def get_role_vectors(model, role_words, n_grams='last'):
     x = list()
     
     for r in role_words:
+        print(r)
         tokens = re.split("\s+", r.lower())
-        tokens = [t for t in tokens if t not in STOP_WORDS and t in model]
+        #tokens = [t for t in tokens if t not in STOP_WORDS and t in model]
         if n_grams == 'average':
             v = np.mean([model[t] for t in tokens], axis=0)  # take the average vector of n-grams
         elif n_grams == 'last':
-            v = np.array(model[tokens[-1]])  # use the last token in the n-gram
+            #check if the last token is in the model
+            if tokens[-1] not in model:
+                v = np.array(model[tokens[0]])
+            else:
+                v = np.array(model[tokens[-1]])  # use the last token in the n-gram
         x.append(v)
     
     x = np.row_stack(x)  # Creates an n x d matrix of `n` fine-grained roles and `d`-dimensional vectors
@@ -79,20 +84,27 @@ def process_sentence(sent, emb_model, role_vectors,
 
     x_stack = list()
     x_var = list()
-
-    if c_window is None:
-        context_words = sent
+    if not isinstance(doc, str):
+        if c_window is None:
+            context_words = sent
+        else:
+            ent_i = ent_span.root.i
+            context_words = [t for t in doc[max(0, ent_i-c_window):ent_i]] + [t for t in doc[ent_i+1:ent_i+1+c_window]]  # get both sides of the entity span
+        #print(f"{context_words=}")
+        for token in context_words:
+            if token.pos_ in {'NOUN', 'VERB', 'ADJ'}:
+                if token.text.lower() in emb_model:
+                    x = get_semantic_sim(token.text.lower(), emb_model, role_vectors)
+                    x_stack.append(x)
+                    x_var.append(np.var(x))  # save the in-vector variance to use as weight. Vectors with high variance means some of the classes potentially dominate.
     else:
-        ent_i = ent_span.root.i
-        context_words = [t for t in doc[max(0, ent_i-c_window):ent_i]] + [t for t in doc[ent_i+1:ent_i+1+c_window]]  # get both sides of the entity span
-    #print(f"{context_words=}")
-    for token in context_words:
-        if token.pos_ in {'NOUN', 'VERB', 'ADJ'}:
-            if token.text.lower() in emb_model:
-                x = get_semantic_sim(token.text.lower(), emb_model, role_vectors)
+        #get semantic similarity of the each word in doc
+        for token in doc.split():
+            if token in emb_model:
+                x = get_semantic_sim(token, emb_model, role_vectors)
                 x_stack.append(x)
-                x_var.append(np.var(x))  # save the in-vector variance to use as weight. Vectors with high variance means some of the classes potentially dominate.
-    
+                x_var.append(np.var(x))
+
     #instance when there no word in the context window
     if not x_stack:
         return np.zeros(role_vectors.shape[0])
@@ -107,7 +119,7 @@ def process_sentence(sent, emb_model, role_vectors,
 
     return x
 
-def process_documents(base_dir, labels, subdirs, role_labels, emb_model, role_vectors, c_window, use_corefs=False):
+def process_documents(base_dir, labels, subdirs, role_labels, fg_EN_map, emb_model, role_vectors, c_window, use_corefs=False):
     """
     Process all documents in the given directory.
 
@@ -165,6 +177,9 @@ def process_documents(base_dir, labels, subdirs, role_labels, emb_model, role_ve
         true_fg_roles = doc_labels['sub_roles']
         true_m_role = doc_labels['main_role']
 
+        max_fg_role = fg_EN_map[max_fg_role]
+        avg_fg_role = fg_EN_map[avg_fg_role]
+
         
         fg_max_match_count += 1 if [max_fg_role] == true_fg_roles else 0
         fg_avg_match_count += 1 if [avg_fg_role] == true_fg_roles else 0
@@ -190,22 +205,22 @@ def process_documents(base_dir, labels, subdirs, role_labels, emb_model, role_ve
 if __name__ == "__main__":
 
 
+    for subdir in ["HI", "BG"]:
+        base_dir = "train"
+        labels_file = "subtask-1-annotations.txt"
+        # subdir = "PT"
 
-    base_dir = "train"
-    labels_file = "subtask-1-annotations.txt"
-    subdir = "RU"
+        ld = LoadData()
+        labels = ld.load_data(base_dir, labels_file, subdir)
+        # Cast these columns as int
+        labels['start_offset'] = labels['start_offset'].astype(int)
+        labels['end_offset'] = labels['end_offset'].astype(int)
 
-    ld = LoadData()
-    labels = ld.load_data(base_dir, labels_file, subdir)
-    # Cast these columns as int
-    labels['start_offset'] = labels['start_offset'].astype(int)
-    labels['end_offset'] = labels['end_offset'].astype(int)
+        role_labels, fg_EN_map = get_role_labels(subdir)
+        emb_model = load_word_vectors(f"embeddings/cc.{subdir.lower()}.300.vec")
 
-    role_labels = get_role_labels(subdir)
-    emb_model = load_word_vectors(f"embeddings/cc.{subdir.lower()}.300.vec")
+        role_vectors = get_role_vectors(emb_model, role_labels['role_list'], n_grams='average')
+        c_window = None  # size of context window for model
+        
 
-    role_vectors = get_role_vectors(emb_model, role_labels['role_list'])
-    c_window = None  # size of context window for model
-    
-
-    process_documents(base_dir, labels, subdir, role_labels, emb_model, role_vectors, c_window, use_corefs=True)
+        process_documents(base_dir, labels, subdir, role_labels, fg_EN_map, emb_model, role_vectors, c_window, use_corefs=False)

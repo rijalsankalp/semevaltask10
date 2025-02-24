@@ -1,0 +1,1252 @@
+article_id,ent_span,main_role,fine_grained_roles,max_main_role,avg_main_role,max_fg_role,avg_fg_role
+PT_17.txt,Rússia,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_263.txt,Zelensky,Antagonist,Terrorist,Antagonist,Antagonist,Terrorist,Terrorist
+PT_06.txt,Vladlen Tatarsky,Innocent,Victim,Antagonist,Antagonist,Terrorist,Terrorist
+PT_124.txt,Rússia,Protagonist,Peacemaker,Innocent,Innocent,Victim,Victim
+PT_168.txt,Estado,Antagonist,Corrupt,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_10.txt,Kiev,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_12.txt,Washington,Antagonist,Conspirator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_06.txt,Ministério dos Negócios Estrangeiros russo,Protagonist,Guardian,Antagonist,Antagonist,Terrorist,Terrorist
+PT_118.txt,Espanha,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_200.txt,Glaciar Perito Moreno,Innocent,Victim,Innocent,Innocent,Exploited,Exploited
+PT_45.txt,Ucrânia,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_280.txt,Kiev,Antagonist,Instigator,Innocent,Innocent,Exploited,Exploited
+PT_331.txt,Lula,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_21.txt,NATO,Protagonist,Peacemaker,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_44.txt,Ocidente,Antagonist,Conspirator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_133.txt,Eslováquia,Protagonist,Rebel,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_372.txt,Exército da Ucrânia,Antagonist,Incompetent,Antagonist,Antagonist,Corrupt,Corrupt
+PT_319.txt,Rio Grande do Sul,Innocent,Victim,Innocent,Innocent,Exploited,Exploited
+PT_150.txt,Leros,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_360.txt,CasaPound,Antagonist,Bigot,Antagonist,Antagonist,Terrorist,Terrorist
+PT_374.txt,Rússia,Protagonist,Peacemaker,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_123.txt,Rússia,Protagonist,Guardian,Antagonist,Antagonist,Tyrant,Tyrant
+PT_258.txt,Estados Unidos,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_146.txt,Palau,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_389.txt,Chile,Innocent,Victim,Antagonist,Antagonist,Tyrant,Tyrant
+PT_41.txt,Turquia,Antagonist,Saboteur,Innocent,Innocent,Exploited,Exploited
+PT_389.txt,Índia,Innocent,Victim,Antagonist,Antagonist,Tyrant,Tyrant
+PT_269.txt,Putin,Protagonist,Guardian,Antagonist,Antagonist,Traitor,Traitor
+PT_292.txt,Kiev,Antagonist,Instigator,Antagonist,Antagonist,Saboteur,Saboteur
+PT_146.txt,Londres,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_89.txt,Hungria,Protagonist,Peacemaker,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_124.txt,Rússia,Antagonist,Deceiver,Innocent,Innocent,Victim,Victim
+PT_285.txt,Ucrânia,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_112.txt,Serguei Riabkov,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+PT_378.txt,Partido Nacional Democrático da Alemanha,Antagonist,Bigot,Antagonist,Antagonist,Terrorist,Terrorist
+PT_318.txt,Noruega,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_357.txt,Ucrânia,Antagonist,Bigot,Innocent,Innocent,Forgotten,Forgotten
+PT_56.txt,Climáximo,Protagonist,Virtuous,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_146.txt,Maldivas,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_360.txt,Cubic,Antagonist,Conspirator,Antagonist,Antagonist,Terrorist,Terrorist
+PT_50.txt,Ucrânia,Antagonist,Incompetent,Antagonist,Antagonist,Corrupt,Corrupt
+PT_336.txt,Afeganistão,Innocent,Victim,Innocent,Innocent,Victim,Victim
+PT_127.txt,Ucrânia,Antagonist,Tyrant,Protagonist,Protagonist,Guardian,Guardian
+PT_161.txt,França,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_251.txt,Rússia,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+PT_73.txt,Moscovo,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_63.txt,Volodymyr Zelensky,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_111.txt,Robert-Jan,Innocent,Victim,Innocent,Innocent,Victim,Victim
+PT_329.txt,Rio Grande do Sul,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_351.txt,Marina Silva,Protagonist,Guardian,Innocent,Innocent,Victim,Victim
+PT_378.txt,Itália,Antagonist,Bigot,Antagonist,Antagonist,Terrorist,Terrorist
+PT_28.txt,Estados Unidos,Antagonist,Corrupt,Innocent,Innocent,Exploited,Exploited
+PT_41.txt,Suécia,Innocent,Victim,Innocent,Innocent,Exploited,Exploited
+PT_363.txt,Rússia,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_365.txt,EUA,Antagonist,Saboteur,Innocent,Innocent,Forgotten,Forgotten
+PT_137.txt,Trump,Innocent,Victim,Protagonist,Protagonist,Rebel,Rebel
+PT_70.txt,Dmitry Peskov,Protagonist,Peacemaker,Antagonist,Antagonist,Tyrant,Tyrant
+PT_251.txt,Ucrânia,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+PT_07.txt,Ocidente,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+PT_10.txt,Gitanas Nauseda,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_366.txt,Kiev,Antagonist,Terrorist,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_271.txt,Biden,Antagonist,Instigator,Antagonist,Antagonist,Terrorist,Terrorist
+PT_342.txt,Kiev,Antagonist,Bigot,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_146.txt,Rio de Janeiro,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_399.txt,Governo,Antagonist,Corrupt,Protagonist,Protagonist,Rebel,Rebel
+PT_242.txt,Rússia,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_71.txt,Rússia,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+PT_388.txt,Governo,Antagonist,Incompetent,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_54.txt,Kiev,Antagonist,Terrorist,Innocent,Innocent,Victim,Victim
+PT_10.txt,Ucrânia,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_354.txt,Forças Armadas,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_99.txt,Medvedev,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+PT_26.txt,Moscovo,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_313.txt,Missouri,Innocent,Victim,Antagonist,Antagonist,Instigator,Instigator
+PT_353.txt,Kiev,Antagonist,Tyrant,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_107.txt,Ucrânia,Innocent,Victim,Antagonist,Antagonist,Terrorist,Terrorist
+PT_107.txt,Rússia,Antagonist,Conspirator,Antagonist,Antagonist,Terrorist,Terrorist
+PT_43.txt,Ucrânia,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+PT_290.txt,Rio Grande do Sul,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_293.txt,Ocidente,Antagonist,"Conspirator, Foreign Adversary",Antagonist,Antagonist,Terrorist,Terrorist
+PT_50.txt,Ucrânia,Innocent,Exploited,Antagonist,Antagonist,Corrupt,Corrupt
+PT_360.txt,Lugansk,Innocent,Victim,Antagonist,Antagonist,Terrorist,Terrorist
+PT_246.txt,Ucrânia,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_34.txt,Rússia,Protagonist,Peacemaker,Antagonist,Antagonist,Conspirator,Conspirator
+PT_51.txt,Hannah Cloke,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_12.txt,Azov,Antagonist,"Conspirator, Terrorist",Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_141.txt,Brasil,Innocent,Victim,Antagonist,Antagonist,Instigator,Instigator
+PT_274.txt,Belgorod,Innocent,Victim,Innocent,Innocent,Exploited,Exploited
+PT_293.txt,Kiev,Antagonist,Foreign Adversary,Antagonist,Antagonist,Terrorist,Terrorist
+PT_180.txt,Amazónia,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_289.txt,Rússia,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_27.txt,Ocidente,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+PT_337.txt,Brasil,Protagonist,Virtuous,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_357.txt,Moscovo,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+PT_200.txt,Jefferson Gonzalez,Protagonist,Guardian,Innocent,Innocent,Exploited,Exploited
+PT_227.txt,Ocidente,Antagonist,Instigator,Antagonist,Antagonist,Traitor,Traitor
+PT_110.txt,Igor Girkin,Antagonist,Terrorist,Innocent,Innocent,Forgotten,Forgotten
+PT_183.txt,Anja Windl,Protagonist,Rebel,Antagonist,Antagonist,Terrorist,Terrorist
+PT_329.txt,Marrocos,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_147.txt,Amnistia Internacional,Protagonist,Virtuous,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_242.txt,COI,Antagonist,Bigot,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_164.txt,Emmanuel Macron,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_395.txt,Montenegro,Antagonist,Incompetent,Innocent,Innocent,Victim,Victim
+PT_164.txt,Hugo Clément,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_384.txt,Ocidente,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_395.txt,Luis Montenegro,Antagonist,Corrupt,Innocent,Innocent,Victim,Victim
+PT_132.txt,Rússia,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_386.txt,Zelensky,Antagonist,"Incompetent, Instigator",Antagonist,Antagonist,Corrupt,Corrupt
+PT_09.txt,Ocidente,Antagonist,Foreign Adversary,Innocent,Innocent,Exploited,Exploited
+PT_329.txt,Maceió,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_278.txt,Rússia,Innocent,Victim,Antagonist,Antagonist,Traitor,Traitor
+PT_CC_426.txt,Greta,Antagonist,Incompetent,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_157.txt,Reino Unido,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_37.txt,Putin,Protagonist,Guardian,Innocent,Innocent,Victim,Victim
+PT_CC_421.txt,Merkel,Antagonist,Incompetent,Antagonist,Antagonist,Traitor,Traitor
+PT_318.txt,Pantanal,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_380.txt,Azov,Antagonist,Terrorist,Antagonist,Antagonist,Terrorist,Terrorist
+PT_379.txt,Azov,Antagonist,Terrorist,Antagonist,Antagonist,Traitor,Traitor
+PT_113.txt,Moscovo,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_231.txt,Tenerife,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_109.txt,Putin,Protagonist,Virtuous,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_112.txt,Vladimir Putin,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+PT_337.txt,Marina,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_337.txt,Amazónia,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_192.txt,Amazonas,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_246.txt,Volodimir Zelensky,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_21.txt,NATO,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_12.txt,Washington,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_345.txt,EUA,Antagonist,Saboteur,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_110.txt,Ucrânia,Innocent,Scapegoat,Innocent,Innocent,Forgotten,Forgotten
+PT_132.txt,Ucrânia,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_124.txt,Kuleba,Protagonist,Virtuous,Innocent,Innocent,Victim,Victim
+PT_196.txt,Amazónia,Innocent,"Exploited, Victim",Protagonist,Protagonist,Virtuous,Virtuous
+PT_164.txt,Japão,Antagonist,"Deceiver, Corrupt",Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_248.txt,Chasiv Yar,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_32.txt,Donetsk,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_357.txt,EUA,Antagonist,Incompetent,Innocent,Innocent,Forgotten,Forgotten
+PT_30.txt,William Jones,Protagonist,Virtuous,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_293.txt,Putin,Antagonist,Foreign Adversary,Antagonist,Antagonist,Terrorist,Terrorist
+PT_123.txt,Zelensky,Antagonist,Tyrant,Antagonist,Antagonist,Tyrant,Tyrant
+PT_360.txt,Forward Observations Group,Antagonist,Conspirator,Antagonist,Antagonist,Terrorist,Terrorist
+PT_14.txt,Vladimir Putin,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_124.txt,Rússia,Antagonist,Foreign Adversary,Innocent,Innocent,Victim,Victim
+PT_128.txt,Zelensky,Antagonist,Deceiver,Protagonist,Protagonist,Underdog,Underdog
+PT_120.txt,NATO,Antagonist,Corrupt,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_279.txt,Kiev,Antagonist,Incompetent,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_109.txt,Ocidente,Antagonist,Instigator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_22.txt,Joe Biden,Antagonist,Saboteur,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_17.txt,Londres,Antagonist,Instigator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_141.txt,China,Innocent,Victim,Antagonist,Antagonist,Instigator,Instigator
+PT_197.txt,Amazónia,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_133.txt,Budapeste,Innocent,Forgotten,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_76.txt,Volodymyr Zelenskyy,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+PT_276.txt,Forças Armadas,Protagonist,Guardian,Protagonist,Protagonist,Guardian,Guardian
+PT_260.txt,Zelensky,Antagonist,Incompetent,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_74.txt,Pokrovsk,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_14.txt,Kiev,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_372.txt,Zelensky,Antagonist,Incompetent,Antagonist,Antagonist,Corrupt,Corrupt
+PT_31.txt,Ucrânia,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+PT_16.txt,Emmanuel Macron,Antagonist,Foreign Adversary,Innocent,Innocent,Victim,Victim
+PT_08.txt,Estados Unidos,Antagonist,Corrupt,Protagonist,Protagonist,Underdog,Underdog
+PT_35.txt,Sergei Lavrov,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_112.txt,Kremlin,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+PT_19.txt,Rússia,Innocent,Scapegoat,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_187.txt,Thais Yutori,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_135.txt,Europa Ocidental,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_252.txt,Donald Trump,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+PT_372.txt,Ocidente,Antagonist,Traitor,Antagonist,Antagonist,Corrupt,Corrupt
+PT_316.txt,Amazónia,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_141.txt,Golfo Pérsico,Innocent,Victim,Antagonist,Antagonist,Instigator,Instigator
+PT_251.txt,China,Antagonist,Deceiver,Innocent,Innocent,Forgotten,Forgotten
+PT_164.txt,Japão,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_236.txt,Volodymyr Zelensky,Protagonist,Peacemaker,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_139.txt,Centros de Controlo e Prevenção de Doenças,Protagonist,Guardian,Innocent,Innocent,Exploited,Exploited
+PT_360.txt,Dean Corporation,Antagonist,Conspirator,Antagonist,Antagonist,Terrorist,Terrorist
+PT_315.txt,Brasil,Innocent,Victim,Innocent,Innocent,Victim,Victim
+PT_263.txt,Kiev,Antagonist,Conspirator,Antagonist,Antagonist,Terrorist,Terrorist
+PT_09.txt,NATO,Antagonist,Foreign Adversary,Innocent,Innocent,Exploited,Exploited
+PT_139.txt,Granada Romero Ruiz,Innocent,Victim,Innocent,Innocent,Exploited,Exploited
+PT_243.txt,China,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+PT_198.txt,Al Gore,Protagonist,Virtuous,Innocent,Innocent,Exploited,Exploited
+PT_32.txt,Ucrânia,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_27.txt,Moscovo,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+PT_118.txt,Grécia,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_105.txt,União Europeia,Protagonist,Virtuous,Innocent,Innocent,Exploited,Exploited
+PT_17.txt,Ocidente,Antagonist,Deceiver,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_169.txt,Javier Milei,Antagonist,Instigator,Antagonist,Antagonist,Corrupt,Corrupt
+PT_30.txt,Estados Unidos,Antagonist,Corrupt,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_293.txt,Kiev,Antagonist,Instigator,Antagonist,Antagonist,Terrorist,Terrorist
+PT_365.txt,NATO,Antagonist,Saboteur,Innocent,Innocent,Forgotten,Forgotten
+PT_384.txt,NATO,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_81.txt,Zelensky,Antagonist,Conspirator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_133.txt,Kiev,Antagonist,Instigator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_378.txt,Kiev,Antagonist,Terrorist,Antagonist,Antagonist,Terrorist,Terrorist
+PT_355.txt,Rússia,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_358.txt,Kiev,Antagonist,Conspirator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_319.txt,Pantanal,Innocent,Victim,Innocent,Innocent,Exploited,Exploited
+PT_15.txt,Ocidente,Antagonist,Deceiver,Antagonist,Antagonist,Terrorist,Terrorist
+PT_81.txt,UE,Antagonist,Deceiver,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_03.txt,Polónia,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_119.txt,Estados Unidos da América,Antagonist,Instigator,Innocent,Innocent,Exploited,Exploited
+PT_326.txt,Bengala Ocidental,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_125.txt,Moscovo,Protagonist,Rebel,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_50.txt,Kiev,Innocent,Exploited,Antagonist,Antagonist,Corrupt,Corrupt
+PT_81.txt,ONU,Antagonist,Deceiver,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_05.txt,EUA,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_146.txt,Fiji,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_108.txt,Ucrânia,Innocent,Victim,Antagonist,Antagonist,Corrupt,Corrupt
+PT_292.txt,Ucrânia,Antagonist,"Saboteur, Terrorist",Antagonist,Antagonist,Saboteur,Saboteur
+PT_CC_422.txt,Greta Thunberg,Antagonist,Instigator,Protagonist,Protagonist,Rebel,Rebel
+PT_URW_414.txt,Putin,Protagonist,Peacemaker,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_19.txt,Ekaterina Altabayeva,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_95.txt,Biden,Antagonist,Incompetent,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_258.txt,Moscovo,Protagonist,Rebel,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_378.txt,Casa Pound,Antagonist,Bigot,Antagonist,Antagonist,Terrorist,Terrorist
+PT_19.txt,Ucrânia,Antagonist,Deceiver,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_263.txt,Ucrânia,Antagonist,Terrorist,Antagonist,Antagonist,Terrorist,Terrorist
+PT_362.txt,Exército russo,Protagonist,"Virtuous, Guardian",Antagonist,Antagonist,Terrorist,Terrorist
+PT_19.txt,Donetsk,Antagonist,Terrorist,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_105.txt,Ucrânia,Innocent,Victim,Innocent,Innocent,Exploited,Exploited
+PT_355.txt,EUA,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_169.txt,Javier Milei,Protagonist,Virtuous,Antagonist,Antagonist,Corrupt,Corrupt
+PT_67.txt,Ucrânia,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+PT_298.txt,Ucrânia,Antagonist,Conspirator,Antagonist,Antagonist,Conspirator,Conspirator
+PT_360.txt,Hyperion Services,Antagonist,Conspirator,Antagonist,Antagonist,Terrorist,Terrorist
+PT_35.txt,Vladimir Putin,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_CC_406.txt,Greta Thunberg,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_43.txt,Rússia,Protagonist,Rebel,Innocent,Innocent,Forgotten,Forgotten
+PT_111.txt,Moscovo,Antagonist,Instigator,Innocent,Innocent,Victim,Victim
+PT_394.txt,Valência,Innocent,Victim,Innocent,Innocent,Victim,Victim
+PT_385.txt,NATO,Antagonist,Deceiver,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_08.txt,EUA,Antagonist,Deceiver,Protagonist,Protagonist,Underdog,Underdog
+PT_11.txt,Rússia,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_134.txt,América do Sul,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_183.txt,Última Geração,Antagonist,Instigator,Antagonist,Antagonist,Terrorist,Terrorist
+PT_369.txt,Kiev,Antagonist,"Bigot, Terrorist, Tyrant",Antagonist,Antagonist,Terrorist,Terrorist
+PT_360.txt,Rússia,Protagonist,Guardian,Antagonist,Antagonist,Terrorist,Terrorist
+PT_20.txt,Estados Unidos,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_99.txt,Ucrânia,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+PT_02.txt,Washington,Antagonist,Deceiver,Antagonist,Antagonist,Terrorist,Terrorist
+PT_45.txt,Ocidente,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_143.txt,Climáximo,Protagonist,Virtuous,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_76.txt,Rússia,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+PT_279.txt,EUA,Antagonist,Conspirator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_34.txt,Zelensky,Innocent,Victim,Antagonist,Antagonist,Conspirator,Conspirator
+PT_URW_410.txt,Ocidente,Antagonist,Foreign Adversary,Antagonist,Antagonist,Deceiver,Deceiver
+PT_19.txt,Ucrânia,Antagonist,Deceiver,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_300.txt,Ucrânia,Antagonist,Foreign Adversary,Antagonist,Antagonist,Traitor,Traitor
+PT_35.txt,NATO,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_145.txt,Grécia,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_360.txt,Partido Nacional Democrático da Alemanha,Antagonist,Bigot,Antagonist,Antagonist,Terrorist,Terrorist
+PT_39.txt,Ocidente,Antagonist,Corrupt,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_18.txt,Rússia,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+PT_344.txt,Coreia do Norte,Innocent,Scapegoat,Innocent,Innocent,Victim,Victim
+PT_18.txt,Kiev,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+PT_357.txt,EUA,Antagonist,Conspirator,Innocent,Innocent,Forgotten,Forgotten
+PT_180.txt,ONU,Antagonist,Corrupt,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_33.txt,Forças Armadas da Ucrânia,Antagonist,Terrorist,Antagonist,Antagonist,Terrorist,Terrorist
+PT_383.txt,NATO,Antagonist,Conspirator,Innocent,Innocent,Forgotten,Forgotten
+PT_243.txt,Rússia,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+PT_298.txt,Estados Unidos,Protagonist,Peacemaker,Antagonist,Antagonist,Conspirator,Conspirator
+PT_19.txt,Rússia,Protagonist,Virtuous,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_349.txt,Europa,Antagonist,Deceiver,Antagonist,Antagonist,Corrupt,Corrupt
+PT_293.txt,Rússia,Antagonist,Foreign Adversary,Antagonist,Antagonist,Terrorist,Terrorist
+PT_135.txt,Rússia,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_127.txt,Hungria,Innocent,Victim,Protagonist,Protagonist,Guardian,Guardian
+PT_36.txt,Moscovo,Protagonist,Peacemaker,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_263.txt,Ocidente,Antagonist,Foreign Adversary,Antagonist,Antagonist,Terrorist,Terrorist
+PT_62.txt,Manuel Pires da Rocha,Protagonist,Virtuous,Antagonist,Antagonist,Spy,Spy
+PT_168.txt,Climáximo,Protagonist,Rebel,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_39.txt,Ocidente,Antagonist,Deceiver,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_329.txt,Derna,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_355.txt,Kiev,Antagonist,Tyrant,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_316.txt,Rio Grande do Sul,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_06.txt,Ucrânia,Antagonist,Terrorist,Antagonist,Antagonist,Terrorist,Terrorist
+PT_03.txt,EUA,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_288.txt,Rússia,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_311.txt,Samoa,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_378.txt,Portugal Hammerskins,Antagonist,Bigot,Antagonist,Antagonist,Terrorist,Terrorist
+PT_07.txt,A Organização do Tratado do Atlântico Norte,Antagonist,"Instigator, Foreign Adversary",Antagonist,Antagonist,Saboteur,Saboteur
+PT_372.txt,Rússia,Innocent,Victim,Antagonist,Antagonist,Corrupt,Corrupt
+PT_379.txt,E. Petrov,Antagonist,Terrorist,Antagonist,Antagonist,Traitor,Traitor
+PT_340.txt,Kiev,Antagonist,Conspirator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_07.txt,Kiev,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+PT_345.txt,Kiev,Antagonist,Deceiver,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_133.txt,Zelensky,Antagonist,"Saboteur, Instigator",Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_28.txt,Washington,Antagonist,Corrupt,Innocent,Innocent,Exploited,Exploited
+PT_89.txt,Rússia,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_102.txt,Vyacheslav Zinchenko,Antagonist,Terrorist,Innocent,Innocent,Victim,Victim
+PT_173.txt,Marina Silva,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_04.txt,SBU,Antagonist,Deceiver,Antagonist,Antagonist,Terrorist,Terrorist
+PT_62.txt,Manuel Pires da Rocha,Innocent,Scapegoat,Antagonist,Antagonist,Spy,Spy
+PT_118.txt,Berlim,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_164.txt,Islândia,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_130.txt,Ucrânia,Antagonist,Instigator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_68.txt,Moscovo,Protagonist,Virtuous,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_296.txt,Kiev,Antagonist,"Instigator, Foreign Adversary",Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_17.txt,Boris Johnson,Antagonist,Incompetent,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_120.txt,Mikhail Sheremet,Protagonist,Virtuous,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_67.txt,Ocidente,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+PT_76.txt,Kharkiv,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_316.txt,Caatinga,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_317.txt,Amazónia,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_354.txt,União Europeia,Antagonist,"Conspirator, Foreign Adversary",Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_375.txt,Rússia,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+PT_187.txt,Rio Grande do Sul,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_03.txt,Kiev,Antagonist,"Foreign Adversary, Corrupt",Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_115.txt,Ursula von der Leyen,Protagonist,Virtuous,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_54.txt,Rússia,Innocent,Victim,Innocent,Innocent,Victim,Victim
+PT_32.txt,Rússia,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_122.txt,Adolf Hitler,Antagonist,Tyrant,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_04.txt,Kiev,Antagonist,Deceiver,Antagonist,Antagonist,Terrorist,Terrorist
+PT_112.txt,Rússia,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_30.txt,Washington,Antagonist,Corrupt,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_356.txt,Vladimir Putin,Protagonist,Guardian,Innocent,Innocent,Exploited,Exploited
+PT_372.txt,Rússia,Protagonist,Virtuous,Antagonist,Antagonist,Corrupt,Corrupt
+PT_113.txt,Ucrânia,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_CC_404.txt,Amazónia,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_284.txt,Patrick Pouyanné,Antagonist,Corrupt,Innocent,Innocent,Exploited,Exploited
+PT_101.txt,Guterres,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+PT_12.txt,Kiev,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_103.txt,Wang,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+PT_06.txt,Vasily Malyuk,Antagonist,Terrorist,Antagonist,Antagonist,Terrorist,Terrorist
+PT_150.txt,Grécia,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_55.txt,Tom Southerden,Protagonist,Virtuous,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_104.txt,Viktor Orban,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+PT_212.txt,Exército,Protagonist,Guardian,Innocent,Innocent,Victim,Victim
+PT_123.txt,Zelensky,Antagonist,"Foreign Adversary, Tyrant",Antagonist,Antagonist,Tyrant,Tyrant
+PT_53.txt,John F. Clauser,Protagonist,Guardian,Antagonist,Antagonist,Corrupt,Corrupt
+PT_06.txt,Washington,Antagonist,Deceiver,Antagonist,Antagonist,Terrorist,Terrorist
+PT_175.txt,Lufthansa,Innocent,Victim,Innocent,Innocent,Exploited,Exploited
+PT_28.txt,República Popular de Donetsk,Innocent,Victim,Innocent,Innocent,Exploited,Exploited
+PT_120.txt,Ocidente,Antagonist,Corrupt,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_28.txt,Ocidente,Antagonist,Corrupt,Innocent,Innocent,Exploited,Exploited
+PT_07.txt,NATO,Antagonist,Instigator,Antagonist,Antagonist,Saboteur,Saboteur
+PT_30.txt,Ucrânia,Innocent,Exploited,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_116.txt,China,Protagonist,Peacemaker,Antagonist,Antagonist,Terrorist,Terrorist
+PT_292.txt,Volodymyr Zelensky,Antagonist,Terrorist,Antagonist,Antagonist,Saboteur,Saboteur
+PT_341.txt,Ocidente,Antagonist,Incompetent,Antagonist,Antagonist,Terrorist,Terrorist
+PT_113.txt,Rússia,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+PT_360.txt,Academi,Antagonist,Conspirator,Antagonist,Antagonist,Terrorist,Terrorist
+PT_248.txt,Kharkiv,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_299.txt,Kiev,Antagonist,Terrorist,Antagonist,Antagonist,Terrorist,Terrorist
+PT_133.txt,Comissão Europeia,Antagonist,"Conspirator, Tyrant",Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_124.txt,Kiev,Protagonist,Virtuous,Innocent,Innocent,Victim,Victim
+PT_130.txt,Ucrânia,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_115.txt,União Europeia,Protagonist,Virtuous,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_291.txt,Ucrânia,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+PT_299.txt,Maria Zakharova,Protagonist,Guardian,Antagonist,Antagonist,Terrorist,Terrorist
+PT_248.txt,Toretsk,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_70.txt,Dmytro Kuleba,Protagonist,Peacemaker,Antagonist,Antagonist,Tyrant,Tyrant
+PT_161.txt,IPMA,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+PT_149.txt,Duarte Cordeiro,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_313.txt,Golfo Pérsico,Innocent,Victim,Antagonist,Antagonist,Instigator,Instigator
+PT_URW_414.txt,Ocidente,Antagonist,Instigator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_06.txt,Kirill Budanov,Antagonist,Terrorist,Antagonist,Antagonist,Terrorist,Terrorist
+PT_87.txt,NATO,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+PT_212.txt,Guarda Municipal,Protagonist,Guardian,Innocent,Innocent,Victim,Victim
+PT_147.txt,Agnès Callamard,Protagonist,Virtuous,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_344.txt,Mark Rutte,Protagonist,Guardian,Innocent,Innocent,Victim,Victim
+PT_123.txt,Rússia,Protagonist,Peacemaker,Antagonist,Antagonist,Tyrant,Tyrant
+PT_360.txt,ASBS Othago,Antagonist,Conspirator,Antagonist,Antagonist,Terrorist,Terrorist
+PT_140.txt,Mediterrâneo,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_27.txt,Putin,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+PT_37.txt,NATO,Antagonist,Foreign Adversary,Innocent,Innocent,Victim,Victim
+PT_23.txt,Ucrânia,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+PT_69.txt,Rússia,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_108.txt,Ocidente,Antagonist,Instigator,Antagonist,Antagonist,Corrupt,Corrupt
+PT_10.txt,Presidente Vladimir Putin,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_284.txt,Edina Ifticene,Protagonist,Guardian,Innocent,Innocent,Exploited,Exploited
+PT_150.txt,Sifnos,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_246.txt,NATO,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_15.txt,Ucrânia,Antagonist,Foreign Adversary,Antagonist,Antagonist,Terrorist,Terrorist
+PT_227.txt,Kiev,Antagonist,Foreign Adversary,Antagonist,Antagonist,Traitor,Traitor
+PT_194.txt,Congresso,Antagonist,Corrupt,Antagonist,Antagonist,Tyrant,Tyrant
+PT_258.txt,Rússia,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_266.txt,UE,Antagonist,Bigot,Antagonist,Antagonist,Saboteur,Saboteur
+PT_300.txt,Ministério da Defesa,Protagonist,Guardian,Antagonist,Antagonist,Traitor,Traitor
+PT_247.txt,Ucrânia,Innocent,Victim,Innocent,Innocent,Victim,Victim
+PT_287.txt,Ministério da Defesa russo,Protagonist,Guardian,Antagonist,Antagonist,Traitor,Traitor
+PT_150.txt,Creta,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_76.txt,Dmitry Peskov,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+PT_158.txt,Carlos Cortes,Protagonist,Virtuous,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_29.txt,NATO,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_22.txt,Dinamarca,Antagonist,Deceiver,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_64.txt,Rússia,Protagonist,Rebel,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_18.txt,Vladimir Zelensky,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+PT_32.txt,Vladimir Putin,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_124.txt,Rússia,Antagonist,"Foreign Adversary, Deceiver",Innocent,Innocent,Victim,Victim
+PT_271.txt,Joe Biden,Antagonist,Incompetent,Antagonist,Antagonist,Terrorist,Terrorist
+PT_339.txt,Afeganistão,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_372.txt,EUA,Antagonist,Traitor,Antagonist,Antagonist,Corrupt,Corrupt
+PT_70.txt,Ucrânia,Protagonist,Peacemaker,Antagonist,Antagonist,Tyrant,Tyrant
+PT_170.txt,Nordeste,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_05.txt,Kremlin,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_374.txt,Putin,Protagonist,Rebel,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_33.txt,Kiev,Antagonist,Corrupt,Antagonist,Antagonist,Terrorist,Terrorist
+PT_293.txt,Casa Branca,Protagonist,Guardian,Antagonist,Antagonist,Terrorist,Terrorist
+PT_268.txt,Ucrânia,Antagonist,Incompetent,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_379.txt,D. Pavlovsky,Antagonist,Terrorist,Antagonist,Antagonist,Traitor,Traitor
+PT_98.txt,Ucrânia,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_04.txt,Kiev,Antagonist,Incompetent,Antagonist,Antagonist,Terrorist,Terrorist
+PT_328.txt,Equador,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_356.txt,Rússia,Protagonist,Peacemaker,Innocent,Innocent,Exploited,Exploited
+PT_317.txt,Rondónia,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_120.txt,Roménia,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_168.txt,Governos,Antagonist,Corrupt,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_73.txt,Kiev,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_URW_410.txt,Kiev,Antagonist,Conspirator,Antagonist,Antagonist,Deceiver,Deceiver
+PT_URW_419.txt,Vladimir Putin,Protagonist,Peacemaker,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_34.txt,Chuck Schumer,Protagonist,Guardian,Antagonist,Antagonist,Conspirator,Conspirator
+PT_260.txt,Volodymyr Zelensky,Antagonist,Saboteur,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_292.txt,Ucrânia,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+PT_279.txt,Kiev,Antagonist,Instigator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_196.txt,Greenpeace Brasil,Protagonist,Rebel,Protagonist,Protagonist,Virtuous,Virtuous
+PT_293.txt,Ministério da Defesa,Protagonist,Guardian,Antagonist,Antagonist,Terrorist,Terrorist
+PT_36.txt,Rússia,Protagonist,Peacemaker,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_133.txt,Comissão Europeia,Antagonist,"Incompetent, Traitor",Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_344.txt,Kursk,Innocent,Victim,Innocent,Innocent,Victim,Victim
+PT_166.txt,José Manuel Fernandes,Protagonist,Virtuous,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_120.txt,Zelensky,Antagonist,Instigator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_15.txt,Ministério dos Negócios Estrangeiros,Protagonist,Virtuous,Antagonist,Antagonist,Terrorist,Terrorist
+PT_67.txt,Rússia,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+PT_121.txt,Ucrânia,Antagonist,Foreign Adversary,Innocent,Innocent,Victim,Victim
+PT_174.txt,Marina Silva,Antagonist,Deceiver,Antagonist,Antagonist,Corrupt,Corrupt
+PT_36.txt,Pequim,Protagonist,Peacemaker,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_317.txt,Rondónia,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_16.txt,Robert Kalinak,Protagonist,Virtuous,Innocent,Innocent,Victim,Victim
+PT_379.txt,E. Ermolenko,Antagonist,Terrorist,Antagonist,Antagonist,Traitor,Traitor
+PT_361.txt,Kiev,Antagonist,Incompetent,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_377.txt,Rússia,Innocent,Forgotten,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_157.txt,Europa,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_72.txt,EUA,Protagonist,Peacemaker,Innocent,Innocent,Exploited,Exploited
+PT_378.txt,Terceira Via Alemã,Antagonist,Bigot,Antagonist,Antagonist,Terrorist,Terrorist
+PT_238.txt,Estados Unidos,Antagonist,Foreign Adversary,Antagonist,Antagonist,Tyrant,Tyrant
+PT_174.txt,Amazónia,Innocent,Victim,Antagonist,Antagonist,Corrupt,Corrupt
+PT_67.txt,Rússia,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_388.txt,António Costa,Antagonist,Incompetent,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_302.txt,Kursk,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_100.txt,Mar Vermelho,Innocent,Victim,Innocent,Innocent,Exploited,Exploited
+PT_184.txt,Rio Grande do Sul,Innocent,Victim,Protagonist,Protagonist,Underdog,Underdog
+PT_72.txt,Rússia,Protagonist,Peacemaker,Innocent,Innocent,Exploited,Exploited
+PT_189.txt,Raoni Metuktire,Protagonist,"Virtuous, Guardian",Innocent,Innocent,Exploited,Exploited
+PT_358.txt,Rússia,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_20.txt,Kiev,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_141.txt,Missouri,Innocent,Victim,Antagonist,Antagonist,Instigator,Instigator
+PT_257.txt,Kiev,Antagonist,Instigator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_71.txt,Volodymyr Zelensky,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+PT_15.txt,Kiev,Antagonist,Terrorist,Antagonist,Antagonist,Terrorist,Terrorist
+PT_311.txt,Fiji,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_93.txt,Dmitri Peskov,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_333.txt,Instituto do Ambiente e da Segurança Humana da Universidade das Nações Unidas,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+PT_141.txt,Mar Vermelho,Innocent,Victim,Antagonist,Antagonist,Instigator,Instigator
+PT_33.txt,EUA,Antagonist,Corrupt,Antagonist,Antagonist,Terrorist,Terrorist
+PT_150.txt,Feloni,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_351.txt,Marina Silva,Protagonist,Guardian,Innocent,Innocent,Victim,Victim
+PT_CC_429.txt,Rick Perry,Antagonist,Incompetent,Antagonist,Antagonist,Incompetent,Incompetent
+PT_258.txt,NATO,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_27.txt,Ocidente,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+PT_28.txt,Rússia,Innocent,Victim,Innocent,Innocent,Exploited,Exploited
+PT_12.txt,Zelensky,Antagonist,Incompetent,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_99.txt,Dmitry Medvedev,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+PT_318.txt,Canadá,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_108.txt,Volodymyr Zelenskiy,Antagonist,Tyrant,Antagonist,Antagonist,Corrupt,Corrupt
+PT_403.txt,Amazónia,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_227.txt,Ministério da Defesa,Protagonist,Guardian,Antagonist,Antagonist,Traitor,Traitor
+PT_360.txt,Donetsk,Innocent,Victim,Antagonist,Antagonist,Terrorist,Terrorist
+PT_379.txt,S. K. Mikael,Antagonist,Terrorist,Antagonist,Antagonist,Traitor,Traitor
+PT_242.txt,COI,Antagonist,Saboteur,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_368.txt,Viktor Orbán,Protagonist,Peacemaker,Antagonist,Antagonist,Conspirator,Conspirator
+PT_64.txt,Kyiv,Protagonist,Virtuous,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_266.txt,Kursk,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+PT_95.txt,Lavrov,Protagonist,Peacemaker,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_77.txt,António Tânger,Antagonist,Incompetent,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_96.txt,Rússia,Protagonist,Peacemaker,Antagonist,Antagonist,Tyrant,Tyrant
+PT_403.txt,Terra,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_18.txt,Moscovo,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+PT_378.txt,Frente Nacional,Antagonist,Bigot,Antagonist,Antagonist,Terrorist,Terrorist
+PT_92.txt,Estados Unidos da América,Antagonist,Foreign Adversary,Innocent,Innocent,Exploited,Exploited
+PT_279.txt,Washington,Antagonist,Conspirator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_44.txt,Kiev,Antagonist,Tyrant,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_231.txt,Monte Parnitha,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_98.txt,Vladimir Putin,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+PT_141.txt,Arkansas,Innocent,Victim,Antagonist,Antagonist,Instigator,Instigator
+PT_276.txt,Corpo de Voluntários Russos,Antagonist,Terrorist,Protagonist,Protagonist,Guardian,Guardian
+PT_28.txt,Vladimir Zelensky,Antagonist,Corrupt,Innocent,Innocent,Exploited,Exploited
+PT_36.txt,EUA,Antagonist,Instigator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_188.txt,Brasil,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_132.txt,Tuapse,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_118.txt,Brasil,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_105.txt,Rússia,Antagonist,Foreign Adversary,Innocent,Innocent,Exploited,Exploited
+PT_280.txt,Kiev,Antagonist,Conspirator,Innocent,Innocent,Exploited,Exploited
+PT_273.txt,Rússia,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_CC_415.txt,Donald Trump,Antagonist,Deceiver,Innocent,Innocent,Forgotten,Forgotten
+PT_108.txt,Kiev,Antagonist,Instigator,Antagonist,Antagonist,Corrupt,Corrupt
+PT_120.txt,Rússia,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_111.txt,Frédérique,Innocent,Victim,Innocent,Innocent,Victim,Victim
+PT_354.txt,Lugansk,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_115.txt,Dmitry Peskov,Protagonist,Virtuous,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_49.txt,Stoltenberg,Antagonist,Instigator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_392.txt,Lula,Protagonist,Virtuous,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_107.txt,Moscovo,Antagonist,Saboteur,Antagonist,Antagonist,Terrorist,Terrorist
+PT_128.txt,Zelensky,Antagonist,"Saboteur, Incompetent",Protagonist,Protagonist,Underdog,Underdog
+PT_132.txt,Krasnodar,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_189.txt,Amazónia,Innocent,Victim,Innocent,Innocent,Exploited,Exploited
+PT_247.txt,Ursula von der Leyen,Protagonist,Virtuous,Innocent,Innocent,Victim,Victim
+PT_379.txt,D. K. F. Patrick,Antagonist,Terrorist,Antagonist,Antagonist,Traitor,Traitor
+PT_02.txt,EUA,Antagonist,"Foreign Adversary, Deceiver",Antagonist,Antagonist,Terrorist,Terrorist
+PT_383.txt,Rússia,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_25.txt,Rússia,Protagonist,Peacemaker,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_355.txt,Rheinmetall,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_08.txt,Ocidente,Antagonist,Instigator,Protagonist,Protagonist,Underdog,Underdog
+PT_105.txt,União Europeia,Antagonist,Instigator,Innocent,Innocent,Exploited,Exploited
+PT_133.txt,Kiev,Antagonist,"Corrupt, Tyrant",Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_127.txt,Viktor Orbán,Protagonist,Peacemaker,Protagonist,Protagonist,Guardian,Guardian
+PT_113.txt,Putin,Antagonist,Tyrant,Innocent,Innocent,Forgotten,Forgotten
+PT_137.txt,Donald Trump,Antagonist,Incompetent,Protagonist,Protagonist,Rebel,Rebel
+PT_384.txt,NATO,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_192.txt,Manaus,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_364.txt,Moscovo,Protagonist,Peacemaker,Antagonist,Antagonist,Terrorist,Terrorist
+PT_145.txt,Kos,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_URW_414.txt,Ucrânia,Antagonist,Instigator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_188.txt,Pantanal,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_40.txt,NATO,Antagonist,Foreign Adversary,Antagonist,Antagonist,Traitor,Traitor
+PT_27.txt,EUA,Antagonist,Deceiver,Innocent,Innocent,Forgotten,Forgotten
+PT_264.txt,Federação Russa,Innocent,Victim,Innocent,Innocent,Victim,Victim
+PT_366.txt,Kiev,Antagonist,Tyrant,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_349.txt,Estados Unidos da América,Antagonist,Deceiver,Antagonist,Antagonist,Corrupt,Corrupt
+PT_303.txt,António Guterres,Protagonist,Guardian,Antagonist,Antagonist,Traitor,Traitor
+PT_252.txt,Thomas Matthew Crooks,Antagonist,Terrorist,Innocent,Innocent,Forgotten,Forgotten
+PT_378.txt,Resistência Nacional,Antagonist,Bigot,Antagonist,Antagonist,Terrorist,Terrorist
+PT_12.txt,Serviço de Segurança da Ucrânia,Antagonist,Conspirator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_27.txt,Ocidente,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+PT_06.txt,Rússia,Innocent,Victim,Antagonist,Antagonist,Terrorist,Terrorist
+PT_196.txt,Engajamundo,Protagonist,Rebel,Protagonist,Protagonist,Virtuous,Virtuous
+PT_20.txt,NATO,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_261.txt,Ocidente,Antagonist,Foreign Adversary,Antagonist,Antagonist,Terrorist,Terrorist
+PT_357.txt,Kiev,Antagonist,"Incompetent, Foreign Adversary",Innocent,Innocent,Forgotten,Forgotten
+PT_29.txt,Estados Unidos,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_07.txt,Rússia,Innocent,Victim,Antagonist,Antagonist,Saboteur,Saboteur
+PT_301.txt,Francisco,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_18.txt,Putin,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+PT_44.txt,Ucrânia,Antagonist,Tyrant,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_120.txt,Rússia,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_21.txt,Olaf Scholz,Protagonist,Peacemaker,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_120.txt,Kiev,Antagonist,Instigator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_137.txt,Trump,Antagonist,Bigot,Protagonist,Protagonist,Rebel,Rebel
+PT_287.txt,Kiev,Antagonist,"Instigator, Corrupt",Antagonist,Antagonist,Traitor,Traitor
+PT_248.txt,Ucrânia,Protagonist,Underdog,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_130.txt,Kiev,Antagonist,Instigator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_CC_426.txt,Greta Thunberg,Antagonist,"Incompetent, Deceiver",Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_37.txt,NATO,Antagonist,Foreign Adversary,Innocent,Innocent,Victim,Victim
+PT_174.txt,Greenpeace Brasil,Protagonist,Guardian,Antagonist,Antagonist,Corrupt,Corrupt
+PT_384.txt,Kiev,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_23.txt,Organização do Tratado do Atlântico Norte,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+PT_168.txt,Navigator,Antagonist,Corrupt,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_280.txt,Ucrânia,Antagonist,Instigator,Innocent,Innocent,Exploited,Exploited
+PT_378.txt,Ucrânia,Antagonist,Terrorist,Antagonist,Antagonist,Terrorist,Terrorist
+PT_22.txt,Rússia,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_116.txt,Brasil,Protagonist,Peacemaker,Antagonist,Antagonist,Terrorist,Terrorist
+PT_255.txt,Volodimir Zelenski,Antagonist,Bigot,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_122.txt,Napoleão Bonaparte,Antagonist,Tyrant,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_146.txt,Tóquio,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_06.txt,Estados Unidos,Antagonist,Deceiver,Antagonist,Antagonist,Terrorist,Terrorist
+PT_380.txt,Batalhão Azov,Antagonist,"Bigot, Terrorist",Antagonist,Antagonist,Terrorist,Terrorist
+PT_115.txt,Kremlin,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_123.txt,Kiev,Antagonist,Instigator,Antagonist,Antagonist,Tyrant,Tyrant
+PT_08.txt,França,Antagonist,Corrupt,Protagonist,Protagonist,Underdog,Underdog
+PT_118.txt,Itália,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_363.txt,NATO,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_127.txt,Kyiv,Protagonist,Virtuous,Protagonist,Protagonist,Guardian,Guardian
+PT_353.txt,Lugansk,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_332.txt,Hamilton Mourão,Protagonist,Guardian,Antagonist,Antagonist,Corrupt,Corrupt
+PT_116.txt,Ucrânia,Antagonist,Instigator,Antagonist,Antagonist,Terrorist,Terrorist
+PT_129.txt,Organização do Tratado do Atlântico Norte,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_283.txt,Putin,Antagonist,Saboteur,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_136.txt,Estados Unidos,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_360.txt,Donetsk,Innocent,Victim,Antagonist,Antagonist,Terrorist,Terrorist
+PT_118.txt,Sevilha,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_99.txt,Organização do Tratado do Atlântico Norte,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+PT_20.txt,Moscovo,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_297.txt,Rússia,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+PT_113.txt,Estados Unidos,Antagonist,"Instigator, Foreign Adversary",Innocent,Innocent,Forgotten,Forgotten
+PT_275.txt,Valeri Gerasimov,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+PT_283.txt,Kremlin,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_120.txt,NATO,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_353.txt,Rússia,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_266.txt,Portugal,Antagonist,Bigot,Antagonist,Antagonist,Saboteur,Saboteur
+PT_247.txt,Michel,Protagonist,Guardian,Innocent,Innocent,Victim,Victim
+PT_193.txt,Ari Uru-Eu-Wau-Wau,Protagonist,Martyr,Protagonist,Protagonist,Guardian,Guardian
+PT_08.txt,Europa,Antagonist,Corrupt,Protagonist,Protagonist,Underdog,Underdog
+PT_05.txt,Ucrânia,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_363.txt,Rússia,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_16.txt,Ucrânia,Antagonist,Foreign Adversary,Innocent,Innocent,Victim,Victim
+PT_303.txt,ONU,Innocent,Victim,Antagonist,Antagonist,Traitor,Traitor
+PT_342.txt,Ocidente,Antagonist,Instigator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_328.txt,Colômbia,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_88.txt,Moscovo,Antagonist,Foreign Adversary,Innocent,Innocent,Victim,Victim
+PT_126.txt,Iliá,Antagonist,"Conspirator, Terrorist",Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_129.txt,Rússia,Protagonist,Peacemaker,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_108.txt,Moscovo,Protagonist,Virtuous,Antagonist,Antagonist,Corrupt,Corrupt
+PT_369.txt,Rússia,Innocent,Victim,Antagonist,Antagonist,Terrorist,Terrorist
+PT_111.txt,Leonid Kharchenko,Antagonist,Terrorist,Innocent,Innocent,Victim,Victim
+PT_06.txt,Moscovo,Innocent,Victim,Antagonist,Antagonist,Terrorist,Terrorist
+PT_71.txt,Ocidente,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+PT_18.txt,Organização do Tratado do Atlântico Norte (NATO,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+PT_299.txt,Ucrânia,Antagonist,Foreign Adversary,Antagonist,Antagonist,Terrorist,Terrorist
+PT_130.txt,Comissão Europeia,Protagonist,Peacemaker,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_291.txt,Alexei Smirnov,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+PT_28.txt,Ucrânia,Antagonist,Corrupt,Innocent,Innocent,Exploited,Exploited
+PT_184.txt,Rio Grande do Sul,Innocent,Victim,Protagonist,Protagonist,Underdog,Underdog
+PT_51.txt,Ilan Kelman,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_53.txt,Ivar Giaever,Protagonist,Guardian,Antagonist,Antagonist,Corrupt,Corrupt
+PT_119.txt,Serguei Riabkov,Protagonist,Guardian,Innocent,Innocent,Exploited,Exploited
+PT_298.txt,Belousov,Innocent,Victim,Antagonist,Antagonist,Conspirator,Conspirator
+PT_197.txt,Lula,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+PT_164.txt,Noruega,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_243.txt,Kiev,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+PT_247.txt,Donald Trump,Protagonist,Peacemaker,Innocent,Innocent,Victim,Victim
+PT_366.txt,Moscovo,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_URW_414.txt,Ucrânia,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_129.txt,Vladimir Putin,Protagonist,Peacemaker,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_134.txt,Ásia,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_145.txt,Chios,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_313.txt,Paquistão,Innocent,Victim,Antagonist,Antagonist,Instigator,Instigator
+PT_299.txt,Ucrânia,Antagonist,Instigator,Antagonist,Antagonist,Terrorist,Terrorist
+PT_331.txt,Amazónia,Innocent,Exploited,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_188.txt,Cerrado,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_34.txt,Sergei Lavrov,Protagonist,Guardian,Antagonist,Antagonist,Conspirator,Conspirator
+PT_360.txt,Academia Europeia de Segurança,Antagonist,Conspirator,Antagonist,Antagonist,Terrorist,Terrorist
+PT_06.txt,O Departamento de Estado dos EUA,Antagonist,Deceiver,Antagonist,Antagonist,Terrorist,Terrorist
+PT_157.txt,Estados Unidos,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_252.txt,Rússia,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+PT_360.txt,Terceira Via,Antagonist,Bigot,Antagonist,Antagonist,Terrorist,Terrorist
+PT_44.txt,Musk,Protagonist,Peacemaker,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_127.txt,Eslováquia,Innocent,Victim,Protagonist,Protagonist,Guardian,Guardian
+PT_140.txt,Rússia,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_168.txt,Alice Gato,Protagonist,Rebel,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_243.txt,Moscovo,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+PT_30.txt,Rússia,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_96.txt,Zelensky,Antagonist,Incompetent,Antagonist,Antagonist,Tyrant,Tyrant
+PT_127.txt,Volodymyr Zelensky,Protagonist,"Virtuous, Guardian",Protagonist,Protagonist,Guardian,Guardian
+PT_CC_423.txt,Trump,Antagonist,Incompetent,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_379.txt,Comissão de Investigação,Protagonist,Guardian,Antagonist,Antagonist,Traitor,Traitor
+PT_109.txt,Estados Unidos,Antagonist,Instigator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_140.txt,Ártico,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_152.txt,Climáximo,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+PT_238.txt,Israel,Antagonist,Foreign Adversary,Antagonist,Antagonist,Tyrant,Tyrant
+PT_75.txt,Moscovo,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_243.txt,China,Protagonist,Rebel,Innocent,Innocent,Forgotten,Forgotten
+PT_100.txt,Brasil,Innocent,Victim,Innocent,Innocent,Exploited,Exploited
+PT_28.txt,Kiev,Antagonist,Corrupt,Innocent,Innocent,Exploited,Exploited
+PT_82.txt,Mário Machado,Antagonist,Terrorist,Innocent,Innocent,Victim,Victim
+PT_127.txt,Comissão Europeia,Protagonist,Peacemaker,Protagonist,Protagonist,Guardian,Guardian
+PT_112.txt,NATO,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+PT_07.txt,Reino Unido,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+PT_07.txt,EUA,Antagonist,Instigator,Antagonist,Antagonist,Saboteur,Saboteur
+PT_130.txt,Viktor Orbán,Protagonist,Peacemaker,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_40.txt,Forças Armadas da Ucrânia,Antagonist,Foreign Adversary,Antagonist,Antagonist,Traitor,Traitor
+PT_246.txt,Kiev,Protagonist,Underdog,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_27.txt,União Europeia,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+PT_243.txt,Rússia,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_84.txt,Volodymyr Zelensky,Protagonist,Peacemaker,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_267.txt,Rússia,Protagonist,Virtuous,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_373.txt,Konstantinov,Protagonist,Guardian,Innocent,Innocent,Exploited,Exploited
+PT_279.txt,NATO,Antagonist,Conspirator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_131.txt,Volodymyr Zelensky,Antagonist,Foreign Adversary,Protagonist,Protagonist,Peacemaker,Peacemaker
+PT_55.txt,Amnistia Internacional,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_315.txt,Rio Grande do Sul,Innocent,Victim,Innocent,Innocent,Victim,Victim
+PT_372.txt,EUA,Antagonist,"Instigator, Foreign Adversary",Antagonist,Antagonist,Corrupt,Corrupt
+PT_14.txt,Rússia,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_02.txt,EUA,Antagonist,Conspirator,Antagonist,Antagonist,Terrorist,Terrorist
+PT_54.txt,Ocidente,Antagonist,Deceiver,Innocent,Innocent,Victim,Victim
+PT_37.txt,Ucrânia,Antagonist,Foreign Adversary,Innocent,Innocent,Victim,Victim
+PT_283.txt,Rússia,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_261.txt,Estados Unidos,Antagonist,Conspirator,Antagonist,Antagonist,Terrorist,Terrorist
+PT_85.txt,Kiev,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+PT_133.txt,Rússia,Protagonist,Underdog,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_196.txt,Jaciara Borari,Protagonist,"Rebel, Virtuous",Protagonist,Protagonist,Virtuous,Virtuous
+PT_36.txt,China,Protagonist,Peacemaker,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_152.txt,Noah Zino,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+PT_382.txt,EUA,Antagonist,Instigator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_27.txt,Zelensky,Antagonist,Saboteur,Innocent,Innocent,Forgotten,Forgotten
+PT_284.txt,TotalEnergies,Antagonist,Corrupt,Innocent,Innocent,Exploited,Exploited
+PT_108.txt,Kremlin,Protagonist,Peacemaker,Antagonist,Antagonist,Corrupt,Corrupt
+PT_25.txt,EUA,Antagonist,Instigator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_379.txt,R. Burduli,Antagonist,Terrorist,Antagonist,Antagonist,Traitor,Traitor
+PT_251.txt,Dmytro Kuleba,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+PT_273.txt,Ucrânia,Antagonist,Incompetent,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_133.txt,Andrei Nastasin,Protagonist,Virtuous,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_371.txt,União Europeia,Antagonist,Tyrant,Protagonist,Protagonist,Underdog,Underdog
+PT_354.txt,Rússia,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_77.txt,Presidente Zelensky,Antagonist,Instigator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_300.txt,Kiev,Antagonist,"Conspirator, Foreign Adversary",Antagonist,Antagonist,Traitor,Traitor
+PT_30.txt,NATO,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_133.txt,Ocidente,Antagonist,Conspirator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_182.txt,Ahmed al Jaber,Antagonist,Saboteur,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_380.txt,Rússia,Antagonist,Tyrant,Antagonist,Antagonist,Terrorist,Terrorist
+PT_96.txt,Peskov,Protagonist,Guardian,Antagonist,Antagonist,Tyrant,Tyrant
+PT_06.txt,Daesh,Innocent,Scapegoat,Antagonist,Antagonist,Terrorist,Terrorist
+PT_51.txt,Europa,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_70.txt,Rússia,Protagonist,Peacemaker,Antagonist,Antagonist,Tyrant,Tyrant
+PT_121.txt,Federação da Rússia,Innocent,Victim,Innocent,Innocent,Victim,Victim
+PT_116.txt,Amorim,Protagonist,Peacemaker,Antagonist,Antagonist,Terrorist,Terrorist
+PT_108.txt,Dmitry Peskov,Protagonist,Virtuous,Antagonist,Antagonist,Corrupt,Corrupt
+PT_119.txt,NATO,Antagonist,Foreign Adversary,Innocent,Innocent,Exploited,Exploited
+PT_130.txt,Hungria,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_64.txt,Zaporijia,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_167.txt,António Guterres,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+PT_07.txt,Bruxelas,Antagonist,"Conspirator, Foreign Adversary",Antagonist,Antagonist,Saboteur,Saboteur
+PT_04.txt,Ucrânia,Antagonist,Deceiver,Antagonist,Antagonist,Terrorist,Terrorist
+PT_353.txt,Rússia,Protagonist,Peacemaker,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_373.txt,Zelensky,Antagonist,Tyrant,Innocent,Innocent,Exploited,Exploited
+PT_18.txt,Ministério dos Negócios Estrangeiros,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+PT_134.txt,África,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_164.txt,Paul Watson,Protagonist,Martyr,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_131.txt,Rússia,Protagonist,Peacemaker,Protagonist,Protagonist,Peacemaker,Peacemaker
+PT_352..txt,Exército ucraniano,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_177.txt,Mayara,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+PT_318.txt,Amazónia,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_102.txt,Irina Farion,Innocent,Victim,Innocent,Innocent,Victim,Victim
+PT_112.txt,Estados Unidos,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+PT_349.txt,Ocidente,Antagonist,Deceiver,Antagonist,Antagonist,Corrupt,Corrupt
+PT_37.txt,Rússia,Protagonist,Guardian,Innocent,Innocent,Victim,Victim
+PT_65.txt,Ucrânia,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_189.txt,Brasil,Innocent,Victim,Innocent,Innocent,Exploited,Exploited
+PT_174.txt,Lula,Antagonist,Corrupt,Antagonist,Antagonist,Corrupt,Corrupt
+PT_378.txt,Alemanha,Antagonist,Bigot,Antagonist,Antagonist,Terrorist,Terrorist
+PT_85.txt,Vyacheslav Gladkov,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+PT_URW_420.txt,Moscovo,Protagonist,Peacemaker,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_18.txt,Ocidente,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+PT_34.txt,Ucrânia,Innocent,Victim,Antagonist,Antagonist,Conspirator,Conspirator
+PT_84.txt,Rússia,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_283.txt,Rosatom,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_29.txt,Kiev,Antagonist,Tyrant,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_185.txt,Rio Grande do Sul,Innocent,Victim,Antagonist,Antagonist,Corrupt,Corrupt
+PT_36.txt,União Europeia,Antagonist,Instigator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_262.txt,Emil Ishkulov,Antagonist,Terrorist,Antagonist,Antagonist,Terrorist,Terrorist
+PT_URW_414.txt,Kiev,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_318.txt,Sibéria,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_123.txt,Vladimir Putin,Protagonist,Virtuous,Antagonist,Antagonist,Tyrant,Tyrant
+PT_258.txt,Putin,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_URW_419.txt,Rússia,Protagonist,Peacemaker,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_256.txt,Kremlin,Protagonist,Guardian,Protagonist,Protagonist,Peacemaker,Peacemaker
+PT_CC_412.txt,Deserto do Saara,Innocent,Victim,Innocent,Innocent,Exploited,Exploited
+PT_358.txt,Moscovo,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_382.txt,Rússia,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_283.txt,Moscovo,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_06.txt,Daria Dugina,Innocent,Victim,Antagonist,Antagonist,Terrorist,Terrorist
+PT_107.txt,França,Innocent,Victim,Antagonist,Antagonist,Terrorist,Terrorist
+PT_358.txt,Rússia,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_118.txt,Paris,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_376.txt,Moscovo,Innocent,Victim,Innocent,Innocent,Exploited,Exploited
+PT_CC_406.txt,Howey Ou,Protagonist,Virtuous,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_159.txt,Portugal,Innocent,Victim,Antagonist,Antagonist,Incompetent,Incompetent
+PT_360.txt,Lugansk,Innocent,Victim,Antagonist,Antagonist,Terrorist,Terrorist
+PT_75.txt,Kiev,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_164.txt,Tóquio,Antagonist,Instigator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_06.txt,Serviço de Informações Externas russo,Protagonist,Guardian,Antagonist,Antagonist,Terrorist,Terrorist
+PT_72.txt,Vladimir Putin,Protagonist,Guardian,Innocent,Innocent,Exploited,Exploited
+PT_360.txt,Força Nova,Antagonist,Bigot,Antagonist,Antagonist,Terrorist,Terrorist
+PT_31.txt,Moscovo,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+PT_159.txt,Estados Unidos,Innocent,Victim,Antagonist,Antagonist,Incompetent,Incompetent
+PT_286.txt,Kiev,Antagonist,Instigator,Antagonist,Antagonist,Traitor,Traitor
+PT_110.txt,Serguei Dubinski,Antagonist,Terrorist,Innocent,Innocent,Forgotten,Forgotten
+PT_108.txt,Putin,Protagonist,Peacemaker,Antagonist,Antagonist,Corrupt,Corrupt
+PT_113.txt,Rússia,Antagonist,Tyrant,Innocent,Innocent,Forgotten,Forgotten
+PT_345.txt,Zelensky,Antagonist,Instigator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_133.txt,Bratislava,Innocent,Forgotten,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_326.txt,Mizoram,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_256.txt,Rússia,Protagonist,Rebel,Protagonist,Protagonist,Peacemaker,Peacemaker
+PT_386.txt,Europa,Antagonist,Incompetent,Antagonist,Antagonist,Corrupt,Corrupt
+PT_113.txt,Ocidente,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+PT_392.txt,Lula,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_41.txt,Moscovo,Antagonist,Foreign Adversary,Innocent,Innocent,Exploited,Exploited
+PT_263.txt,Wagner,Innocent,Victim,Antagonist,Antagonist,Terrorist,Terrorist
+PT_161.txt,Portugal,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_111.txt,Crimeia,Innocent,Victim,Innocent,Innocent,Victim,Victim
+PT_352..txt,Toretsk,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_155.txt,Índia,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_329.txt,Síria,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_67.txt,Vladimir Putin,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+PT_20.txt,Vladimir Putin,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_37.txt,Putin,Innocent,Victim,Innocent,Innocent,Victim,Victim
+PT_127.txt,Zoltan Kovacs,Protagonist,Guardian,Protagonist,Protagonist,Guardian,Guardian
+PT_243.txt,Kiev,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+PT_231.txt,Maui,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_264.txt,Ucrânia,Antagonist,Foreign Adversary,Innocent,Innocent,Victim,Victim
+PT_103.txt,Lavrov,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+PT_44.txt,Kiev,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_288.txt,Syrsky,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_26.txt,Vladimir Putin,Protagonist,Peacemaker,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_08.txt,Ucrânia,Innocent,Exploited,Protagonist,Protagonist,Underdog,Underdog
+PT_329.txt,Turquia,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_98.txt,Belgorod,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_358.txt,Kiev,Antagonist,Terrorist,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_371.txt,Rússia,Innocent,Victim,Protagonist,Protagonist,Underdog,Underdog
+PT_385.txt,Stoltenberg,Antagonist,Deceiver,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_159.txt,China,Innocent,Victim,Antagonist,Antagonist,Incompetent,Incompetent
+PT_252.txt,Ucrânia,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_138.txt,Brasil,Innocent,Victim,Innocent,Innocent,Victim,Victim
+PT_189.txt,Lula,Antagonist,Incompetent,Innocent,Innocent,Exploited,Exploited
+PT_367.txt,Kiev,Antagonist,Incompetent,Antagonist,Antagonist,Terrorist,Terrorist
+PT_33.txt,Ucrânia,Antagonist,Corrupt,Antagonist,Antagonist,Terrorist,Terrorist
+PT_263.txt,Kiev,Antagonist,Terrorist,Antagonist,Antagonist,Terrorist,Terrorist
+PT_15.txt,Daesh,Antagonist,Terrorist,Antagonist,Antagonist,Terrorist,Terrorist
+PT_296.txt,Zelensky,Protagonist,Peacemaker,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_149.txt,Duarte Cordeiro,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_362.txt,Kiev,Antagonist,Foreign Adversary,Antagonist,Antagonist,Terrorist,Terrorist
+PT_115.txt,Rússia,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_70.txt,Rússia,Protagonist,Peacemaker,Antagonist,Antagonist,Tyrant,Tyrant
+PT_292.txt,Ocidente,Antagonist,"Conspirator, Foreign Adversary",Antagonist,Antagonist,Saboteur,Saboteur
+PT_64.txt,Ucrânia,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_345.txt,Moscovo,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_13.txt,Ucrânia,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_371.txt,Europa,Antagonist,Bigot,Protagonist,Protagonist,Underdog,Underdog
+PT_URW_420.txt,Pyongyang,Protagonist,Peacemaker,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_129.txt,Lugansk,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_389.txt,Myanmar,Innocent,Victim,Antagonist,Antagonist,Tyrant,Tyrant
+PT_115.txt,Vladimir Putin,Protagonist,Virtuous,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_39.txt,Zelensky,Innocent,Exploited,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_193.txt,Greta Thunberg,Protagonist,Rebel,Protagonist,Protagonist,Guardian,Guardian
+PT_118.txt,França,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_289.txt,Maria Zajarova,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_255.txt,Vladimir Putin,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_289.txt,Rosatom,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_289.txt,Moscovo,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_178.txt,Luigi Brugnaro,Protagonist,Guardian,Innocent,Innocent,Victim,Victim
+PT_66.txt,Ucrânia,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_313.txt,Brasil,Innocent,Victim,Antagonist,Antagonist,Instigator,Instigator
+PT_70.txt,Rússia,Antagonist,Foreign Adversary,Antagonist,Antagonist,Tyrant,Tyrant
+PT_301.txt,Moscovo,Antagonist,Tyrant,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_85.txt,Vladimir Putin,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+PT_67.txt,Estados Unidos,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+PT_120.txt,Rússia,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_183.txt,Afra Porsche,Protagonist,Rebel,Antagonist,Antagonist,Terrorist,Terrorist
+PT_378.txt,Nova Ordem Social,Antagonist,Bigot,Antagonist,Antagonist,Terrorist,Terrorist
+PT_115.txt,Comissão Europeia,Protagonist,Virtuous,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_356.txt,Rússia,Protagonist,Guardian,Innocent,Innocent,Exploited,Exploited
+PT_27.txt,Ucrânia,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+PT_340.txt,Ucrânia,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_199.txt,Fleischmann,Protagonist,Guardian,Innocent,Innocent,Victim,Victim
+PT_01.txt,Palestina,Innocent,Victim,Antagonist,Antagonist,Corrupt,Corrupt
+PT_51.txt,Itália,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_355.txt,Vladimir Putin,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_298.txt,Washington,Antagonist,Conspirator,Antagonist,Antagonist,Conspirator,Conspirator
+PT_65.txt,Rússia,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_354.txt,Donetsk,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_120.txt,Bulgária,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_128.txt,Volodymyr Zelensky,Antagonist,Deceiver,Protagonist,Protagonist,Underdog,Underdog
+PT_110.txt,Vladimir Putin,Antagonist,Terrorist,Innocent,Innocent,Forgotten,Forgotten
+PT_283.txt,Kremlin,Antagonist,Deceiver,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_375.txt,Ocidente,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+PT_400.txt,Europa,Innocent,Victim,Innocent,Innocent,Exploited,Exploited
+PT_371.txt,Ocidente,Antagonist,Tyrant,Protagonist,Protagonist,Underdog,Underdog
+PT_54.txt,Rússia,Protagonist,"Virtuous, Guardian",Innocent,Innocent,Victim,Victim
+PT_21.txt,Dmitry Peskov,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_276.txt,Rússia,Protagonist,Guardian,Protagonist,Protagonist,Guardian,Guardian
+PT_71.txt,Kiev,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+PT_133.txt,Péter Szijjártó,Protagonist,Virtuous,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_345.txt,NATO,Antagonist,Conspirator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_283.txt,Kiev,Antagonist,"Instigator, Foreign Adversary",Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_URW_410.txt,NATO,Antagonist,Conspirator,Antagonist,Antagonist,Deceiver,Deceiver
+PT_247.txt,Rússia,Antagonist,Foreign Adversary,Innocent,Innocent,Victim,Victim
+PT_107.txt,Rússia,Protagonist,Virtuous,Antagonist,Antagonist,Terrorist,Terrorist
+PT_150.txt,Sami,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_135.txt,Estados Unidos,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_127.txt,Robert Fico,Protagonist,Peacemaker,Protagonist,Protagonist,Guardian,Guardian
+PT_09.txt,Kiev,Antagonist,Foreign Adversary,Innocent,Innocent,Exploited,Exploited
+PT_128.txt,Kyiv,Antagonist,Saboteur,Protagonist,Protagonist,Underdog,Underdog
+PT_35.txt,Rússia,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_282.txt,Kiev,Antagonist,"Instigator, Foreign Adversary",Antagonist,Antagonist,Traitor,Traitor
+PT_127.txt,Mykhailo Podolyak,Protagonist,Virtuous,Protagonist,Protagonist,Guardian,Guardian
+PT_353.txt,Donetsk,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_261.txt,Ucrânia,Antagonist,Foreign Adversary,Antagonist,Antagonist,Terrorist,Terrorist
+PT_180.txt,Lula,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_93.txt,Moscovo,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_26.txt,NATO,Antagonist,Instigator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_266.txt,Vladimir Putin,Protagonist,Virtuous,Antagonist,Antagonist,Saboteur,Saboteur
+PT_378.txt,Falange Espanhola,Antagonist,Bigot,Antagonist,Antagonist,Terrorist,Terrorist
+PT_112.txt,Orbán,Antagonist,Traitor,Innocent,Innocent,Forgotten,Forgotten
+PT_298.txt,Sergei Ryabkov,Protagonist,Guardian,Antagonist,Antagonist,Conspirator,Conspirator
+PT_329.txt,Islândia,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_329.txt,Maui,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_194.txt,Emirados Árabes Unidos,Antagonist,Foreign Adversary,Antagonist,Antagonist,Tyrant,Tyrant
+PT_54.txt,Ocidente,Antagonist,Tyrant,Innocent,Innocent,Victim,Victim
+PT_251.txt,Dmitry Peskov,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+PT_108.txt,Zelenskiy,Protagonist,Virtuous,Antagonist,Antagonist,Corrupt,Corrupt
+PT_32.txt,Lugansk,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_CC_429.txt,Shaylyn Hynes,Protagonist,Peacemaker,Antagonist,Antagonist,Incompetent,Incompetent
+PT_276.txt,Legião Liberdade da Rússia,Antagonist,Terrorist,Protagonist,Protagonist,Guardian,Guardian
+PT_393.txt,Valência,Innocent,Victim,Innocent,Innocent,Victim,Victim
+PT_110.txt,Rússia,Antagonist,Terrorist,Innocent,Innocent,Forgotten,Forgotten
+PT_66.txt,Kiev,Antagonist,Terrorist,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_212.txt,Brigada Militar,Protagonist,Guardian,Innocent,Innocent,Victim,Victim
+PT_64.txt,Procuradoria-Geral da Ucrânia,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_248.txt,Kramatorsk,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_195.txt,Espírito Santo,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_81.txt,NATO,Antagonist,Deceiver,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_32.txt,Ocidente,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_146.txt,Dubai,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_97.txt,António Guterres,Protagonist,Guardian,Innocent,Innocent,Victim,Victim
+PT_54.txt,Daria,Innocent,Victim,Innocent,Innocent,Victim,Victim
+PT_35.txt,Kiev,Antagonist,Tyrant,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_22.txt,Ucrânia,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_133.txt,Estados-membros da UE,Innocent,Forgotten,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_293.txt,Kiev,Protagonist,Rebel,Antagonist,Antagonist,Terrorist,Terrorist
+PT_119.txt,Alemanha,Antagonist,Foreign Adversary,Innocent,Innocent,Exploited,Exploited
+PT_378.txt,Irmandade Ariana Portuguesa,Antagonist,Bigot,Antagonist,Antagonist,Terrorist,Terrorist
+PT_359.txt,Kiev,Antagonist,Incompetent,Innocent,Innocent,Forgotten,Forgotten
+PT_96.txt,Rússia,Protagonist,Guardian,Antagonist,Antagonist,Tyrant,Tyrant
+PT_378.txt,Portugal,Antagonist,Bigot,Antagonist,Antagonist,Terrorist,Terrorist
+PT_132.txt,Kyiv,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_44.txt,Moscovo,Protagonist,Peacemaker,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_140.txt,Japão,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_71.txt,Dmitri Peskov,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+PT_81.txt,Mário Machado,Antagonist,Terrorist,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_51.txt,Albânia,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_118.txt,Atenas,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_118.txt,Córdoba,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_360.txt,Sons of Liberty International,Antagonist,Conspirator,Antagonist,Antagonist,Terrorist,Terrorist
+PT_293.txt,Rússia,Protagonist,Guardian,Antagonist,Antagonist,Terrorist,Terrorist
+PT_154.txt,Moçambique,Innocent,Victim,Innocent,Innocent,Victim,Victim
+PT_337.txt,Lula,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_18.txt,Rússia,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+PT_09.txt,Rússia,Innocent,Victim,Innocent,Innocent,Exploited,Exploited
+PT_357.txt,Israel,Antagonist,Tyrant,Innocent,Innocent,Forgotten,Forgotten
+PT_04.txt,Caesar Tokhosashvili,Antagonist,Terrorist,Antagonist,Antagonist,Terrorist,Terrorist
+PT_118.txt,Rio Grande do Sul,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_83.txt,Zelensky,Antagonist,Incompetent,Antagonist,Antagonist,Corrupt,Corrupt
+PT_380.txt,Exército russo,Protagonist,Guardian,Antagonist,Antagonist,Terrorist,Terrorist
+PT_118.txt,Pantanal,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_36.txt,Organização do Tratado do Atlântico Norte,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_93.txt,Zelensky,Antagonist,Instigator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_127.txt,Ucrânia,Antagonist,Instigator,Protagonist,Protagonist,Guardian,Guardian
+PT_123.txt,Moscovo,Protagonist,Underdog,Antagonist,Antagonist,Tyrant,Tyrant
+PT_21.txt,Emmanuel Macron,Antagonist,Instigator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_223.txt,Legião da Boa Vontade,Protagonist,"Virtuous, Guardian",Innocent,Innocent,Exploited,Exploited
+PT_104.txt,Rússia,Innocent,Forgotten,Innocent,Innocent,Forgotten,Forgotten
+PT_373.txt,Zelensky,Antagonist,Incompetent,Innocent,Innocent,Exploited,Exploited
+PT_143.txt,António Assunção,Protagonist,Virtuous,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_339.txt,Baghlan,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_CC_412.txt,Costa do Golfo,Innocent,Victim,Innocent,Innocent,Exploited,Exploited
+PT_383.txt,NATO,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+PT_298.txt,serviços de Inteligência,Antagonist,"Conspirator, Terrorist",Antagonist,Antagonist,Conspirator,Conspirator
+PT_212.txt,Polícia Civil,Protagonist,Guardian,Innocent,Innocent,Victim,Victim
+PT_328.txt,Argentina,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_174.txt,Bolsonaro,Antagonist,Saboteur,Antagonist,Antagonist,Corrupt,Corrupt
+PT_289.txt,Kiev,Antagonist,"Instigator, Foreign Adversary",Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_355.txt,NATO,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_251.txt,Putin,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+PT_257.txt,Maria Zajarova,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_38.txt,Macron,Antagonist,Corrupt,Innocent,Innocent,Forgotten,Forgotten
+PT_329.txt,Vila Sahy,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_47.txt,Ucrânia,Innocent,Forgotten,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_360.txt,Falange,Antagonist,Bigot,Antagonist,Antagonist,Terrorist,Terrorist
+PT_318.txt,Austrália,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_93.txt,NATO,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_108.txt,Estados Unidos,Antagonist,"Foreign Adversary, Tyrant",Antagonist,Antagonist,Corrupt,Corrupt
+PT_48.txt,Forças Armadas da Ucrânia,Antagonist,Foreign Adversary,Antagonist,Antagonist,Terrorist,Terrorist
+PT_374.txt,NATO,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_292.txt,Kiev,Antagonist,"Corrupt, Terrorist",Antagonist,Antagonist,Saboteur,Saboteur
+PT_01.txt,Estado sionista,Antagonist,Tyrant,Antagonist,Antagonist,Corrupt,Corrupt
+PT_174.txt,Amazónia,Innocent,Victim,Antagonist,Antagonist,Corrupt,Corrupt
+PT_130.txt,Robert Fico,Protagonist,Peacemaker,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_105.txt,Dmitri Peskov,Protagonist,Virtuous,Innocent,Innocent,Exploited,Exploited
+PT_366.txt,Zelensky,Antagonist,Instigator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_99.txt,Ucrânia,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_96.txt,Vladimir Putin,Protagonist,Virtuous,Antagonist,Antagonist,Tyrant,Tyrant
+PT_86.txt,Organização Mundial de Saúde,Protagonist,Guardian,Innocent,Innocent,Victim,Victim
+PT_36.txt,EUA,Antagonist,Instigator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_128.txt,Maria Zakharova,Protagonist,Virtuous,Protagonist,Protagonist,Underdog,Underdog
+PT_22.txt,Estados Unidos,Antagonist,Saboteur,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_366.txt,Vladimir Zelensky,Antagonist,Incompetent,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_262.txt,Vladimir Pipko,Antagonist,Terrorist,Antagonist,Antagonist,Terrorist,Terrorist
+PT_174.txt,Ianomâmis,Innocent,Victim,Antagonist,Antagonist,Corrupt,Corrupt
+PT_266.txt,Washington,Antagonist,Bigot,Antagonist,Antagonist,Saboteur,Saboteur
+PT_278.txt,Ucrânia,Antagonist,Instigator,Antagonist,Antagonist,Traitor,Traitor
+PT_01.txt,Estado de Israel sionista,Antagonist,Foreign Adversary,Antagonist,Antagonist,Corrupt,Corrupt
+PT_266.txt,Ucrânia,Antagonist,Saboteur,Antagonist,Antagonist,Saboteur,Saboteur
+PT_122.txt,Trump,Antagonist,Bigot,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_12.txt,Aidar,Antagonist,"Conspirator, Terrorist",Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_12.txt,Aleksandr Syrsky,Antagonist,Incompetent,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_133.txt,Hungria,Protagonist,Rebel,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_29.txt,Ucrânia,Antagonist,Incompetent,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_182.txt,Harjeet Singh,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_22.txt,Dan Lazare,Protagonist,Virtuous,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_37.txt,NATO,Antagonist,Instigator,Innocent,Innocent,Victim,Victim
+PT_168.txt,Navigator,Antagonist,Corrupt,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_298.txt,Putin,Innocent,Victim,Antagonist,Antagonist,Conspirator,Conspirator
+PT_11.txt,Pentágono,Antagonist,Deceiver,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_263.txt,Ucrânia,Antagonist,Terrorist,Antagonist,Antagonist,Terrorist,Terrorist
+PT_10.txt,Emmanuel Macron,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_08.txt,Ucrânia,Antagonist,Foreign Adversary,Protagonist,Protagonist,Underdog,Underdog
+PT_316.txt,Marina Silva,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+PT_29.txt,Moscovo,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_44.txt,Vladimir Putin,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_252.txt,Estados Unidos,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+PT_62.txt,Câmara de Setúbal,Antagonist,Instigator,Antagonist,Antagonist,Spy,Spy
+PT_256.txt,Volodymyr Zelensky,Antagonist,Foreign Adversary,Protagonist,Protagonist,Peacemaker,Peacemaker
+PT_71.txt,Rússia,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+PT_10.txt,Ocidente,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_107.txt,FSB,Antagonist,Conspirator,Antagonist,Antagonist,Terrorist,Terrorist
+PT_317.txt,Rio Madeira,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_113.txt,Ucrânia,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+PT_318.txt,Suécia,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_360.txt,Dakhorse Benefits,Antagonist,Conspirator,Antagonist,Antagonist,Terrorist,Terrorist
+PT_28.txt,Rússia,Innocent,Scapegoat,Innocent,Innocent,Exploited,Exploited
+PT_05.txt,Organização do Tratado do Atlântico Norte (NATO,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_391.txt,Guiné-Bissau,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_373.txt,EUA,Antagonist,"Instigator, Foreign Adversary",Innocent,Innocent,Exploited,Exploited
+PT_194.txt,Brasil,Protagonist,Guardian,Antagonist,Antagonist,Tyrant,Tyrant
+PT_17.txt,Moscovo,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_196.txt,Marcelo Laterman,Protagonist,Guardian,Protagonist,Protagonist,Virtuous,Virtuous
+PT_CC_428.txt,Pessoas pelo Clima,Protagonist,Guardian,Protagonist,Protagonist,Guardian,Guardian
+PT_285.txt,Rússia,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_100.txt,Ásia,Innocent,Victim,Innocent,Innocent,Exploited,Exploited
+PT_366.txt,NATO,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_150.txt,Cefalônia,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_243.txt,Ucrânia,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_19.txt,Kiev,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_26.txt,NATO,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_379.txt,G. Kinoiani,Antagonist,Terrorist,Antagonist,Antagonist,Traitor,Traitor
+PT_URW_414.txt,NATO,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_174.txt,Floresta Amazónica,Innocent,Victim,Antagonist,Antagonist,Corrupt,Corrupt
+PT_111.txt,Penny Wong,Protagonist,Virtuous,Innocent,Innocent,Victim,Victim
+PT_52.txt,Biden,Antagonist,Incompetent,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_369.txt,Vladimir Rogov,Protagonist,Guardian,Antagonist,Antagonist,Terrorist,Terrorist
+PT_126.txt,Evgeny Serebriakov,Antagonist,"Conspirator, Terrorist",Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_14.txt,EUA,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_313.txt,China,Innocent,Victim,Antagonist,Antagonist,Instigator,Instigator
+PT_264.txt,Rússia,Innocent,Victim,Innocent,Innocent,Victim,Victim
+PT_403.txt,Sociedade Zoológica de Londres (Instituto de Zoologia,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_318.txt,Portugal,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_14.txt,EUA,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_266.txt,NATO,Antagonist,Bigot,Antagonist,Antagonist,Saboteur,Saboteur
+PT_06.txt,Vladimir Zelensky,Antagonist,Foreign Adversary,Antagonist,Antagonist,Terrorist,Terrorist
+PT_318.txt,Indonésia,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_136.txt,Europa,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_115.txt,G7,Protagonist,Virtuous,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_19.txt,Ucrânia,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_354.txt,Kiev,Antagonist,Tyrant,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_12.txt,Ocidente,Antagonist,"Conspirator, Instigator",Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_371.txt,EUA,Antagonist,Foreign Adversary,Protagonist,Protagonist,Underdog,Underdog
+PT_174.txt,Pantanal,Innocent,Victim,Antagonist,Antagonist,Corrupt,Corrupt
+PT_12.txt,Londres,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_129.txt,Rússia,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_265.txt,Moscovo,Innocent,Victim,Innocent,Innocent,Victim,Victim
+PT_URW_414.txt,Ucrânia,Antagonist,Incompetent,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_27.txt,Rússia,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_212.txt,Canoas,Innocent,Victim,Innocent,Innocent,Victim,Victim
+PT_URW_410.txt,Kiev,Antagonist,Conspirator,Antagonist,Antagonist,Deceiver,Deceiver
+PT_193.txt,Txai Suruí,Protagonist,"Rebel, Virtuous",Protagonist,Protagonist,Guardian,Guardian
+PT_124.txt,Ucrânia,Protagonist,Peacemaker,Innocent,Innocent,Victim,Victim
+PT_313.txt,Arkansas,Innocent,Victim,Antagonist,Antagonist,Instigator,Instigator
+PT_12.txt,EUA,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_360.txt,Irmandade Ariana,Antagonist,Bigot,Antagonist,Antagonist,Terrorist,Terrorist
+PT_159.txt,Canadá,Innocent,Victim,Antagonist,Antagonist,Incompetent,Incompetent
+PT_357.txt,Ucrânia,Antagonist,Tyrant,Innocent,Innocent,Forgotten,Forgotten
+PT_141.txt,Iowa,Innocent,Victim,Antagonist,Antagonist,Instigator,Instigator
+PT_33.txt,Forças Armadas da Ucrânia,Antagonist,Foreign Adversary,Antagonist,Antagonist,Terrorist,Terrorist
+PT_146.txt,Ilhas Salomão,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_386.txt,Ucrânia,Antagonist,Incompetent,Antagonist,Antagonist,Corrupt,Corrupt
+PT_318.txt,Canadá,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_248.txt,Pokrovsk,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_336.txt,an Mohammad Din Mohammad,Innocent,Victim,Innocent,Innocent,Victim,Victim
+PT_67.txt,Estados Unidos da América,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+PT_118.txt,Amazónia,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_285.txt,Moscovo,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_24.txt,Macron,Antagonist,Incompetent,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_133.txt,Kyiv,Antagonist,Incompetent,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_98.txt,Vyacheslav Gladkov,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+PT_51.txt,Bulgária,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_67.txt,Rússia,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+PT_10.txt,Vladimir Putin,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_141.txt,EUA,Innocent,Victim,Antagonist,Antagonist,Instigator,Instigator
+PT_125.txt,Rússia,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_344.txt,Ursula von der Leyen,Protagonist,Guardian,Innocent,Innocent,Victim,Victim
+PT_19.txt,Azov,Antagonist,Terrorist,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_27.txt,Rússia,Protagonist,Peacemaker,Innocent,Innocent,Forgotten,Forgotten
+PT_23.txt,Ocidente,Innocent,Scapegoat,Innocent,Innocent,Forgotten,Forgotten
+PT_143.txt,Climáximo,Protagonist,Virtuous,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_300.txt,Kiev,Antagonist,Terrorist,Antagonist,Antagonist,Traitor,Traitor
+PT_362.txt,Zelensky,Antagonist,Tyrant,Antagonist,Antagonist,Terrorist,Terrorist
+PT_332.txt,Alan Rick,Protagonist,Guardian,Antagonist,Antagonist,Corrupt,Corrupt
+PT_284.txt,Greenpeace,Protagonist,Guardian,Innocent,Innocent,Exploited,Exploited
+PT_149.txt,Greve Climática Estudantil,Antagonist,"Instigator, Terrorist",Innocent,Innocent,Forgotten,Forgotten
+PT_37.txt,Moscovo,Protagonist,Peacemaker,Innocent,Innocent,Victim,Victim
+PT_22.txt,EUA,Antagonist,Traitor,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_19.txt,Lugansk,Antagonist,Terrorist,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_363.txt,Moscovo,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_257.txt,Moscovo,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_05.txt,Ocidente,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_105.txt,Rússia,Protagonist,Virtuous,Innocent,Innocent,Exploited,Exploited
+PT_134.txt,Europa,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_129.txt,Ucrânia,Antagonist,Saboteur,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_329.txt,São Paulo,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_354.txt,NATO,Antagonist,"Conspirator, Foreign Adversary",Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_31.txt,EUA,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+PT_108.txt,Ocidente,Protagonist,Virtuous,Antagonist,Antagonist,Corrupt,Corrupt
+PT_56.txt,Climáximo,Antagonist,Instigator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_174.txt,Pantanal,Innocent,Victim,Antagonist,Antagonist,Corrupt,Corrupt
+PT_87.txt,Rússia,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_362.txt,Ucrânia,Innocent,Victim,Antagonist,Antagonist,Terrorist,Terrorist
+PT_128.txt,Ucrânia,Innocent,"Victim, Forgotten",Protagonist,Protagonist,Underdog,Underdog
+PT_108.txt,Dmytro Kuleba,Protagonist,Guardian,Antagonist,Antagonist,Corrupt,Corrupt
+PT_389.txt,África,Innocent,Victim,Antagonist,Antagonist,Tyrant,Tyrant
+PT_16.txt,Rússia,Protagonist,Peacemaker,Innocent,Innocent,Victim,Victim
+PT_174.txt,Carolina Marçal,Antagonist,"Deceiver, Traitor",Antagonist,Antagonist,Corrupt,Corrupt
+PT_328.txt,Luca Bergamaschi,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+PT_301.txt,Ucrânia,Antagonist,Tyrant,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_45.txt,Zelensky,Antagonist,Corrupt,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_262.txt,Forças Armadas ucranianas,Antagonist,Terrorist,Antagonist,Antagonist,Terrorist,Terrorist
+PT_380.txt,Forças Armadas ucranianas,Antagonist,Terrorist,Antagonist,Antagonist,Terrorist,Terrorist
+PT_379.txt,Forças Armadas Ucranianas,Antagonist,Corrupt,Antagonist,Antagonist,Traitor,Traitor
+PT_06.txt,Kiev,Antagonist,Terrorist,Antagonist,Antagonist,Terrorist,Terrorist
+PT_140.txt,Estados Unidos,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_227.txt,Ucrânia,Antagonist,Foreign Adversary,Antagonist,Antagonist,Traitor,Traitor
+PT_316.txt,Pantanal,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_146.txt,Seychelles,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_113.txt,Ocidente,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+PT_302.txt,Ucrânia,Antagonist,"Instigator, Foreign Adversary",Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_133.txt,Bruxelas,Antagonist,Saboteur,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_129.txt,Moscovo,Protagonist,Peacemaker,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_132.txt,Kyiv,Antagonist,"Instigator, Terrorist",Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_43.txt,Zelensky,Antagonist,Saboteur,Innocent,Innocent,Forgotten,Forgotten
+PT_257.txt,Kiev,Antagonist,"Instigator, Foreign Adversary",Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_318.txt,EUA,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_URW_410.txt,Kiev,Antagonist,Terrorist,Antagonist,Antagonist,Deceiver,Deceiver
+PT_30.txt,Kiev,Antagonist,Corrupt,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_353.txt,Vladimir Putin,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_88.txt,Rússia,Innocent,Victim,Innocent,Innocent,Victim,Victim
+PT_99.txt,NATO,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+PT_357.txt,Ocidente,Antagonist,Incompetent,Innocent,Innocent,Forgotten,Forgotten
+PT_26.txt,Rússia,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_113.txt,Vladimir Putin,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+PT_32.txt,Organização do Tratado do Atlântico Norte,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_69.txt,Volodymyr Zelensky,Protagonist,Virtuous,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_366.txt,Rússia,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_115.txt,Comissão Europeia,Antagonist,Corrupt,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_39.txt,Ucrânia,Innocent,Exploited,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_CC_406.txt,Greta,Protagonist,Virtuous,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_111.txt,Vladimir Putin,Antagonist,Terrorist,Innocent,Innocent,Victim,Victim
+PT_363.txt,Kiev,Antagonist,Conspirator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_350.txt,Rússia,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+PT_328.txt,Brasil,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_354.txt,Rússia,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_149.txt,Duarte Cordeiro,Protagonist,Virtuous,Innocent,Innocent,Forgotten,Forgotten
+PT_108.txt,Zelenskiy,Innocent,Exploited,Antagonist,Antagonist,Corrupt,Corrupt
+PT_113.txt,Crimeia,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_283.txt,Kiev,Innocent,Scapegoat,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_92.txt,Serguei Riabkov,Protagonist,Guardian,Innocent,Innocent,Exploited,Exploited
+PT_362.txt,Zelensky,Antagonist,Foreign Adversary,Antagonist,Antagonist,Terrorist,Terrorist
+PT_150.txt,Naxos,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_111.txt,Rússia,Antagonist,Terrorist,Innocent,Innocent,Victim,Victim
+PT_178.txt,Giorgia Meloni,Protagonist,Guardian,Innocent,Innocent,Victim,Victim
+PT_07.txt,Estados Unidos,Antagonist,"Conspirator, Foreign Adversary",Antagonist,Antagonist,Saboteur,Saboteur
+PT_258.txt,Ucrânia,Antagonist,Instigator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_50.txt,Washington,Antagonist,Tyrant,Antagonist,Antagonist,Corrupt,Corrupt
+PT_178.txt,Extinction Rebellion,Protagonist,Rebel,Innocent,Innocent,Victim,Victim
+PT_100.txt,Golfo Pérsico,Innocent,Victim,Innocent,Innocent,Exploited,Exploited
+PT_07.txt,NATO,Antagonist,"Saboteur, Conspirator",Antagonist,Antagonist,Saboteur,Saboteur
+PT_179.txt,Fikru Regasa,Protagonist,Guardian,Innocent,Innocent,Exploited,Exploited
+PT_120.txt,Dmitri Peskov,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_266.txt,Lisboa,Antagonist,Instigator,Antagonist,Antagonist,Saboteur,Saboteur
+PT_136.txt,Rússia,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_111.txt,Sergei Dubinski,Antagonist,Terrorist,Innocent,Innocent,Victim,Victim
+PT_283.txt,Rússia,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_342.txt,Zelensky,Antagonist,"Instigator, Traitor, Tyrant",Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_110.txt,Leonid Khartchenko,Antagonist,Terrorist,Innocent,Innocent,Forgotten,Forgotten
+PT_269.txt,Kiev,Antagonist,Instigator,Antagonist,Antagonist,Traitor,Traitor
+PT_87.txt,Dmitry Medvedev,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+PT_18.txt,Estados Unidos,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+PT_124.txt,Volodymyr Zelensky,Antagonist,"Foreign Adversary, Tyrant",Innocent,Innocent,Victim,Victim
+PT_100.txt,Médio Oriente,Innocent,Victim,Innocent,Innocent,Exploited,Exploited
+PT_10.txt,Kiev,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_238.txt,Ucrânia,Antagonist,Foreign Adversary,Antagonist,Antagonist,Tyrant,Tyrant
+PT_26.txt,Ocidente,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_372.txt,Kiev,Antagonist,Incompetent,Antagonist,Antagonist,Corrupt,Corrupt
+PT_32.txt,Rússia,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_370.txt,EUA,Antagonist,Corrupt,Innocent,Innocent,Forgotten,Forgotten
+PT_258.txt,Reino Unido,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_28.txt,Ocidente,Antagonist,Deceiver,Innocent,Innocent,Exploited,Exploited
+PT_133.txt,União Europeia,Antagonist,Traitor,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_342.txt,Ucrânia,Antagonist,Incompetent,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_227.txt,Kiev,Antagonist,Instigator,Antagonist,Antagonist,Traitor,Traitor
+PT_112.txt,União Europeia,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+PT_113.txt,Ocidente,Antagonist,Tyrant,Innocent,Innocent,Forgotten,Forgotten
+PT_81.txt,Guarda Nacional Ucraniana,Antagonist,Terrorist,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_360.txt,Portugal Hammerskins,Antagonist,Bigot,Antagonist,Antagonist,Terrorist,Terrorist
+PT_32.txt,Moscovo,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_04.txt,Daesh,Antagonist,Terrorist,Antagonist,Antagonist,Terrorist,Terrorist
+PT_129.txt,Donetsk,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_378.txt,Força Nova Italiana,Antagonist,Bigot,Antagonist,Antagonist,Terrorist,Terrorist
+PT_120.txt,Moscovo,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_174.txt,Nando Reis,Antagonist,"Deceiver, Traitor",Antagonist,Antagonist,Corrupt,Corrupt
+PT_150.txt,Cíclades,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_26.txt,Suécia,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_07.txt,Estados Unidos,Antagonist,Foreign Adversary,Antagonist,Antagonist,Saboteur,Saboteur
+PT_119.txt,Rússia,Innocent,Victim,Innocent,Innocent,Exploited,Exploited
+PT_257.txt,Rosatom,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_02.txt,Ucrânia,Antagonist,Foreign Adversary,Antagonist,Antagonist,Terrorist,Terrorist
+PT_115.txt,Ucrânia,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_193.txt,Alok Sharma,Protagonist,Virtuous,Protagonist,Protagonist,Guardian,Guardian
+PT_354.txt,Vladimir Putin,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_318.txt,Chile,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_URW_410.txt,Ucrânia,Antagonist,"Instigator, Foreign Adversary",Antagonist,Antagonist,Deceiver,Deceiver
+PT_89.txt,UE,Antagonist,Saboteur,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_246.txt,Kiev,Antagonist,Incompetent,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_14.txt,Organização do Tratado do Atlântico Norte,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_382.txt,NATO,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_128.txt,Zelensky,Antagonist,"Terrorist, Tyrant",Protagonist,Protagonist,Underdog,Underdog
+PT_131.txt,Dmitry Peskov,Protagonist,Peacemaker,Protagonist,Protagonist,Peacemaker,Peacemaker
+PT_374.txt,Rússia,Protagonist,Underdog,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_282.txt,Ministério da Defesa russo,Protagonist,Guardian,Antagonist,Antagonist,Traitor,Traitor
+PT_248.txt,Volodimir Zelensky,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_133.txt,Bruxelas,Antagonist,Conspirator,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_389.txt,Ásia,Innocent,Victim,Antagonist,Antagonist,Tyrant,Tyrant
+PT_360.txt,Kiev,Antagonist,Terrorist,Antagonist,Antagonist,Terrorist,Terrorist
+PT_342.txt,Rússia,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_18.txt,EUA,Antagonist,Foreign Adversary,Innocent,Innocent,Forgotten,Forgotten
+PT_196.txt,Lula,Antagonist,Incompetent,Protagonist,Protagonist,Virtuous,Virtuous
+PT_188.txt,Amazónia,Innocent,Victim,Innocent,Innocent,Forgotten,Forgotten
+PT_80.txt,Mário Machado,Antagonist,Terrorist,Innocent,Innocent,Forgotten,Forgotten
+PT_68.txt,Dmitri Peskov,Protagonist,Peacemaker,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_113.txt,Rússia,Protagonist,Guardian,Innocent,Innocent,Forgotten,Forgotten
+PT_375.txt,Ocidente,Antagonist,Incompetent,Innocent,Innocent,Forgotten,Forgotten
+PT_140.txt,Canadá,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_02.txt,Washington,Antagonist,Foreign Adversary,Antagonist,Antagonist,Terrorist,Terrorist
+PT_364.txt,Kiev,Antagonist,Saboteur,Antagonist,Antagonist,Terrorist,Terrorist
+PT_130.txt,Eslováquia,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_32.txt,Kiev,Antagonist,Tyrant,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_369.txt,Ucrânia,Antagonist,"Bigot, Terrorist, Tyrant",Antagonist,Antagonist,Terrorist,Terrorist
+PT_CC_429.txt,Perry,Antagonist,Deceiver,Antagonist,Antagonist,Incompetent,Incompetent
+PT_29.txt,Vladimir Putin,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_375.txt,Rússia,Protagonist,Underdog,Innocent,Innocent,Forgotten,Forgotten
+PT_06.txt,Joe Biden,Antagonist,Deceiver,Antagonist,Antagonist,Terrorist,Terrorist
+PT_113.txt,Washington,Antagonist,Instigator,Innocent,Innocent,Forgotten,Forgotten
+PT_248.txt,Sloviansk,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_358.txt,NATO,Antagonist,"Instigator, Foreign Adversary",Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_379.txt,A. Khmara,Antagonist,Terrorist,Antagonist,Antagonist,Traitor,Traitor
+PT_377.txt,Ocidente,Antagonist,Incompetent,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_CC_422.txt,Greta Thunberg,Antagonist,Incompetent,Protagonist,Protagonist,Rebel,Rebel
+PT_42.txt,Kuleba,Antagonist,Deceiver,Innocent,Innocent,Exploited,Exploited
+PT_257.txt,Rússia,Protagonist,Guardian,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_51.txt,Macedónia do Norte,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_URW_414.txt,Ocidente,Antagonist,Foreign Adversary,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_292.txt,Vladimir Putin,Protagonist,Guardian,Antagonist,Antagonist,Saboteur,Saboteur
+PT_150.txt,Dodecaneso,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary
+PT_111.txt,Igor Guirkin,Antagonist,Terrorist,Innocent,Innocent,Victim,Victim
+PT_352..txt,República Popular de Donetsk,Innocent,Victim,Antagonist,Antagonist,Foreign Adversary,Foreign Adversary

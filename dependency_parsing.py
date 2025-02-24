@@ -51,6 +51,17 @@ def get_role_labels(lang):
             "Antagonist": ["Instigador", "Conspirador", "Tirano", "Adversário estrangeiro", "Traidor", "Espião", "Sabotador", "Corrupto", "Incompetente", "Terrorista", "Enganador", "Fanático"]
         }
     }
+
+    fg_EN_map = {}
+    for ln, sub_dict in sub_dict_map.items():
+        for archetype, items in sub_dict.items():
+            for item in items:
+                if ln == "EN":
+                    fg_EN_map[item] = item
+                else:
+                    if item not in fg_EN_map:
+                        fg_EN_map[item] = ""
+                    fg_EN_map[item] = sub_dict_map["EN"][archetype][items.index(item)]
     
     sub_dict = sub_dict_map[lang]
 
@@ -68,7 +79,7 @@ def get_role_labels(lang):
         for fg_role in sub_dict[main_role]:
             fg_to_main[fg_role] = main_role
 
-    return sub_dict
+    return sub_dict, fg_EN_map
 
 def load_text_file(path):
     """
@@ -118,8 +129,11 @@ def get_entity_coref_sentences(doc, doc_labels, use_corefs=False):
     end_offset = doc_labels['end_offset']
 
     # Adjust start_offset to the left if it's in the middle of a word
-    while start_offset > 0 and not doc.text[start_offset - 1] in {' ', '\n', ',', '-', '.'}:
-        start_offset -= 1
+    if start_offset > 1:
+        while start_offset > 0 and not doc.text[start_offset - 1] in {' ', '\n', ',', '-', '.'}:
+            start_offset -= 1
+            if start_offset == 0:
+                break
 
     # Adjust end_offset to the right if it's in the middle of a word
     while end_offset < len(doc.text) and not doc.text[end_offset] in {' ', '\n', ',', '-', '.'}:
@@ -231,7 +245,20 @@ def iterate_documents(base_dir, labels, subdir='EN', use_corefs=False):
     ent_sents are the sentences with co-references to the target.
     """
 
-    if subdir == 'EN':
+    
+    if subdir == "RU":
+        nlp = stanza.Pipeline(lang='ru', processors='tokenize,pos,lemma,ner,depparse,coref', device = 'cpu')
+
+        for row_id in range(len(labels)):
+            doc_labels = labels.iloc[row_id]
+            text = load_document(base_dir, subdir, doc_labels['article_id'])
+
+            doc = nlp(text)
+            # Retrieve entity info and coreference
+            ent_span, ent_corefs, ent_sents = get_entity_coref_sentences_stanza(doc, doc_labels, use_corefs)
+
+            yield doc, ent_span, ent_corefs, ent_sents, doc_labels
+    elif subdir == "EN":
         nlp = spacy.load("en_core_web_trf")
         nlp.add_pipe('coreferee')
 
@@ -244,19 +271,36 @@ def iterate_documents(base_dir, labels, subdir='EN', use_corefs=False):
             ent_span, ent_corefs, ent_sents = get_entity_coref_sentences(doc, doc_labels, use_corefs)
             
             yield doc, ent_span, ent_corefs, ent_sents, doc_labels
-    
-    elif subdir == "RU":
-        nlp = stanza.Pipeline(lang='ru', processors='tokenize,pos,lemma,ner,depparse,coref', device = 'cpu')
+    else:
 
         for row_id in range(len(labels)):
             doc_labels = labels.iloc[row_id]
             text = load_document(base_dir, subdir, doc_labels['article_id'])
 
-            doc = nlp(text)
-            # Retrieve entity info and coreference
-            ent_span, ent_corefs, ent_sents = get_entity_coref_sentences_stanza(doc, doc_labels, use_corefs)
+            start_offset = doc_labels['start_offset']
+            end_offset = doc_labels['end_offset']
+            
+            
+            # Get the entity span from start to end offsets
+            ent_span = doc_labels['entity_mention']
+            
+                
+            # Make dictionary of co-reference chains
+            ent_corefs = list()
 
-            yield doc, ent_span, ent_corefs, ent_sents, doc_labels
+            if start_offset > 1:
+                while start_offset > 1 and start_offset < len(text) and not text[start_offset-1] == '\n':
+                    start_offset -= 1
+
+            while end_offset < len(text) and text[end_offset] != '\n':
+                end_offset += 1
+
+            ent_sents = [text[start_offset:end_offset]]
+
+            # Retrieve entity info and coreference
+            #ent_span, ent_corefs, ent_sents = get_entity_coref_sentences(doc, doc_labels, use_corefs)
+            
+            yield text, ent_span, ent_corefs, ent_sents, doc_labels
 
 
 
