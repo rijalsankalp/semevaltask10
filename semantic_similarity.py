@@ -10,6 +10,7 @@ from dependency_parsing import iterate_documents, get_role_labels
 from gensim.models import KeyedVectors
 
 from LoadData import LoadData
+import subprocess
 
 
 def load_word_vectors(path):
@@ -205,7 +206,7 @@ def process_documents(base_dir, labels, subdirs, role_labels, fg_EN_map, emb_mod
 if __name__ == "__main__":
 
 
-    for subdir in ["HI", "BG"]:
+    for subdir in ["EN", "HI", "RU", "PT", "BG"]:
         base_dir = "train"
         labels_file = "subtask-1-annotations.txt"
         # subdir = "PT"
@@ -224,3 +225,5 @@ if __name__ == "__main__":
         
 
         process_documents(base_dir, labels, subdir, role_labels, fg_EN_map, emb_model, role_vectors, c_window, use_corefs=False)
+    
+    subprocess.run(["python", "semevaltask10/classification.py"])
