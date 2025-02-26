@@ -1,0 +1,628 @@
+article_id,entity_mention,main_role,predicted_main_role
+A9_BG_3431.txt,Русия,Innocent,Innocent
+A9_BG_3431.txt,Владимир Зеленски,Antagonist,Innocent
+A7_URW_BG_2882.txt,Йенс Столтенберг,Antagonist,Antagonist
+BG_538.txt,САЩ,Antagonist,Antagonist
+BG_629.txt,Аржентина,Antagonist,Antagonist
+A9_BG_5082.txt,Володимир Зеленски,Innocent,Antagonist
+BG_971.txt,Бил Гейтс,Antagonist,Innocent
+A7_URW_BG_4793.txt,Съединените американски щати,Antagonist,Innocent
+BG_1098.txt,Shell,Antagonist,Innocent
+BG_1163.txt,Брюксел,Antagonist,Antagonist
+BG_630.txt,Илон Мъск,Protagonist,Protagonist
+A9_BG_3109.txt,Джо Байдън,Antagonist,Antagonist
+A7_URW_BG_5720.txt,Зеленски,Antagonist,Innocent
+BG_839.txt,Кремъл,Antagonist,Innocent
+BG_3079.txt,Русия,Protagonist,Antagonist
+BG_939.txt,Урсула фон дер Лай/н/ен,Antagonist,Innocent
+BG_3909.txt,Западните страни,Antagonist,Antagonist
+A9_BG_4905.txt,Украйна,Antagonist,Innocent
+A9_BG_3599.txt,Армения,Protagonist,Protagonist
+BG_676.txt,Украйна,Innocent,Innocent
+BG_3909.txt,Западът,Antagonist,Antagonist
+BG_4366.txt,Европа,Antagonist,Innocent
+A7_URW_BG_4629.txt,САЩ,Antagonist,Innocent
+BG_538.txt,Русия,Innocent,Innocent
+A9_BG_3379.txt,Лондон,Antagonist,Antagonist
+BG_3867.txt,Украйна,Antagonist,Antagonist
+A9_BG_4185.txt,Запада,Antagonist,Innocent
+A7_URW_BG_6121.txt,Европа,Antagonist,Antagonist
+BG_629.txt,НАТО,Antagonist,Antagonist
+BG_699.txt,Русия,Innocent,Innocent
+A9_BG_4216.txt,Великобритания,Antagonist,Innocent
+BG_480.txt,Ермак,Antagonist,Antagonist
+A9_BG_4978.txt,Руската федерация,Innocent,Innocent
+A9_BG_5596.txt,Европа,Antagonist,Innocent
+A9_BG_4839.txt,Украйна,Innocent,Innocent
+BG_508.txt,Русия,Innocent,Antagonist
+A9_BG_3385.txt,Запада,Antagonist,Antagonist
+BG_637.txt,Украйна,Innocent,Antagonist
+A9_BG_4830.txt,САЩ,Antagonist,Antagonist
+A9_BG_4885.txt,Джо Байдън,Antagonist,Innocent
+A9_BG_3290.txt,Шолц,Antagonist,Antagonist
+BG_7367.txt,Украйна,Antagonist,Antagonist
+BG_1164.txt,европейците,Innocent,Innocent
+A7_URW_BG_2783.txt,Санду,Antagonist,Innocent
+A7_URW_BG_4906.txt,патриарх Даниил,Innocent,Antagonist
+A9_BG_4605.txt,Владимир Зеленски,Antagonist,Innocent
+A9_BG_4768.txt,Киев,Innocent,Antagonist
+A6_CC_BG_9522.txt,Австралия,Antagonist,Innocent
+BG_457.txt,Вашингтон,Innocent,Innocent
+BG_4613.txt,Запада,Antagonist,Protagonist
+A9_BG_4971.txt,Украйна,Antagonist,Antagonist
+A6_CC_BG_11388.txt,Citigroup Inc,Antagonist,Antagonist
+BG_894.txt,Джон Стосел,Protagonist,Innocent
+A7_URW_BG_5925.txt,Джорджа Мелони,Antagonist,Antagonist
+A7_URW_BG_8093.txt,Америка,Antagonist,Antagonist
+A9_BG_6815.txt,Литва,Innocent,Antagonist
+BG_696.txt,Украйна,Antagonist,Antagonist
+A9_BG_3734.txt,Русия,Antagonist,Antagonist
+A9_BG_3586.txt,Украйна,Innocent,Innocent
+A7_URW_BG_3499.txt,НАТО,Antagonist,Protagonist
+A9_BG_3543.txt,Украйна,Antagonist,Antagonist
+BG_559.txt,Сирия,Innocent,Protagonist
+A7_URW_BG_2710.txt,Европейският съюз,Antagonist,Protagonist
+A9_BG_4389.txt,Путин,Protagonist,Innocent
+A9_BG_4216.txt,НАТО,Antagonist,Innocent
+BG_3671.txt,големите западни демокрации,Antagonist,Innocent
+BG_548.txt,САЩ,Protagonist,Antagonist
+A7_URW_BG_6121.txt,Джордж Сорос,Antagonist,Innocent
+BG_869.txt,Володимир Зеленски,Protagonist,Innocent
+A7_URW_BG_2710.txt,САЩ,Antagonist,Antagonist
+BG_696.txt,Вашингтон,Antagonist,Innocent
+BG_628.txt,Валери Герасимов,Antagonist,Innocent
+BG_473.txt,Владимир Путин,Antagonist,Protagonist
+BG_894.txt,Европа,Innocent,Innocent
+BG_3351.txt,Путин,Protagonist,Antagonist
+A7_URW_BG_3808.txt,САЩ,Antagonist,Antagonist
+A9_BG_3298.txt,САЩ,Antagonist,Protagonist
+BG_616.txt,Въоръжените сили на Украйна (ВСУ,Antagonist,Antagonist
+BG_1345.txt,Байдън,Antagonist,Antagonist
+BG_423.txt,руското население,Innocent,Antagonist
+A9_BG_6229.txt,Украйна,Innocent,Protagonist
+A7_URW_BG_5868.txt,Владимир Путин,Antagonist,Innocent
+BG_3079.txt,ЕС,Antagonist,Antagonist
+A9_BG_4898.txt,Владимир Путин,Antagonist,Antagonist
+A9_BG_4483.txt,Киев,Antagonist,Innocent
+BG_4845.txt,Въоръжените сили на Украйна,Antagonist,Innocent
+BG_504.txt,САЩ,Antagonist,Antagonist
+BG_637.txt,Макрон,Antagonist,Innocent
+BG_701.txt,Европейският съюз,Antagonist,Antagonist
+BG_585.txt,Темрюк,Innocent,Antagonist
+A6_CC_BG_11388.txt,Bank of America Corp,Antagonist,Antagonist
+A9_BG_3290.txt,САЩ,Antagonist,Protagonist
+BG_541.txt,НАТО,Antagonist,Innocent
+A9_BG_2972.txt,Украйна,Antagonist,Protagonist
+BG_663.txt,САЩ,Antagonist,Innocent
+A7_URW_BG_5077.txt,Джо Байдън,Antagonist,Innocent
+BG_526.txt,Вашингтон,Antagonist,Innocent
+BG_423.txt,Зеленски,Antagonist,Innocent
+A9_BG_3142.txt,Чхиквадзе,Antagonist,Innocent
+BG_616.txt,Севастопол,Innocent,Antagonist
+BG_582.txt,Щатите,Innocent,Innocent
+BG_684.txt,Украйна,Antagonist,Innocent
+A9_BG_5225.txt,Литва,Innocent,Antagonist
+BG_585.txt,Краснодар,Innocent,Antagonist
+BG_582.txt,Северна Корея,Antagonist,Innocent
+BG_751.txt,Украйна,Innocent,Antagonist
+BG_699.txt,Франция,Antagonist,Innocent
+BG_538.txt,Севастопол,Innocent,Antagonist
+BG_1089.txt,България,Antagonist,Antagonist
+A7_URW_BG_3564.txt,Владимир Путин,Protagonist,Protagonist
+BG_494.txt,Украйна,Antagonist,Protagonist
+BG_839.txt,Украйна,Innocent,Innocent
+A9_BG_4851.txt,Греъм,Antagonist,Antagonist
+BG_855.txt,ЕС,Antagonist,Innocent
+BG_4819.txt,Русия,Antagonist,Innocent
+A7_URW_BG_2882.txt,Матео Салвини,Protagonist,Innocent
+BG_551.txt,САЩ,Antagonist,Protagonist
+BG_723.txt,КНДР,Antagonist,Protagonist
+BG_553.txt,Украйна,Innocent,Antagonist
+A9_BG_5226.txt,Владимир Путин,Antagonist,Innocent
+BG_629.txt,НАТО,Antagonist,Innocent
+A9_BG_5817.txt,Брюксел,Antagonist,Antagonist
+A9_BG_2931.txt,Запада,Antagonist,Antagonist
+A9_BG_3431.txt,Вашингтон,Antagonist,Antagonist
+A8_CC_BG_8654.txt,Европейския съюз (ЕС,Antagonist,Antagonist
+BG_561.txt,Унгария,Protagonist,Antagonist
+BG_480.txt,Владимир Зеленски,Antagonist,Protagonist
+BG_430.txt,САЩ,Antagonist,Antagonist
+BG_704.txt,Югославия,Innocent,Antagonist
+A7_URW_BG_3572.txt,Будапеща,Protagonist,Innocent
+BG_637.txt,Шолц,Antagonist,Innocent
+A7_URW_BG_7035.txt,Запад,Antagonist,Antagonist
+BG_1163.txt,ЕС,Antagonist,Antagonist
+BG_509.txt,Запада,Antagonist,Innocent
+BG_839.txt,Володимир Зеленски,Protagonist,Protagonist
+A9_BG_6875.txt,Европейския съюз,Antagonist,Innocent
+A6_CC_BG_11938.txt,Ландрут,Protagonist,Innocent
+A7_URW_BG_7035.txt,Орбан,Protagonist,Innocent
+A9_BG_2973.txt,Кишинев,Antagonist,Innocent
+BG_637.txt,НАТО,Antagonist,Antagonist
+BG_704.txt,Цхинвал,Innocent,Antagonist
+A7_URW_BG_5077.txt,Европейският съюз,Antagonist,Antagonist
+A7_URW_BG_5857.txt,НАТО,Protagonist,Innocent
+A6_CC_BG_12082.txt,Европейският съюз,Antagonist,Innocent
+BG_423.txt,Източна Украйна,Antagonist,Antagonist
+BG_799.txt,Севастопол,Innocent,Antagonist
+A7_URW_BG_5448.txt,Путин,Antagonist,Antagonist
+BG_513.txt,Байдън,Antagonist,Innocent
+A7_URW_BG_4629.txt,НАТО,Antagonist,Innocent
+A7_URW_BG_2710.txt,Европейският съюз,Antagonist,Innocent
+BG_4366.txt,Съединените щати,Antagonist,Innocent
+BG_456.txt,КНДР,Antagonist,Innocent
+A7_URW_BG_3566.txt,Съединените американски щати,Antagonist,Antagonist
+BG_696.txt,Русия,Innocent,Antagonist
+A9_BG_7303.txt,Клинтън,Antagonist,Antagonist
+BG_679.txt,САЩ,Antagonist,Antagonist
+A9_BG_8028.txt,Вашингтон,Antagonist,Innocent
+BG_8385.txt,НАТО,Antagonist,Protagonist
+A9_BG_4576.txt,Украйна,Protagonist,Innocent
+BG_704.txt,М.Саакашвили,Antagonist,Antagonist
+BG_629.txt,Турция,Innocent,Innocent
+A9_BG_3704.txt,Съединените щати,Antagonist,Innocent
+BG_839.txt,Китай,Antagonist,Innocent
+BG_1767.txt,Вашингтон,Antagonist,Antagonist
+BG_624.txt,Руската федерация,Innocent,Antagonist
+BG_546.txt,САЩ,Antagonist,Antagonist
+BG_3867.txt,Руската федерация,Innocent,Antagonist
+A7_URW_BG_3062.txt,ЕС,Antagonist,Innocent
+BG_4624.txt,Украйна,Antagonist,Antagonist
+BG_559.txt,Украйна,Innocent,Protagonist
+A9_BG_5903.txt,Америка,Antagonist,Antagonist
+A9_BG_6815.txt,Владимир Путин,Antagonist,Innocent
+BG_576.txt,Украйна,Antagonist,Innocent
+A7_URW_BG_2962.txt,Европа,Innocent,Innocent
+A9_BG_3762.txt,Запад,Antagonist,Antagonist
+A7_URW_BG_6694.txt,Запада,Antagonist,Antagonist
+BG_508.txt,Великобритания,Antagonist,Antagonist
+BG_723.txt,Русия,Antagonist,Protagonist
+BG_629.txt,Югославия,Innocent,Innocent
+BG_3364.txt,Украйна,Innocent,Innocent
+BG_628.txt,Владимир Путин,Protagonist,Antagonist
+A9_BG_3672.txt,Запад,Antagonist,Innocent
+A9_BG_5965.txt,Украйна,Innocent,Protagonist
+A9_BG_4978.txt,САЩ,Antagonist,Antagonist
+BG_1390.txt,BP,Protagonist,Innocent
+A9_BG_3563.txt,Путин,Protagonist,Innocent
+BG_5406.txt,Владимир Путин,Antagonist,Innocent
+BG_548.txt,Украйна,Innocent,Antagonist
+BG_457.txt,Северна Корея»,Antagonist,Innocent
+A9_BG_4622.txt,Шолц,Antagonist,Antagonist
+BG_504.txt,НАТО,Antagonist,Antagonist
+A9_BG_7303.txt,Буш,Antagonist,Antagonist
+A9_BG_3818.txt,Киев,Antagonist,Innocent
+A9_BG_3543.txt,България,Antagonist,Antagonist
+A6_CC_BG_10345.txt,Английският комитет по изменение на климата (CCC,Antagonist,Antagonist
+BG_423.txt,Украйна,Antagonist,Antagonist
+BG_699.txt,Украйна,Antagonist,Innocent
+BG_456.txt,Русия,Antagonist,Innocent
+BG_3909.txt,Западните лидери,Antagonist,Antagonist
+BG_6045.txt,Русия,Antagonist,Innocent
+BG_423.txt,Украйна,Antagonist,Antagonist
+A7_URW_BG_3062.txt,Урсула фон дер Лайен,Antagonist,Innocent
+BG_4366.txt,украинските въоръжени сили,Antagonist,Antagonist
+A7_URW_BG_4359.txt,Зеленски,Antagonist,Antagonist
+BG_3079.txt,НАТО,Antagonist,Antagonist
+BG_439.txt,Зеленски,Antagonist,Antagonist
+BG_637.txt,Байдън,Antagonist,Antagonist
+A9_BG_5984.txt,Украйна,Protagonist,Antagonist
+BG_5918.txt,Украйна,Antagonist,Innocent
+A7_URW_BG_6121.txt,Унгария,Innocent,Innocent
+A9_BG_5965.txt,Зеленски,Antagonist,Protagonist
+A8_CC_BG_9754.txt,Хелен Валгрен,Antagonist,Innocent
+BG_508.txt,САЩ,Antagonist,Antagonist
+A8_CC_BG_8534.txt,Русия,Protagonist,Protagonist
+BG_4366.txt,Вашингтон,Antagonist,Antagonist
+BG_620.txt,Русия,Innocent,Antagonist
+A9_BG_3390.txt,Русия,Innocent,Innocent
+BG_4884.txt,Украйна,Antagonist,Antagonist
+BG_704.txt,Русия,Protagonist,Innocent
+A9_BG_7303.txt,Тръмп,Antagonist,Antagonist
+BG_494.txt,Русия,Innocent,Antagonist
+A9_BG_3379.txt,Русия,Innocent,Antagonist
+A8_CC_BG_9298.txt,Антониу Гутериш,Protagonist,Antagonist
+BG_3759.txt,САЩ,Antagonist,Antagonist
+BG_699.txt,Великобритания,Antagonist,Innocent
+BG_3671.txt,Украйна,Innocent,Innocent
+A9_BG_4016.txt,НАТО,Antagonist,Innocent
+A9_BG_5143.txt,Киев,Protagonist,Innocent
+A7_URW_BG_3062.txt,Русия,Innocent,Innocent
+A7_URW_BG_3919.txt,Байдън,Antagonist,Antagonist
+BG_1164.txt,европейски елити,Antagonist,Antagonist
+A9_BG_4844.txt,ВСУ,Antagonist,Innocent
+BG_5942.txt,САЩ,Antagonist,Antagonist
+A9_BG_3543.txt,САЩ,Antagonist,Antagonist
+BG_585.txt,Ейск,Innocent,Antagonist
+A7_URW_BG_3566.txt,Европа,Antagonist,Antagonist
+BG_723.txt,Ким Чен Ун,Antagonist,Antagonist
+BG_439.txt,САЩ,Antagonist,Antagonist
+BG_620.txt,Севастопол,Innocent,Antagonist
+BG_701.txt,Украйна,Antagonist,Antagonist
+BG_684.txt,Турция,Antagonist,Innocent
+BG_676.txt,Путин,Protagonist,Antagonist
+BG_8060.txt,САЩ,Antagonist,Innocent
+A9_BG_3652.txt,Брюксел,Antagonist,Antagonist
+BG_529.txt,Вашингтон,Antagonist,Antagonist
+BG_559.txt,Вашингтон,Innocent,Innocent
+A9_BG_4851.txt,Запада,Antagonist,Antagonist
+A7_URW_BG_5925.txt,Урсула фон дер Лайен,Antagonist,Antagonist
+A7_URW_BG_3240.txt,САЩ,Antagonist,Protagonist
+A7_URW_BG_4663.txt,Борис Джонсън,Antagonist,Antagonist
+A9_BG_4718.txt,Галущенко,Antagonist,Innocent
+A9_BG_3109.txt,Виктория Нуланд,Antagonist,Antagonist
+A9_BG_4840.txt,САЩ,Antagonist,Antagonist
+A7_URW_BG_5634.txt,Киев,Protagonist,Antagonist
+A9_BG_4737.txt,Владимир Путин,Protagonist,Innocent
+BG_430.txt,САЩ,Antagonist,Antagonist
+A9_BG_3142.txt,Сабанадзе,Antagonist,Innocent
+BG_612.txt,САЩ,Antagonist,Innocent
+BG_548.txt,България,Innocent,Protagonist
+A9_BG_4272.txt,Съединените американски щати,Antagonist,Innocent
+A7_URW_BG_3564.txt,Западът,Antagonist,Protagonist
+A9_BG_4851.txt,Нюланд,Antagonist,Antagonist
+BG_696.txt,Лондон,Antagonist,Innocent
+A9_BG_5225.txt,Владимир Путин,Antagonist,Antagonist
+A7_URW_BG_8093.txt,Европа,Protagonist,Antagonist
+A9_BG_2566.txt,Латвия,Antagonist,Innocent
+A7_URW_BG_5178.txt,Украйна,Innocent,Antagonist
+BG_8455.txt,Украйна,Antagonist,Antagonist
+A9_BG_3290.txt,Зеленски,Antagonist,Antagonist
+BG_546.txt,Украйна,Antagonist,Antagonist
+BG_624.txt,Украинските въоръжени сили (ВСУ,Antagonist,Antagonist
+BG_637.txt,Урсула,Antagonist,Innocent
+A9_BG_3142.txt,Украйна,Antagonist,Antagonist
+A9_BG_2972.txt,САЩ,Antagonist,Innocent
+A6_CC_BG_10345.txt,Крис Старк,Antagonist,Antagonist
+BG_4713.txt,Западът,Antagonist,Antagonist
+A9_BG_4189.txt,Великобритания,Antagonist,Antagonist
+BG_509.txt,САЩ,Antagonist,Innocent
+A9_BG_437.txt,Зеленски,Antagonist,Antagonist
+BG_670.txt,Запад,Antagonist,Antagonist
+A6_CC_BG_8520.txt,Терзиев,Antagonist,Innocent
+A9_BG_3390.txt,НАТО,Antagonist,Antagonist
+BG_620.txt,Съединените щати,Antagonist,Antagonist
+BG_521.txt,Крим,Innocent,Antagonist
+A7_URW_BG_5077.txt,НАТО,Antagonist,Antagonist
+A9_BG_3390.txt,Западът,Antagonist,Innocent
+A9_BG_3652.txt,Вашингтон,Antagonist,Antagonist
+A7_URW_BG_5925.txt,Мелони,Antagonist,Protagonist
+BG_3364.txt,Владимир Путин,Protagonist,Innocent
+A9_BG_3779.txt,Макрон,Antagonist,Antagonist
+A9_BG_4374.txt,Байдън,Antagonist,Antagonist
+BG_3368.txt,Владимир Путин,Protagonist,Innocent
+BG_1249.txt,Дейвид Атънбъро,Protagonist,Protagonist
+BG_866.txt,НАТО,Protagonist,Innocent
+A9_BG_3204.txt,Олаф Шолц,Antagonist,Antagonist
+BG_435.txt,Владимир Зеленски,Innocent,Innocent
+A7_URW_BG_5265.txt,Зеленски,Antagonist,Antagonist
+BG_548.txt,Путин,Antagonist,Antagonist
+BG_676.txt,Зеленски,Innocent,Innocent
+A9_BG_3652.txt,ЕС,Antagonist,Antagonist
+BG_435.txt,Вашингтон,Antagonist,Antagonist
+BG_7367.txt,Западът,Antagonist,Antagonist
+BG_454.txt,Киев,Antagonist,Antagonist
+A9_BG_5155.txt,Съединените щати,Antagonist,Innocent
+BG_4648.txt,Москва,Protagonist,Antagonist
+A7_URW_BG_4230.txt,Западът,Antagonist,Innocent
+BG_869.txt,Китай,Antagonist,Innocent
+BG_676.txt,САЩ,Antagonist,Innocent
+A9_BG_4576.txt,Полша,Antagonist,Innocent
+BG_666.txt,Украйна,Antagonist,Innocent
+A9_BG_4197.txt,НАТО,Antagonist,Antagonist
+A9_BG_5053.txt,Русия,Antagonist,Antagonist
+BG_4732.txt,Владимир Зеленски,Antagonist,Innocent
+A7_URW_BG_3808.txt,Дания,Antagonist,Innocent
+BG_894.txt,САЩ,Innocent,Innocent
+A9_BG_2931.txt,Дейвид Куртен,Protagonist,Protagonist
+BG_529.txt,Севастопол,Innocent,Innocent
+A9_BG_4851.txt,САЩ,Antagonist,Antagonist
+A7_URW_BG_2783.txt,Западът,Antagonist,Antagonist
+A7_URW_BG_3616.txt,Украйна,Antagonist,Antagonist
+BG_1164.txt,ЕС,Antagonist,Antagonist
+A7_URW_BG_4230.txt,Байдън,Antagonist,Antagonist
+BG_573.txt,Енергодар,Innocent,Antagonist
+BG_4624.txt,Русия,Protagonist,Antagonist
+BG_541.txt,Русия,Protagonist,Innocent
+BG_613.txt,Кремъл,Antagonist,Innocent
+BG_699.txt,НАТО,Antagonist,Innocent
+A7_URW_BG_2596.txt,Русия,Innocent,Innocent
+BG_629.txt,Доналд Тръмп,Antagonist,Innocent
+BG_3669.txt,Европа,Innocent,Antagonist
+A9_BG_2566.txt,Естония,Antagonist,Innocent
+BG_696.txt,Брюксел,Antagonist,Innocent
+A9_BG_3385.txt,Украйна,Innocent,Antagonist
+A9_BG_3431.txt,Лондон,Antagonist,Antagonist
+A9_BG_4605.txt,Запад,Antagonist,Antagonist
+BG_457.txt,Путин,Antagonist,Innocent
+BG_463.txt,КНДР,Innocent,Innocent
+A9_BG_3599.txt,Словакия,Protagonist,Protagonist
+A9_BG_5548.txt,Украйна,Protagonist,Innocent
+BG_3909.txt,Русия,Innocent,Antagonist
+BG_4624.txt,Зеленски,Antagonist,Antagonist
+A9_BG_3672.txt,Русия,Innocent,Innocent
+BG_3669.txt,Еманюел Макрон,Antagonist,Antagonist
+BG_678.txt,Западът,Antagonist,Innocent
+BG_508.txt,Украйна,Antagonist,Innocent
+BG_4819.txt,В. Зеленски,Protagonist,Innocent
+BG_751.txt,Путин,Protagonist,Antagonist
+A9_BG_4216.txt,Германия,Antagonist,Innocent
+A6_CC_BG_10525.txt,Италия,Protagonist,Antagonist
+A7_URW_BG_2962.txt,САЩ,Antagonist,Innocent
+BG_670.txt,украински войници,Innocent,Antagonist
+BG_521.txt,Киев,Antagonist,Protagonist
+BG_481.txt,Западът,Antagonist,Innocent
+BG_529.txt,Украйна,Antagonist,Antagonist
+BG_5360.txt,ъединените щати и техните европейски съюзници,Antagonist,Innocent
+A9_BG_3390.txt,ЕС,Antagonist,Antagonist
+BG_678.txt,САЩ,Antagonist,Innocent
+BG_548.txt,Кремъл,Antagonist,Protagonist
+BG_628.txt,Сергей Шойгу,Antagonist,Innocent
+BG_508.txt,Запада,Antagonist,Innocent
+A7_URW_BG_2951.txt,Западът,Antagonist,Antagonist
+BG_473.txt,Владимир Зеленски,Innocent,Protagonist
+A9_BG_5226.txt,Молдова,Innocent,Innocent
+A6_CC_BG_8520.txt,Васил Терзиев,Antagonist,Innocent
+BG_629.txt,САЩ,Antagonist,Innocent
+BG_1767.txt,Брюксел,Antagonist,Antagonist
+A9_BG_4571.txt,НАТО,Antagonist,Antagonist
+A7_URW_BG_6121.txt,Вашингтон,Antagonist,Innocent
+BG_555.txt,Украйна,Antagonist,Protagonist
+A7_URW_BG_7035.txt,Фицо,Protagonist,Innocent
+BG_4732.txt,Обединеното кралство,Antagonist,Innocent
+BG_8060.txt,Украйна,Antagonist,Innocent
+A9_BG_3182.txt,Молдова,Innocent,Protagonist
+BG_8385.txt,НАТО,Antagonist,Antagonist
+A7_URW_BG_2969.txt,НАТО,Antagonist,Antagonist
+BG_497.txt,Въоръжените сили на Украйна (ВСУ,Antagonist,Antagonist
+A9_BG_4389.txt,Владимир Зеленски,Innocent,Innocent
+A7_URW_BG_3566.txt,Руската федерация,Innocent,Antagonist
+BG_679.txt,Украйна,Antagonist,Innocent
+A9_BG_3395.txt,Русия,Innocent,Innocent
+BG_3629.txt,Зеленски,Antagonist,Innocent
+BG_629.txt,Великобритания,Innocent,Antagonist
+A9_BG_5082.txt,САЩ,Antagonist,Innocent
+BG_560.txt,Съединените щати,Antagonist,Antagonist
+BG_463.txt,Съединените щати,Antagonist,Innocent
+BG_561.txt,ЕС,Antagonist,Antagonist
+BG_637.txt,Вашингтон,Antagonist,Innocent
+A9_BG_4971.txt,Полша,Innocent,Innocent
+A7_URW_BG_7035.txt,Европа,Antagonist,Antagonist
+A9_BG_3818.txt,Москва,Protagonist,Antagonist
+A9_BG_5225.txt,Молдова,Innocent,Antagonist
+A7_URW_BG_5683.txt,Франция,Protagonist,Innocent
+A9_BG_4216.txt,Франция,Antagonist,Innocent
+BG_866.txt,Украйна,Innocent,Antagonist
+BG_839.txt,България,Protagonist,Protagonist
+A7_URW_BG_2596.txt,Европа,Antagonist,Innocent
+A7_URW_BG_5735.txt,Владимир Путин,Protagonist,Innocent
+BG_723.txt,Владимир Путин,Antagonist,Antagonist
+BG_576.txt,Съпругата на Владимир Зеленски,Antagonist,Antagonist
+BG_5914.txt,Русия,Antagonist,Innocent
+BG_526.txt,Русия,Innocent,Antagonist
+A7_URW_BG_5178.txt,Владимир Путин,Antagonist,Innocent
+BG_678.txt,Владимир Путин,Protagonist,Innocent
+A9_BG_4571.txt,САЩ,Antagonist,Antagonist
+A7_URW_BG_3618.txt,Зеленски,Antagonist,Antagonist
+BG_684.txt,Южна Осетия,Innocent,Innocent
+A9_BG_4577.txt,Гестапо Зеленски,Antagonist,Antagonist
+BG_751.txt,Западът,Antagonist,Innocent
+BG_423.txt,САЩ,Antagonist,Antagonist
+BG_666.txt,Русия,Protagonist,Innocent
+BG_430.txt,Русия,Innocent,Protagonist
+BG_555.txt,Марк Рюте,Antagonist,Innocent
+BG_866.txt,Русия,Antagonist,Antagonist
+A9_BG_4737.txt,Зеленски,Antagonist,Innocent
+BG_612.txt,Русия,Innocent,Antagonist
+BG_684.txt,Русия,Innocent,Innocent
+A7_URW_BG_3618.txt,Европа,Innocent,Innocent
+BG_526.txt,Севастопол,Innocent,Innocent
+BG_497.txt,Съединените щати,Antagonist,Innocent
+A9_BG_5871.txt,Москва,Antagonist,Antagonist
+A7_URW_BG_6694.txt,Володимир Зеленски,Antagonist,Antagonist
+BG_701.txt,Западът,Antagonist,Antagonist
+A7_URW_BG_2962.txt,САЩ,Antagonist,Antagonist
+BG_620.txt,Вашингтон,Antagonist,Antagonist
+A9_BG_7720.txt,Зеленски,Antagonist,Innocent
+BG_663.txt,Украйна,Antagonist,Antagonist
+BG_541.txt,Украйна,Innocent,Antagonist
+BG_4819.txt,Украйна,Protagonist,Innocent
+A6_CC_BG_11938.txt,ЕС,Protagonist,Protagonist
+A7_URW_BG_6700.txt,Европейския съюз,Antagonist,Innocent
+A9_BG_3440.txt,Русия,Antagonist,Innocent
+A9_BG_7303.txt,ЕС,Antagonist,Antagonist
+BG_616.txt,Пентагона,Antagonist,Antagonist
+BG_6019.txt,Володимир Зеленски,Antagonist,Antagonist
+A7_URW_BG_5634.txt,Москва,Antagonist,Antagonist
+BG_684.txt,Саакашвили,Antagonist,Innocent
+A7_URW_BG_5994.txt,Кремъл,Antagonist,Innocent
+BG_620.txt,Западът,Antagonist,Antagonist
+BG_7379.txt,Украйна,Antagonist,Antagonist
+A7_URW_BG_2658.txt,Байдън,Antagonist,Innocent
+BG_1345.txt,Лонг Бийч,Innocent,Protagonist
+A9_BG_6815.txt,Молдова,Innocent,Antagonist
+BG_4732.txt,Украйна,Antagonist,Antagonist
+BG_553.txt,Западът,Antagonist,Antagonist
+A9_BG_4016.txt,Лондон,Antagonist,Protagonist
+A9_BG_2973.txt,ЕС,Antagonist,Innocent
+BG_799.txt,САЩ,Antagonist,Antagonist
+A7_URW_BG_3370.txt,САЩ,Antagonist,Antagonist
+BG_3351.txt,Зеленски,Antagonist,Innocent
+BG_553.txt,Русия,Protagonist,Protagonist
+A9_BG_4116.txt,Европа,Protagonist,Innocent
+A9_BG_4189.txt,Съединените щати,Antagonist,Antagonist
+A7_URW_BG_2882.txt,НАТО,Antagonist,Innocent
+BG_3351.txt,Русия,Protagonist,Antagonist
+BG_1826.txt,Людмил Кърджилов,Protagonist,Innocent
+A7_URW_BG_5178.txt,Сахел,Innocent,Antagonist
+A9_BG_2566.txt,Литва,Antagonist,Innocent
+A6_CC_BG_8841.txt,WWF България,Protagonist,Protagonist
+BG_481.txt,Русия,Innocent,Antagonist
+BG_457.txt,Владимир Путин,Antagonist,Innocent
+A7_URW_BG_5759.txt,Дагестан,Innocent,Innocent
+BG_8453.txt,Украйна,Antagonist,Innocent
+A9_BG_3379.txt,Запада,Antagonist,Antagonist
+BG_559.txt,Съединените щати,Antagonist,Protagonist
+BG_7367.txt,Володимир Зеленски,Antagonist,Antagonist
+A9_BG_2963.txt,Киев,Antagonist,Innocent
+A9_BG_5402.txt,Киев,Protagonist,Antagonist
+BG_616.txt,Крим,Innocent,Antagonist
+A7_URW_BG_4793.txt,НАТО,Antagonist,Innocent
+BG_678.txt,Русия,Innocent,Innocent
+A9_BG_3675.txt,Макрон,Antagonist,Antagonist
+BG_869.txt,Байдън,Antagonist,Antagonist
+BG_888.txt,JP Morgan,Antagonist,Antagonist
+BG_679.txt,Република Крим,Innocent,Antagonist
+A9_BG_4189.txt,Киев,Antagonist,Antagonist
+BG_855.txt,Руската федерация,Protagonist,Innocent
+BG_612.txt,Райдър,Antagonist,Innocent
+A9_BG_3182.txt,Запада,Antagonist,Antagonist
+BG_3753.txt,САЩ,Antagonist,Antagonist
+BG_480.txt,украинския народ,Innocent,Protagonist
+BG_624.txt,Русия,Innocent,Antagonist
+BG_481.txt,Украйна,Antagonist,Innocent
+BG_630.txt,Русия,Antagonist,Innocent
+A9_BG_3390.txt,Лондон,Antagonist,Innocent
+A7_URW_BG_6975.txt,Владимир Путин,Protagonist,Innocent
+A9_BG_3440.txt,Украйна,Protagonist,Innocent
+BG_679.txt,Русия,Innocent,Antagonist
+BG_751.txt,Зеленски,Antagonist,Antagonist
+A9_BG_3182.txt,НАТО,Antagonist,Antagonist
+BG_6019.txt,Борис Джонсън,Antagonist,Innocent
+BG_3909.txt,Русия,Innocent,Antagonist
+BG_696.txt,НАТО,Antagonist,Antagonist
+A9_BG_3390.txt,Вашингтон,Antagonist,Innocent
+BG_551.txt,Западът,Antagonist,Antagonist
+BG_497.txt,Севастопол,Innocent,Innocent
+BG_585.txt,Северски,Innocent,Antagonist
+A6_CC_BG_10565.txt,YouTube,Antagonist,Innocent
+BG_751.txt,Зеленски,Antagonist,Innocent
+A9_BG_4197.txt,Владимир Зеленски,Antagonist,Innocent
+A9_BG_4606.txt,Владимир Путин,Protagonist,Innocent
+A9_BG_4483.txt,Великобритания,Antagonist,Antagonist
+BG_629.txt,САЩ,Antagonist,Innocent
+A9_BG_6875.txt,Европа,Protagonist,Innocent
+A9_BG_4658.txt,Русия,Antagonist,Antagonist
+A9_BG_4844.txt,Крим,Innocent,Antagonist
+A7_URW_BG_5759.txt,Украинските разузнавателни служби,Antagonist,Innocent
+A7_URW_BG_5178.txt,Сирия,Innocent,Antagonist
+BG_704.txt,Президента на Руската Федерация В.В.Путин,Protagonist,Innocent
+BG_5470.txt,Путин,Antagonist,Antagonist
+BG_3867.txt,западни държави,Antagonist,Antagonist
+BG_670.txt,НАТО,Antagonist,Antagonist
+BG_573.txt,Руската Федерация,Innocent,Protagonist
+A9_BG_3652.txt,НАТО,Antagonist,Antagonist
+BG_839.txt,Путин,Antagonist,Innocent
+BG_723.txt,ООН,Antagonist,Protagonist
+A7_URW_BG_2951.txt,Русия,Innocent,Antagonist
+BG_839.txt,Румен Радев,Antagonist,Antagonist
+A9_BG_4971.txt,Русия,Antagonist,Innocent
+BG_560.txt,Запада,Innocent,Innocent
+BG_869.txt,Русия,Antagonist,Antagonist
+BG_869.txt,Владимир Путин,Antagonist,Antagonist
+A9_BG_3273.txt,Америка,Antagonist,Innocent
+BG_676.txt,Москва,Protagonist,Antagonist
+BG_1352.txt,Кузман Илиев,Protagonist,Protagonist
+BG_1345.txt,Ню Джърси,Innocent,Antagonist
+BG_576.txt,украинските власти,Antagonist,Antagonist
+BG_699.txt,САЩ,Antagonist,Innocent
+BG_576.txt,Елена,Antagonist,Antagonist
+BG_895.txt,Брюксел,Antagonist,Antagonist
+A7_URW_BG_3499.txt,Еманюел Макрон,Antagonist,Protagonist
+BG_573.txt,Зеленски,Antagonist,Innocent
+A9_BG_7690.txt,Европа,Innocent,Protagonist
+A9_BG_2963.txt,Западът,Antagonist,Innocent
+A9_BG_4830.txt,украинските ултранацисти,Antagonist,Antagonist
+BG_1390.txt,Equinor,Protagonist,Innocent
+BG_526.txt,НАТО,Antagonist,Innocent
+A9_BG_5984.txt,Русия,Antagonist,Innocent
+A9_BG_7303.txt,Байдън,Antagonist,Antagonist
+BG_704.txt,Запада,Antagonist,Antagonist
+BG_560.txt,Владимир Путин,Antagonist,Innocent
+BG_751.txt,Путин,Protagonist,Innocent
+A9_BG_4189.txt,Вашингтон,Antagonist,Innocent
+A9_BG_4189.txt,Лондон,Antagonist,Innocent
+BG_676.txt,украинският народ,Innocent,Antagonist
+BG_4613.txt,Владимир Путин,Protagonist,Protagonist
+BG_678.txt,Украйна,Innocent,Antagonist
+BG_548.txt,Кремъл,Antagonist,Protagonist
+BG_699.txt,Германия,Antagonist,Innocent
+A9_BG_4272.txt,Западът,Antagonist,Antagonist
+A7_URW_BG_2783.txt,Американците,Antagonist,Protagonist
+BG_4884.txt,Байдън,Antagonist,Antagonist
+BG_4732.txt,САЩ,Antagonist,Innocent
+A9_BG_8450.txt,Украйна,Antagonist,Innocent
+BG_3909.txt,Украйна,Innocent,Antagonist
+BG_4819.txt,Путин,Antagonist,Innocent
+BG_629.txt,Украйна,Innocent,Innocent
+BG_4228.txt,Виетнам,Protagonist,Innocent
+BG_430.txt,Тръмп,Innocent,Antagonist
+BG_546.txt,Русия,Antagonist,Antagonist
+A7_URW_BG_6700.txt,Съединените щати,Antagonist,Innocent
+BG_5406.txt,Володимир Зеленски,Protagonist,Innocent
+BG_1044.txt,ЕС,Antagonist,Innocent
+A9_BG_5190.txt,Киев,Antagonist,Innocent
+BG_582.txt,Путин,Antagonist,Innocent
+BG_670.txt,САЩ,Antagonist,Antagonist
+BG_1044.txt,ГЕРБ,Antagonist,Innocent
+BG_869.txt,Украйна,Innocent,Antagonist
+A9_BG_4718.txt,Котин,Antagonist,Innocent
+A9_BG_4571.txt,Западът,Antagonist,Antagonist
+BG_551.txt,Русия,Innocent,Innocent
+A9_BG_4606.txt,Киев,Antagonist,Innocent
+A7_URW_BG_5868.txt,Русия,Antagonist,Innocent
+BG_3351.txt,Зеленски,Antagonist,Antagonist
+BG_3671.txt,Роберт Фицо,Protagonist,Antagonist
+BG_866.txt,Африка,Innocent,Innocent
+BG_678.txt,САЩ,Antagonist,Innocent
+BG_866.txt,Соната Култър,Protagonist,Antagonist
+BG_894.txt,Германия,Innocent,Innocent
+BG_4884.txt,Тони Блинкен,Antagonist,Antagonist
+BG_4188.txt,Зеленски,Antagonist,Innocent
+A7_URW_BG_5077.txt,Доналд Тръмп,Protagonist,Innocent
+A7_URW_BG_6975.txt,Вашингтон,Antagonist,Innocent
+BG_457.txt,Украйна,Innocent,Protagonist
+BG_430.txt,американците,Innocent,Antagonist
+A7_URW_BG_2951.txt,Украйна,Antagonist,Innocent
+A9_BG_7303.txt,Обама,Antagonist,Antagonist
+BG_3284.txt,Германия,Antagonist,Innocent
+BG_456.txt,Байдън,Antagonist,Antagonist
+BG_616.txt,Съединените щати,Antagonist,Protagonist
+BG_612.txt,ВСУ,Antagonist,Antagonist
+A7_URW_BG_7035.txt,НАТО,Antagonist,Antagonist
+A9_BG_3431.txt,Киев,Antagonist,Antagonist
+A9_BG_4571.txt,Украйна,Antagonist,Antagonist
+BG_3867.txt,Володимир Зеленски,Antagonist,Innocent
+A9_BG_3586.txt,Blackrock,Antagonist,Innocent
+A7_URW_BG_2786.txt,Олаф Шолц,Antagonist,Innocent
+A7_URW_BG_5078.txt,Владимир Путин,Antagonist,Innocent
+BG_628.txt,Русия,Innocent,Antagonist
+BG_628.txt,Северна Корея,Innocent,Innocent
+BG_555.txt,Вашингтон,Antagonist,Antagonist
+A7_URW_BG_6694.txt,Борис Джонсън,Antagonist,Innocent
+A7_URW_BG_4451.txt,Украйна,Antagonist,Antagonist
+BG_670.txt,Украйна,Antagonist,Antagonist
+BG_560.txt,Киев,Antagonist,Innocent
+BG_473.txt,Запад,Antagonist,Antagonist
+A7_URW_BG_2882.txt,Европейския съюз,Antagonist,Innocent
+BG_629.txt,Афганистан,Antagonist,Antagonist
+A7_URW_BG_5759.txt,НАТО,Antagonist,Innocent
+A9_BG_4483.txt,САЩ,Antagonist,Antagonist
+BG_494.txt,Дагестан,Innocent,Innocent
+BG_3368.txt,Украйна,Innocent,Antagonist
+A6_CC_BG_9522.txt,малките островни държави,Innocent,Innocent
+BG_839.txt,Европа,Protagonist,Protagonist
+A7_URW_BG_5683.txt,Джо Байдън,Protagonist,Innocent
+A7_URW_BG_5735.txt,Русия,Protagonist,Innocent
+A7_URW_BG_5448.txt,Зеленски,Antagonist,Antagonist
+BG_612.txt,Севастопол,Innocent,Antagonist
+BG_529.txt,Русия,Innocent,Innocent
+BG_548.txt,Румен Радев,Antagonist,Antagonist
+A9_BG_3363.txt,Запада,Antagonist,Innocent
+BG_8455.txt,Брюксел,Antagonist,Innocent
+BG_585.txt,киевския режим,Antagonist,Antagonist
+BG_3753.txt,Русия,Protagonist,Innocent
+A9_BG_3779.txt,Шолц,Antagonist,Antagonist
+A7_URW_BG_6121.txt,Брюксел,Antagonist,Innocent
+BG_679.txt,Севастопол,Innocent,Antagonist
+BG_723.txt,Зеленски,Protagonist,Protagonist

@@ -1,0 +1,17 @@
+article_id,entity_mention,main_role,predicted_main_role
+PT_108.txt,Zelenskiy,Innocent,Protagonist
+PT_119.txt,Estados Unidos da América,Antagonist,Antagonist
+PT_337.txt,Marina,Protagonist,Innocent
+PT_49.txt,Stoltenberg,Antagonist,Innocent
+PT_115.txt,União Europeia,Protagonist,Innocent
+PT_188.txt,Pantanal,Innocent,Antagonist
+PT_178.txt,Extinction Rebellion,Protagonist,Innocent
+PT_02.txt,Ucrânia,Antagonist,Antagonist
+PT_316.txt,Rio Grande do Sul,Innocent,Antagonist
+PT_133.txt,Bruxelas,Antagonist,Innocent
+PT_292.txt,Ucrânia,Antagonist,Antagonist
+PT_113.txt,Estados Unidos,Antagonist,Innocent
+PT_248.txt,Sloviansk,Innocent,Innocent
+PT_136.txt,Europa,Innocent,Innocent
+PT_174.txt,Ianomâmis,Innocent,Innocent
+PT_353.txt,Donetsk,Innocent,Innocent

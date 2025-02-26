@@ -20,21 +20,24 @@ class BaseDataset(Dataset):
     language: language directory of the dataset
     folder: folder with raw documents
     """
-    def __init__(self, dataframe, base_dir, sen_num=10, sen_lim=False, return_sentiment = False, language="EN", folder="raw-documents"):
+    def __init__(self, dataframe, base_dir, sen_num=10, sen_lim=False, return_sentiment = False, language="EN", folder="raw-documents", coref=True):
         self.dataframe = dataframe
         self.base_dir = base_dir
         self.sen_lim = sen_lim
         self.sen_num = sen_num
         self.folder = folder
         self.language = language
+        self.coref = coref
 
         self.lang_map = {
             "EN": ['en', 'en_core_web_sm'],
             "RU": ['ru', 'ru_core_news_sm']
         }
         self.return_sentiment = return_sentiment
-        self.coref_nlp = stanza.Pipeline(lang=self.lang_map[self.language][0], processors='tokenize,pos,lemma,ner,depparse,coref', device = 'cpu')
-        self.spacy_nlp = spacy.load(self.lang_map[self.language][1])
+
+        if(self.language in self.lang_map):
+            self.coref_nlp = stanza.Pipeline(lang=self.lang_map[self.language][0], processors='tokenize,pos,lemma,ner,depparse,coref', device = 'cpu')
+            self.spacy_nlp = spacy.load(self.lang_map[self.language][1])
 
         if self.return_sentiment:
             self.tokenizer = AutoTokenizer.from_pretrained("tabularisai/multilingual-sentiment-analysis")
@@ -175,6 +178,28 @@ class BaseDataset(Dataset):
                     feature_sentences.append(sentence.text)
                     break
         return " ".join(feature_words), " ".join(feature_sentences)
+    
+    def extract_entity_sentence(self, text, entity_offsets) -> str:
+        """
+        Extracts sentences with the entity mention
+
+        Args:
+        text: input text
+        entity_mention: entity mention in the text
+
+        Returns:
+        str: sentence with the entity mention
+
+        """
+        start, end = entity_offsets
+
+        while start > 0 and text[start - 1] != '\n':
+            start -= 1
+        while end < len(text) and text[end] != '\n':
+            end += 1
+
+        return str(text[start:end])
+
 
 class TrainDataset(BaseDataset):
     """
@@ -194,16 +219,33 @@ class TrainDataset(BaseDataset):
             return None
         with open(article_path, 'r', encoding='utf-8') as f:
             text = f.read()
-        text = self._clean_text(text)
-        if text == '':
-            print(f"Empty text for article {article_id}")
-            return None
-        text = self._coref_text(text, entity_mention)
-        word_features, sent_features = self.extract_entity_features(text, entity_mention)
+        
+        
+        if self.coref:
+            text = self._clean_text(text)
+            if text == '':
+                print(f"Empty text for article {article_id}")
+                return None
 
-        if self.return_sentiment:
-            sent_sentiments = self._sent_score(sent_features)
-            word_sentiments = self._sent_score(word_features)
+            text = self._coref_text(text, entity_mention)
+            word_features, sent_features = self.extract_entity_features(text, entity_mention)
+
+            if self.return_sentiment:
+                sent_sentiments = self._sent_score(sent_features)
+                word_sentiments = self._sent_score(word_features)
+                return {
+                    "article_id": article_id,
+                    "word_features": word_features,
+                    "sent_features": sent_features,
+                    "entity_mention": entity_mention,
+                    "start_offset": start_offset,
+                    "end_offset": end_offset,
+                    "sent_sent": sent_sentiments,
+                    "word_sent": word_sentiments,
+                    "main_role": main_role,
+                    "sub_roles": sub_roles,
+                }
+            
             return {
                 "article_id": article_id,
                 "word_features": word_features,
@@ -211,22 +253,34 @@ class TrainDataset(BaseDataset):
                 "entity_mention": entity_mention,
                 "start_offset": start_offset,
                 "end_offset": end_offset,
-                "sent_sent": sent_sentiments,
-                "word_sent": word_sentiments,
                 "main_role": main_role,
                 "sub_roles": sub_roles,
             }
-        
-        return {
-            "article_id": article_id,
-            "word_features": word_features,
-            "sent_features": sent_features,
-            "entity_mention": entity_mention,
-            "start_offset": start_offset,
-            "end_offset": end_offset,
-            "main_role": main_role,
-            "sub_roles": sub_roles,
-        }
+        else:
+            entity_sentence = self.extract_entity_sentence(text, (int(start_offset), int(end_offset)))
+
+            if self.return_sentiment:
+                sent_sentiments = self._sent_score(entity_sentence)
+                return {
+                    "article_id": article_id,
+                    "entity_sentence": entity_sentence,
+                    "entity_mention": entity_mention,
+                    "start_offset": start_offset,
+                    "end_offset": end_offset,
+                    "sent_sent": sent_sentiments,
+                    "main_role": main_role,
+                    "sub_roles": sub_roles,
+                }
+            
+            return {
+                "article_id": article_id,
+                "entity_sentence": entity_sentence,
+                "entity_mention": entity_mention,
+                "start_offset": start_offset,
+                "end_offset": end_offset,
+                "main_role": main_role,
+                "sub_roles": sub_roles,
+            }
 
 class TestDataset(BaseDataset):
     """
@@ -273,6 +327,7 @@ class TestDataset(BaseDataset):
             "word_features": word_features,
             "sent_features": sent_features
         }
+    
 
 if __name__ == "__main__":
     base_dir = "train"

@@ -1,0 +1,687 @@
+article_id,entity_mention,main_role,predicted_main_role
+EN_UA_004209.txt,Minister Alexander Grushko,Protagonist,Innocent
+EN_UA_300070.txt,BIDEN,Antagonist,Innocent
+EN_UA_024050.txt,Ukraine,Antagonist,Antagonist
+EN_CC_100047.txt,John Kerry,Antagonist,Innocent
+EN_CC_200279.txt,Bill Gates,Antagonist,Antagonist
+EN_CC_200154.txt,President Joe Biden,Antagonist,Innocent
+EN_UA_100411.txt,Blinken,Antagonist,Innocent
+EN_UA_024847.txt,Seymour Hersh,Protagonist,Innocent
+EN_UA_024628.txt,United States,Protagonist,Innocent
+EN_CC_200097.txt,Jeremy Strong,Antagonist,Innocent
+EN_CC_200048.txt,JBS,Antagonist,Antagonist
+EN_CC_100004.txt,China,Antagonist,Innocent
+EN_CC_200221.txt,USAID,Antagonist,Protagonist
+EN_UA_025165.txt,the West,Antagonist,Antagonist
+EN_CC_100076.txt,Walt Meier,Antagonist,Innocent
+EN_UA_300016.txt,President Trump,Innocent,Innocent
+EN_UA_024050.txt,Russia,Protagonist,Antagonist
+EN_CC_100038.txt,the Fed,Antagonist,Antagonist
+EN_UA_010909.txt,Moscow,Innocent,Innocent
+EN_UA_004209.txt,Vladimir Putin,Protagonist,Antagonist
+EN_CC_200188.txt,Maryland Public Service Commission,Antagonist,Innocent
+EN_CC_200105.txt,World Economic Forum-,Antagonist,Antagonist
+EN_UA_029053.txt,Russia's,Antagonist,Innocent
+EN_UA_021123.txt,Russian,Antagonist,Innocent
+EN_UA_019640.txt,China,Protagonist,Innocent
+EN_UA_000923.txt,Britain,Protagonist,Antagonist
+EN_UA_013727.txt,NATO,Antagonist,Antagonist
+EN_UA_002531.txt,Klitschko,Protagonist,Innocent
+EN_UA_300012.txt,Ruslan Zinin,Protagonist,Antagonist
+EN_CC_200137.txt,Andreas Malm,Antagonist,Innocent
+EN_UA_300048.txt,BIDEN FAMILY,Antagonist,Innocent
+EN_CC_200022.txt,Denmark,Antagonist,Innocent
+EN_UA_021270.txt,Zelensky admin,Antagonist,Antagonist
+EN_UA_000104.txt,Biden administration,Protagonist,Innocent
+EN_UA_025764.txt,Washington,Antagonist,Protagonist
+EN_CC_200221.txt,Andrei Shleifer,Antagonist,Protagonist
+EN_UA_004343.txt,Ukraine,Protagonist,Innocent
+EN_UA_013617.txt,President Vladimir Putin,Protagonist,Protagonist
+EN_CC_300040.txt,California,Protagonist,Protagonist
+EN_UA_300139.txt,Vladimir Zelensky,Antagonist,Antagonist
+EN_CC_200343.txt,Chris Martz,Protagonist,Antagonist
+EN_UA_300139.txt,Vasily Prozorov,Protagonist,Antagonist
+EN_UA_017831.txt,Vladimir Putin,Antagonist,Innocent
+EN_UA_300076.txt,Ukraine,Antagonist,Innocent
+EN_UA_000923.txt,Boris Johnson,Protagonist,Innocent
+EN_UA_300084.txt,Kiev,Antagonist,Antagonist
+EN_UA_100587.txt,Ukrainians,Innocent,Protagonist
+EN_CC_200052.txt,António Guterres,Antagonist,Antagonist
+EN_CC_200052.txt,Pakistan,Innocent,Antagonist
+EN_UA_300036.txt,The United States,Protagonist,Antagonist
+EN_UA_023816.txt,United States,Antagonist,Antagonist
+EN_CC_200116.txt,Justin Trudeau,Antagonist,Antagonist
+EN_UA_300036.txt,Ukraine,Innocent,Antagonist
+EN_UA_300084.txt,Pentagon,Antagonist,Antagonist
+EN_UA_300108.txt,Marianna Budanova,Innocent,Antagonist
+EN_UA_016012.txt,Russia,Antagonist,Protagonist
+EN_UA_025652.txt,West,Antagonist,Innocent
+EN_UA_026740.txt,Israel,Antagonist,Antagonist
+EN_UA_024050.txt,Poland,Antagonist,Protagonist
+EN_CC_100091.txt,Greta Thunberg,Innocent,Innocent
+EN_CC_200292.txt,Alexandria Ocasio-Cortez,Antagonist,Protagonist
+EN_UA_027676.txt,North Korea,Antagonist,Innocent
+EN_UA_100688.txt,Kremlin,Antagonist,Innocent
+EN_UA_014014.txt,Brazil,Innocent,Innocent
+EN_UA_004616.txt,Ukraine,Protagonist,Antagonist
+EN_UA_029155.txt,US,Antagonist,Antagonist
+EN_UA_103025.txt,EU,Antagonist,Protagonist
+EN_UA_027879.txt,Zelensky,Antagonist,Antagonist
+EN_UA_029155.txt,US Navy,Antagonist,Antagonist
+EN_CC_100012.txt,Robert F. Kennedy,Protagonist,Antagonist
+EN_UA_103517.txt,Gershkovich,Protagonist,Antagonist
+EN_CC_200134.txt,UN,Antagonist,Protagonist
+EN_UA_027879.txt,West,Antagonist,Antagonist
+EN_UA_010909.txt,Samantha Power,Antagonist,Innocent
+EN_UA_026142.txt,Palestinians,Innocent,Protagonist
+EN_UA_013617.txt,John Bolton,Antagonist,Antagonist
+EN_UA_300005.txt,Meloni,Antagonist,Protagonist
+EN_CC_100012.txt,Bill Gates-,Antagonist,Antagonist
+EN_UA_014829.txt,US administration,Antagonist,Antagonist
+EN_UA_300139.txt,Ruslan Stefanchuk,Antagonist,Innocent
+EN_UA_003579.txt,World Bank,Protagonist,Innocent
+EN_CC_200227.txt,Mr Al Jaber,Antagonist,Antagonist
+EN_UA_029053.txt,Putin,Antagonist,Innocent
+EN_CC_200150.txt,The New York Times,Antagonist,Innocent
+EN_UA_024050.txt,U.K,Antagonist,Protagonist
+EN_UA_300139.txt,Marina Stefanchuk,Antagonist,Protagonist
+EN_UA_014637.txt,Wagner Group,Antagonist,Innocent
+EN_UA_300142.txt,Vladimir Putin,Antagonist,Antagonist
+EN_UA_300023.txt,Moscow,Antagonist,Innocent
+EN_UA_013344.txt,Vladimir Putin,Antagonist,Protagonist
+EN_UA_300079.txt,Germany,Antagonist,Innocent
+EN_CC_200073.txt,Riley Moore,Protagonist,Innocent
+EN_UA_027879.txt,Washington,Antagonist,Antagonist
+EN_CC_200245.txt,Joe Biden,Antagonist,Antagonist
+EN_UA_103011.txt,BP,Antagonist,Protagonist
+EN_UA_014637.txt,Yevgeny Prigozhin,Antagonist,Antagonist
+EN_UA_103861.txt,Donald Trump,Protagonist,Innocent
+EN_UA_023816.txt,Washington,Antagonist,Antagonist
+EN_UA_300135.txt,Ukraine,Protagonist,Protagonist
+EN_UA_300038.txt,Vladimir Putin,Antagonist,Antagonist
+EN_CC_100012.txt,Biden,Antagonist,Antagonist
+EN_UA_013257.txt,Western countries,Antagonist,Innocent
+EN_UA_002531.txt,Mayor Ivan Fedorov,Innocent,Innocent
+EN_UA_300142.txt,Russia,Antagonist,Antagonist
+EN_UA_014637.txt,Russia,Antagonist,Antagonist
+EN_UA_300153.txt,CIA,Antagonist,Protagonist
+EN_UA_012803.txt,Putin,Antagonist,Antagonist
+EN_CC_100014.txt,Bill Gates,Antagonist,Antagonist
+EN_UA_104523.txt,America’s,Antagonist,Antagonist
+EN_UA_021310.txt,Russia,Antagonist,Innocent
+EN_UA_DEV_216.txt,Hungary,Protagonist,Antagonist
+EN_CC_100123.txt,Professor Harries,Antagonist,Innocent
+EN_UA_029053.txt,Ayatollah Khamenei,Antagonist,Innocent
+EN_UA_026740.txt,South Africa,Protagonist,Antagonist
+EN_UA_017831.txt,Mike Pence,Antagonist,Antagonist
+EN_CC_100012.txt,Dr. Carol Baker,Antagonist,Innocent
+EN_UA_103861.txt,Chinese,Antagonist,Antagonist
+EN_CC_200132.txt,Sri Lanka’s,Antagonist,Antagonist
+EN_UA_300035.txt,Russia,Antagonist,Innocent
+EN_CC_100003.txt,Justin Trudeau,Antagonist,Innocent
+EN_UA_002991.txt,Russia,Antagonist,Antagonist
+EN_UA_010091.txt,Russia,Antagonist,Innocent
+EN_UA_011260.txt,Ukraine,Antagonist,Innocent
+EN_CC_200327.txt,Spiked,Antagonist,Innocent
+EN_UA_DEV_216.txt,the U.S,Antagonist,Innocent
+EN_UA_104876.txt,VLADIMIR Putin,Antagonist,Innocent
+EN_CC_200191.txt,the United Nations,Antagonist,Antagonist
+EN_UA_024050.txt,German generals,Antagonist,Antagonist
+EN_CC_200218.txt,First Solar,Antagonist,Innocent
+EN_UA_300035.txt,President Joe Biden,Protagonist,Innocent
+EN_UA_027676.txt,China,Antagonist,Innocent
+EN_UA_029053.txt,Ukraine,Innocent,Innocent
+EN_CC_100005.txt,COP27,Antagonist,Antagonist
+EN_UA_300052.txt,Russia,Innocent,Protagonist
+EN_UA_002668.txt,Putin,Antagonist,Innocent
+EN_UA_028103.txt,Armin Papperger,Innocent,Innocent
+EN_UA_028520.txt,Viktor Orbán,Antagonist,Innocent
+EN_UA_024847.txt,Ukraine,Antagonist,Innocent
+EN_CC_200242.txt,Biden,Antagonist,Innocent
+EN_UA_013727.txt,Vladimir Putin,Antagonist,Innocent
+EN_UA_DEV_26.txt,Neville Chamberlain,Antagonist,Innocent
+EN_UA_026697.txt,von der Leyen,Antagonist,Innocent
+EN_UA_024321.txt,Yulia Navalnaya,Protagonist,Antagonist
+EN_UA_000923.txt,Germany,Antagonist,Antagonist
+EN_UA_012803.txt,Kremlin,Antagonist,Antagonist
+EN_UA_103995.txt,Yahya al-Sinwar,Antagonist,Antagonist
+EN_CC_200234.txt,Gates,Antagonist,Antagonist
+EN_UA_016012.txt,Ukraine,Innocent,Protagonist
+EN_UA_026142.txt,Iran,Innocent,Protagonist
+EN_UA_017831.txt,Ukraine,Innocent,Innocent
+EN_UA_010735.txt,Russian military,Antagonist,Innocent
+EN_UA_027787.txt,U.S. administration,Antagonist,Innocent
+EN_UA_300023.txt,Ukraine,Innocent,Innocent
+EN_CC_200104.txt,BBC,Antagonist,Innocent
+EN_CC_200105.txt,Canada,Innocent,Innocent
+EN_UA_019640.txt,Russia,Antagonist,Antagonist
+EN_UA_022339.txt,China,Protagonist,Innocent
+EN_UA_300142.txt,Oleg Deripaska,Antagonist,Antagonist
+EN_CC_200022.txt,World Economic Forum,Antagonist,Protagonist
+EN_CC_100136.txt,Global Warming Policy Foundation,Antagonist,Innocent
+EN_CC_200289.txt,IPCC,Antagonist,Innocent
+EN_UA_104876.txt,President Volodymyr Zelensky,Protagonist,Protagonist
+EN_UA_002668.txt,Russia,Antagonist,Antagonist
+EN_CC_100035.txt,Gates,Antagonist,Antagonist
+EN_UA_300153.txt,CIA,Antagonist,Innocent
+EN_CC_100004.txt,ete Buttigieg,Antagonist,Antagonist
+EN_CC_200058.txt,Donald Zepeda,Protagonist,Antagonist
+EN_CC_200097.txt,Aileen Getty,Antagonist,Protagonist
+EN_UA_300129.txt,Kremlin,Antagonist,Antagonist
+EN_CC_300040.txt,Gavin Newsom,Protagonist,Innocent
+EN_UA_019640.txt,West,Antagonist,Innocent
+EN_UA_013617.txt,Western allies,Antagonist,Innocent
+EN_CC_100013.txt,Bill Gates,Antagonist,Innocent
+EN_CC_200154.txt,Biden,Antagonist,Innocent
+EN_UA_300031.txt,Russian President Vladimir Putin,Antagonist,Antagonist
+EN_UA_008072.txt,Putin,Antagonist,Innocent
+EN_UA_DEV_26.txt,U.S,Antagonist,Antagonist
+EN_CC_200021.txt,New York City Mayor Eric Adams,Antagonist,Antagonist
+EN_UA_008586.txt,US,Antagonist,Innocent
+EN_UA_025652.txt,the West,Antagonist,Innocent
+EN_UA_300010.txt,Hunter Biden,Antagonist,Innocent
+EN_CC_200218.txt,Biden,Antagonist,Innocent
+EN_UA_015962.txt,Putin's Russia,Antagonist,Innocent
+EN_UA_011260.txt,Ukraine,Antagonist,Innocent
+EN_UA_100688.txt,Ukrainians,Protagonist,Antagonist
+EN_UA_023008.txt,Hillary Clinton,Antagonist,Antagonist
+EN_UA_022051.txt,London,Antagonist,Innocent
+EN_UA_300053.txt,Ukraine,Antagonist,Antagonist
+EN_UA_002531.txt,Russian forces,Antagonist,Antagonist
+EN_UA_300133.txt,Islamabad,Antagonist,Innocent
+EN_CC_100066.txt,California Resources Corp,Antagonist,Antagonist
+EN_CC_200188.txt,Murphy,Antagonist,Antagonist
+EN_UA_300108.txt,Putin,Antagonist,Innocent
+EN_CC_300040.txt,Exxon,Antagonist,Innocent
+EN_UA_DEV_216.txt,Europe's,Innocent,Innocent
+EN_CC_200086.txt,Dr. Matthew Liao,Antagonist,Antagonist
+EN_UA_013710.txt,Max Boot,Antagonist,Innocent
+EN_UA_300129.txt,the U.S,Antagonist,Antagonist
+EN_UA_300039.txt,Biden administration,Antagonist,Protagonist
+EN_UA_300005.txt,Meloni,Antagonist,Innocent
+EN_UA_DEV_26.txt,Kennedy,Protagonist,Protagonist
+EN_UA_002531.txt,Russians,Antagonist,Innocent
+EN_UA_023008.txt,Davos/UK dominated media,Antagonist,Protagonist
+EN_UA_300006.txt,Joe Biden,Antagonist,Antagonist
+EN_UA_002991.txt,Vladimir Putin,Antagonist,Antagonist
+EN_UA_026142.txt,Zionist,Antagonist,Innocent
+EN_CC_100003.txt,Fonda,Antagonist,Antagonist
+EN_UA_029053.txt,Putin,Antagonist,Innocent
+EN_UA_300139.txt,Kiev,Antagonist,Antagonist
+EN_UA_013257.txt,Russia,Protagonist,Antagonist
+EN_UA_010091.txt,Europe,Protagonist,Innocent
+EN_UA_000923.txt,Russia,Antagonist,Antagonist
+EN_UA_100210.txt,Kiev,Antagonist,Antagonist
+EN_CC_200292.txt,Greta Thunberg,Antagonist,Protagonist
+EN_UA_026740.txt,Palestinians,Innocent,Innocent
+EN_UA_300135.txt,Russia,Antagonist,Protagonist
+EN_CC_100076.txt,Daily Sceptic,Protagonist,Innocent
+EN_UA_102990.txt,Russia,Innocent,Innocent
+EN_CC_100013.txt,Jeffrey Epstein,Antagonist,Innocent
+EN_UA_022339.txt,Ukraine's military,Antagonist,Innocent
+EN_UA_020543.txt,Israel,Innocent,Innocent
+EN_CC_100038.txt,the Fed,Antagonist,Innocent
+EN_CC_200221.txt,Al Gore,Antagonist,Protagonist
+EN_UA_300031.txt,Russia,Antagonist,Antagonist
+EN_UA_101067.txt,RIA Novosti,Antagonist,Antagonist
+EN_CC_200041.txt,EPA,Antagonist,Antagonist
+EN_UA_DEV_26.txt,the CIA,Antagonist,Antagonist
+EN_CC_200221.txt,Carl Sagan,Antagonist,Protagonist
+EN_CC_200137.txt,"Deanna ""Violet"" Coco",Antagonist,Innocent
+EN_UA_013344.txt,Zhirnov,Protagonist,Innocent
+EN_UA_300039.txt,Ohio’s state government,Innocent,Antagonist
+EN_CC_100106.txt,Al Gore,Antagonist,Innocent
+EN_UA_019640.txt,International Criminal Court,Protagonist,Antagonist
+EN_UA_026142.txt,Biden,Antagonist,Innocent
+EN_CC_200134.txt,Leftist elites,Antagonist,Innocent
+EN_UA_021270.txt,Zelensky,Antagonist,Antagonist
+EN_CC_100013.txt,BBC,Antagonist,Innocent
+EN_UA_300073.txt,West,Antagonist,Antagonist
+EN_UA_027787.txt,Dmitry Medvedev,Protagonist,Antagonist
+EN_UA_300082.txt,Russians,Innocent,Innocent
+EN_UA_026142.txt,US-,Antagonist,Protagonist
+EN_UA_026036.txt,Russia,Antagonist,Protagonist
+EN_UA_024050.txt,Germany,Antagonist,Antagonist
+EN_UA_024847.txt,Washington,Antagonist,Antagonist
+EN_UA_024628.txt,Ukraine,Protagonist,Innocent
+EN_UA_028103.txt,Russian intelligence,Antagonist,Innocent
+EN_CC_200098.txt,Democrats,Antagonist,Antagonist
+EN_UA_004343.txt,Ukraine,Protagonist,Protagonist
+EN_UA_027879.txt,the West,Antagonist,Innocent
+EN_UA_012803.txt,Russian government,Antagonist,Protagonist
+EN_UA_003579.txt,IMF,Protagonist,Innocent
+EN_UA_300082.txt,Kiev,Antagonist,Antagonist
+EN_UA_004616.txt,Ukrainians,Protagonist,Innocent
+EN_UA_027676.txt,China,Antagonist,Innocent
+EN_CC_200021.txt,Adams,Antagonist,Innocent
+EN_UA_022339.txt,Zelensky,Antagonist,Innocent
+EN_UA_017831.txt,America,Innocent,Innocent
+EN_UA_300127.txt,China,Antagonist,Antagonist
+EN_UA_024847.txt,United States,Antagonist,Innocent
+EN_UA_004209.txt,Finland,Antagonist,Antagonist
+EN_CC_200327.txt,Spiked,Antagonist,Innocent
+EN_UA_300134.txt,Zelensky,Antagonist,Protagonist
+EN_UA_012611.txt,US,Antagonist,Innocent
+EN_UA_022016.txt,Russia,Antagonist,Innocent
+EN_CC_300064.txt,'Letzte Generation' (Last Generation,Antagonist,Innocent
+EN_CC_200098.txt,Biden,Antagonist,Antagonist
+EN_UA_008586.txt,Washington,Antagonist,Innocent
+EN_UA_DEV_216.txt,EU,Antagonist,Antagonist
+EN_UA_023816.txt,Brussels,Antagonist,Antagonist
+EN_CC_100002.txt,Piers Corbyn,Protagonist,Innocent
+EN_UA_103011.txt,Shell,Antagonist,Protagonist
+EN_UA_002531.txt,Mayor Matveev Sergeevich,Innocent,Innocent
+EN_UA_024321.txt,Russian diplomats,Antagonist,Antagonist
+EN_UA_022051.txt,Kiev,Antagonist,Innocent
+EN_UA_028520.txt,Ukraine,Protagonist,Antagonist
+EN_UA_300076.txt,West,Antagonist,Innocent
+EN_UA_002991.txt,Marina Ovsyannikova,Protagonist,Antagonist
+EN_CC_100036.txt,NASA,Antagonist,Antagonist
+EN_UA_024628.txt,Russia,Antagonist,Innocent
+EN_CC_200097.txt,Adam McKay,Antagonist,Protagonist
+EN_UA_010909.txt,John Kerry,Antagonist,Innocent
+EN_UA_300040.txt,President Biden,Antagonist,Protagonist
+EN_CC_200343.txt,Biden,Antagonist,Antagonist
+EN_CC_200144.txt,Sen. Joe Manchin,Innocent,Innocent
+EN_UA_000923.txt,EU,Antagonist,Antagonist
+EN_CC_100095.txt,Greta Thunberg,Antagonist,Innocent
+EN_UA_024321.txt,Moscow,Antagonist,Antagonist
+EN_UA_013617.txt,Iran,Protagonist,Innocent
+EN_UA_021270.txt,Yermak,Antagonist,Innocent
+EN_UA_DEV_216.txt,Europe,Antagonist,Innocent
+EN_CC_200254.txt,Biden,Antagonist,Innocent
+EN_CC_200144.txt,Amy Klobuchar,Innocent,Antagonist
+EN_UA_021310.txt,China,Antagonist,Innocent
+EN_CC_200110.txt,Democrats,Antagonist,Innocent
+EN_UA_300133.txt,Vladimir Putin,Antagonist,Antagonist
+EN_UA_300117.txt,Russia,Antagonist,Innocent
+EN_UA_021310.txt,US,Protagonist,Innocent
+EN_UA_017310.txt,Ukraine,Protagonist,Innocent
+EN_UA_103517.txt,Putin,Antagonist,Antagonist
+EN_UA_021263.txt,Ukraine,Innocent,Antagonist
+EN_UA_300032.txt,the US,Antagonist,Antagonist
+EN_UA_013710.txt,Iraq,Innocent,Protagonist
+EN_UA_003579.txt,World Trade Organization,Protagonist,Innocent
+EN_CC_200092.txt,National Oceanic and Atmospheric Administration (NOAA,Antagonist,Innocent
+EN_CC_100014.txt,Conservatives,Innocent,Antagonist
+EN_UA_013710.txt,Vietnamese children,Innocent,Antagonist
+EN_UA_026740.txt,ICJ,Antagonist,Innocent
+EN_CC_200048.txt,Letitia James,Antagonist,Innocent
+EN_UA_026142.txt,working class,Protagonist,Innocent
+EN_CC_200137.txt,Jan Goodey,Antagonist,Innocent
+EN_UA_000104.txt,Biden administration,Protagonist,Innocent
+EN_UA_300040.txt,Ukraine,Antagonist,Antagonist
+EN_UA_DEV_26.txt,Soviet Union,Innocent,Innocent
+EN_UA_300016.txt,China,Antagonist,Antagonist
+EN_UA_010909.txt,Ukraine’s intelligence agency,Antagonist,Antagonist
+EN_CC_200104.txt,Sean Seddon,Antagonist,Innocent
+EN_UA_020543.txt,Israel,Innocent,Antagonist
+EN_UA_011260.txt,Ukrainian people,Innocent,Innocent
+EN_UA_003579.txt,international organizations,Protagonist,Innocent
+EN_UA_000923.txt,UK,Protagonist,Innocent
+EN_UA_300129.txt,Russia,Antagonist,Protagonist
+EN_UA_021263.txt,Fetterman,Protagonist,Innocent
+EN_UA_025764.txt,France,Antagonist,Innocent
+EN_CC_200016.txt,Far Left,Antagonist,Innocent
+EN_CC_200016.txt,No Sale Gun,Antagonist,Innocent
+EN_UA_300005.txt,Orbán,Protagonist,Innocent
+EN_UA_300032.txt,London,Antagonist,Innocent
+EN_UA_019640.txt,Russia,Innocent,Antagonist
+EN_UA_022016.txt,Estonian government,Protagonist,Innocent
+EN_CC_200101.txt,Justin Trudeau Liberals,Antagonist,Antagonist
+EN_UA_100411.txt,Coalition Provisional Authority,Antagonist,Antagonist
+EN_CC_300040.txt,ConocoPhillips,Antagonist,Innocent
+EN_UA_026697.txt,Slovak Prime Minister Robert Fico,Innocent,Innocent
+EN_CC_100095.txt,Greta Thunberg,Antagonist,Innocent
+EN_UA_020543.txt,Ukraine,Innocent,Innocent
+EN_UA_300045.txt,Russia,Antagonist,Protagonist
+EN_UA_021310.txt,North Korea,Antagonist,Innocent
+EN_UA_102990.txt,Ukrainian Government,Antagonist,Innocent
+EN_UA_104859.txt,Hunter,Antagonist,Antagonist
+EN_CC_100123.txt,Paul Reiter,Protagonist,Innocent
+EN_CC_100106.txt,Al Gore,Antagonist,Innocent
+EN_UA_011260.txt,Kyiv regime,Antagonist,Antagonist
+EN_UA_014829.txt,Russia,Innocent,Antagonist
+EN_UA_021123.txt,United States,Protagonist,Protagonist
+EN_CC_200188.txt,Biden administration’s,Antagonist,Protagonist
+EN_UA_024050.txt,France,Antagonist,Protagonist
+EN_CC_200092.txt,NOAA,Antagonist,Innocent
+EN_UA_002668.txt,Vlad Putin,Antagonist,Antagonist
+EN_UA_025764.txt,Ukraine,Innocent,Innocent
+EN_UA_014829.txt,President Joe Biden,Antagonist,Antagonist
+EN_CC_200227.txt,COP28,Antagonist,Innocent
+EN_UA_300022.txt,Janet Yellen,Antagonist,Antagonist
+EN_UA_DEV_26.txt,Hitler,Antagonist,Innocent
+EN_UA_003579.txt,World Bank,Protagonist,Antagonist
+EN_UA_300076.txt,West,Antagonist,Innocent
+EN_CC_200104.txt,Esme Stallard,Antagonist,Innocent
+EN_CC_200245.txt,Clinton,Antagonist,Antagonist
+EN_UA_028520.txt,The European Union,Protagonist,Antagonist
+EN_UA_029053.txt,Keir Starmer,Antagonist,Protagonist
+EN_UA_014413.txt,GRU,Antagonist,Protagonist
+EN_UA_300040.txt,Ukrainians,Innocent,Protagonist
+EN_UA_027676.txt,Russia,Antagonist,Innocent
+EN_UA_300153.txt,Oleksii Reznikov,Antagonist,Innocent
+EN_UA_012611.txt,Russia,Innocent,Innocent
+EN_UA_025764.txt,Washington,Antagonist,Protagonist
+EN_UA_022339.txt,Russian civilians,Innocent,Innocent
+EN_CC_100050.txt,United Nations,Antagonist,Protagonist
+EN_UA_029155.txt,Russia,Innocent,Innocent
+EN_UA_002416.txt,Meta's,Antagonist,Innocent
+EN_UA_103011.txt,Russians,Antagonist,Innocent
+EN_UA_002531.txt,Kyiv Mayor Vitali Klitschko,Protagonist,Innocent
+EN_UA_013617.txt,Saudi Arabia,Protagonist,Innocent
+EN_CC_200221.txt,Larry Summers,Antagonist,Protagonist
+EN_UA_300142.txt,Charles McGonigal,Antagonist,Antagonist
+EN_CC_300040.txt,Shell,Antagonist,Innocent
+EN_UA_002416.txt,Russia,Antagonist,Antagonist
+EN_UA_029155.txt,President of Poland,Antagonist,Innocent
+EN_UA_024628.txt,Ukraine,Innocent,Protagonist
+EN_UA_010091.txt,Ukraine,Innocent,Innocent
+EN_UA_013710.txt,ICC,Antagonist,Innocent
+EN_CC_200324.txt,COP28,Antagonist,Innocent
+EN_UA_024628.txt,Ukraine,Protagonist,Innocent
+EN_CC_100136.txt,Daily Stormer,Antagonist,Antagonist
+EN_UA_012234.txt,KREMLIN propagandists,Antagonist,Antagonist
+EN_CC_200144.txt,Aileen Getty,Antagonist,Protagonist
+EN_UA_300016.txt,President Biden,Antagonist,Antagonist
+EN_UA_026740.txt,Israel,Antagonist,Innocent
+EN_CC_200191.txt,NATO,Antagonist,Antagonist
+EN_UA_300032.txt,Russia,Innocent,Antagonist
+EN_CC_100012.txt,World Economic Forum,Antagonist,Innocent
+EN_UA_016466.txt,the West,Antagonist,Innocent
+EN_UA_027787.txt,Kremlin,Protagonist,Innocent
+EN_UA_104859.txt,GUR,Antagonist,Antagonist
+EN_UA_014829.txt,Sweden,Antagonist,Innocent
+EN_UA_024050.txt,Weimar Triangle,Antagonist,Innocent
+EN_UA_013727.txt,NATO,Antagonist,Innocent
+EN_UA_004209.txt,Russia,Protagonist,Innocent
+EN_UA_103025.txt,Joe Biden,Antagonist,Protagonist
+EN_UA_000923.txt,Putin,Antagonist,Innocent
+EN_UA_300071.txt,Russia,Innocent,Innocent
+EN_CC_200073.txt,BlackRock,Antagonist,Innocent
+EN_UA_014014.txt,IMF,Antagonist,Innocent
+EN_CC_200097.txt,Rory Kennedy,Antagonist,Protagonist
+EN_UA_300038.txt,OLEKSANDR USYK,Protagonist,Antagonist
+EN_UA_029053.txt,Biden,Protagonist,Innocent
+EN_UA_300040.txt,Russian Federation,Protagonist,Antagonist
+EN_UA_300013.txt,The West,Antagonist,Antagonist
+EN_CC_200098.txt,Biden,Antagonist,Antagonist
+EN_UA_000923.txt,Brexit Britain,Protagonist,Innocent
+EN_CC_100005.txt,Stopp Oljeletinga,Antagonist,Antagonist
+EN_UA_300090.txt,NATO,Antagonist,Innocent
+EN_UA_300132.txt,The United States,Antagonist,Innocent
+EN_UA_022016.txt,Ukraine,Protagonist,Innocent
+EN_UA_000104.txt,government of Germany,Antagonist,Antagonist
+EN_CC_100014.txt,Purina's Dumor,Antagonist,Innocent
+EN_UA_000104.txt,McConnell,Protagonist,Innocent
+EN_UA_011260.txt,European Union,Antagonist,Antagonist
+EN_UA_012611.txt,Norway,Antagonist,Antagonist
+EN_CC_200134.txt,North America,Innocent,Innocent
+EN_UA_DEV_26.txt,the Pentagon,Antagonist,Antagonist
+EN_CC_100124.txt,Al Gore,Antagonist,Protagonist
+EN_UA_004616.txt,Russians,Antagonist,Innocent
+EN_UA_026142.txt,Macron,Antagonist,Innocent
+EN_UA_016466.txt,Russia,Protagonist,Protagonist
+EN_UA_300009.txt,Fail Alsynov,Protagonist,Innocent
+EN_UA_026142.txt,Julian Assange,Protagonist,Antagonist
+EN_UA_300139.txt,Mykola Stefanchuck,Antagonist,Protagonist
+EN_UA_DEV_26.txt,Khrushchev,Protagonist,Protagonist
+EN_CC_200144.txt,Climate Emergency Fund (CEF,Antagonist,Innocent
+EN_UA_022016.txt,Kyiv,Protagonist,Innocent
+EN_CC_200292.txt,Pope Francis,Antagonist,Protagonist
+EN_UA_103861.txt,Hamas,Antagonist,Antagonist
+EN_UA_024628.txt,Moscow,Antagonist,Protagonist
+EN_UA_013727.txt,U.S,Protagonist,Innocent
+EN_CC_200234.txt,United Nations (UN,Antagonist,Antagonist
+EN_CC_200113.txt,Trump,Antagonist,Innocent
+EN_UA_300135.txt,President Zelensky,Protagonist,Protagonist
+EN_UA_300013.txt,The US,Antagonist,Innocent
+EN_UA_300006.txt,Ukraine,Innocent,Innocent
+EN_UA_004209.txt,NATO,Antagonist,Innocent
+EN_UA_100688.txt,Vladimir Putin,Antagonist,Antagonist
+EN_CC_200245.txt,John Kerry,Antagonist,Antagonist
+EN_UA_019640.txt,Russia,Antagonist,Antagonist
+EN_UA_019640.txt,Russia,Protagonist,Innocent
+EN_UA_021270.txt,Zelensky's,Antagonist,Innocent
+EN_CC_200144.txt,Biden administration,Antagonist,Protagonist
+EN_CC_100076.txt,Daily Sceptic,Innocent,Antagonist
+EN_UA_026697.txt,Jourova,Antagonist,Innocent
+EN_CC_200092.txt,Bill Gates,Antagonist,Antagonist
+EN_UA_300050.txt,Brussels,Antagonist,Innocent
+EN_UA_103861.txt,China,Antagonist,Antagonist
+EN_UA_024847.txt,Joe Biden,Antagonist,Innocent
+EN_CC_200058.txt,ackson Green,Protagonist,Antagonist
+EN_CC_100076.txt,Reuters,Antagonist,Antagonist
+EN_UA_025652.txt,US-,Antagonist,Innocent
+EN_CC_200145.txt,Kerry,Antagonist,Innocent
+EN_UA_026142.txt,Zelensky,Antagonist,Protagonist
+EN_CC_200145.txt,Kerry,Antagonist,Innocent
+EN_UA_012803.txt,Vladimir Putin,Antagonist,Antagonist
+EN_UA_300053.txt,Zelensky,Antagonist,Innocent
+EN_CC_200073.txt,BlackRock’s,Antagonist,Antagonist
+EN_UA_100601.txt,Russia,Antagonist,Antagonist
+EN_UA_000104.txt,Ukraine,Innocent,Innocent
+EN_CC_100095.txt,Irma Kjellström,Protagonist,Innocent
+EN_CC_200097.txt,Climate Emergency Fund,Antagonist,Innocent
+EN_UA_016466.txt,Putin,Antagonist,Antagonist
+EN_UA_022339.txt,Western powers,Antagonist,Innocent
+EN_UA_010735.txt,Russia,Antagonist,Antagonist
+EN_UA_021263.txt,Israel,Innocent,Antagonist
+EN_UA_019640.txt,China,Antagonist,Antagonist
+EN_UA_001032.txt,Russia,Antagonist,Antagonist
+EN_UA_008586.txt,Brussels,Antagonist,Innocent
+EN_UA_013710.txt,ICC,Antagonist,Antagonist
+EN_UA_300023.txt,Russia,Antagonist,Innocent
+EN_UA_004616.txt,European countries,Protagonist,Protagonist
+EN_UA_300043.txt,Zelensky,Antagonist,Antagonist
+EN_UA_300053.txt,Kiev,Antagonist,Innocent
+EN_UA_029053.txt,Joe Biden,Antagonist,Protagonist
+EN_UA_103403.txt,Moscow,Antagonist,Antagonist
+EN_UA_024050.txt,German Army,Antagonist,Antagonist
+EN_UA_100864.txt,Putin,Antagonist,Innocent
+EN_UA_300009.txt,Bashkort,Protagonist,Antagonist
+EN_CC_200110.txt,Morfogen,Innocent,Innocent
+EN_CC_200144.txt,White House,Antagonist,Innocent
+EN_UA_021270.txt,Yermak,Antagonist,Antagonist
+EN_UA_027879.txt,Putin,Antagonist,Antagonist
+EN_UA_010091.txt,Kremlin,Antagonist,Antagonist
+EN_UA_024321.txt,Moscow,Antagonist,Innocent
+EN_UA_300139.txt,Ukrainians,Innocent,Innocent
+EN_CC_200262.txt,de,Antagonist,Antagonist
+EN_UA_021872.txt,Finland,Antagonist,Innocent
+EN_CC_200289.txt,NOAA,Antagonist,Innocent
+EN_CC_300040.txt,BP,Antagonist,Innocent
+EN_UA_011260.txt,Ukrainian leadership,Antagonist,Antagonist
+EN_UA_025165.txt,US politicians,Antagonist,Antagonist
+EN_UA_017310.txt,US,Protagonist,Innocent
+EN_UA_021918.txt,China’s Liberation Army,Antagonist,Innocent
+EN_UA_013617.txt,ICC,Antagonist,Innocent
+EN_CC_100047.txt,Democrats,Antagonist,Innocent
+EN_UA_016012.txt,Oleksandr Usyk,Protagonist,Innocent
+EN_CC_200105.txt,Bill Gates,Antagonist,Antagonist
+EN_UA_022339.txt,Prime Minister of Britain Mr. [Boris] Johnson,Antagonist,Antagonist
+EN_UA_300052.txt,Russian people in the West,Innocent,Protagonist
+EN_UA_021310.txt,China,Antagonist,Innocent
+EN_UA_300034.txt,US,Antagonist,Innocent
+EN_UA_025764.txt,Russia,Antagonist,Innocent
+EN_UA_001032.txt,Joe Biden,Protagonist,Antagonist
+EN_UA_103995.txt,Benjamin Netanyahu,Antagonist,Antagonist
+EN_UA_104434.txt,Putin,Antagonist,Antagonist
+EN_UA_001032.txt,Ukraine,Innocent,Antagonist
+EN_UA_100601.txt,Belarus,Antagonist,Antagonist
+EN_UA_002531.txt,Russian military,Antagonist,Innocent
+EN_CC_200073.txt,DeSantis,Antagonist,Innocent
+EN_UA_029155.txt,Volodymyr Zelensky,Antagonist,Innocent
+EN_CC_200105.txt,Mark Van den Oever,Protagonist,Innocent
+EN_UA_300153.txt,the World Economic Forum,Antagonist,Protagonist
+EN_UA_020543.txt,Russia,Antagonist,Innocent
+EN_CC_200327.txt,Ella Whelan,Antagonist,Innocent
+EN_UA_026142.txt,Bogdan Syrotiuk,Innocent,Protagonist
+EN_CC_100136.txt,Lord Lawson,Antagonist,Innocent
+EN_UA_027787.txt,Ukrainian leaders,Antagonist,Innocent
+EN_CC_200318.txt,The Royal College of Physicians,Antagonist,Antagonist
+EN_UA_103732.txt,Zelensky,Antagonist,Antagonist
+EN_CC_200022.txt,United Nations Environment Program,Antagonist,Innocent
+EN_CC_100014.txt,Republicans,Innocent,Antagonist
+EN_UA_002668.txt,Ukrainians,Protagonist,Antagonist
+EN_UA_014014.txt,Lula,Protagonist,Innocent
+EN_UA_300038.txt,Russia,Antagonist,Antagonist
+EN_UA_300073.txt,Kyiv,Antagonist,Innocent
+EN_CC_200021.txt,Adams,Antagonist,Innocent
+EN_UA_026697.txt,Victor Orban,Protagonist,Innocent
+EN_UA_013617.txt,China,Protagonist,Innocent
+EN_CC_200152.txt,Gov. DeSantis,Protagonist,Protagonist
+EN_CC_100035.txt,Soros,Antagonist,Antagonist
+EN_UA_027676.txt,the US,Protagonist,Innocent
+EN_CC_200098.txt,Harris,Antagonist,Antagonist
+EN_UA_025764.txt,Biden,Antagonist,Innocent
+EN_CC_200101.txt,Liberal members of Parliament,Antagonist,Innocent
+EN_UA_013727.txt,Ukraine,Innocent,Antagonist
+EN_UA_013617.txt,American Secretary of State Madeleine Albright,Antagonist,Innocent
+EN_UA_023816.txt,NATO,Antagonist,Antagonist
+EN_CC_100124.txt,Michael Mann,Antagonist,Innocent
+EN_CC_200343.txt,Marxists,Antagonist,Innocent
+EN_UA_024628.txt,Germany,Protagonist,Innocent
+EN_CC_200134.txt,Europe,Innocent,Innocent
+EN_UA_100864.txt,Russia,Antagonist,Antagonist
+EN_UA_004209.txt,NATO,Antagonist,Innocent
+EN_UA_300040.txt,Ukrainian government,Antagonist,Antagonist
+EN_UA_016012.txt,Vasyl Lomachenko,Protagonist,Innocent
+EN_UA_024050.txt,German generals,Antagonist,Antagonist
+EN_UA_013257.txt,Russia,Protagonist,Innocent
+EN_UA_011260.txt,Russia,Protagonist,Antagonist
+EN_CC_200144.txt,Abigail Disney,Antagonist,Protagonist
+EN_UA_029053.txt,Putin,Antagonist,Protagonist
+EN_UA_023008.txt,Carlson,Innocent,Antagonist
+EN_UA_026142.txt,Sunak,Antagonist,Innocent
+EN_UA_300132.txt,the United States,Antagonist,Antagonist
+EN_UA_024847.txt,Russia,Innocent,Innocent
+EN_UA_026142.txt,Bogdan,Protagonist,Protagonist
+EN_CC_200041.txt,Biden regime,Antagonist,Innocent
+EN_CC_200116.txt,Trudeau,Antagonist,Innocent
+EN_UA_001052.txt,German Chancellor Olaf Scholz,Protagonist,Innocent
+EN_UA_300011.txt,President Vladimir Putin,Antagonist,Antagonist
+EN_UA_002531.txt,Russian invaders,Antagonist,Innocent
+EN_CC_300040.txt,Chevron,Antagonist,Innocent
+EN_UA_300082.txt,Kiev,Antagonist,Antagonist
+EN_UA_300023.txt,Russia,Antagonist,Innocent
+EN_UA_300090.txt,Ukraine,Antagonist,Innocent
+EN_UA_000104.txt,Russia,Antagonist,Innocent
+EN_UA_024847.txt,Ukraine,Antagonist,Innocent
+EN_UA_010091.txt,Ukraine,Protagonist,Innocent
+EN_UA_014014.txt,Argentina,Innocent,Innocent
+EN_UA_300108.txt,Alexei Navalny,Innocent,Antagonist
+EN_UA_027676.txt,Kyiv,Innocent,Innocent
+EN_UA_013617.txt,America,Antagonist,Innocent
+EN_CC_200097.txt,Thomas Middleditch,Antagonist,Innocent
+EN_CC_200144.txt,CEF,Antagonist,Protagonist
+EN_UA_026142.txt,Israel,Antagonist,Protagonist
+EN_UA_024628.txt,Washington,Protagonist,Innocent
+EN_UA_021310.txt,Philippines,Innocent,Innocent
+EN_UA_300052.txt,Munich Philharmonic Orchestra,Antagonist,Antagonist
+EN_CC_200191.txt,Scottish government,Antagonist,Antagonist
+EN_UA_013727.txt,U.S,Antagonist,Antagonist
+EN_UA_022051.txt,United Kingdom,Antagonist,Innocent
+EN_CC_200221.txt,Gorbachev,Antagonist,Protagonist
+EN_UA_016012.txt,Zinchenko,Protagonist,Innocent
+EN_CC_200105.txt,Farmers Defence Force,Protagonist,Innocent
+EN_CC_200234.txt,World Economic Forum (WEF,Antagonist,Antagonist
+EN_UA_013617.txt,Putin,Protagonist,Innocent
+EN_CC_200101.txt,Ted Eng,Protagonist,Antagonist
+EN_UA_300108.txt,Sergei Skripal,Innocent,Antagonist
+EN_UA_017831.txt,United States,Innocent,Antagonist
+EN_UA_027676.txt,Putin,Antagonist,Antagonist
+EN_UA_023816.txt,Western countries,Antagonist,Antagonist
+EN_UA_002668.txt,Putin,Antagonist,Antagonist
+EN_UA_028103.txt,Russian government,Antagonist,Antagonist
+EN_CC_200342.txt,Espen Barth Eide,Antagonist,Protagonist
+EN_UA_013617.txt,Russia,Protagonist,Innocent
+EN_UA_025764.txt,Stanislav Petrov,Protagonist,Protagonist
+EN_UA_027879.txt,Russia,Protagonist,Innocent
+EN_UA_013257.txt,Russia,Protagonist,Innocent
+EN_UA_017831.txt,Biden administration,Antagonist,Innocent
+EN_CC_200168.txt,Trump,Antagonist,Protagonist
+EN_UA_001032.txt,Boris Johnson,Protagonist,Antagonist
+EN_UA_300079.txt,United States,Antagonist,Innocent
+EN_UA_300053.txt,Nikolay Solsky,Antagonist,Antagonist
+EN_CC_200245.txt,Gore,Antagonist,Antagonist
+EN_UA_027676.txt,Nato,Protagonist,Innocent
+EN_CC_200016.txt,DemonRAT,Antagonist,Innocent
+EN_CC_100106.txt,Al Gore,Antagonist,Innocent
+EN_UA_300079.txt,Zelensky,Antagonist,Innocent
+EN_UA_300009.txt,Bashkir people,Innocent,Antagonist
+EN_UA_300134.txt,Ukraine,Innocent,Protagonist
+EN_CC_200245.txt,Democrat party,Antagonist,Innocent
+EN_UA_300127.txt,Russia,Antagonist,Antagonist
+EN_CC_200337.txt,The Met Office,Antagonist,Antagonist
+EN_UA_002416.txt,Clegg,Protagonist,Antagonist
+EN_CC_200145.txt,China,Antagonist,Protagonist
+EN_UA_016012.txt,Vladimir Putin,Antagonist,Innocent
+EN_UA_300052.txt,Carnegie Hall,Antagonist,Antagonist
+EN_CC_200041.txt,World Bank,Antagonist,Innocent
+EN_UA_021310.txt,China,Antagonist,Antagonist
+EN_CC_200227.txt,Guardian,Protagonist,Antagonist
+EN_UA_300006.txt,Ukraine,Innocent,Antagonist
+EN_UA_002531.txt,Klitschko,Protagonist,Innocent
+EN_CC_100012.txt,the United Nations,Antagonist,Protagonist
+EN_UA_029053.txt,Volodymyr Zelenskyy,Protagonist,Innocent
+EN_UA_022016.txt,Ukraine,Innocent,Innocent
+EN_CC_200254.txt,Schumer,Antagonist,Antagonist
+EN_UA_100587.txt,Vladimir Putin,Antagonist,Antagonist
+EN_UA_015443.txt,Ukraine,Protagonist,Innocent
+EN_UA_300082.txt,Ukrainian special services,Antagonist,Innocent
+EN_UA_021872.txt,Poland,Antagonist,Innocent
+EN_UA_300000.txt,Putin,Antagonist,Innocent
+EN_UA_027787.txt,the United States,Antagonist,Antagonist
+EN_CC_200016.txt,Climate Defiance,Antagonist,Innocent
+EN_CC_200337.txt,Claire Nasir,Antagonist,Innocent
+EN_UA_300082.txt,Oleg Tsarev,Innocent,Antagonist
+EN_UA_028103.txt,Moscow,Antagonist,Antagonist
+EN_UA_027676.txt,Putin,Antagonist,Innocent
+EN_UA_024628.txt,Berlin,Protagonist,Innocent
+EN_UA_029053.txt,the West,Antagonist,Innocent
+EN_UA_300117.txt,Ukrainians,Innocent,Innocent
+EN_CC_200324.txt,Al Jaber,Antagonist,Innocent
+EN_UA_300079.txt,Joe Biden,Antagonist,Innocent
+EN_CC_200168.txt,Caroline van der Plas,Antagonist,Protagonist
+EN_UA_026142.txt,Scholz,Antagonist,Innocent
+EN_UA_016012.txt,Wladimir Klitschko,Protagonist,Innocent
+EN_UA_021263.txt,Hamas,Antagonist,Antagonist
+EN_UA_300018.txt,Armed Forces of Ukraine,Antagonist,Antagonist
+EN_CC_100014.txt,Tractor Supply's Producer's Pride,Antagonist,Innocent
+EN_CC_200105.txt,Netherlands,Antagonist,Antagonist
+EN_UA_100587.txt,RUSSIA,Antagonist,Antagonist
+EN_CC_100035.txt,Alexandria Ocasio-Cortez,Antagonist,Innocent
+EN_UA_015962.txt,Vyacheslav Gladkov,Protagonist,Innocent
+EN_UA_014829.txt,Vladimir Putin,Innocent,Antagonist
+EN_UA_010735.txt,Russia's,Antagonist,Antagonist
+EN_UA_025165.txt,Kiev,Protagonist,Innocent
+EN_UA_012234.txt,Solovyov,Antagonist,Antagonist
+EN_CC_200097.txt,Abigail Disney,Antagonist,Innocent
+EN_CC_200141.txt,King Charles III,Antagonist,Protagonist
+EN_CC_100004.txt,Al Gore,Antagonist,Antagonist
+EN_CC_200152.txt,Pentagon,Antagonist,Protagonist
+EN_UA_027879.txt,Vladimir Putin,Protagonist,Innocent
+EN_UA_100688.txt,Russia,Antagonist,Protagonist
+EN_UA_100864.txt,Russia,Antagonist,Protagonist
+EN_UA_013710.txt,Putin,Innocent,Innocent
+EN_UA_004209.txt,Russia,Protagonist,Innocent
+EN_UA_300032.txt,Kiev,Antagonist,Innocent
+EN_UA_300031.txt,Ukraine,Innocent,Antagonist
+EN_UA_300048.txt,HUNTER,Antagonist,Protagonist
+EN_UA_300012.txt,Kremlin's,Antagonist,Innocent
+EN_CC_200052.txt,Guterres,Antagonist,Innocent
+EN_UA_013727.txt,U.S,Antagonist,Innocent
+EN_UA_003579.txt,UN World Food Program,Protagonist,Innocent
+EN_CC_200116.txt,Pierre Poilievre,Protagonist,Innocent
+EN_UA_300010.txt,Marjorie Taylor Greene,Protagonist,Innocent
+EN_CC_200021.txt,Melissa McKendree,Protagonist,Innocent
+EN_CC_200292.txt,The United Nations,Antagonist,Protagonist
+EN_UA_300108.txt,Russian intelligence,Antagonist,Antagonist
+EN_CC_200086.txt,WEF,Antagonist,Protagonist
+EN_CC_200016.txt,Red Flag,Antagonist,Innocent
+EN_UA_013257.txt,Russia,Innocent,Antagonist
+EN_UA_002416.txt,Meta,Protagonist,Antagonist
+EN_UA_022051.txt,UK,Antagonist,Innocent
+EN_UA_001052.txt,Blinken,Protagonist,Antagonist

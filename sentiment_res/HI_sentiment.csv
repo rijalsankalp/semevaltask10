@@ -1,0 +1,2332 @@
+article_id,entity_mention,main_role,predicted_main_role
+HI_314.txt,बांग्लादेश,Antagonist,Antagonist
+HI_121.txt,पश्चिमी देशों,Antagonist,Protagonist
+HI_119.txt,मेइतेई,Innocent,Innocent
+HI_49.txt,वादिम कसीकोव,Antagonist,Protagonist
+HI_388.txt,पुतिन,Protagonist,Antagonist
+HI_307.txt,दक्षिण कोरिया,Antagonist,Innocent
+HI_254.txt,पुतिन,Protagonist,Protagonist
+HI_182.txt,यूक्रेन,Innocent,Antagonist
+HI_122.txt,व्लादिमीर पुतिन,Antagonist,Innocent
+HI_105.txt,जनरल स्टाफ,Protagonist,Innocent
+HI_3.txt,पॉल व्हेलन,Innocent,Innocent
+HI_280.txt,डोभाल,Protagonist,Innocent
+HI_61.txt,भारत,Antagonist,Innocent
+HI_46.txt,ग्लोबल साउथ,Protagonist,Innocent
+HI_153.txt,जनरल स्टाफ,Protagonist,Antagonist
+HI_274.txt,यूक्रेनियों,Innocent,Antagonist
+HI_316.txt,पुतिन,Protagonist,Protagonist
+HI_173.txt,पश्चिम,Antagonist,Innocent
+HI_6.txt,जेलेंस्की,Innocent,Antagonist
+HI_320.txt,क्राइमिया,Innocent,Innocent
+HI_274.txt,रूस,Antagonist,Antagonist
+HI_81.txt,नाटो चार्टर,Protagonist,Innocent
+HI_348.txt,अमेरिका,Antagonist,Protagonist
+HI_224.txt,अजीत डोभाल,Protagonist,Innocent
+HI_385.txt,अमेरिका,Protagonist,Innocent
+HI_155.txt,नरेंद्र मोदी सरकार,Protagonist,Antagonist
+HI_222.txt,पुतिन,Protagonist,Antagonist
+HI_104.txt,पुतिन,Antagonist,Innocent
+HI_173.txt,पुतिन,Protagonist,Innocent
+HI_102.txt,पोलटावा,Innocent,Antagonist
+HI_128.txt,व्लादिमीर पुतिन,Antagonist,Innocent
+HI_386.txt,पश्चिमी देशों,Antagonist,Protagonist
+HI_70.txt,पाकिस्तान,Protagonist,Innocent
+HI_314.txt,हिंदुओं,Innocent,Antagonist
+HI_42.txt,रूसी सेना,Antagonist,Antagonist
+HI_319.txt,यूक्रेन,Protagonist,Innocent
+HI_396.txt,बाइडेन,Antagonist,Innocent
+HI_70.txt,अमेरिका,Antagonist,Antagonist
+HI_227.txt,रूस,Antagonist,Antagonist
+HI_66.txt,मॉस्को,Protagonist,Antagonist
+HI_360.txt,ट्रंप,Protagonist,Antagonist
+HI_7.txt,व्लादिमीर पुतिन,Protagonist,Innocent
+HI_331.txt,यूक्रेनी सेना,Protagonist,Antagonist
+HI_318.txt,पश्चिमी देशों,Antagonist,Protagonist
+HI_235.txt,गाजा,Innocent,Antagonist
+HI_385.txt,पुतिन,Protagonist,Innocent
+HI_201.txt,भारत,Protagonist,Protagonist
+HI_55.txt,अमेरिका,Protagonist,Innocent
+HI_307.txt,उत्तर कोरियाई सैनिक,Protagonist,Antagonist
+HI_77.txt,शहर प्रशासन,Protagonist,Protagonist
+HI_52.txt,भारतीय नागरिकों,Innocent,Protagonist
+HI_124.txt,रूस,Antagonist,Innocent
+HI_332.txt,रूस,Antagonist,Antagonist
+HI_44.txt,मोदी,Protagonist,Protagonist
+HI_104.txt,यूक्रेन,Innocent,Innocent
+HI_157.txt,खार्किव,Innocent,Innocent
+HI_101.txt,यूक्रेनियन,Innocent,Antagonist
+HI_205.txt,यूक्रेन,Innocent,Antagonist
+HI_309.txt,रूस,Protagonist,Innocent
+HI_37.txt,मोदी,Protagonist,Antagonist
+HI_245.txt,मार्क रूते,Protagonist,Antagonist
+HI_112.txt,यूरोप,Innocent,Antagonist
+HI_3.txt,इवान गेर्शकोविच,Innocent,Antagonist
+HI_2.txt,मोदी,Protagonist,Protagonist
+HI_52.txt,भारतीय नागरिक,Protagonist,Innocent
+HI_195.txt,नई दिल्ली,Protagonist,Innocent
+HI_277.txt,जासूस,Protagonist,Antagonist
+HI_117.txt,अबू बकर अल-बगदादी,Antagonist,Innocent
+HI_279.txt,यूक्रेन,Protagonist,Innocent
+HI_23.txt,यूक्रेनी,Protagonist,Antagonist
+HI_83.txt,भारत,Protagonist,Protagonist
+HI_201.txt,व्लादिमीर पुतिन,Protagonist,Protagonist
+HI_153.txt,सेवरोडोनेट्स,Innocent,Protagonist
+HI_119.txt,मणिपुर,Innocent,Antagonist
+HI_116.txt,अमेरिका,Antagonist,Antagonist
+HI_197.txt,लड़ाकों,Protagonist,Antagonist
+HI_70.txt,व्लादिमीर पुतिन,Antagonist,Antagonist
+HI_259.txt,जेलेंस्की,Protagonist,Protagonist
+HI_193.txt,भारत,Protagonist,Protagonist
+HI_61.txt,अमेरिका,Antagonist,Innocent
+HI_325.txt,डेमोक्रेटिक पार्टी,Antagonist,Innocent
+HI_121.txt,नरेंद्र मोदी,Protagonist,Protagonist
+HI_254.txt,मोदी,Protagonist,Protagonist
+HI_257.txt,रूस के रक्षा मंत्रालय,Protagonist,Antagonist
+HI_16.txt,भारतीयों,Innocent,Antagonist
+HI_311.txt,नाटो,Protagonist,Innocent
+HI_396.txt,नाटो,Antagonist,Antagonist
+HI_398.txt,यूक्रेन,Protagonist,Antagonist
+HI_231.txt,केंद्र सरकार,Protagonist,Protagonist
+HI_318.txt,पुतिन,Protagonist,Protagonist
+HI_123.txt,चीन,Antagonist,Protagonist
+HI_161.txt,व्लादिमीर पुतिन,Protagonist,Protagonist
+HI_123.txt,मोदी,Protagonist,Antagonist
+HI_27.txt,मणिपुर,Innocent,Innocent
+HI_116.txt,नॉर्वे,Innocent,Innocent
+HI_320.txt,यूक्रेन,Protagonist,Innocent
+HI_306.txt,सेना,Protagonist,Innocent
+HI_87.txt,एस जयशंकर,Protagonist,Innocent
+HI_278.txt,रूस,Antagonist,Antagonist
+HI_117.txt,रूस,Antagonist,Antagonist
+HI_94.txt,चेक गणराज्य,Antagonist,Protagonist
+HI_173.txt,मॉस्को,Protagonist,Innocent
+HI_257.txt,सर्गेई सोब्यानिन,Protagonist,Antagonist
+HI_22.txt,इजराइल,Antagonist,Antagonist
+HI_391.txt,डोनाल्ड ट्रंप,Protagonist,Innocent
+HI_204.txt,यूक्रेन,Protagonist,Protagonist
+HI_22.txt,यूक्रेन,Innocent,Antagonist
+HI_300.txt,मानव जीवन,Innocent,Antagonist
+HI_108.txt,डोनाल्ड ट्रंप,Antagonist,Innocent
+HI_24.txt,उक्रेन,Innocent,Antagonist
+HI_147.txt,भारत,Protagonist,Protagonist
+HI_378.txt,यूक्रेन,Protagonist,Antagonist
+HI_305.txt,रूसी सैनिक,Antagonist,Innocent
+HI_222.txt,यूक्रेनी पक्ष,Antagonist,Protagonist
+HI_281.txt,यूक्रेन,Antagonist,Innocent
+HI_100.txt,यूक्रेनी,Protagonist,Protagonist
+HI_145.txt,इंडोनेशिया की सरकार,Protagonist,Antagonist
+HI_308.txt,चोए सोन हुई,Protagonist,Protagonist
+HI_174.txt,किरिलो बुडानोव,Protagonist,Antagonist
+HI_244.txt,अमेरिका,Antagonist,Innocent
+HI_281.txt,यूक्रेनी कंपनियां,Antagonist,Innocent
+HI_301.txt,रूस,Antagonist,Innocent
+HI_229.txt,रूस,Antagonist,Antagonist
+HI_266.txt,यूक्रेनी सेना,Protagonist,Innocent
+HI_264.txt,रूस,Antagonist,Protagonist
+HI_66.txt,रूस,Antagonist,Innocent
+HI_105.txt,यूक्रेन,Innocent,Antagonist
+HI_389.txt,यूरोपीय सहयोगियों,Antagonist,Innocent
+HI_48.txt,अल-कायदा,Antagonist,Antagonist
+HI_85.txt,रूसी सेना,Antagonist,Protagonist
+HI_180.txt,यूक्रेन,Protagonist,Innocent
+HI_172.txt,व्लादिमीर पुतिन,Antagonist,Innocent
+HI_223.txt,यूक्रेन,Antagonist,Innocent
+HI_238.txt,उत्तराखंड,Innocent,Innocent
+HI_357.txt,यूक्रेनी,Innocent,Antagonist
+HI_206.txt,एडवर्ड स्नोडेन,Protagonist,Antagonist
+HI_164.txt,यूक्रेन,Protagonist,Innocent
+HI_2.txt,यूक्रेन,Innocent,Protagonist
+HI_269.txt,रूस,Protagonist,Antagonist
+HI_40.txt,वादिम,Antagonist,Antagonist
+HI_123.txt,यूक्रेन,Innocent,Antagonist
+HI_176.txt,नाटो मास्टर्स,Antagonist,Antagonist
+HI_168.txt,भारत,Protagonist,Antagonist
+HI_188.txt,नरेन्द्र मोदी,Protagonist,Antagonist
+HI_275.txt,भारत,Protagonist,Antagonist
+HI_39.txt,यूक्रेन,Innocent,Antagonist
+HI_223.txt,रूस,Antagonist,Innocent
+HI_385.txt,रूस,Antagonist,Antagonist
+HI_214.txt,अमेरिका,Protagonist,Antagonist
+HI_387.txt,यूक्रेन,Protagonist,Protagonist
+HI_187.txt,रूस,Antagonist,Antagonist
+HI_87.txt,रूस,Antagonist,Innocent
+HI_257.txt,मॉस्को,Innocent,Innocent
+HI_226.txt,बाइडेन,Antagonist,Protagonist
+HI_66.txt,यूक्रेन,Innocent,Innocent
+HI_46.txt,भारत,Protagonist,Innocent
+HI_341.txt,ओल्गा ओनुच,Protagonist,Innocent
+HI_173.txt,रूस,Protagonist,Antagonist
+HI_396.txt,जो बाइडेन प्रशासन,Antagonist,Antagonist
+HI_91.txt,सारातोव,Innocent,Antagonist
+HI_309.txt,अमेरिका,Protagonist,Innocent
+HI_24.txt,मोदी,Protagonist,Innocent
+HI_106.txt,रूस,Protagonist,Antagonist
+HI_27.txt,नरेंद्र मोदी,Antagonist,Antagonist
+HI_30.txt,ओरबान,Antagonist,Innocent
+HI_135.txt,भारत,Protagonist,Innocent
+HI_27.txt,दिल्ली मेईतेई समन्वय समिति (डीएमसीसी,Protagonist,Antagonist
+HI_174.txt,उत्तर कोरिया,Antagonist,Protagonist
+HI_312.txt,अमेरिका,Antagonist,Antagonist
+HI_311.txt,उत्तर कोरिया,Protagonist,Innocent
+HI_124.txt,पोलैंड,Protagonist,Antagonist
+HI_203.txt,अमेरिका,Protagonist,Protagonist
+HI_204.txt,नौजवानों,Innocent,Protagonist
+HI_105.txt,रूसी सेना,Antagonist,Protagonist
+HI_264.txt,डोनेट्स्क,Innocent,Protagonist
+HI_272.txt,पुतिन,Antagonist,Innocent
+HI_285.txt,किम जोंग,Antagonist,Protagonist
+HI_103.txt,अमेरिका,Protagonist,Antagonist
+HI_388.txt,दिमित्री पेस्कोव,Protagonist,Antagonist
+HI_214.txt,व्लादिमीर जेलेंस्की,Antagonist,Protagonist
+HI_318.txt,मॉस्को,Protagonist,Antagonist
+HI_118.txt,रोमानिया,Protagonist,Protagonist
+HI_257.txt,महिला,Innocent,Antagonist
+HI_22.txt,नाटो,Protagonist,Antagonist
+HI_128.txt,डेमोक्रेटिक पार्टी,Protagonist,Innocent
+HI_122.txt,यूक्रेन,Innocent,Innocent
+HI_196.txt,व्लादिमीर ज़ेलेंस्की,Protagonist,Protagonist
+HI_390.txt,रूसी सेनाएं,Antagonist,Innocent
+HI_314.txt,डोनल्ड ट्रंप,Protagonist,Protagonist
+HI_247.txt,व्लादिमिर जेलेंस्की,Protagonist,Innocent
+HI_117.txt,मध्य एशियाई,Innocent,Antagonist
+HI_64.txt,यूक्रेन,Innocent,Protagonist
+HI_120.txt,यूरोपीय देशों,Protagonist,Innocent
+HI_43.txt,भारत,Protagonist,Innocent
+HI_16.txt,नरेंद्र मोदी,Protagonist,Protagonist
+HI_175.txt,मारियुपोल,Innocent,Antagonist
+HI_2.txt,भारत,Antagonist,Innocent
+HI_398.txt,मायकोलाइव,Innocent,Antagonist
+HI_170.txt,रूस,Antagonist,Antagonist
+HI_166.txt,यूक्रेनी सांसद,Protagonist,Antagonist
+HI_239.txt,अनुपम त्रिवेदी,Protagonist,Antagonist
+HI_2.txt,नरेंद्र मोदी,Protagonist,Protagonist
+HI_33.txt,रूस,Antagonist,Antagonist
+HI_124.txt,यूक्रेन,Protagonist,Innocent
+HI_277.txt,रूस,Antagonist,Antagonist
+HI_46.txt,अमेरिका,Antagonist,Innocent
+HI_52.txt,आठ भारतीयों,Innocent,Innocent
+HI_276.txt,रूस,Antagonist,Protagonist
+HI_264.txt,ऑस्टिन,Protagonist,Innocent
+HI_257.txt,आंद्रेई वोरोब्योव,Protagonist,Innocent
+HI_129.txt,अतिरिक्त मुख्य सचिव,Protagonist,Protagonist
+HI_254.txt,यूक्रेन,Protagonist,Protagonist
+HI_7.txt,रूस,Innocent,Innocent
+HI_332.txt,यूक्रेनी सेना,Protagonist,Antagonist
+HI_316.txt,व्लादिमीर पुतिन,Protagonist,Protagonist
+HI_43.txt,भारत,Protagonist,Protagonist
+HI_118.txt,स्लोवाकिया,Protagonist,Protagonist
+HI_366.txt,यूक्रेन,Antagonist,Antagonist
+HI_324.txt,पिता,Protagonist,Antagonist
+HI_285.txt,पश्चिमी देशों,Protagonist,Antagonist
+HI_270.txt,एस जयशंकर,Protagonist,Innocent
+HI_216.txt,यूक्रेन,Antagonist,Antagonist
+HI_58.txt,भारत-,Protagonist,Protagonist
+HI_54.txt,अमेरिका,Antagonist,Protagonist
+HI_65.txt,रूस,Antagonist,Antagonist
+HI_363.txt,पुतिन,Antagonist,Protagonist
+HI_183.txt,अमेरिका,Antagonist,Innocent
+HI_73.txt,यूक्रेन,Innocent,Innocent
+HI_16.txt,भारत,Protagonist,Protagonist
+HI_323.txt,बाइडन,Protagonist,Innocent
+HI_267.txt,यूक्रेन,Protagonist,Innocent
+HI_55.txt,रूस,Protagonist,Antagonist
+HI_245.txt,रूस,Antagonist,Antagonist
+HI_179.txt,विदेश मंत्रालय,Protagonist,Antagonist
+HI_204.txt,यूक्रेन,Antagonist,Antagonist
+HI_248.txt,खारकीव,Innocent,Antagonist
+HI_142.txt,राज्य जल संसाधन विभाग,Protagonist,Protagonist
+HI_145.txt,जकार्ता,Innocent,Antagonist
+HI_174.txt,रूस,Antagonist,Antagonist
+HI_102.txt,रूसी,Antagonist,Antagonist
+HI_357.txt,यूक्रेन,Innocent,Antagonist
+HI_70.txt,अमेरिका,Antagonist,Innocent
+HI_73.txt,पुतिन,Antagonist,Antagonist
+HI_329.txt,यूक्रेन,Innocent,Protagonist
+HI_302.txt,साउथ कोरिया,Innocent,Protagonist
+HI_273.txt,किम जोंग,Protagonist,Antagonist
+HI_104.txt,रूसी,Antagonist,Innocent
+HI_398.txt,यूक्रेन,Innocent,Antagonist
+HI_283.txt,भारत,Protagonist,Protagonist
+HI_120.txt,चीन,Antagonist,Innocent
+HI_196.txt,व्लादिमीर पुतिन,Antagonist,Protagonist
+HI_94.txt,भारत,Protagonist,Protagonist
+HI_153.txt,लिसिचांस्क,Innocent,Antagonist
+HI_50.txt,पंजाब,Protagonist,Antagonist
+HI_267.txt,यूक्रेन,Innocent,Innocent
+HI_66.txt,पश्चिम,Antagonist,Innocent
+HI_344.txt,जी-7 देशों,Protagonist,Antagonist
+HI_399.txt,यूक्रेन,Innocent,Antagonist
+HI_311.txt,बाइडेन,Protagonist,Innocent
+HI_229.txt,रूसी सेना,Antagonist,Antagonist
+HI_312.txt,भारत,Innocent,Antagonist
+HI_374.txt,जो बाइडन,Antagonist,Innocent
+HI_267.txt,मोदी,Protagonist,Antagonist
+HI_3.txt,रूस,Protagonist,Antagonist
+HI_272.txt,एलेक्सी नवेलनी,Protagonist,Protagonist
+HI_116.txt,नीदरलैंड,Innocent,Innocent
+HI_221.txt,जेलेंस्की,Protagonist,Protagonist
+HI_346.txt,यूक्रेन,Innocent,Antagonist
+HI_284.txt,रूस,Antagonist,Antagonist
+HI_191.txt,पुतिन,Protagonist,Protagonist
+HI_45.txt,जर्मनी,Antagonist,Antagonist
+HI_79.txt,सर्गेई रयाबकोव,Protagonist,Innocent
+HI_117.txt,एयरलाइन कंपनियां,Innocent,Innocent
+HI_220.txt,अमेरिका,Protagonist,Protagonist
+HI_43.txt,यूक्रेन,Innocent,Antagonist
+HI_264.txt,मायकोलाइवका,Innocent,Protagonist
+HI_260.txt,रूस,Antagonist,Protagonist
+HI_224.txt,व्लादिमीर पुतिन,Protagonist,Innocent
+HI_221.txt,रूस,Antagonist,Protagonist
+HI_216.txt,अमेरिका,Antagonist,Antagonist
+HI_254.txt,रूस,Antagonist,Antagonist
+HI_39.txt,भारत,Protagonist,Innocent
+HI_312.txt,भारत,Protagonist,Antagonist
+HI_329.txt,ट्रंप,Protagonist,Antagonist
+HI_62.txt,रूसी सैन्य,Antagonist,Innocent
+HI_284.txt,रूसी राजनयिकों,Antagonist,Antagonist
+HI_388.txt,नागरिक,Innocent,Antagonist
+HI_70.txt,यूरोप,Innocent,Innocent
+HI_206.txt,व्लादिमीर पुतिन,Protagonist,Protagonist
+HI_52.txt,रूस की सरकार,Protagonist,Protagonist
+HI_116.txt,जापान,Antagonist,Antagonist
+HI_133.txt,पक्षियों,Innocent,Antagonist
+HI_187.txt,मोदी,Protagonist,Protagonist
+HI_112.txt,निवासियों,Innocent,Innocent
+HI_234.txt,उत्तर प्रदेश,Innocent,Innocent
+HI_18.txt,इवान गर्शकोविच,Innocent,Antagonist
+HI_24.txt,रूस,Protagonist,Innocent
+HI_124.txt,बेल्जियम,Protagonist,Antagonist
+HI_380.txt,फ्रांस,Protagonist,Protagonist
+HI_70.txt,रूस,Antagonist,Antagonist
+HI_285.txt,प्योंगयांग,Antagonist,Antagonist
+HI_1.txt,रूस,Protagonist,Innocent
+HI_162.txt,व्लादिमीर पुतिन,Protagonist,Antagonist
+HI_313.txt,रूसी सैनिक,Protagonist,Antagonist
+HI_121.txt,यूक्रेन,Antagonist,Antagonist
+HI_258.txt,चीन,Protagonist,Innocent
+HI_54.txt,पश्चिमी देशों,Antagonist,Protagonist
+HI_249.txt,डोनाल्ड ट्रंप,Antagonist,Antagonist
+HI_27.txt,मोदी,Protagonist,Innocent
+HI_123.txt,चीन,Antagonist,Antagonist
+HI_89.txt,मोदी,Protagonist,Protagonist
+HI_133.txt,पक्षी,Innocent,Innocent
+HI_329.txt,वोलोदिमीर ज़ेलेंस्की,Protagonist,Innocent
+HI_222.txt,मोदी,Protagonist,Protagonist
+HI_247.txt,नाटो,Protagonist,Innocent
+HI_206.txt,FBI,Antagonist,Innocent
+HI_312.txt,कमला हैरिस,Antagonist,Antagonist
+HI_272.txt,जो बाइडन,Protagonist,Antagonist
+HI_117.txt,पोलैंड,Innocent,Antagonist
+HI_287.txt,प्रधानमंत्री,Protagonist,Antagonist
+HI_373.txt,रूस,Innocent,Protagonist
+HI_66.txt,रूसी एयरलाइंस,Innocent,Innocent
+HI_315.txt,पुतिन,Protagonist,Protagonist
+HI_124.txt,पुतिन,Antagonist,Innocent
+HI_2.txt,चीन,Antagonist,Innocent
+HI_315.txt,चीन,Antagonist,Innocent
+HI_168.txt,बूचा,Innocent,Antagonist
+HI_195.txt,नरेन्द्र मोदी,Protagonist,Innocent
+HI_208.txt,भीम,Innocent,Innocent
+HI_22.txt,गाजा,Innocent,Antagonist
+HI_82.txt,नरेंद्र मोदी,Protagonist,Protagonist
+HI_64.txt,क्रेमलिन,Antagonist,Antagonist
+HI_22.txt,अमेरिका,Protagonist,Antagonist
+HI_255.txt,रूस की सेना,Antagonist,Antagonist
+HI_399.txt,क्रिवी रिह,Innocent,Antagonist
+HI_255.txt,भारतीय नागरिक,Innocent,Innocent
+HI_285.txt,यूक्रेनी सेना,Protagonist,Innocent
+HI_163.txt,पीएम मोदी,Protagonist,Innocent
+HI_6.txt,खार्किव,Innocent,Antagonist
+HI_70.txt,यूक्रेन,Innocent,Antagonist
+HI_229.txt,कीव,Innocent,Antagonist
+HI_118.txt,नागरिकों,Innocent,Antagonist
+HI_278.txt,मारियुपोल,Innocent,Innocent
+HI_309.txt,पुतिन,Protagonist,Innocent
+HI_22.txt,वोलोदिमिर जेलेंस्की,Protagonist,Antagonist
+HI_101.txt,भारत,Protagonist,Innocent
+HI_89.txt,भारत,Protagonist,Innocent
+HI_219.txt,ब्रिटेन,Protagonist,Protagonist
+HI_100.txt,भारत,Protagonist,Protagonist
+HI_36.txt,वोलोडिमिर ज़ेलेंस्की,Protagonist,Innocent
+HI_222.txt,ब्रिक्स शिखर,Protagonist,Antagonist
+HI_250.txt,विदेशी मीडिया,Antagonist,Antagonist
+HI_241.txt,जो बाइडेन,Protagonist,Protagonist
+HI_253.txt,पश्चिमी देश,Antagonist,Protagonist
+HI_173.txt,रूसी सरकार,Protagonist,Innocent
+HI_329.txt,डोनाल्ड ट्रंप,Protagonist,Antagonist
+HI_246.txt,ओलेह किपर,Protagonist,Antagonist
+HI_311.txt,लॉयड ऑस्टिन,Protagonist,Antagonist
+HI_261.txt,विचेज़ ऑफ़ बुचा,Protagonist,Innocent
+HI_214.txt,नाटो,Antagonist,Protagonist
+HI_246.txt,यूक्रेन की वायु सेना,Antagonist,Antagonist
+HI_49.txt,रूस,Protagonist,Protagonist
+HI_142.txt,बिहार,Innocent,Antagonist
+HI_111.txt,प्रधानमंत्री नरेंद्र मोदी,Protagonist,Protagonist
+HI_118.txt,यूरोप,Innocent,Antagonist
+HI_322.txt,यूक्रेन,Protagonist,Antagonist
+HI_141.txt,मानवता,Innocent,Antagonist
+HI_319.txt,दमित्रो लिटविन,Protagonist,Antagonist
+HI_253.txt,अमेरिका,Antagonist,Innocent
+HI_32.txt,भारत,Protagonist,Protagonist
+HI_23.txt,रूसी,Innocent,Protagonist
+HI_116.txt,जर्मनी,Antagonist,Antagonist
+HI_383.txt,डोनाल्ड ट्रंप,Protagonist,Antagonist
+HI_153.txt,सर्गी हैदाई,Protagonist,Protagonist
+HI_302.txt,उत्तर कोरिया,Protagonist,Innocent
+HI_171.txt,NATO सहयोगी,Protagonist,Innocent
+HI_2.txt,पश्चिमी,Protagonist,Protagonist
+HI_124.txt,नीदरलैंड,Protagonist,Antagonist
+HI_319.txt,लांज़ा,Antagonist,Antagonist
+HI_46.txt,नाटो,Antagonist,Antagonist
+HI_23.txt,यूक्रेन,Antagonist,Antagonist
+HI_282.txt,मोदी,Protagonist,Protagonist
+HI_187.txt,रूस,Antagonist,Protagonist
+HI_62.txt,रूसी सेना,Antagonist,Antagonist
+HI_279.txt,सर कीएर,Protagonist,Innocent
+HI_173.txt,एलेक्सी मालिनिन,Protagonist,Antagonist
+HI_385.txt,रूस,Protagonist,Innocent
+HI_39.txt,भारत,Protagonist,Protagonist
+HI_308.txt,सर्गेई लावरोव,Protagonist,Protagonist
+HI_304.txt,यूक्रेन,Innocent,Antagonist
+HI_98.txt,पुतिन,Protagonist,Antagonist
+HI_136.txt,शेल,Antagonist,Innocent
+HI_400.txt,अमेरिका,Antagonist,Innocent
+HI_13.txt,व्लादिमीर पुतिन,Antagonist,Innocent
+HI_56.txt,रूस,Protagonist,Antagonist
+HI_8.txt,इवान गेर्शकोविच,Innocent,Protagonist
+HI_279.txt,रूस,Antagonist,Innocent
+HI_109.txt,चीन,Protagonist,Antagonist
+HI_105.txt,रूसी “मिसाइलों,Antagonist,Antagonist
+HI_379.txt,क्रेमलिन,Protagonist,Protagonist
+HI_325.txt,रूस,Protagonist,Innocent
+HI_115.txt,रूस,Protagonist,Antagonist
+HI_285.txt,उत्तर कोरिया,Antagonist,Protagonist
+HI_377.txt,रूसी सेना,Protagonist,Innocent
+HI_150.txt,50 लाख से ज्यादा लोगों,Innocent,Protagonist
+HI_128.txt,डोनाल्ड ट्रंप,Antagonist,Innocent
+HI_196.txt,नागरिकों,Innocent,Protagonist
+HI_326.txt,रूस,Protagonist,Antagonist
+HI_397.txt,अमेरिका,Antagonist,Antagonist
+HI_393.txt,बाइ़डेन,Protagonist,Antagonist
+HI_8.txt,वादिम क्रासिकोव,Antagonist,Antagonist
+HI_312.txt,कनाडा,Antagonist,Antagonist
+HI_267.txt,जेलेंस्की,Protagonist,Antagonist
+HI_385.txt,वलोडिमिर ज़ेलेंस्की,Protagonist,Antagonist
+HI_117.txt,कजाखस्तान,Innocent,Antagonist
+HI_120.txt,चार्ल्स ब्राउन जूनियर,Protagonist,Innocent
+HI_82.txt,यूक्रेन,Protagonist,Innocent
+HI_113.txt,NATO,Protagonist,Innocent
+HI_317.txt,तुलसी गेबार्ड,Protagonist,Innocent
+HI_117.txt,भारत,Protagonist,Innocent
+HI_81.txt,उत्तरी अटलांटिक संधि संगठन (नाटो,Protagonist,Antagonist
+HI_70.txt,सऊदी अरब,Protagonist,Protagonist
+HI_180.txt,ब्रिटेन,Antagonist,Innocent
+HI_258.txt,रूसी सेना,Protagonist,Protagonist
+HI_397.txt,नाटो,Antagonist,Antagonist
+HI_193.txt,भारत,Protagonist,Protagonist
+HI_21.txt,नरेन्द्र मोदी,Protagonist,Protagonist
+HI_112.txt,संघीय सुरक्षा सेवा (FSB,Protagonist,Innocent
+HI_102.txt,वलोदिमीर जेलेंस्की,Protagonist,Antagonist
+HI_40.txt,अलसु,Antagonist,Antagonist
+HI_113.txt,पुतिन,Antagonist,Antagonist
+HI_166.txt,युवा यूक्रेनी सांसद,Protagonist,Antagonist
+HI_395.txt,रूस,Protagonist,Antagonist
+HI_53.txt,रूस,Antagonist,Innocent
+HI_22.txt,मरिंका,Innocent,Antagonist
+HI_22.txt,यूक्रेन,Antagonist,Antagonist
+HI_394.txt,ट्रंप,Protagonist,Innocent
+HI_318.txt,रूस,Protagonist,Antagonist
+HI_224.txt,यूरोप,Innocent,Innocent
+HI_100.txt,व्लादिमीर जेलेंस्की,Protagonist,Innocent
+HI_395.txt,कीव,Innocent,Antagonist
+HI_283.txt,व्लादिमीर पुतिन,Antagonist,Antagonist
+HI_313.txt,रूस,Antagonist,Antagonist
+HI_22.txt,रूस,Protagonist,Antagonist
+HI_221.txt,यूक्रेन,Protagonist,Protagonist
+HI_27.txt,मोदी,Protagonist,Antagonist
+HI_108.txt,अप्रवासियों,Antagonist,Antagonist
+HI_305.txt,रूसी सेना,Antagonist,Innocent
+HI_205.txt,पुतिन,Antagonist,Antagonist
+HI_228.txt,रूस,Antagonist,Antagonist
+HI_325.txt,पुतिन,Protagonist,Innocent
+HI_172.txt,रूस,Protagonist,Innocent
+HI_1.txt,मोदी,Protagonist,Protagonist
+HI_112.txt,सेना,Protagonist,Innocent
+HI_202.txt,डोनेट्स्क,Innocent,Antagonist
+HI_388.txt,रूस,Protagonist,Protagonist
+HI_252.txt,वोलोदिमीर जेलेंस्की,Protagonist,Protagonist
+HI_382.txt,चीन,Antagonist,Protagonist
+HI_33.txt,श्रीलंकन युवा,Innocent,Antagonist
+HI_283.txt,बच्चों,Innocent,Antagonist
+HI_153.txt,हैदाई,Protagonist,Antagonist
+HI_45.txt,क्रासिकोव,Protagonist,Antagonist
+HI_286.txt,योनहाप समाचार एजेंसी,Protagonist,Innocent
+HI_124.txt,वोलोडिमिर जेलेंस्की,Protagonist,Antagonist
+HI_87.txt,भारत,Protagonist,Innocent
+HI_323.txt,मैथ्यू सैविल,Protagonist,Antagonist
+HI_122.txt,पश्चिमी देशों,Antagonist,Innocent
+HI_264.txt,यूक्रेन,Protagonist,Protagonist
+HI_101.txt,नरेंद्र मोदी,Protagonist,Innocent
+HI_155.txt,यूक्रेन,Protagonist,Antagonist
+HI_228.txt,कुर्क्स,Innocent,Antagonist
+HI_138.txt,मुख्यमंत्री,Protagonist,Protagonist
+HI_91.txt,यूक्रेन,Antagonist,Antagonist
+HI_94.txt,भारत,Protagonist,Innocent
+HI_213.txt,अमेरिका,Antagonist,Innocent
+HI_47.txt,मोदी,Protagonist,Protagonist
+HI_277.txt,पुतिन,Antagonist,Antagonist
+HI_234.txt,हिमाचल प्रदेश,Innocent,Innocent
+HI_251.txt,यूक्रेन,Antagonist,Antagonist
+HI_142.txt,वाल्मिकीनगर,Innocent,Protagonist
+HI_315.txt,अमेरिका,Protagonist,Protagonist
+HI_202.txt,पुतिन,Protagonist,Antagonist
+HI_83.txt,भारत,Protagonist,Protagonist
+HI_301.txt,ट्रंप,Protagonist,Antagonist
+HI_260.txt,रूस,Antagonist,Innocent
+HI_47.txt,मोदी,Protagonist,Protagonist
+HI_103.txt,यूरोपीय देशों,Antagonist,Innocent
+HI_112.txt,कुर्स्क,Innocent,Innocent
+HI_170.txt,यूक्रेन,Innocent,Antagonist
+HI_206.txt,FBI,Antagonist,Antagonist
+HI_23.txt,यूक्रेन,Protagonist,Protagonist
+HI_255.txt,पुतिन,Protagonist,Innocent
+HI_99.txt,पुतिन,Antagonist,Innocent
+HI_315.txt,रूस,Protagonist,Protagonist
+HI_266.txt,उत्तर कोरिया,Antagonist,Antagonist
+HI_394.txt,रूस,Antagonist,Antagonist
+HI_164.txt,राष्ट्रपति पुतिन,Antagonist,Antagonist
+HI_46.txt,रूस,Protagonist,Antagonist
+HI_303.txt,बोरिसोग्लबस्क,Innocent,Antagonist
+HI_249.txt,ट्रंप,Antagonist,Antagonist
+HI_378.txt,एलन मेंडोजा,Protagonist,Antagonist
+HI_224.txt,नरेंद्र मोदी,Protagonist,Innocent
+HI_22.txt,डोनाल्ड ट्रम्प,Protagonist,Antagonist
+HI_56.txt,अमेरिका,Antagonist,Innocent
+HI_116.txt,इटली,Antagonist,Antagonist
+HI_188.txt,मोदी,Protagonist,Protagonist
+HI_388.txt,पश्चिमी देशों,Antagonist,Protagonist
+HI_171.txt,चीन,Antagonist,Innocent
+HI_312.txt,कमला हैरिस,Antagonist,Antagonist
+HI_123.txt,भारत,Protagonist,Antagonist
+HI_358.txt,मोदी,Protagonist,Protagonist
+HI_155.txt,भारत,Innocent,Antagonist
+HI_124.txt,फ्रांस,Protagonist,Antagonist
+HI_70.txt,पाकिस्तान,Antagonist,Antagonist
+HI_113.txt,राष्ट्रपति बोरिस येल्तसिन,Protagonist,Protagonist
+HI_117.txt,रूस,Antagonist,Innocent
+HI_117.txt,अंतरराष्ट्रीय सरोकारों,Innocent,Innocent
+HI_306.txt,पुतिन,Antagonist,Innocent
+HI_45.txt,अमेरिका,Protagonist,Antagonist
+HI_78.txt,रूस,Antagonist,Innocent
+HI_330.txt,अनातोली खरापचिन्सिकी,Protagonist,Antagonist
+HI_53.txt,चीन,Protagonist,Antagonist
+HI_400.txt,रॉबर्ट फिको,Protagonist,Innocent
+HI_307.txt,यूक्रेन,Protagonist,Antagonist
+HI_217.txt,डोनाल्ड ट्रंप,Protagonist,Antagonist
+HI_3.txt,पश्चिमी,Protagonist,Antagonist
+HI_43.txt,यूएस कॉन्ग्रेस,Antagonist,Antagonist
+HI_322.txt,कमला हैरिस,Protagonist,Antagonist
+HI_25.txt,अमेरिका,Antagonist,Antagonist
+HI_324.txt,यूक्रेन,Protagonist,Innocent
+HI_262.txt,उत्तर कोरिया,Antagonist,Antagonist
+HI_329.txt,रूस,Antagonist,Innocent
+HI_246.txt,रूस,Protagonist,Antagonist
+HI_45.txt,खानगोशविलि,Protagonist,Protagonist
+HI_72.txt,पश्चिमी देश,Antagonist,Innocent
+HI_33.txt,लीबिया,Innocent,Antagonist
+HI_188.txt,वलोडोमिर जेलेंस्की,Antagonist,Protagonist
+HI_49.txt,व्लादिमीर पुतिन,Protagonist,Protagonist
+HI_234.txt,ओडिशा,Innocent,Innocent
+HI_214.txt,अमेरिका,Antagonist,Antagonist
+HI_67.txt,अमेरिका,Protagonist,Innocent
+HI_188.txt,मोदी,Protagonist,Protagonist
+HI_124.txt,अशरफ गनी,Antagonist,Innocent
+HI_210.txt,पृथ्वी,Innocent,Antagonist
+HI_94.txt,इटली,Antagonist,Protagonist
+HI_2.txt,मास्को,Protagonist,Innocent
+HI_240.txt,लैंसडाउन,Innocent,Innocent
+HI_86.txt,नई दिल्ली,Protagonist,Innocent
+HI_124.txt,यूक्रेन की सेना,Protagonist,Antagonist
+HI_33.txt,रूस,Protagonist,Antagonist
+HI_247.txt,यूक्रेन,Innocent,Antagonist
+HI_315.txt,भारत,Protagonist,Protagonist
+HI_309.txt,यूक्रेन,Protagonist,Innocent
+HI_30.txt,विक्टर ओरबान,Protagonist,Innocent
+HI_174.txt,पुतिन,Antagonist,Protagonist
+HI_146.txt,बेनेडिक्ट सोजा,Protagonist,Antagonist
+HI_94.txt,यूक्रेन,Innocent,Innocent
+HI_267.txt,भारत,Protagonist,Antagonist
+HI_211.txt,डॉ. एमिली ग्रीनफ़ील्ड,Protagonist,Protagonist
+HI_60.txt,फाइनेंशियल टाइम्स,Antagonist,Antagonist
+HI_392.txt,रूस,Antagonist,Antagonist
+HI_13.txt,भारत,Protagonist,Innocent
+HI_381.txt,अमेरिका,Antagonist,Antagonist
+HI_393.txt,जेलेंस्की,Protagonist,Antagonist
+HI_42.txt,अंबिका तमांग,Innocent,Antagonist
+HI_388.txt,यूक्रेन,Innocent,Antagonist
+HI_400.txt,यूक्रेन,Protagonist,Antagonist
+HI_167.txt,भारत,Protagonist,Protagonist
+HI_124.txt,रूस,Antagonist,Antagonist
+HI_178.txt,पुतिन,Protagonist,Antagonist
+HI_161.txt,पुतिन,Protagonist,Innocent
+HI_42.txt,विदेश मंत्रालय,Antagonist,Innocent
+HI_266.txt,अमेरिका,Protagonist,Antagonist
+HI_138.txt,विष्णु देव साय,Protagonist,Protagonist
+HI_172.txt,पश्चिमी देशों,Antagonist,Innocent
+HI_167.txt,भारत,Protagonist,Innocent
+HI_55.txt,पुतिन,Protagonist,Protagonist
+HI_261.txt,रूस,Antagonist,Innocent
+HI_399.txt,खेरसॉन,Innocent,Antagonist
+HI_264.txt,दक्षिण कोरिया,Protagonist,Innocent
+HI_130.txt,नॉर्थवेस्ट,Protagonist,Innocent
+HI_255.txt,कबूतरबाजों,Antagonist,Innocent
+HI_72.txt,पश्चिमी देशों,Antagonist,Innocent
+HI_314.txt,रिपब्लिकन पार्टी,Protagonist,Antagonist
+HI_54.txt,रूस,Protagonist,Protagonist
+HI_123.txt,रूस,Antagonist,Innocent
+HI_23.txt,रूसी रक्षा विभाग,Antagonist,Antagonist
+HI_251.txt,रूस,Antagonist,Antagonist
+HI_267.txt,अमेरिका,Protagonist,Innocent
+HI_245.txt,इमैनुएल मैक्रों,Protagonist,Antagonist
+HI_378.txt,रूस,Innocent,Antagonist
+HI_42.txt,तमिलनाडु का एक और एजेंट,Antagonist,Innocent
+HI_283.txt,अस्पताल,Innocent,Antagonist
+HI_89.txt,मोदी,Protagonist,Innocent
+HI_155.txt,भारत,Innocent,Antagonist
+HI_277.txt,व्लादिमीर पुतिन,Antagonist,Antagonist
+HI_118.txt,रूसी सैन्य बलों,Antagonist,Antagonist
+HI_24.txt,मोदी,Protagonist,Protagonist
+HI_104.txt,यूक्रेन,Protagonist,Innocent
+HI_386.txt,व्लादिमीर पुतिन,Protagonist,Protagonist
+HI_264.txt,रूसी सेना,Antagonist,Antagonist
+HI_253.txt,ब्रिटेन,Antagonist,Innocent
+HI_43.txt,पश्चिमी देशों,Antagonist,Antagonist
+HI_254.txt,तेलंगाना सरकार,Protagonist,Protagonist
+HI_24.txt,मोदी,Protagonist,Innocent
+HI_325.txt,यूक्रेन,Protagonist,Innocent
+HI_208.txt,कृषि विकास अधिकारी,Antagonist,Antagonist
+HI_88.txt,नरेंद्र मोदी,Antagonist,Antagonist
+HI_208.txt,ठाकुरों,Antagonist,Antagonist
+HI_375.txt,यूक्रेनी,Antagonist,Innocent
+HI_384.txt,व्लादिमीर पुतिन,Protagonist,Protagonist
+HI_55.txt,रूस,Innocent,Innocent
+HI_142.txt,बिहार के कई जिलों,Innocent,Antagonist
+HI_201.txt,रूस,Protagonist,Protagonist
+HI_86.txt,झापरोवा,Protagonist,Innocent
+HI_129.txt,केन्द्र सरकार,Protagonist,Protagonist
+HI_185.txt,स्टोल्टेनबर्ग,Protagonist,Innocent
+HI_225.txt,जेलेंस्की,Protagonist,Protagonist
+HI_388.txt,अमेरिका,Protagonist,Antagonist
+HI_180.txt,NATO,Antagonist,Innocent
+HI_266.txt,यूक्रेनी खुफिया एजेंसियों,Protagonist,Antagonist
+HI_30.txt,हंगरी,Protagonist,Antagonist
+HI_109.txt,नाटो,Antagonist,Antagonist
+HI_67.txt,रूस,Antagonist,Innocent
+HI_206.txt,भारत सरकार,Protagonist,Antagonist
+HI_29.txt,सुरक्षा गार्ड,Innocent,Protagonist
+HI_321.txt,मारिया ज़ोलकीना,Protagonist,Antagonist
+HI_285.txt,मॉस्को,Antagonist,Antagonist
+HI_66.txt,रूस,Antagonist,Antagonist
+HI_200.txt,गंभीर सिंह चौहान,Protagonist,Antagonist
+HI_310.txt,यूक्रेन,Protagonist,Innocent
+HI_275.txt,यूक्रेन,Protagonist,Antagonist
+HI_333.txt,यूक्रेन,Antagonist,Innocent
+HI_113.txt,पश्चिमी देशों,Antagonist,Antagonist
+HI_174.txt,किम जोंग उन,Antagonist,Protagonist
+HI_189.txt,भारत,Protagonist,Innocent
+HI_285.txt,कीव,Innocent,Innocent
+HI_49.txt,नागरिकों,Innocent,Protagonist
+HI_7.txt,व्लादिमीर पुतिन,Innocent,Antagonist
+HI_396.txt,अमेरिका,Antagonist,Innocent
+HI_6.txt,यूक्रेन,Antagonist,Antagonist
+HI_399.txt,नागरिकों,Innocent,Antagonist
+HI_397.txt,व्लादिमीर पुतिन,Protagonist,Antagonist
+HI_147.txt,PM मोदी,Protagonist,Innocent
+HI_6.txt,रूस,Antagonist,Antagonist
+HI_261.txt,यूक्रेन,Protagonist,Innocent
+HI_65.txt,व्लादिमीर पुतिन,Antagonist,Antagonist
+HI_272.txt,नवेलनी,Protagonist,Innocent
+HI_46.txt,पश्चिमी,Antagonist,Innocent
+HI_232.txt,वैज्ञानिकों,Protagonist,Antagonist
+HI_326.txt,जॉन बार्यन्स,Protagonist,Antagonist
+HI_390.txt,उत्तर कोरिया,Antagonist,Innocent
+HI_216.txt,अमेरिका,Antagonist,Antagonist
+HI_24.txt,रूस,Antagonist,Antagonist
+HI_202.txt,रूसी अधिकारियों,Innocent,Antagonist
+HI_73.txt,व्लादिमीर पुतिन,Antagonist,Innocent
+HI_65.txt,यूक्रेन,Innocent,Antagonist
+HI_169.txt,यूक्रेन,Antagonist,Antagonist
+HI_270.txt,नरेंद्र मोदी,Protagonist,Innocent
+HI_312.txt,अमेरिकी सरकार,Antagonist,Antagonist
+HI_90.txt,जो बाइडेन,Antagonist,Protagonist
+HI_25.txt,अमेरिका,Antagonist,Antagonist
+HI_324.txt,अमेरिका,Protagonist,Innocent
+HI_42.txt,भारत सरकार,Antagonist,Antagonist
+HI_390.txt,वोलोदिमीर जेलेंस्की,Protagonist,Innocent
+HI_309.txt,पश्चिम के देश,Antagonist,Innocent
+HI_61.txt,भारत,Protagonist,Antagonist
+HI_272.txt,रूस,Antagonist,Antagonist
+HI_316.txt,चीन,Protagonist,Innocent
+HI_116.txt,यूक्रेन,Innocent,Antagonist
+HI_168.txt,टीएस तिरुमूर्ति,Protagonist,Antagonist
+HI_355.txt,ट्रंप,Protagonist,Protagonist
+HI_15.txt,नाटो,Antagonist,Innocent
+HI_225.txt,कुर्स्क,Innocent,Antagonist
+HI_103.txt,रूस,Protagonist,Innocent
+HI_178.txt,व्लादिमीर पुतिन,Protagonist,Antagonist
+HI_149.txt,विशेषज्ञों,Protagonist,Innocent
+HI_363.txt,बाइडन,Antagonist,Protagonist
+HI_171.txt,यूक्रेन,Protagonist,Antagonist
+HI_53.txt,भारत,Antagonist,Innocent
+HI_238.txt,बिहारी लाल,Protagonist,Innocent
+HI_32.txt,भारत,Antagonist,Protagonist
+HI_99.txt,यूक्रेन,Innocent,Antagonist
+HI_89.txt,भारत,Protagonist,Protagonist
+HI_92.txt,पश्चिमी मीडिया,Antagonist,Antagonist
+HI_27.txt,मणिपुर,Innocent,Antagonist
+HI_46.txt,रूस,Innocent,Innocent
+HI_329.txt,क्राइमिया,Innocent,Antagonist
+HI_2.txt,रूसी,Antagonist,Protagonist
+HI_20.txt,भारतीय,Innocent,Protagonist
+HI_221.txt,अमेरिका,Antagonist,Protagonist
+HI_305.txt,यूक्रेन,Protagonist,Innocent
+HI_334.txt,मोदी,Protagonist,Innocent
+HI_187.txt,ऐसे,Protagonist,Antagonist
+HI_48.txt,जमात नुसरत अल-इस्लाम वाल मुस्लिमीन (JNIM,Antagonist,Antagonist
+HI_22.txt,बाइडेन,Antagonist,Antagonist
+HI_381.txt,रूस,Protagonist,Protagonist
+HI_22.txt,कुपियांस्क,Innocent,Antagonist
+HI_375.txt,रूसी सैनिकों,Innocent,Antagonist
+HI_127.txt,संयुक्त राष्ट्र,Protagonist,Antagonist
+HI_234.txt,महाराष्ट्र,Innocent,Innocent
+HI_285.txt,कुर्स्क,Innocent,Innocent
+HI_157.txt,अमेरिकी कांग्रेस,Antagonist,Innocent
+HI_255.txt,नरेंद्र मोदी,Protagonist,Antagonist
+HI_22.txt,अवदीवका,Innocent,Antagonist
+HI_388.txt,सैनिक,Innocent,Antagonist
+HI_321.txt,पक्रौस्क,Innocent,Protagonist
+HI_7.txt,पश्चिम,Antagonist,Antagonist
+HI_334.txt,नरेंद्र मोदी,Protagonist,Innocent
+HI_212.txt,वोल्डिमीर जेलेंस्की,Antagonist,Protagonist
+HI_104.txt,जवाहरलाल नेहरू,Protagonist,Innocent
+HI_23.txt,यूक्रेनी सेना,Protagonist,Protagonist
+HI_390.txt,यूक्रेनी सेना,Protagonist,Innocent
+HI_312.txt,ट्रंप,Protagonist,Protagonist
+HI_221.txt,पुतिन,Antagonist,Protagonist
+HI_177.txt,यूक्रेन,Protagonist,Innocent
+HI_305.txt,कीव,Protagonist,Antagonist
+HI_285.txt,जेलेंस्की,Protagonist,Antagonist
+HI_398.txt,खेरसॉन,Innocent,Antagonist
+HI_166.txt,रूस,Antagonist,Antagonist
+HI_305.txt,यूक्रेनी सेना,Protagonist,Innocent
+HI_45.txt,वादिम क्रासिकोव,Antagonist,Antagonist
+HI_258.txt,वोलोदिमीर जेलेंस्की,Protagonist,Protagonist
+HI_7.txt,मॉस्को,Innocent,Antagonist
+HI_121.txt,नरेन्द्र मोदी,Protagonist,Protagonist
+HI_171.txt,चार्ल्स ब्राउन,Protagonist,Innocent
+HI_174.txt,यूक्रेनी रक्षा खुफिया निदेशालय,Protagonist,Antagonist
+HI_372.txt,जो बाइडन,Antagonist,Antagonist
+HI_225.txt,वोलोदिमीर जेलेंस्की,Protagonist,Protagonist
+HI_259.txt,यूक्रेनी सेना,Protagonist,Antagonist
+HI_301.txt,डोनाल्ड ट्रंप,Protagonist,Innocent
+HI_113.txt,निकिता ख्रुश्चेव,Protagonist,Protagonist
+HI_2.txt,यूक्रेन,Innocent,Protagonist
+HI_77.txt,यूक्रेन,Innocent,Antagonist
+HI_368.txt,जो बाइडन,Antagonist,Protagonist
+HI_303.txt,नागरिक,Innocent,Antagonist
+HI_389.txt,अमेरिका,Antagonist,Innocent
+HI_116.txt,फ्रांस,Antagonist,Antagonist
+HI_320.txt,व्लादिमीर पुतिन,Antagonist,Innocent
+HI_234.txt,गुजरात,Innocent,Innocent
+HI_301.txt,डोनाल्ड ट्रंप,Protagonist,Antagonist
+HI_375.txt,रूसी सैनिकों,Innocent,Innocent
+HI_96.txt,यूक्रेन,Protagonist,Antagonist
+HI_285.txt,यूक्रेन,Innocent,Protagonist
+HI_144.txt,पेड़ों,Protagonist,Innocent
+HI_224.txt,एस जयशंकर,Protagonist,Innocent
+HI_67.txt,पश्चिम देश,Protagonist,Innocent
+HI_7.txt,रूस,Antagonist,Innocent
+HI_282.txt,मोदी,Protagonist,Protagonist
+HI_99.txt,व्लादिमीर पुतिन,Protagonist,Antagonist
+HI_264.txt,लॉयड ऑस्टिन,Protagonist,Innocent
+HI_234.txt,भारत,Innocent,Antagonist
+HI_196.txt,भारत,Protagonist,Innocent
+HI_285.txt,रूस,Antagonist,Antagonist
+HI_202.txt,रूसी क्षेत्र,Innocent,Antagonist
+HI_121.txt,भारत,Protagonist,Protagonist
+HI_399.txt,पश्चिमी देशों,Antagonist,Antagonist
+HI_70.txt,ईरान,Antagonist,Antagonist
+HI_340.txt,यूक्रेन,Innocent,Antagonist
+HI_40.txt,पॉल व्हेलन,Antagonist,Antagonist
+HI_105.txt,रुबिज़ने,Innocent,Protagonist
+HI_396.txt,जेफरी डी सैक्स,Protagonist,Antagonist
+HI_397.txt,रूस,Protagonist,Antagonist
+HI_202.txt,पश्चिम देशों,Antagonist,Antagonist
+HI_45.txt,क्रासिकोव,Antagonist,Innocent
+HI_128.txt,कमला हैरिस,Protagonist,Innocent
+HI_104.txt,नरेन्द्र मोदी,Protagonist,Innocent
+HI_23.txt,यूरोपीय,Antagonist,Antagonist
+HI_309.txt,वसीली नेबेंजिया,Protagonist,Innocent
+HI_387.txt,ज़ेलेंस्की,Protagonist,Protagonist
+HI_36.txt,जो बायडेन,Antagonist,Innocent
+HI_78.txt,मॉस्को,Antagonist,Innocent
+HI_255.txt,रणधीर जायसवाल,Protagonist,Protagonist
+HI_270.txt,भारत,Innocent,Innocent
+HI_14.txt,कमला हैरिस,Protagonist,Innocent
+HI_105.txt,सेवरोडोनेट्स,Innocent,Protagonist
+HI_55.txt,रूस,Protagonist,Antagonist
+HI_308.txt,यूक्रेन,Antagonist,Antagonist
+HI_261.txt,महिलाएं,Protagonist,Innocent
+HI_54.txt,नाटो,Antagonist,Protagonist
+HI_195.txt,भारत,Protagonist,Innocent
+HI_311.txt,यूक्रेन,Innocent,Innocent
+HI_303.txt,हवाई अड्डों,Innocent,Antagonist
+HI_23.txt,अमेरिका,Antagonist,Innocent
+HI_3.txt,रूस,Protagonist,Antagonist
+HI_7.txt,यूक्रेनी,Antagonist,Antagonist
+HI_196.txt,क्रीमिया,Innocent,Protagonist
+HI_314.txt,कमला हैरिस,Antagonist,Innocent
+HI_68.txt,रूसी,Antagonist,Antagonist
+HI_317.txt,मोदी,Protagonist,Innocent
+HI_247.txt,कीव,Innocent,Antagonist
+HI_80.txt,यूक्रेन,Innocent,Antagonist
+HI_283.txt,रूस,Antagonist,Antagonist
+HI_103.txt,अमेरिका,Antagonist,Innocent
+HI_257.txt,यूक्रेन,Antagonist,Antagonist
+HI_179.txt,भारत,Protagonist,Antagonist
+HI_393.txt,नाटो,Protagonist,Antagonist
+HI_321.txt,रूसी सेना,Antagonist,Protagonist
+HI_218.txt,अमेरिका,Antagonist,Innocent
+HI_305.txt,रूस,Antagonist,Innocent
+HI_314.txt,चीन,Antagonist,Antagonist
+HI_54.txt,पश्चिमी सैन्य,Antagonist,Antagonist
+HI_68.txt,यूक्रेन,Innocent,Antagonist
+HI_202.txt,प्रवक्ता,Protagonist,Antagonist
+HI_101.txt,रूस,Antagonist,Innocent
+HI_174.txt,जेलेंस्की,Protagonist,Antagonist
+HI_23.txt,यूक्रेन,Innocent,Innocent
+HI_254.txt,सूफियान,Innocent,Protagonist
+HI_90.txt,व्लादिमीर पुतिन,Protagonist,Innocent
+HI_14.txt,रूसी सेना,Innocent,Innocent
+HI_398.txt,ज़ापोरिज्जिया,Innocent,Antagonist
+HI_49.txt,रूस,Protagonist,Protagonist
+HI_117.txt,नेपाली,Innocent,Innocent
+HI_63.txt,यूरोपीय देशों,Protagonist,Antagonist
+HI_254.txt,मोहम्मद सूफियान,Innocent,Antagonist
+HI_70.txt,जोको विडोडो,Protagonist,Antagonist
+HI_389.txt,यूक्रेन,Innocent,Innocent
+HI_116.txt,लक्जमबर्ग,Innocent,Innocent
+HI_99.txt,NATO,Antagonist,Innocent
+HI_142.txt,सीमांचल,Innocent,Antagonist
+HI_116.txt,जर्मनी,Antagonist,Antagonist
+HI_83.txt,नरेंद्र मोदी,Protagonist,Protagonist
+HI_84.txt,नरेन्द्र मोदी,Protagonist,Protagonist
+HI_70.txt,अमेरिका,Antagonist,Protagonist
+HI_321.txt,निप्रोव,Protagonist,Protagonist
+HI_274.txt,रूसी सेना,Antagonist,Antagonist
+HI_180.txt,रूस,Protagonist,Innocent
+HI_127.txt,यूक्रेन,Innocent,Protagonist
+HI_61.txt,भारत,Antagonist,Protagonist
+HI_29.txt,माखचकाला,Innocent,Antagonist
+HI_394.txt,जो बाइडेन,Protagonist,Innocent
+HI_203.txt,इस्लामिक स्टेट,Antagonist,Antagonist
+HI_386.txt,यूक्रेन,Protagonist,Protagonist
+HI_362.txt,पुतिन,Protagonist,Antagonist
+HI_340.txt,रूस,Antagonist,Antagonist
+HI_70.txt,यूक्रेन,Innocent,Antagonist
+HI_39.txt,नरेंद्र मोदी,Protagonist,Protagonist
+HI_379.txt,पेसकोव,Protagonist,Antagonist
+HI_124.txt,रूस,Antagonist,Protagonist
+HI_266.txt,वोलोदिमीर जेलेंस्की,Protagonist,Antagonist
+HI_251.txt,कीर स्टार्मर,Protagonist,Antagonist
+HI_278.txt,रूस,Antagonist,Innocent
+HI_176.txt,वोलोदिमीर जेलेंस्की,Antagonist,Innocent
+HI_210.txt,गंभीर सिंह चौहान,Protagonist,Antagonist
+HI_314.txt,पाकिस्तान,Antagonist,Antagonist
+HI_321.txt,रूसी सेनाएं,Antagonist,Antagonist
+HI_191.txt,भारत,Protagonist,Protagonist
+HI_218.txt,चीन,Antagonist,Innocent
+HI_253.txt,यूक्रेन,Protagonist,Innocent
+HI_166.txt,ऑलेक्जेंडर मारिकोव्स्की,Innocent,Antagonist
+HI_23.txt,यूक्रेन,Protagonist,Protagonist
+HI_255.txt,रूस,Protagonist,Innocent
+HI_127.txt,रूसी राष्ट्रपति,Antagonist,Protagonist
+HI_249.txt,व्लादिमीर पुतिन,Protagonist,Antagonist
+HI_150.txt,एशिया,Innocent,Protagonist
+HI_266.txt,कुर्स्क,Innocent,Innocent
+HI_205.txt,कीव,Innocent,Antagonist
+HI_227.txt,रूस की सेना,Antagonist,Antagonist
+HI_310.txt,रूसी सेना,Protagonist,Innocent
+HI_166.txt,रूस,Innocent,Antagonist
+HI_83.txt,जेलेंस्की,Protagonist,Antagonist
+HI_22.txt,पश्चिमी देशों,Protagonist,Antagonist
+HI_229.txt,सेरही पोपको,Protagonist,Antagonist
+HI_326.txt,रूस,Antagonist,Antagonist
+HI_116.txt,अमेरिका,Antagonist,Antagonist
+HI_142.txt,13 जिले,Innocent,Antagonist
+HI_205.txt,रूस,Antagonist,Antagonist
+HI_333.txt,रूस,Innocent,Antagonist
+HI_3.txt,तुर्किये,Protagonist,Antagonist
+HI_32.txt,रूस,Antagonist,Antagonist
+HI_318.txt,यूक्रेन,Protagonist,Innocent
+HI_69.txt,रूस,Protagonist,Protagonist
+HI_255.txt,रूसी सेना,Antagonist,Protagonist
+HI_3.txt,भारत,Protagonist,Innocent
+HI_322.txt,जो बाइडन,Protagonist,Antagonist
+HI_305.txt,रूस,Antagonist,Antagonist
+HI_100.txt,रूस,Antagonist,Innocent
+HI_164.txt,पीएम मेलोनी,Protagonist,Antagonist
+HI_273.txt,यूक्रेनी सेना,Protagonist,Innocent
+HI_117.txt,भारत,Protagonist,Innocent
+HI_124.txt,यूक्रेन की सेना,Protagonist,Protagonist
+HI_55.txt,अमेरिका,Antagonist,Innocent
+HI_263.txt,रॉयटर्स,Antagonist,Antagonist
+HI_206.txt,अमेरिकी राष्ट्रीय सुरक्षा एजेंसी,Antagonist,Protagonist
+HI_362.txt,जो बाइडन,Antagonist,Antagonist
+HI_63.txt,यूक्रेन,Protagonist,Antagonist
+HI_64.txt,मंगोलिया,Antagonist,Antagonist
+HI_279.txt,उत्तर कोरिया,Antagonist,Antagonist
+HI_360.txt,वोलोडिमिर जेलेंस्की,Antagonist,Antagonist
+HI_120.txt,अमेरिका,Antagonist,Innocent
+HI_285.txt,रूस,Antagonist,Innocent
+HI_54.txt,रूसी,Protagonist,Antagonist
+HI_197.txt,पोक्रोव्स्क,Innocent,Antagonist
+HI_374.txt,पुतिन,Antagonist,Innocent
+HI_331.txt,यूक्रेन,Innocent,Antagonist
+HI_7.txt,भारत,Protagonist,Innocent
+HI_127.txt,पुतिन,Antagonist,Antagonist
+HI_385.txt,जो बाइडेन,Protagonist,Antagonist
+HI_231.txt,लद्दाख की जनता,Innocent,Protagonist
+HI_241.txt,मोदी,Protagonist,Protagonist
+HI_161.txt,इमैनुएल मैक्रों,Antagonist,Innocent
+HI_392.txt,बाइडेन,Protagonist,Antagonist
+HI_100.txt,एस जयशंकर,Protagonist,Innocent
+HI_226.txt,रूस,Antagonist,Antagonist
+HI_321.txt,बुग्लेडार,Innocent,Protagonist
+HI_384.txt,रूस,Antagonist,Protagonist
+HI_301.txt,बाइडेन प्रशासन,Antagonist,Antagonist
+HI_33.txt,बोस्नियन,Innocent,Antagonist
+HI_400.txt,रूस,Antagonist,Antagonist
+HI_55.txt,रूस,Antagonist,Protagonist
+HI_175.txt,अन्ना माल्यर,Protagonist,Antagonist
+HI_46.txt,गाजा,Innocent,Innocent
+HI_2.txt,वॉशिंगटन,Antagonist,Innocent
+HI_219.txt,यूक्रेन,Innocent,Antagonist
+HI_271.txt,भारत,Antagonist,Innocent
+HI_164.txt,नाटो,Protagonist,Innocent
+HI_113.txt,यूक्रेन,Protagonist,Innocent
+HI_70.txt,रूस,Protagonist,Protagonist
+HI_283.txt,नरेंद्र मोदी,Protagonist,Protagonist
+HI_356.txt,ट्रंप,Protagonist,Antagonist
+HI_301.txt,जेलेंस्की,Antagonist,Antagonist
+HI_58.txt,जापान,Protagonist,Protagonist
+HI_116.txt,ब्रिटेन,Antagonist,Antagonist
+HI_336.txt,अश्विन भाई मांगुकिया,Innocent,Antagonist
+HI_398.txt,वोलोदिमीर जेलेंस्की,Protagonist,Antagonist
+HI_261.txt,यूक्रेनी महिलाओं,Protagonist,Antagonist
+HI_148.txt,गौतम अडानी,Protagonist,Protagonist
+HI_326.txt,मेलिंगा हेरिंग,Protagonist,Innocent
+HI_128.txt,जो बाइडेन,Protagonist,Antagonist
+HI_253.txt,पुतिन,Protagonist,Innocent
+HI_148.txt,अडानी ग्रुप (A,Protagonist,Protagonist
+HI_348.txt,यूरोपीय संघ,Antagonist,Protagonist
+HI_42.txt,राजू बिस्टा,Protagonist,Antagonist
+HI_177.txt,रूस,Protagonist,Innocent
+HI_53.txt,यूक्रेन,Innocent,Innocent
+HI_155.txt,यूक्रेन,Innocent,Antagonist
+HI_117.txt,दझोखर दुदायेव बटालियन,Protagonist,Innocent
+HI_27.txt,यूक्रेन,Innocent,Antagonist
+HI_234.txt,आंध्र प्रदेश,Innocent,Innocent
+HI_169.txt,रूस,Antagonist,Protagonist
+HI_46.txt,रूस,Antagonist,Antagonist
+HI_117.txt,प्रवासी श्रमिकों,Innocent,Antagonist
+HI_157.txt,भारत,Protagonist,Protagonist
+HI_247.txt,व्यक्ति,Innocent,Antagonist
+HI_116.txt,डेनमार्क,Innocent,Innocent
+HI_316.txt,यूक्रेन,Protagonist,Innocent
+HI_386.txt,सुमी,Innocent,Antagonist
+HI_179.txt,रॉयटर्स,Antagonist,Antagonist
+HI_307.txt,उत्तर कोरिया,Protagonist,Antagonist
+HI_400.txt,डोनाल्ड ट्रंप,Protagonist,Innocent
+HI_395.txt,ब्लिंकन,Protagonist,Innocent
+HI_124.txt,वोलोडिमिर जेलेंस्की,Protagonist,Antagonist
+HI_92.txt,अमेरिका,Antagonist,Innocent
+HI_321.txt,रूस,Antagonist,Innocent
+HI_197.txt,पुतिन,Antagonist,Antagonist
+HI_117.txt,बाइडेन प्रशासन,Antagonist,Antagonist
+HI_106.txt,रूस,Protagonist,Antagonist
+HI_397.txt,मिखाइल गोर्बाचेव,Protagonist,Innocent
+HI_372.txt,अमेरिका,Antagonist,Antagonist
+HI_245.txt,यूक्रेन,Protagonist,Protagonist
+HI_78.txt,वलोदिमीर जेलेंस्की,Protagonist,Antagonist
+HI_388.txt,रूस,Antagonist,Antagonist
+HI_259.txt,रूस,Antagonist,Innocent
+HI_367.txt,बाइडन,Antagonist,Innocent
+HI_175.txt,यूक्रेनी रक्षकों,Protagonist,Antagonist
+HI_314.txt,एशियाई देश,Protagonist,Protagonist
+HI_316.txt,चीन,Antagonist,Innocent
+HI_161.txt,यूक्रेन,Antagonist,Innocent
+HI_7.txt,कुलेबा,Innocent,Protagonist
+HI_320.txt,यूक्रेनी सेना,Protagonist,Innocent
+HI_196.txt,रूस,Antagonist,Protagonist
+HI_79.txt,पश्चिमी देशों,Antagonist,Protagonist
+HI_284.txt,रूस,Antagonist,Antagonist
+HI_124.txt,एयरफोर्स,Innocent,Antagonist
+HI_24.txt,भारत,Protagonist,Innocent
+HI_311.txt,मॉस्को,Protagonist,Innocent
+HI_285.txt,उत्तर कोरियाई सेना,Antagonist,Antagonist
+HI_175.txt,यूक्रेनी रक्षा मंत्रालय,Protagonist,Innocent
+HI_391.txt,पश्चिमी देशों,Antagonist,Innocent
+HI_263.txt,विदेश मंत्रालय,Protagonist,Antagonist
+HI_226.txt,नागरिकों,Innocent,Antagonist
+HI_122.txt,रूस,Antagonist,Innocent
+HI_70.txt,पुतिन,Antagonist,Antagonist
+HI_317.txt,ट्रंप,Protagonist,Antagonist
+HI_311.txt,पेंटागन,Protagonist,Innocent
+HI_117.txt,विभिन्न क्षेत्रों/,Innocent,Innocent
+HI_101.txt,भारत,Protagonist,Innocent
+HI_116.txt,फ्रांस,Antagonist,Antagonist
+HI_16.txt,रूस,Protagonist,Antagonist
+HI_327.txt,रूस,Protagonist,Innocent
+HI_77.txt,कीव,Innocent,Protagonist
+HI_120.txt,यूक्रेन,Protagonist,Antagonist
+HI_279.txt,पुतिन,Protagonist,Antagonist
+HI_259.txt,कीव,Innocent,Innocent
+HI_55.txt,पुतिन,Protagonist,Antagonist
+HI_49.txt,व्लादिमीर पुतिन,Protagonist,Protagonist
+HI_6.txt,रूस,Antagonist,Antagonist
+HI_2.txt,अमेरिका,Innocent,Innocent
+HI_201.txt,श्चिमी देश,Antagonist,Innocent
+HI_260.txt,यूक्रेन,Protagonist,Protagonist
+HI_255.txt,भारतीय विदेश मंत्रालय,Protagonist,Protagonist
+HI_303.txt,सवासलेका,Innocent,Antagonist
+HI_145.txt,ह्यूस्टन,Innocent,Antagonist
+HI_104.txt,भारत,Protagonist,Innocent
+HI_206.txt,अमेरिका,Antagonist,Antagonist
+HI_191.txt,रूस,Protagonist,Protagonist
+HI_1.txt,नरेन्द्र मोदी,Protagonist,Protagonist
+HI_332.txt,यूक्रेन,Protagonist,Antagonist
+HI_55.txt,जेलसिंकी,Antagonist,Protagonist
+HI_90.txt,पश्चिमी देश,Antagonist,Innocent
+HI_303.txt,मास्को,Protagonist,Antagonist
+HI_170.txt,व्लादिमीर पुतिन,Antagonist,Antagonist
+HI_6.txt,ब्रिटेन,Protagonist,Protagonist
+HI_46.txt,रूस,Antagonist,Antagonist
+HI_187.txt,भारत,Protagonist,Protagonist
+HI_94.txt,Reuters,Antagonist,Innocent
+HI_162.txt,रूस,Protagonist,Protagonist
+HI_278.txt,यूक्रेन,Protagonist,Innocent
+HI_208.txt,ग्रामीण परिवार,Innocent,Innocent
+HI_23.txt,अमेरिकी,Protagonist,Antagonist
+HI_157.txt,भारत,Protagonist,Innocent
+HI_52.txt,कीर्ति वर्धन सिंह,Protagonist,Innocent
+HI_234.txt,जिले,Innocent,Antagonist
+HI_397.txt,रूस,Protagonist,Antagonist
+HI_310.txt,उत्तर कोरिया,Protagonist,Innocent
+HI_306.txt,यूक्रेन,Protagonist,Innocent
+HI_22.txt,कीव,Antagonist,Antagonist
+HI_165.txt,सैनिकों,Innocent,Antagonist
+HI_383.txt,ट्रंप,Protagonist,Antagonist
+HI_37.txt,भारत,Protagonist,Innocent
+HI_100.txt,यूक्रेन,Innocent,Innocent
+HI_124.txt,जर्मनी,Protagonist,Antagonist
+HI_30.txt,चीन,Antagonist,Innocent
+HI_23.txt,यूक्रेन,Innocent,Innocent
+HI_389.txt,रूस,Protagonist,Innocent
+HI_65.txt,अमेरिका,Antagonist,Antagonist
+HI_55.txt,पुतिन,Innocent,Protagonist
+HI_170.txt,यूक्रेन,Protagonist,Antagonist
+HI_117.txt,नाइजीरिया,Innocent,Antagonist
+HI_70.txt,कतर,Protagonist,Protagonist
+HI_115.txt,यूक्रेन,Antagonist,Antagonist
+HI_42.txt,नेपाली/गोरखा एजेंट,Antagonist,Innocent
+HI_53.txt,यूक्रेन,Protagonist,Innocent
+HI_211.txt,पृथ्वी,Innocent,Innocent
+HI_66.txt,अमेरिका,Antagonist,Antagonist
+HI_117.txt,मास्को,Antagonist,Innocent
+HI_206.txt,रूस,Protagonist,Protagonist
+HI_385.txt,यूक्रन,Protagonist,Innocent
+HI_117.txt,अरब,Protagonist,Innocent
+HI_301.txt,यूक्रेन,Protagonist,Innocent
+HI_55.txt,USSR,Innocent,Protagonist
+HI_281.txt,यूक्रेन,Protagonist,Antagonist
+HI_264.txt,सेरेब्रियांका,Innocent,Protagonist
+HI_45.txt,व्लादिमीर पुतिन,Protagonist,Antagonist
+HI_153.txt,रुबिज़ने,Innocent,Protagonist
+HI_210.txt,मानव जीवन,Innocent,Antagonist
+HI_303.txt,कु‌र्स्क,Innocent,Antagonist
+HI_115.txt,यूक्रेन,Antagonist,Protagonist
+HI_323.txt,यूक्रेन,Protagonist,Antagonist
+HI_323.txt,ज़ेलेंस्की,Protagonist,Innocent
+HI_244.txt,जो बाइडेन,Antagonist,Innocent
+HI_197.txt,यूक्रेनी सेना,Protagonist,Antagonist
+HI_287.txt,भारत,Protagonist,Innocent
+HI_286.txt,उत्तर कोरिया,Protagonist,Antagonist
+HI_79.txt,कीव,Protagonist,Antagonist
+HI_142.txt,संतोष कुमार मल्ल,Protagonist,Protagonist
+HI_6.txt,नाटो,Antagonist,Antagonist
+HI_46.txt,भारत,Protagonist,Antagonist
+HI_103.txt,अमेरिका,Antagonist,Innocent
+HI_30.txt,विक्टर ओरबान,Protagonist,Antagonist
+HI_231.txt,लद्दाख,Innocent,Innocent
+HI_386.txt,रूस,Antagonist,Antagonist
+HI_84.txt,भारत,Protagonist,Protagonist
+HI_46.txt,यूक्रेन,Innocent,Antagonist
+HI_116.txt,जर्मनी,Antagonist,Antagonist
+HI_228.txt,यूक्रेन,Protagonist,Protagonist
+HI_89.txt,अमेरिका,Antagonist,Innocent
+HI_44.txt,पुतिन,Protagonist,Protagonist
+HI_307.txt,चोए सोन हुई,Protagonist,Innocent
+HI_129.txt,वन विभाग,Protagonist,Protagonist
+HI_234.txt,राजस्थान,Innocent,Innocent
+HI_30.txt,यूरोपीय संघ,Antagonist,Innocent
+HI_197.txt,रूसी,Innocent,Innocent
+HI_94.txt,रूस,Antagonist,Innocent
+HI_397.txt,नाटो,Antagonist,Innocent
+HI_117.txt,अफ्रीकी राज्यों,Innocent,Antagonist
+HI_333.txt,यूक्रेन,Antagonist,Antagonist
+HI_208.txt,अनुसूचित जाति,Innocent,Protagonist
+HI_219.txt,ऑस्ट्रेलिया,Protagonist,Antagonist
+HI_113.txt,विक्टर यानुकोविच,Antagonist,Antagonist
+HI_201.txt,मोदी,Protagonist,Innocent
+HI_222.txt,मोदी,Protagonist,Protagonist
+HI_66.txt,नागरिक उड्डयन क्षेत्र,Innocent,Innocent
+HI_23.txt,रूसी सैनिकों,Innocent,Protagonist
+HI_226.txt,वोलोदिमिर जेलेंस्की,Protagonist,Antagonist
+HI_70.txt,यूएई,Protagonist,Protagonist
+HI_175.txt,रूसी सैनिक,Antagonist,Protagonist
+HI_52.txt,रूसी,Antagonist,Protagonist
+HI_91.txt,व्लादिमीर पुतिन,Protagonist,Antagonist
+HI_7.txt,शुरू,Antagonist,Protagonist
+HI_340.txt,मरीना मिरोन,Protagonist,Antagonist
+HI_170.txt,वोलोदिमीर जेलेंस्की,Protagonist,Protagonist
+HI_48.txt,वैगनर लड़ाकों,Protagonist,Antagonist
+HI_175.txt,रूसी,Antagonist,Antagonist
+HI_253.txt,उलरिच कुहेन,Protagonist,Innocent
+HI_380.txt,यूक्रेन,Protagonist,Antagonist
+HI_123.txt,चीन,Antagonist,Antagonist
+HI_207.txt,एआईटीयूसी,Protagonist,Innocent
+HI_329.txt,लांज़ा,Antagonist,Antagonist
+HI_314.txt,ट्रंप,Protagonist,Protagonist
+HI_66.txt,अमेरिका,Innocent,Antagonist
+HI_207.txt,वक्ताओं,Protagonist,Protagonist
+HI_395.txt,नाटो देशों,Protagonist,Innocent
+HI_99.txt,पेस्कोव,Protagonist,Protagonist
+HI_358.txt,भारत,Protagonist,Protagonist
+HI_106.txt,उत्तर कोरिया,Innocent,Antagonist
+HI_320.txt,यूक्रेन,Innocent,Innocent
+HI_274.txt,पूर्वी यूक्रेन,Innocent,Antagonist
+HI_313.txt,डॉक्टर,Innocent,Antagonist
+HI_266.txt,पश्चिमी देशों,Protagonist,Antagonist
+HI_60.txt,भारत,Antagonist,Antagonist
+HI_273.txt,उत्तर कोरिया,Antagonist,Protagonist
+HI_55.txt,यूक्रेन,Antagonist,Antagonist
+HI_113.txt,विद्रोहियों,Antagonist,Antagonist
+HI_112.txt,यूक्रेनी सेना,Antagonist,Innocent
+HI_283.txt,यूक्रेन,Innocent,Antagonist
+HI_387.txt,वलोडिमिर ज़ेलेंस्की,Protagonist,Protagonist
+HI_256.txt,ब्रिटेन,Protagonist,Antagonist
+HI_266.txt,किम जोंग,Antagonist,Antagonist
+HI_386.txt,अमेरिका,Antagonist,Protagonist
+HI_392.txt,अमेरिकी प्रशासन,Protagonist,Antagonist
+HI_46.txt,यूक्रेन,Innocent,Protagonist
+HI_124.txt,जेलेंस्की,Protagonist,Innocent
+HI_25.txt,पुतिन,Protagonist,Antagonist
+HI_116.txt,पुतिन,Antagonist,Antagonist
+HI_387.txt,डोनाल्ड ट्रम्प,Protagonist,Innocent
+HI_329.txt,ट्रंप प्रशासन,Protagonist,Innocent
+HI_219.txt,अमेरिका,Protagonist,Protagonist
+HI_273.txt,रूसी सेना,Protagonist,Protagonist
+HI_335.txt,मुल्कों,Protagonist,Antagonist
+HI_252.txt,संयुक्त राष्ट्र,Protagonist,Protagonist
+HI_22.txt,यूक्रेन,Protagonist,Antagonist
+HI_2.txt,पुतिन,Innocent,Protagonist
+HI_309.txt,मॉस्को,Protagonist,Innocent
+HI_138.txt,प्रधानमंत्री मोदी,Protagonist,Antagonist
+HI_77.txt,रूस,Antagonist,Antagonist
+HI_314.txt,भारत,Protagonist,Protagonist
+HI_308.txt,मॉस्को,Protagonist,Antagonist
+HI_257.txt,रामेंस्कोए,Innocent,Innocent
+HI_113.txt,क्रीमिया,Innocent,Antagonist
+HI_208.txt,भीम,Protagonist,Antagonist
+HI_275.txt,रणधीर जायसवाल,Protagonist,Antagonist
+HI_307.txt,प्योंगयांग,Protagonist,Innocent
+HI_318.txt,चीन,Antagonist,Innocent
+HI_386.txt,लोगों,Innocent,Antagonist
+HI_68.txt,रूस की सेना,Antagonist,Antagonist
+HI_55.txt,अमेरिका,Antagonist,Antagonist
+HI_171.txt,रूस,Antagonist,Antagonist
+HI_399.txt,रूस,Antagonist,Antagonist
+HI_233.txt,साइंटिस्ट,Protagonist,Protagonist
+HI_246.txt,हथियार डिपो,Innocent,Antagonist
+HI_390.txt,जो बाइडेन,Protagonist,Innocent
+HI_235.txt,दुनिया,Innocent,Antagonist
+HI_50.txt,केंद्र सरकार,Protagonist,Antagonist
+HI_118.txt,मोल्दोवा,Protagonist,Protagonist
+HI_50.txt,गगनदीप सिंह,Innocent,Antagonist
+HI_287.txt,ग्लासगो,Protagonist,Innocent
+HI_23.txt,यूरोप,Innocent,Antagonist
+HI_339.txt,ब्रायन लांज़ा,Protagonist,Innocent
+HI_45.txt,वादिम क्रासिकोव,Antagonist,Antagonist
+HI_388.txt,यूक्रेन,Protagonist,Antagonist
+HI_227.txt,यूक्रेन की सेना,Protagonist,Antagonist
+HI_124.txt,राष्ट्रपति पुतिन,Antagonist,Antagonist
+HI_305.txt,व्लादिमीर पुतिन,Protagonist,Innocent
+HI_9.txt,रूस,Protagonist,Antagonist
+HI_42.txt,चरणजीत सिंह,Antagonist,Protagonist
+HI_273.txt,पेस्कोव,Protagonist,Antagonist
+HI_321.txt,नेटो,Protagonist,Innocent
+HI_326.txt,नेटो,Protagonist,Antagonist
+HI_197.txt,पूर्वी यूक्रेन,Innocent,Antagonist
+HI_336.txt,हेमिल,Innocent,Antagonist
+HI_323.txt,रूस,Protagonist,Antagonist
+HI_112.txt,यूक्रेन,Antagonist,Antagonist
+HI_100.txt,भारत,Protagonist,Innocent
+HI_258.txt,रूस,Protagonist,Innocent
+HI_378.txt,पुतिन,Antagonist,Antagonist
+HI_254.txt,व्लादिमीर पुतिन,Protagonist,Protagonist
+HI_54.txt,रूस,Protagonist,Antagonist
+HI_229.txt,रूसी रक्षा मंत्रालय,Protagonist,Antagonist
+HI_49.txt,रूस,Antagonist,Antagonist
+HI_324.txt,यूक्रेन,Antagonist,Innocent
+HI_217.txt,जेलेंस्की,Antagonist,Antagonist
+HI_7.txt,रूस,Antagonist,Antagonist
+HI_70.txt,पश्चिमी देश,Antagonist,Antagonist
+HI_321.txt,यूक्रेन,Protagonist,Antagonist
+HI_6.txt,रूस,Antagonist,Antagonist
+HI_182.txt,अमेरिका,Antagonist,Antagonist
+HI_123.txt,भारत,Protagonist,Protagonist
+HI_70.txt,मुसलमानों,Innocent,Antagonist
+HI_187.txt,नाटो,Antagonist,Antagonist
+HI_167.txt,यूक्रेन,Innocent,Protagonist
+HI_53.txt,ब्राजील,Protagonist,Antagonist
+HI_60.txt,भारत सरकार,Innocent,Innocent
+HI_321.txt,दोनेत्स्क,Innocent,Antagonist
+HI_123.txt,चीन,Antagonist,Protagonist
+HI_102.txt,अस्पताल,Innocent,Antagonist
+HI_127.txt,वोलोदिमीर जेलेंस्की,Antagonist,Protagonist
+HI_223.txt,कोरिया,Antagonist,Innocent
+HI_327.txt,यूक्रेन,Protagonist,Innocent
+HI_197.txt,पुतिन,Antagonist,Antagonist
+HI_174.txt,उत्तर कोरियाई,Antagonist,Antagonist
+HI_279.txt,ईरान,Antagonist,Antagonist
+HI_195.txt,मास्को,Protagonist,Innocent
+HI_106.txt,अमेरिका,Antagonist,Antagonist
+HI_290.txt,फ्राइडेरिक ओटो,Protagonist,Innocent
+HI_188.txt,अमेरिका,Antagonist,Innocent
+HI_252.txt,यूक्रेन,Protagonist,Protagonist
+HI_283.txt,बच्चे,Innocent,Antagonist
+HI_304.txt,रूस,Antagonist,Antagonist
+HI_3.txt,पॉल व्हेलन,Antagonist,Innocent
+HI_272.txt,चरमपंथ,Antagonist,Innocent
+HI_56.txt,NATO,Antagonist,Innocent
+HI_161.txt,पश्चिम,Antagonist,Antagonist
+HI_377.txt,दिमित्री पेसकोव,Protagonist,Protagonist
+HI_309.txt,उत्तर कोरिया,Antagonist,Innocent
+HI_248.txt,बच्ची,Innocent,Antagonist
+HI_13.txt,अमेरिका,Protagonist,Innocent
+HI_53.txt,यूक्रेन,Protagonist,Innocent
+HI_239.txt,लैंसडाउन,Innocent,Innocent
+HI_78.txt,पोल्टावा,Innocent,Innocent
+HI_225.txt,जेलेंस्की,Protagonist,Antagonist
+HI_48.txt,वैगनर लड़ाकों,Innocent,Antagonist
+HI_228.txt,कीव,Innocent,Antagonist
+HI_201.txt,चीन,Antagonist,Antagonist
+HI_91.txt,कुर्स्क,Innocent,Antagonist
+HI_185.txt,व्लादिमीर पुतिन,Protagonist,Antagonist
+HI_173.txt,अमेरिका,Antagonist,Innocent
+HI_123.txt,चीन,Antagonist,Antagonist
+HI_153.txt,क्रेमिना,Innocent,Antagonist
+HI_270.txt,अजीत डोभाल,Protagonist,Innocent
+HI_252.txt,ICRC,Protagonist,Protagonist
+HI_105.txt,रूसी सैनिक,Antagonist,Antagonist
+HI_314.txt,अल्पसंख्यकों,Innocent,Antagonist
+HI_259.txt,कीव,Innocent,Innocent
+HI_113.txt,प्रदर्शनकारी,Innocent,Antagonist
+HI_197.txt,कुर्स्क,Innocent,Innocent
+HI_246.txt,रूसी सेना,Protagonist,Antagonist
+HI_390.txt,रूस,Antagonist,Innocent
+HI_108.txt,ट्रंप,Protagonist,Antagonist
+HI_226.txt,खारकीव,Innocent,Antagonist
+HI_133.txt,हिमालयन मोनाल,Innocent,Protagonist
+HI_313.txt,यूक्रेन,Innocent,Antagonist
+HI_46.txt,रूस,Antagonist,Protagonist
+HI_235.txt,सूडान,Innocent,Antagonist
+HI_117.txt,रूस,Antagonist,Innocent
+HI_303.txt,बेलगोरोद,Innocent,Antagonist
+HI_289.txt,वैलेरी मैसन-डेलोमोट,Protagonist,Innocent
+HI_316.txt,पाकिस्तान,Antagonist,Innocent
+HI_164.txt,पश्चिमी देशों,Protagonist,Innocent
+HI_282.txt,एस जयशंकर,Protagonist,Innocent
+HI_48.txt,माली की आर्मी,Protagonist,Antagonist
+HI_86.txt,यूक्रेन,Innocent,Innocent
+HI_136.txt,एयरलाइन केएलएम,Antagonist,Innocent
+HI_280.txt,ज़ेलेंस्की,Protagonist,Protagonist
+HI_211.txt,ExxonMobilजो,Antagonist,Innocent
+HI_33.txt,वेस्टर्न मिलिट्री डिस्ट्रिक्ट,Innocent,Antagonist
+HI_249.txt,अमेरिका,Antagonist,Antagonist
+HI_275.txt,रूस,Protagonist,Antagonist
+HI_102.txt,यूक्रेन,Innocent,Antagonist
+HI_117.txt,चीन,Antagonist,Innocent
+HI_301.txt,ट्रंप,Protagonist,Antagonist
+HI_325.txt,यूक्रेनी लोग,Innocent,Innocent
+HI_332.txt,पुतिन,Antagonist,Innocent
+HI_197.txt,वलोडोमिर जेलेंस्की,Protagonist,Antagonist
+HI_307.txt,अमेरिका,Antagonist,Antagonist
+HI_252.txt,रूस,Antagonist,Protagonist
+HI_225.txt,यूक्रेनी सैनिकों,Protagonist,Antagonist
+HI_100.txt,मोदी,Protagonist,Protagonist
+HI_118.txt,रूस,Antagonist,Protagonist
+HI_24.txt,व्लादिमीर पुतिन,Protagonist,Innocent
+HI_3.txt,इवान गेर्शकोविच,Innocent,Antagonist
+HI_317.txt,अमेरिका,Protagonist,Antagonist
+HI_61.txt,रूस,Antagonist,Innocent
+HI_69.txt,नरेंद्र मोदी,Protagonist,Protagonist
+HI_193.txt,क्वाड नेताओं,Protagonist,Protagonist
+HI_299.txt,पैसिफिक वॉकर सर्कुलेशन,Antagonist,Innocent
+HI_397.txt,यूक्रेन,Innocent,Innocent
+HI_391.txt,नाटो,Antagonist,Innocent
+HI_164.txt,राष्ट्रपति जेलेंस्की,Protagonist,Antagonist
+HI_279.txt,व्हाइट हाउस,Protagonist,Antagonist
+HI_127.txt,वासिली नेबेंजिया,Antagonist,Protagonist
+HI_70.txt,रूस,Antagonist,Innocent
+HI_393.txt,कीव,Protagonist,Innocent
+HI_282.txt,वोलोदीमीर ज़ेलेंस्की,Protagonist,Innocent
+HI_61.txt,फाइनेंशियल टाइम्स,Antagonist,Antagonist
+HI_49.txt,अलसू कुर्माशेवा,Antagonist,Protagonist
+HI_385.txt,बाइडेन प्रशासन,Protagonist,Antagonist
+HI_44.txt,रूस,Antagonist,Protagonist
+HI_322.txt,अमेरिका,Protagonist,Antagonist
+HI_155.txt,चीन,Antagonist,Antagonist
+HI_89.txt,व्लादिमीर पुतिन,Protagonist,Antagonist
+HI_116.txt,सोवियत संघ,Antagonist,Antagonist
+HI_78.txt,यूक्रेन,Innocent,Antagonist
+HI_336.txt,रूस,Protagonist,Antagonist
+HI_117.txt,कादिरोव,Antagonist,Innocent
+HI_49.txt,रूस,Antagonist,Antagonist
+HI_8.txt,रूस,Antagonist,Antagonist
+HI_394.txt,ब्लिंकन,Protagonist,Antagonist
+HI_258.txt,व्लादिमीर पुतिन,Protagonist,Innocent
+HI_393.txt,नॉर्थ कोरिया,Antagonist,Innocent
+HI_77.txt,जेलेंस्की,Protagonist,Antagonist
+HI_181.txt,रूस,Antagonist,Antagonist
+HI_179.txt,भारतीय विदेश मंत्रालय,Protagonist,Antagonist
+HI_353.txt,ट्रंप,Protagonist,Antagonist
+HI_117.txt,नागरिक उड्डयन क्षेत्र,Innocent,Innocent
+HI_286.txt,योनहाप,Protagonist,Innocent
+HI_79.txt,यूक्रेन,Antagonist,Antagonist
+HI_284.txt,रूसी राजनयिकों,Antagonist,Antagonist
+HI_262.txt,अधिकारी,Innocent,Antagonist
+HI_116.txt,ब्रिटेन,Antagonist,Antagonist
+HI_401.txt,बाइडेन,Antagonist,Antagonist
+HI_253.txt,रूस,Protagonist,Innocent
+HI_118.txt,हंगरी,Protagonist,Protagonist
+HI_89.txt,भारत,Protagonist,Protagonist
+HI_305.txt,यूक्रेनी सैनिकों,Protagonist,Innocent
+HI_252.txt,यूक्रेन की सेना,Protagonist,Protagonist
+HI_357.txt,बाइडन,Antagonist,Protagonist
+HI_383.txt,वलोडिमिर जेलेंस्की,Protagonist,Antagonist
+HI_399.txt,डोनाल्ड ट्रंप,Protagonist,Antagonist
+HI_308.txt,व्लादिमीर पुतिन,Protagonist,Protagonist
+HI_286.txt,यूक्रेन,Innocent,Antagonist
+HI_113.txt,रूस,Antagonist,Innocent
+HI_66.txt,यूरोपीय देश,Innocent,Antagonist
+HI_89.txt,मोदी,Protagonist,Protagonist
+HI_33.txt,यूक्रेन,Antagonist,Antagonist
+HI_113.txt,जो बाइडेन,Protagonist,Innocent
+HI_277.txt,जेलेंस्की,Protagonist,Antagonist
+HI_73.txt,रूस,Antagonist,Antagonist
+HI_268.txt,यूक्रेन,Innocent,Innocent
+HI_246.txt,यूक्रेन,Antagonist,Antagonist
+HI_101.txt,मोदी,Antagonist,Antagonist
+HI_395.txt,रूस,Antagonist,Antagonist
+HI_155.txt,रूस,Antagonist,Antagonist
+HI_245.txt,कीअर स्टॉर्मर,Protagonist,Antagonist
+HI_339.txt,ज़ेलेंस्की,Antagonist,Antagonist
+HI_226.txt,अमेरिका,Antagonist,Antagonist
+HI_55.txt,पुतिन,Protagonist,Protagonist
+HI_190.txt,मोदी,Protagonist,Antagonist
+HI_310.txt,किम जोंग,Protagonist,Innocent
+HI_206.txt,अमेरिकी सिस्टम,Antagonist,Innocent
+HI_60.txt,रूस,Antagonist,Antagonist
+HI_394.txt,बाइेडन प्रशासन,Protagonist,Antagonist
+HI_394.txt,जो बाइडेन,Protagonist,Innocent
+HI_249.txt,यूक्रेन,Innocent,Antagonist
+HI_46.txt,चीन,Protagonist,Innocent
+HI_29.txt,दागेस्तान,Innocent,Antagonist
+HI_262.txt,डोनबास,Innocent,Antagonist
+HI_349.txt,ट्रंप,Protagonist,Antagonist
+HI_100.txt,नरेंद्र मोदी,Protagonist,Innocent
+HI_258.txt,यूक्रेनी सेना,Protagonist,Protagonist
+HI_273.txt,ब्रिटिश खु़फिया एजेंसी,Antagonist,Antagonist
+HI_21.txt,पुतिन,Protagonist,Protagonist
+HI_314.txt,जो बाइडन,Antagonist,Innocent
+HI_249.txt,रूस,Antagonist,Antagonist
+HI_118.txt,यूक्रेन,Innocent,Protagonist
+HI_195.txt,एस. जयशंकर,Protagonist,Innocent
+HI_187.txt,भारत,Protagonist,Antagonist
+HI_261.txt,एयर डिफ़ेंस यूनिट,Protagonist,Innocent
+HI_316.txt,मोदी,Protagonist,Innocent
+HI_3.txt,अलसु कुर्माशेवा,Innocent,Innocent
+HI_328.txt,यूक्रेन,Innocent,Antagonist
+HI_286.txt,व्लादिमीर पुतिन,Protagonist,Antagonist
+HI_32.txt,रूस,Antagonist,Protagonist
+HI_201.txt,अमेरिका,Antagonist,Protagonist
+HI_36.txt,यूक्रेन,Innocent,Antagonist
+HI_157.txt,रूस,Protagonist,Innocent
+HI_42.txt,सरकार,Antagonist,Antagonist
+HI_393.txt,वाशिंगटन,Protagonist,Innocent
+HI_228.txt,जो बाइडेन,Protagonist,Protagonist
+HI_132.txt,वायुमंडल,Innocent,Antagonist
+HI_111.txt,रूस,Protagonist,Protagonist
+HI_316.txt,भारत,Protagonist,Protagonist
+HI_3.txt,वादिम,Antagonist,Innocent
+HI_371.txt,जो बाडेन,Antagonist,Innocent
+HI_388.txt,पश्चिम,Antagonist,Antagonist
+HI_312.txt,बिडेन,Antagonist,Antagonist
+HI_113.txt,रूस,Antagonist,Innocent
+HI_254.txt,युवक,Innocent,Antagonist
+HI_117.txt,ताजिकिस्तान,Innocent,Antagonist
+HI_2.txt,पश्चिमी नेताओं,Antagonist,Protagonist
+HI_3.txt,अमेरिका,Protagonist,Antagonist
+HI_278.txt,कीव,Innocent,Innocent
+HI_273.txt,क्रेनी सेना के इंटेलिजेंस सूत्रों,Protagonist,Innocent
+HI_7.txt,भारत,Protagonist,Protagonist
+HI_70.txt,इंडोनेशिया,Protagonist,Antagonist
+HI_396.txt,व्लादिमीर पुतिन,Protagonist,Innocent
+HI_166.txt,वालेरी स्टावित्स्की,Antagonist,Antagonist
+HI_101.txt,भारत,Protagonist,Innocent
+HI_225.txt,मायकोला ओलेशचुक,Protagonist,Antagonist
+HI_124.txt,जेलेंस्की,Protagonist,Innocent
+HI_263.txt,रणधीर जायसवाल,Protagonist,Antagonist
+HI_249.txt,ट्रंप,Protagonist,Innocent
+HI_279.txt,सर कीएर स्टार्मर,Protagonist,Innocent
+HI_164.txt,पश्चिमी देशों,Protagonist,Innocent
+HI_256.txt,अमेरिका,Antagonist,Antagonist
+HI_391.txt,ट्रंप,Protagonist,Innocent
+HI_27.txt,प्रधानमंत्री,Antagonist,Antagonist
+HI_282.txt,नरेंद्र मोदी,Protagonist,Innocent
+HI_181.txt,भारत,Protagonist,Antagonist
+HI_392.txt,जेलेंस्की,Protagonist,Antagonist
+HI_117.txt,श्रीलंका,Innocent,Innocent
+HI_311.txt,मार्क रूट,Protagonist,Protagonist
+HI_282.txt,बाइडन,Protagonist,Protagonist
+HI_133.txt,पक्षी प्रजातियां,Innocent,Innocent
+HI_175.txt,अलेक्जेंड्रोव्का बस्ती,Innocent,Antagonist
+HI_161.txt,नाटो गठबंधन,Antagonist,Innocent
+HI_87.txt,यूक्रेन,Innocent,Innocent
+HI_312.txt,मोदी,Protagonist,Antagonist
+HI_96.txt,अमेरिका,Antagonist,Antagonist
+HI_279.txt,अमेरिका,Protagonist,Innocent
+HI_45.txt,व्लादीमिर पुतिन,Antagonist,Innocent
+HI_383.txt,जेलेंस्की,Protagonist,Antagonist
+HI_252.txt,कुर्स्क,Innocent,Protagonist
+HI_45.txt,व्लादिमीर पुतिन,Antagonist,Antagonist
+HI_331.txt,यूक्रेन,Protagonist,Innocent
+HI_54.txt,नाटो,Antagonist,Antagonist
+HI_70.txt,तुर्की,Antagonist,Innocent
+HI_206.txt,एडवर्ड,Protagonist,Protagonist
+HI_72.txt,मॉस्को,Antagonist,Antagonist
+HI_222.txt,व्लादिमीर पुतिन,Protagonist,Protagonist
+HI_304.txt,सैनिकों,Antagonist,Antagonist
+HI_201.txt,नरेन्द्र मोदी,Protagonist,Protagonist
+HI_102.txt,पोलटावा,Innocent,Protagonist
+HI_375.txt,रूसी सेना,Antagonist,Antagonist
+HI_216.txt,नाटो,Antagonist,Antagonist
+HI_301.txt,वोलोदिमीर जेलेंस्की,Antagonist,Antagonist
+HI_383.txt,रूस,Antagonist,Antagonist
+HI_275.txt,रॉयटर्स,Antagonist,Antagonist
+HI_319.txt,क्राइमिया,Innocent,Innocent
+HI_187.txt,मोदी,Protagonist,Protagonist
+HI_193.txt,किशिदा,Protagonist,Protagonist
+HI_197.txt,यूक्रेनियों,Protagonist,Antagonist
+HI_301.txt,सहयोगियों,Protagonist,Innocent
+HI_116.txt,अमेरिका,Antagonist,Antagonist
+HI_321.txt,पश्चिमी देशों,Protagonist,Innocent
+HI_317.txt,भारत,Protagonist,Innocent
+HI_112.txt,यूक्रेन,Antagonist,Protagonist
+HI_86.txt,ब्राजील,Protagonist,Antagonist
+HI_22.txt,यूक्रेन,Protagonist,Antagonist
+HI_333.txt,रूस,Innocent,Innocent
+HI_113.txt,यूक्रेन,Protagonist,Antagonist
+HI_399.txt,अमेरिका,Antagonist,Antagonist
+HI_304.txt,जेलेंस्की,Protagonist,Antagonist
+HI_301.txt,वोलोदिमीर जेलेंस्की,Protagonist,Innocent
+HI_14.txt,अलसु कुर्माशेवा,Antagonist,Innocent
+HI_361.txt,रूस,Innocent,Antagonist
+HI_23.txt,यूक्रेन,Protagonist,Protagonist
+HI_394.txt,यूक्रेन,Protagonist,Innocent
+HI_232.txt,यूएन,Protagonist,Innocent
+HI_314.txt,ट्रंप,Protagonist,Innocent
+HI_92.txt,रूस,Protagonist,Antagonist
+HI_49.txt,इवान गेर्शकोविच,Antagonist,Protagonist
+HI_314.txt,जो बाइडन,Antagonist,Antagonist
+HI_355.txt,अमेरिका,Protagonist,Protagonist
+HI_320.txt,अमेरिका,Protagonist,Innocent
+HI_330.txt,रूस,Protagonist,Antagonist
+HI_153.txt,रूसी सेना,Antagonist,Protagonist
+HI_277.txt,वोलोदिमीर जेलेंस्की,Protagonist,Innocent
+HI_208.txt,वन गुर्जरों,Innocent,Protagonist
+HI_360.txt,यूक्रेन,Antagonist,Innocent
+HI_41.txt,अमेरिका,Innocent,Antagonist
+HI_89.txt,मोदी,Protagonist,Innocent
+HI_321.txt,ज़ेलेंस्की,Protagonist,Innocent
+HI_229.txt,यूक्रेन,Protagonist,Innocent
+HI_210.txt,मनुष्य,Antagonist,Antagonist
+HI_64.txt,आईसीसी,Protagonist,Protagonist
+HI_66.txt,मास्को,Antagonist,Innocent
+HI_202.txt,रूसी सेना,Antagonist,Antagonist
+HI_118.txt,महिलाएं,Innocent,Protagonist
+HI_32.txt,भारत,Antagonist,Antagonist
+HI_23.txt,अमेरिका,Antagonist,Innocent
+HI_388.txt,अमेरिका,Antagonist,Protagonist
+HI_103.txt,पुतिन,Protagonist,Innocent
+HI_100.txt,जेलेंस्की,Protagonist,Protagonist
+HI_46.txt,यूक्रेन,Innocent,Antagonist
+HI_77.txt,वोलोदिमीर जेलेंस्की,Protagonist,Antagonist
+HI_77.txt,रूसी सेना,Antagonist,Antagonist
+HI_325.txt,ट्रंप,Protagonist,Innocent
+HI_281.txt,सदस्य,Protagonist,Antagonist
+HI_212.txt,वोल्डिमीर जेलेंस्की,Protagonist,Antagonist
+HI_262.txt,उत्तर कोरिया की सेना,Antagonist,Antagonist
+HI_203.txt,ISIS,Antagonist,Innocent
+HI_1.txt,राष्ट्रपति पुतिन,Protagonist,Innocent
+HI_266.txt,कीव,Innocent,Innocent
+HI_188.txt,अमेरिकी,Antagonist,Protagonist
+HI_246.txt,यूक्रेन की सेना,Antagonist,Antagonist
+HI_303.txt,यूक्रेन,Antagonist,Antagonist
+HI_116.txt,बेल्जियम,Innocent,Innocent
+HI_6.txt,यूक्रेन,Innocent,Protagonist
+HI_366.txt,बाइडन,Antagonist,Antagonist
+HI_45.txt,वादिम क्रासिकोव,Antagonist,Antagonist
+HI_284.txt,पोलिश अधिकारियों,Protagonist,Innocent
+HI_195.txt,जवाहरलाल नेहरू,Protagonist,Innocent
+HI_307.txt,मॉस्को,Protagonist,Antagonist
+HI_397.txt,सैक्स,Protagonist,Innocent
+HI_206.txt,विदेशी नेताओं,Innocent,Antagonist
+HI_117.txt,अल्जीरिया,Innocent,Antagonist
+HI_90.txt,रूस,Protagonist,Innocent
+HI_278.txt,अमेरिकी राष्ट्रपति,Protagonist,Innocent
+HI_27.txt,भारत सरकार,Antagonist,Protagonist
+HI_83.txt,यूक्रेन,Innocent,Antagonist
+HI_175.txt,रूसी सेना,Antagonist,Antagonist
+HI_329.txt,यूरोप,Antagonist,Antagonist
+HI_228.txt,रूसी सेना,Antagonist,Antagonist
+HI_60.txt,यूरोप,Antagonist,Innocent
+HI_246.txt,रूसी सेना,Protagonist,Antagonist
+HI_202.txt,यूक्रेन,Antagonist,Antagonist
+HI_190.txt,रूस,Innocent,Protagonist
+HI_400.txt,ब्रियांस्क,Innocent,Antagonist
+HI_337.txt,रूस,Antagonist,Innocent
+HI_32.txt,ब्रिटेन का मीडिया,Antagonist,Antagonist
+HI_335.txt,नेटो,Protagonist,Antagonist
+HI_202.txt,यूक्रेन,Protagonist,Antagonist
+HI_77.txt,विताली क्लित्स्को,Protagonist,Protagonist
+HI_189.txt,युक्त राष्ट्र,Protagonist,Protagonist
+HI_283.txt,प्रधानमंत्री,Protagonist,Antagonist
+HI_27.txt,केंद्र सरकार,Antagonist,Protagonist
+HI_237.txt,ग्रह,Innocent,Antagonist
+HI_199.txt,वैज्ञानिकों,Protagonist,Antagonist
+HI_108.txt,डोनाल्ड ट्रंप,Protagonist,Antagonist
+HI_63.txt,अमेरिका,Protagonist,Antagonist
+HI_90.txt,यूक्रेन,Antagonist,Protagonist
+HI_93.txt,रूस,Antagonist,Innocent
+HI_325.txt,ट्रंप,Protagonist,Innocent
+HI_123.txt,चीन,Antagonist,Innocent
+HI_44.txt,भारत,Protagonist,Protagonist
+HI_104.txt,रूस,Antagonist,Innocent
+HI_157.txt,यूक्रेन,Protagonist,Innocent
+HI_280.txt,पुतिन,Protagonist,Innocent
+HI_55.txt,यूक्रेन,Antagonist,Protagonist
+HI_187.txt,मोदी,Protagonist,Protagonist
+HI_266.txt,यूक्रेन,Innocent,Innocent
+HI_104.txt,मोदी सरकार,Protagonist,Innocent
+HI_260.txt,वोलोदिमीर ज़ेलेंस्की,Protagonist,Protagonist
+HI_83.txt,प्रधानमंत्री मोदी,Protagonist,Antagonist
+HI_394.txt,एंटनी ब्लिंकन,Protagonist,Antagonist
+HI_383.txt,अमेरिका,Protagonist,Antagonist
+HI_301.txt,अमेरिका,Protagonist,Antagonist
+HI_78.txt,जेलेंस्की,Protagonist,Antagonist
+HI_255.txt,व्लादिमीर पुतिन,Protagonist,Protagonist
+HI_176.txt,व्लादिमीर पुतिन,Protagonist,Innocent
+HI_123.txt,राष्ट्रपति जेलेंस्की,Protagonist,Antagonist
+HI_222.txt,रूस,Protagonist,Antagonist
+HI_243.txt,पश्चिमी देशों,Antagonist,Antagonist
+HI_397.txt,बेलग्रेड,Innocent,Antagonist
+HI_91.txt,नाटो सेना,Antagonist,Antagonist
+HI_323.txt,नाटो,Antagonist,Antagonist
+HI_310.txt,रूस,Protagonist,Innocent
+HI_157.txt,स्विट्जरलैंड,Protagonist,Protagonist
+HI_45.txt,क्रासिकोव,Antagonist,Antagonist
+HI_269.txt,व्लादिमीर पुतिन,Protagonist,Antagonist
+HI_145.txt,वेनिस,Innocent,Antagonist
+HI_22.txt,वाशिंगटन,Antagonist,Antagonist
+HI_169.txt,रूस,Antagonist,Antagonist
+HI_253.txt,व्लादिमीर पुतिन,Protagonist,Protagonist
+HI_50.txt,केंद्र सरकार,Protagonist,Protagonist
+HI_118.txt,यूक्रेन,Innocent,Protagonist
+HI_266.txt,रूस,Antagonist,Innocent
+HI_181.txt,भारत,Protagonist,Antagonist
+HI_311.txt,जो बाइडेन,Protagonist,Antagonist
+HI_98.txt,रूस,Protagonist,Antagonist
+HI_117.txt,अंगोला,Innocent,Antagonist
+HI_92.txt,यूक्रेन,Antagonist,Antagonist
+HI_46.txt,यूक्रेन,Innocent,Antagonist
+HI_53.txt,भारत,Innocent,Innocent
+HI_310.txt,पश्चिमी देशों,Antagonist,Innocent
+HI_29.txt,ISIS-K,Antagonist,Antagonist
+HI_319.txt,ओलेक्ज़ेंडर मेरेज़को,Protagonist,Innocent
+HI_123.txt,भारत,Protagonist,Antagonist
+HI_388.txt,मास्को,Protagonist,Protagonist
+HI_271.txt,नरेंद्र मोदी,Protagonist,Protagonist
+HI_262.txt,रूस,Antagonist,Innocent
+HI_363.txt,जो बाइडन,Antagonist,Protagonist
+HI_55.txt,रूसी एलिट्स,Protagonist,Innocent
+HI_400.txt,काराचेव,Innocent,Antagonist
+HI_104.txt,जेलेंस्की,Antagonist,Innocent
+HI_70.txt,रूसी,Antagonist,Antagonist
+HI_102.txt,यूक्रेनी राष्ट्रपति,Protagonist,Antagonist
+HI_197.txt,यूक्रेन,Protagonist,Antagonist
+HI_312.txt,ट्रंप,Antagonist,Antagonist
+HI_116.txt,जर्मनी,Antagonist,Antagonist
+HI_283.txt,ज़ेलेंस्की,Protagonist,Innocent
+HI_375.txt,रूस,Antagonist,Innocent
+HI_239.txt,भगीरथी,Innocent,Antagonist
+HI_175.txt,यूक्रेन,Protagonist,Protagonist
+HI_356.txt,यूक्रेन,Innocent,Innocent
+HI_175.txt,कॉन्स्टेंटिन रेज़ेंको,Innocent,Innocent
+HI_37.txt,पश्चिमी देश,Antagonist,Antagonist
+HI_49.txt,पुतिन,Protagonist,Antagonist
+HI_284.txt,पोलैंड,Innocent,Antagonist
+HI_176.txt,कुर्स्क,Innocent,Innocent
+HI_275.txt,विदेश मंत्रालय,Protagonist,Antagonist
+HI_105.txt,रूस,Antagonist,Innocent
+HI_391.txt,व्लादिमीर पुतिन,Protagonist,Innocent
+HI_55.txt,अमेरिका,Antagonist,Antagonist
+HI_247.txt,ऊर्जा ठिकाने,Innocent,Antagonist
+HI_400.txt,बाइडेन प्रशासन,Protagonist,Antagonist
+HI_279.txt,बाइडन,Protagonist,Antagonist
+HI_234.txt,आईपीई ग्लोबल,Protagonist,Antagonist
+HI_181.txt,मोदी,Protagonist,Antagonist
+HI_170.txt,रूस,Innocent,Antagonist
+HI_77.txt,लुत्स्क,Innocent,Antagonist
+HI_394.txt,रूसी सेना,Antagonist,Innocent
+HI_157.txt,भारत,Protagonist,Innocent
+HI_312.txt,भारत के छात्रों,Innocent,Antagonist
+HI_308.txt,लावरोव,Protagonist,Antagonist
+HI_33.txt,सर्बियन,Innocent,Antagonist
+HI_246.txt,पांच लोग,Innocent,Antagonist
+HI_341.txt,क्रेन,Innocent,Innocent
+HI_326.txt,अमेरिका,Protagonist,Antagonist
+HI_117.txt,किर्गिस्तान,Innocent,Antagonist
+HI_272.txt,यूलिया नवेलनी,Protagonist,Antagonist
+HI_280.txt,यूक्रेन,Antagonist,Protagonist
+HI_82.txt,भारत,Protagonist,Innocent
+HI_56.txt,यूक्रेन,Innocent,Antagonist
+HI_260.txt,उत्तर कोरियाई सैनिकों,Antagonist,Protagonist
+HI_82.txt,पीएम मोदी,Protagonist,Protagonist
+HI_386.txt,बच्चे,Innocent,Antagonist
+HI_400.txt,रूस,Protagonist,Antagonist
+HI_267.txt,मोदी,Protagonist,Innocent
+HI_101.txt,कीव,Innocent,Innocent
+HI_117.txt,यूक्रेन,Innocent,Innocent
+HI_85.txt,यूक्रेन,Innocent,Antagonist
+HI_315.txt,व्लादिमीर पुतिन,Protagonist,Protagonist
+HI_40.txt,वादिम क्रासिकोव,Antagonist,Antagonist
+HI_167.txt,रूस,Antagonist,Protagonist
+HI_117.txt,मॉस्को,Protagonist,Antagonist
+HI_249.txt,यूक्रेन,Innocent,Antagonist
+HI_377.txt,व्लादिमीर पुतिन,Protagonist,Innocent
+HI_324.txt,विक्टर,Protagonist,Antagonist
+HI_80.txt,नाटो,Protagonist,Antagonist
+HI_29.txt,ऑर्थोडॉक्स चर्च के पादरी,Innocent,Protagonist
+HI_173.txt,यूक्रेन,Antagonist,Antagonist
+HI_173.txt,पश्चिम देश,Antagonist,Protagonist
+HI_379.txt,पश्चिम,Antagonist,Protagonist
+HI_80.txt,रूस,Antagonist,Antagonist
+HI_195.txt,मोदी,Protagonist,Innocent
+HI_395.txt,यूक्रेन,Protagonist,Innocent
+HI_70.txt,रूसी,Antagonist,Innocent
+HI_321.txt,यूक्रेनी सेना,Protagonist,Antagonist
+HI_365.txt,सुमी,Innocent,Antagonist
+HI_227.txt,पुतिन,Antagonist,Antagonist
+HI_278.txt,व्लोदिमीर जेलेंस्की,Protagonist,Antagonist
+HI_117.txt,अफ्रीका,Innocent,Antagonist
+HI_49.txt,पॉल व्हेलन,Antagonist,Protagonist
+HI_53.txt,भारत,Innocent,Innocent
+HI_196.txt,यूक्रेनी राष्ट्रपति,Protagonist,Antagonist
+HI_206.txt,विकास यादव,Innocent,Antagonist
+HI_165.txt,यूक्रेन,Protagonist,Antagonist
+HI_117.txt,पश्चिम एशिया,Innocent,Antagonist
+HI_242.txt,अमेरिका,Antagonist,Antagonist
+HI_377.txt,क्रेमलिन,Protagonist,Protagonist
+HI_2.txt,अमेरिका,Protagonist,Protagonist
+HI_388.txt,व्लादिमीर पुतिन,Protagonist,Protagonist
+HI_29.txt,यूक्रेन,Antagonist,Antagonist
+HI_206.txt,एंजेला मर्केल,Innocent,Antagonist
+HI_258.txt,भारत,Protagonist,Innocent
+HI_319.txt,रूस,Antagonist,Innocent
+HI_387.txt,बेथ सैनर,Protagonist,Protagonist
+HI_231.txt,लद्दाख,Protagonist,Protagonist
+HI_230.txt,भारत,Protagonist,Antagonist
+HI_93.txt,नई दिल्ली,Protagonist,Innocent
+HI_236.txt,मानव समुदाय,Innocent,Antagonist
+HI_196.txt,सैनिकों,Protagonist,Protagonist
+HI_255.txt,भारतीय नौजवानों,Innocent,Innocent
+HI_112.txt,सर्गेई मिरोनोव,Protagonist,Protagonist
+HI_113.txt,रूस,Antagonist,Innocent
+HI_279.txt,जो बाइडन,Protagonist,Innocent
+HI_197.txt,रूसी सेना,Antagonist,Antagonist
+HI_163.txt,भारत,Protagonist,Protagonist
+HI_53.txt,भारत,Protagonist,Antagonist
+HI_164.txt,फ्रांस,Protagonist,Antagonist
+HI_251.txt,जो बाइडेन,Protagonist,Antagonist
+HI_303.txt,व्याचेस्लाव ग्लैडकोव,Protagonist,Antagonist
+HI_229.txt,कुर्क्स,Innocent,Antagonist
+HI_225.txt,मॉस्को,Antagonist,Antagonist
+HI_73.txt,यूक्रेन,Innocent,Innocent
+HI_56.txt,रूस,Protagonist,Innocent
+HI_204.txt,युवाओं,Innocent,Protagonist
+HI_92.txt,यूरोप,Antagonist,Innocent
+HI_178.txt,यूक्रेन,Innocent,Antagonist
+HI_191.txt,नरेंद्र मोदी,Protagonist,Protagonist
+HI_113.txt,यूक्रेन,Innocent,Antagonist
+HI_65.txt,खारकीव,Innocent,Antagonist
+HI_124.txt,रूसी सेना,Antagonist,Antagonist
+HI_224.txt,भारत खासकर,Protagonist,Innocent
+HI_1.txt,भारत,Protagonist,Innocent
+HI_40.txt,रूसी सेना,Innocent,Antagonist
+HI_55.txt,रूस,Antagonist,Innocent
+HI_64.txt,पुतिन,Antagonist,Protagonist
+HI_216.txt,नाटो,Antagonist,Antagonist
+HI_399.txt,वोलोदिमीर जेलेंस्की,Protagonist,Antagonist
+HI_282.txt,जो बाइडन,Protagonist,Innocent
+HI_265.txt,ड्रैगन ड्रोन,Antagonist,Antagonist
+HI_124.txt,चेक,Protagonist,Antagonist
+HI_32.txt,फाइनेंशियल टाइम्स,Antagonist,Antagonist
+HI_73.txt,रूस,Antagonist,Innocent
+HI_317.txt,उषा वेंस,Protagonist,Innocent
+HI_112.txt,यूक्रेनी इकाइयों,Antagonist,Innocent
+HI_66.txt,रूस,Protagonist,Antagonist
+HI_22.txt,रूस,Antagonist,Antagonist
+HI_164.txt,अमेरिका,Protagonist,Antagonist
+HI_269.txt,पश्चिम,Antagonist,Antagonist
+HI_314.txt,अमरेका,Protagonist,Protagonist
+HI_280.txt,मोदी,Protagonist,Innocent
+HI_372.txt,यूक्रेन,Antagonist,Antagonist
+HI_177.txt,नाटो,Antagonist,Innocent
+HI_358.txt,भारत,Protagonist,Protagonist
+HI_128.txt,अमेरिका,Protagonist,Innocent
+HI_1.txt,रूस,Protagonist,Innocent
+HI_305.txt,रूसियों,Innocent,Innocent
+HI_174.txt,यूक्रेन,Protagonist,Antagonist
+HI_278.txt,यूक्रेन,Protagonist,Innocent
+HI_312.txt,अमित शाह,Innocent,Antagonist
+HI_245.txt,जेलेंस्की,Innocent,Antagonist
+HI_80.txt,अमेरिकी,Protagonist,Innocent
+HI_196.txt,रूस के सैनिक,Antagonist,Protagonist
+HI_2.txt,पश्चिम,Protagonist,Innocent
+HI_82.txt,रूस,Protagonist,Innocent
+HI_189.txt,ज़ेलेंस्की,Protagonist,Innocent
+HI_45.txt,रूसी राजनयिकों,Innocent,Antagonist
+HI_224.txt,मोदी,Protagonist,Protagonist
+HI_229.txt,रूस,Antagonist,Innocent
+HI_310.txt,सोंग किम,Protagonist,Innocent
+HI_99.txt,रूस,Protagonist,Innocent
+HI_116.txt,रूस,Antagonist,Antagonist
+HI_303.txt,रूस,Innocent,Antagonist
+HI_395.txt,उत्तर कोरियाई सैनिकों,Antagonist,Antagonist
+HI_55.txt,अमेरिका,Antagonist,Protagonist
+HI_362.txt,रूसी,Antagonist,Antagonist
+HI_96.txt,यूक्रेन,Protagonist,Antagonist
+HI_400.txt,बाइडेन,Antagonist,Innocent
+HI_69.txt,व्लादिमीर पुतिन,Protagonist,Protagonist
+HI_74.txt,भारत,Protagonist,Innocent
+HI_6.txt,यूक्रेन,Innocent,Protagonist
+HI_302.txt,जापान,Protagonist,Protagonist
+HI_27.txt,मणिपुर,Innocent,Protagonist
+HI_370.txt,अमेरिका,Protagonist,Protagonist
+HI_176.txt,रूस,Protagonist,Innocent
+HI_29.txt,रूस,Innocent,Antagonist
+HI_348.txt,चीन,Protagonist,Antagonist
+HI_249.txt,यूक्रेन,Antagonist,Antagonist
+HI_173.txt,रूस,Protagonist,Antagonist
+HI_128.txt,ट्रंप,Antagonist,Innocent
+HI_384.txt,यूक्रेन,Protagonist,Protagonist
+HI_117.txt,रूस,Antagonist,Innocent
+HI_193.txt,बाइडेन,Protagonist,Protagonist
+HI_101.txt,मोदी,Protagonist,Protagonist
+HI_392.txt,ट्रंप,Protagonist,Antagonist
+HI_248.txt,ओलेह सिनीहुबोव,Protagonist,Antagonist
+HI_387.txt,डोनाल्ड ट्रम्प,Protagonist,Protagonist
+HI_155.txt,पश्चिमी देश,Antagonist,Antagonist
+HI_282.txt,ज़ेलेंस्की,Protagonist,Antagonist
+HI_224.txt,जेलेंस्की,Protagonist,Innocent
+HI_120.txt,अमेरिका,Protagonist,Innocent
+HI_195.txt,यूक्रेन,Antagonist,Innocent
+HI_117.txt,मोदी,Protagonist,Innocent
+HI_8.txt,दिमित्री पेसकोव,Antagonist,Antagonist
+HI_66.txt,चीन,Antagonist,Innocent
+HI_246.txt,रूसी सेना,Protagonist,Antagonist
+HI_269.txt,यूक्रेन,Innocent,Antagonist
+HI_324.txt,कमेनस्चिक,Innocent,Antagonist
+HI_304.txt,पुतिन,Antagonist,Antagonist
+HI_328.txt,रूस,Protagonist,Innocent
+HI_248.txt,12 लोग,Innocent,Antagonist
+HI_166.txt,यूक्रेन,Antagonist,Antagonist
+HI_52.txt,सरकार,Protagonist,Protagonist
+HI_370.txt,जो बाइडन,Antagonist,Protagonist
+HI_355.txt,हैरिस,Protagonist,Antagonist
+HI_136.txt,टोटल एनर्जीज़,Antagonist,Innocent
+HI_121.txt,रूस,Protagonist,Protagonist
+HI_2.txt,भारत-,Antagonist,Innocent
+HI_47.txt,पोलैंड,Protagonist,Protagonist
+HI_331.txt,विदेश मंत्रालय,Protagonist,Innocent
+HI_23.txt,यूरोपीय यूनियन,Antagonist,Innocent
+HI_70.txt,क्रीमियाई तातर मुसलमान,Innocent,Antagonist
+HI_320.txt,मारिया ज़ोलकीना,Protagonist,Innocent
+HI_96.txt,नाटो,Antagonist,Antagonist
+HI_304.txt,रूस,Antagonist,Antagonist
+HI_23.txt,यूक्रेन,Innocent,Antagonist
+HI_40.txt,रूस,Protagonist,Protagonist
+HI_379.txt,यूक्रेन,Antagonist,Protagonist
+HI_46.txt,ब्राज़ील,Protagonist,Innocent
+HI_22.txt,रूस,Innocent,Antagonist
+HI_33.txt,पीएम मोदी,Protagonist,Innocent
+HI_99.txt,क्रेमलिन,Protagonist,Innocent
+HI_206.txt,नागरिकों,Innocent,Protagonist
+HI_42.txt,चरणजीत सिंह,Antagonist,Protagonist
+HI_183.txt,फिनलैंड,Antagonist,Innocent
+HI_322.txt,ज़ेलेंस्की,Protagonist,Protagonist
+HI_117.txt,शेख मंसूर बटालियन,Protagonist,Innocent
+HI_213.txt,अमेरिकी,Protagonist,Protagonist
+HI_329.txt,रिपब्लिकन पार्टी,Protagonist,Innocent
+HI_94.txt,रणधीर जायसवाल,Protagonist,Innocent
+HI_378.txt,कुर्स्क,Innocent,Antagonist
+HI_58.txt,रूस,Antagonist,Antagonist
+HI_153.txt,सेवेरोडोनेट्स्क,Innocent,Antagonist
+HI_33.txt,मोदी,Protagonist,Antagonist
+HI_124.txt,यूक्रेन की सेना,Innocent,Antagonist
+HI_164.txt,ब्रिटेन,Protagonist,Antagonist
+HI_6.txt,रूसी,Antagonist,Antagonist
+HI_145.txt,ढाका,Innocent,Antagonist
+HI_168.txt,रूस,Antagonist,Antagonist
+HI_227.txt,वोलोदिमीर जेलेंस्की,Protagonist,Antagonist
+HI_183.txt,नाटो,Antagonist,Innocent
+HI_239.txt,हिमालय,Innocent,Antagonist
+HI_279.txt,व्लादिमीर पुतिन,Protagonist,Antagonist
+HI_163.txt,क्वाड,Protagonist,Protagonist
+HI_304.txt,यूक्रेनी सेना,Protagonist,Antagonist
+HI_112.txt,एलेक्सी स्मिरनोव,Protagonist,Innocent
+HI_41.txt,रूस,Antagonist,Antagonist
+HI_176.txt,कीव शासन,Antagonist,Antagonist
+HI_310.txt,पुतिन,Protagonist,Innocent
+HI_74.txt,भारत,Protagonist,Protagonist
+HI_256.txt,जो बाइडेन,Protagonist,Antagonist
+HI_243.txt,उत्तर कोरिया,Antagonist,Innocent
+HI_201.txt,पुतिन,Protagonist,Protagonist
+HI_23.txt,यूक्रेनी सेना,Protagonist,Protagonist
+HI_79.txt,रूस,Protagonist,Antagonist
+HI_14.txt,रूस,Protagonist,Protagonist
+HI_305.txt,कुर्स्क,Innocent,Antagonist
+HI_281.txt,यूक्रेन,Antagonist,Innocent
+HI_6.txt,यूक्रेन,Innocent,Antagonist
+HI_283.txt,रूस,Antagonist,Antagonist
+HI_254.txt,नरेंद्र मोदी,Protagonist,Protagonist
+HI_314.txt,ट्रंप,Antagonist,Protagonist
+HI_16.txt,रूस,Antagonist,Protagonist
+HI_335.txt,यूक्रेन,Innocent,Antagonist
+HI_202.txt,रूस,Antagonist,Antagonist
+HI_269.txt,मॉस्को,Protagonist,Antagonist
+HI_3.txt,अलसु,Antagonist,Innocent
+HI_70.txt,पाकिस्तान,Antagonist,Protagonist
+HI_191.txt,मोदी,Protagonist,Antagonist
+HI_245.txt,जेलेंस्की,Protagonist,Innocent
+HI_237.txt,वैज्ञानिक,Protagonist,Antagonist
+HI_286.txt,उत्तर कोरियाई सैनिक,Protagonist,Antagonist
+HI_202.txt,जेलेंस्की,Protagonist,Antagonist
+HI_220.txt,बाइडेन,Protagonist,Innocent
+HI_128.txt,रूस,Innocent,Innocent
+HI_22.txt,कीव,Antagonist,Antagonist
+HI_317.txt,रूस,Protagonist,Innocent
+HI_197.txt,रूस,Antagonist,Antagonist
+HI_387.txt,रूस,Antagonist,Protagonist
+HI_323.txt,सैविल,Protagonist,Innocent
+HI_379.txt,रूस,Protagonist,Antagonist
+HI_202.txt,कुर्स्क,Innocent,Antagonist
+HI_157.txt,रूस,Antagonist,Innocent
+HI_33.txt,सीरिया-,Innocent,Antagonist
+HI_253.txt,रूस,Protagonist,Protagonist
+HI_2.txt,मास्को,Antagonist,Innocent
+HI_104.txt,नई दिल्ली,Protagonist,Innocent
+HI_89.txt,पश्चिमी देशों,Antagonist,Innocent
+HI_322.txt,मैरी एन मार्श,Protagonist,Antagonist
+HI_121.txt,भारत,Antagonist,Innocent
+HI_314.txt,ईसाइयों,Innocent,Antagonist
+HI_83.txt,भारत,Protagonist,Protagonist
+HI_274.txt,कोस्तियातिन्विका,Innocent,Innocent
+HI_382.txt,रूस,Protagonist,Protagonist
+HI_392.txt,ट्रंप,Protagonist,Antagonist
+HI_192.txt,रूस,Protagonist,Innocent
+HI_198.txt,अमेरिका,Protagonist,Protagonist
+HI_234.txt,बिहार,Innocent,Innocent
+HI_218.txt,अमेरिकी,Antagonist,Innocent
+HI_63.txt,रूस,Antagonist,Antagonist
+HI_118.txt,रूस,Antagonist,Protagonist
+HI_221.txt,अमेरिका,Protagonist,Innocent
+HI_119.txt,गौरव गोगोई,Protagonist,Antagonist
+HI_123.txt,चीन,Antagonist,Innocent
+HI_25.txt,रूसियों,Innocent,Antagonist
+HI_246.txt,जेलेंस्की,Antagonist,Antagonist
+HI_317.txt,चीन,Antagonist,Antagonist
+HI_33.txt,भारत,Protagonist,Innocent
+HI_386.txt,रूस,Protagonist,Protagonist
+HI_252.txt,एंड्री सिबिहा,Protagonist,Protagonist
+HI_44.txt,पीएम मोदी,Protagonist,Antagonist
+HI_234.txt,उत्तराखंड,Innocent,Innocent
+HI_173.txt,रूस,Protagonist,Innocent
+HI_331.txt,कुर्स्क,Innocent,Antagonist
+HI_49.txt,पुतिन,Protagonist,Protagonist
+HI_277.txt,यूक्रेन,Innocent,Innocent
+HI_52.txt,भारतीय दूतावास,Protagonist,Protagonist
+HI_174.txt,उत्तर कोरियाई सैनिक,Antagonist,Antagonist
+HI_318.txt,अमेरिका,Antagonist,Innocent
+HI_56.txt,व्लादिमीर पुतिन,Antagonist,Antagonist
+HI_326.txt,यूक्रेन,Protagonist,Antagonist
+HI_246.txt,दक्षिणी ओडेसा,Innocent,Antagonist
+HI_278.txt,यूक्रेनी,Innocent,Antagonist
+HI_302.txt,किम जोंग,Antagonist,Protagonist
+HI_238.txt,हिमाचल,Innocent,Innocent
+HI_24.txt,नरेंद्र मोदी,Protagonist,Innocent
+HI_22.txt,जेलेंस्की,Antagonist,Antagonist
+HI_52.txt,भारत के सात छात्रों,Innocent,Antagonist
+HI_22.txt,यूक्रेन,Innocent,Antagonist
+HI_16.txt,यूक्रेन,Innocent,Protagonist
+HI_2.txt,व्लादिमीर पुतिन,Protagonist,Protagonist
+HI_131.txt,भारत,Protagonist,Protagonist
+HI_117.txt,पाकिस्तान,Innocent,Antagonist
+HI_48.txt,वैगनर चीफ,Protagonist,Innocent
+HI_23.txt,पश्चिमी,Antagonist,Antagonist
+HI_96.txt,यूरोप,Antagonist,Antagonist
+HI_257.txt,तीन लोग,Innocent,Antagonist
+HI_257.txt,रूस,Innocent,Antagonist
+HI_49.txt,पश्चिम देशों,Protagonist,Protagonist
+HI_303.txt,रूसी बलों,Innocent,Antagonist
+HI_96.txt,अमेरिका,Antagonist,Antagonist
+HI_224.txt,भारत,Innocent,Innocent
+HI_195.txt,रूस,Antagonist,Innocent
+HI_385.txt,ब्रांस्क,Innocent,Antagonist
+HI_2.txt,भारत,Protagonist,Protagonist
+HI_316.txt,रूस,Protagonist,Protagonist
+HI_68.txt,मारियुपोल मैटरनिटी हॉस्पिटल,Innocent,Antagonist
+HI_271.txt,मोदी,Antagonist,Antagonist
+HI_161.txt,फ्रांस,Antagonist,Innocent
+HI_216.txt,मोदी,Protagonist,Antagonist
+HI_390.txt,यूक्रेन,Protagonist,Innocent
+HI_309.txt,किम जोंग उन,Antagonist,Innocent
+HI_7.txt,भारत,Protagonist,Innocent
+HI_22.txt,यूक्रेन,Antagonist,Antagonist
+HI_99.txt,अमेरिका,Antagonist,Innocent
+HI_213.txt,जो बाइडेन,Antagonist,Protagonist
+HI_246.txt,क्रीमिया,Innocent,Antagonist
+HI_7.txt,यूक्रेन,Innocent,Antagonist
+HI_117.txt,सरकार,Antagonist,Innocent
+HI_30.txt,ओरबान,Protagonist,Antagonist
+HI_57.txt,फाइनेंशियल टाइम्स,Antagonist,Antagonist
+HI_164.txt,पश्चिमी देशों,Antagonist,Antagonist
+HI_372.txt,अमेरिका,Antagonist,Innocent
+HI_39.txt,नरेंद्र मोदी,Protagonist,Antagonist
+HI_23.txt,यूक्रेन,Antagonist,Antagonist
+HI_188.txt,अमेरिका,Antagonist,Protagonist
+HI_117.txt,हंगरी,Innocent,Antagonist
+HI_325.txt,टिमोथी कुज़मा,Protagonist,Innocent
+HI_399.txt,मायकोलाइव,Innocent,Antagonist
+HI_124.txt,यूक्रेन,Protagonist,Antagonist
+HI_86.txt,भारत,Protagonist,Innocent
+HI_2.txt,चीन,Antagonist,Innocent
+HI_161.txt,उत्तरी यूरोपीय देशों,Antagonist,Innocent
+HI_123.txt,चीन,Protagonist,Innocent
+HI_55.txt,USSR 1991,Innocent,Antagonist
+HI_285.txt,रूस,Protagonist,Protagonist
+HI_300.txt,हिंद-प्रशांत क्षेत्र,Innocent,Antagonist
+HI_279.txt,नेटो,Protagonist,Antagonist
+HI_41.txt,बाइडन,Protagonist,Antagonist
+HI_397.txt,सर्बिया,Innocent,Antagonist
+HI_176.txt,अमेरिका,Antagonist,Innocent
+HI_224.txt,रूस,Protagonist,Innocent
+HI_74.txt,भारत,Protagonist,Innocent
+HI_276.txt,वागनर समूह,Protagonist,Protagonist
+HI_250.txt,भारत,Protagonist,Antagonist
+HI_266.txt,यूक्रेन,Protagonist,Antagonist
+HI_6.txt,पुतिन,Protagonist,Antagonist
+HI_272.txt,पुतिन,Antagonist,Antagonist
+HI_310.txt,अमेरिका,Antagonist,Innocent
+HI_178.txt,रूस,Antagonist,Antagonist
+HI_247.txt,रूसी सेना,Antagonist,Antagonist
+HI_342.txt,एंद्रेई येरमाक,Protagonist,Protagonist
+HI_323.txt,यूरोपीय संघ,Protagonist,Innocent
+HI_124.txt,जेलेंस्की,Protagonist,Innocent
+HI_188.txt,अमेरिका,Antagonist,Protagonist
+HI_379.txt,अमेरिका,Antagonist,Antagonist
+HI_49.txt,पुतिन,Protagonist,Protagonist
+HI_118.txt,पोलैंड,Protagonist,Protagonist
+HI_269.txt,एंटोनियो गुटरेस,Protagonist,Antagonist
+HI_195.txt,यूक्रेन,Innocent,Innocent
+HI_162.txt,नाटो,Antagonist,Protagonist
+HI_46.txt,यूरोप,Antagonist,Innocent
+HI_228.txt,सेरही पोपको,Protagonist,Antagonist
+HI_329.txt,ब्रायन लांज़ा,Protagonist,Innocent
+HI_317.txt,नरेंद्र मोदी,Protagonist,Innocent
+HI_307.txt,विदेश मंत्री,Protagonist,Antagonist
+HI_196.txt,चीन,Antagonist,Innocent
+HI_237.txt,News18,Protagonist,Antagonist
+HI_338.txt,मैक्स बर्गमन,Antagonist,Innocent
+HI_7.txt,रूस,Protagonist,Protagonist
+HI_29.txt,यूक्रेन,Antagonist,Antagonist
+HI_16.txt,मोदी,Protagonist,Protagonist
+HI_254.txt,रूसी सेना,Antagonist,Antagonist
+HI_29.txt,NATO,Antagonist,Antagonist
+HI_168.txt,यूक्रेन,Innocent,Antagonist
+HI_29.txt,रूस,Innocent,Antagonist
+HI_48.txt,माली के विद्रोहियों,Antagonist,Antagonist
+HI_42.txt,उरगेन तमांग,Innocent,Antagonist
+HI_29.txt,डर्बेंट,Innocent,Antagonist
+HI_249.txt,यूक्रेन,Innocent,Antagonist
+HI_42.txt,विदेश मंत्रालय,Antagonist,Innocent
+HI_202.txt,यूक्रेनी सेना,Protagonist,Antagonist
+HI_74.txt,स्विट्जरलैंड,Protagonist,Protagonist
+HI_202.txt,नागरिकों,Innocent,Antagonist
+HI_312.txt,भारत,Protagonist,Antagonist
+HI_24.txt,मोदी,Protagonist,Innocent
+HI_117.txt,यूरोपीय देश,Innocent,Antagonist
+HI_206.txt,अमेरिका,Antagonist,Antagonist
+HI_6.txt,व्लादिमिर पुतिन,Innocent,Antagonist
+HI_2.txt,यूरोप,Innocent,Protagonist
+HI_317.txt,डोनाल्ड ट्रंप,Protagonist,Antagonist
+HI_255.txt,भारतीयों,Innocent,Antagonist
+HI_193.txt,विक्रम मिस्री,Protagonist,Protagonist
+HI_181.txt,यूक्रेन,Innocent,Antagonist
+HI_273.txt,क्रेमलिन,Protagonist,Antagonist
+HI_254.txt,भारतीय नागरिकों,Innocent,Protagonist
+HI_30.txt,यूक्रेन,Antagonist,Innocent
+HI_6.txt,रूसी,Antagonist,Antagonist
+HI_238.txt,हरिद्वार,Innocent,Innocent
+HI_80.txt,NATO,Protagonist,Innocent
+HI_53.txt,रूस,Antagonist,Innocent
+HI_203.txt,अल-कायदा,Antagonist,Antagonist
+HI_307.txt,यूक्रेन,Antagonist,Antagonist
+HI_53.txt,अमेरिका,Antagonist,Innocent
+HI_45.txt,ज़ेलिमखान खांगोशविली,Innocent,Antagonist
+HI_106.txt,अमेरिका,Antagonist,Innocent
+HI_113.txt,यूक्रेन,Innocent,Innocent
+HI_228.txt,रूसी रक्षा मंत्रालय,Protagonist,Antagonist
+HI_273.txt,अमेरिकी ख़ुफिया एजेंसी,Antagonist,Antagonist
+HI_258.txt,यूक्रेन,Protagonist,Innocent
+HI_42.txt,एजेंटों,Antagonist,Protagonist
+HI_164.txt,यूक्रेन,Protagonist,Innocent
+HI_67.txt,यूक्रेन,Innocent,Antagonist
+HI_131.txt,भारत,Protagonist,Protagonist
+HI_331.txt,यूक्रेन,Protagonist,Innocent
+HI_286.txt,दक्षिण कोरियाई खुफिया एजेंसियों,Protagonist,Antagonist
+HI_228.txt,यूक्रेन,Innocent,Antagonist
+HI_189.txt,वलोडिमिर ज़ेलेंस्की,Protagonist,Innocent
+HI_55.txt,पुतिन,Protagonist,Antagonist
+HI_252.txt,रक्षा मंत्रालय,Antagonist,Protagonist
+HI_372.txt,रूस,Antagonist,Antagonist
+HI_32.txt,रूस,Antagonist,Innocent
+HI_3.txt,अमेरिका-,Protagonist,Antagonist
+HI_259.txt,यूक्रेन,Protagonist,Innocent
+HI_1.txt,व्लादिमीर पुतिन,Protagonist,Protagonist
+HI_393.txt,रूस,Antagonist,Protagonist
+HI_308.txt,उत्तर कोरिया,Protagonist,Protagonist
+HI_14.txt,बाइडेन,Protagonist,Protagonist
+HI_228.txt,नागरिक,Innocent,Antagonist
+HI_262.txt,यूक्रेन,Protagonist,Antagonist
+HI_246.txt,पश्चिमी देशों,Antagonist,Antagonist
+HI_30.txt,पुतिन,Antagonist,Antagonist
+HI_55.txt,रूस,Innocent,Antagonist
+HI_193.txt,भारत,Protagonist,Protagonist
+HI_113.txt,रूस,Antagonist,Antagonist
+HI_20.txt,नरेन्द्र मोदी,Protagonist,Protagonist
+HI_256.txt,जेलेंस्की,Protagonist,Antagonist
+HI_332.txt,यूक्रेन,Protagonist,Innocent
+HI_389.txt,पेसकोव,Protagonist,Antagonist
+HI_44.txt,भारत,Protagonist,Innocent
+HI_224.txt,नरेंद्र मोदी,Protagonist,Innocent
+HI_393.txt,ट्रंप,Protagonist,Antagonist
+HI_193.txt,मोदी,Protagonist,Protagonist
+HI_33.txt,रूस,Antagonist,Antagonist
+HI_18.txt,वादिम क्रासिकोव,Antagonist,Antagonist
+HI_2.txt,पश्चिमी देश,Antagonist,Protagonist
+HI_229.txt,नागरिक,Innocent,Antagonist
+HI_246.txt,रूस,Innocent,Antagonist
+HI_45.txt,रूस,Protagonist,Antagonist
+HI_127.txt,रूस,Antagonist,Protagonist
+HI_39.txt,भारत,Protagonist,Antagonist
+HI_120.txt,रूस,Antagonist,Antagonist
+HI_157.txt,भारत,Protagonist,Innocent
+HI_86.txt,चीन,Protagonist,Antagonist
+HI_142.txt,बिहार सरकार,Protagonist,Protagonist
+HI_6.txt,यूक्रेन,Innocent,Antagonist
+HI_185.txt,नाटो,Antagonist,Protagonist
+HI_72.txt,व्लादिमीर पुतिन,Antagonist,Innocent
+HI_377.txt,पेसकोव,Protagonist,Innocent
+HI_273.txt,दमित्री पेस्कोव,Protagonist,Antagonist
+HI_398.txt,नागरिकों,Innocent,Antagonist
+HI_311.txt,उत्तर अटलांटिक संधि संगठन,Protagonist,Antagonist
+HI_281.txt,पश्चिमी मुल्कों,Antagonist,Innocent
+HI_27.txt,राज्य,Innocent,Protagonist
+HI_271.txt,भारत,Antagonist,Innocent
+HI_96.txt,यूक्रेन,Innocent,Protagonist
+HI_22.txt,यूक्रेनी सैनिक,Innocent,Antagonist
+HI_383.txt,यूक्रेन,Protagonist,Antagonist
+HI_46.txt,इजरायल,Antagonist,Innocent
+HI_111.txt,राष्ट्रपति व्लादिमीर पुतिन,Protagonist,Protagonist
+HI_173.txt,जेलेंस्की,Antagonist,Antagonist
+HI_153.txt,पोपसना,Innocent,Antagonist
+HI_32.txt,भारत,Innocent,Antagonist
+HI_46.txt,पश्चिम,Antagonist,Innocent
+HI_82.txt,पीएम मोदी,Protagonist,Protagonist
+HI_271.txt,रूस,Antagonist,Antagonist
+HI_117.txt,मुस्लिम ब्रदरहुड,Antagonist,Innocent
+HI_119.txt,पूर्वोत्तर,Innocent,Antagonist
+HI_30.txt,ओरबान,Antagonist,Antagonist
+HI_142.txt,बीरपुर बैराज,Innocent,Protagonist
+HI_283.txt,लोग,Innocent,Antagonist
+HI_314.txt,नरेंद्र मोदी,Protagonist,Antagonist
+HI_269.txt,पुतिन,Protagonist,Antagonist
+HI_70.txt,रूस,Antagonist,Antagonist
+HI_7.txt,कुलेबा,Antagonist,Antagonist
+HI_24.txt,जेलेन्स्की,Antagonist,Innocent
+HI_206.txt,कॉन्ट्रैक्टर,Protagonist,Antagonist
+HI_245.txt,जेलेंस्की,Protagonist,Protagonist
+HI_312.txt,बिडेन,Antagonist,Antagonist
+HI_257.txt,रूसी अधिकारियों,Protagonist,Innocent
+HI_378.txt,ज़ेलेंस्की,Protagonist,Antagonist
+HI_389.txt,पुतिन,Protagonist,Innocent
+HI_219.txt,अमेरिका,Protagonist,Protagonist
+HI_284.txt,राजनयिकों,Antagonist,Antagonist
+HI_304.txt,यूक्रेन,Protagonist,Antagonist
+HI_61.txt,फाइनेंशियल टाइम्स,Antagonist,Protagonist
+HI_390.txt,अमेरिका,Protagonist,Innocent
+HI_30.txt,ओरबान,Protagonist,Innocent
+HI_102.txt,रूस,Antagonist,Innocent
+HI_16.txt,पीएम मोदी,Protagonist,Antagonist
+HI_30.txt,रूस,Antagonist,Innocent
+HI_53.txt,भारत,Protagonist,Innocent
+HI_282.txt,भारत,Protagonist,Protagonist
+HI_119.txt,नरेंद्र मोदी,Antagonist,Antagonist
+HI_320.txt,कुर्स्क,Innocent,Innocent
+HI_176.txt,केरीन जीन पियरे,Antagonist,Innocent
+HI_136.txt,फ्रांसीसी विज्ञापन निगरानी संस्था,Protagonist,Innocent
+HI_319.txt,पुतिन,Antagonist,Antagonist
+HI_6.txt,खार्किव,Innocent,Antagonist
+HI_109.txt,नाटो,Antagonist,Protagonist
+HI_124.txt,यूक्रेनियंस,Protagonist,Innocent
+HI_329.txt,अमेरिका,Protagonist,Antagonist
+HI_201.txt,पश्चिमी देश,Antagonist,Innocent
+HI_396.txt,यूक्रेन,Innocent,Antagonist
+HI_230.txt,पुतिन,Protagonist,Antagonist
+HI_59.txt,नरेंद्र मोदी,Antagonist,Antagonist
+HI_7.txt,चीन,Antagonist,Innocent
+HI_278.txt,यूक्रेन,Innocent,Antagonist
+HI_226.txt,रुस्तेम उमरोव,Protagonist,Protagonist
+HI_320.txt,यूक्रेनी शहरों,Innocent,Antagonist
+HI_318.txt,व्लादिमीर पुतिन,Protagonist,Innocent
+HI_312.txt,भारतीय,Innocent,Antagonist
+HI_396.txt,एलन मस्क,Protagonist,Antagonist
+HI_257.txt,वोरोब्योव,Protagonist,Antagonist
+HI_222.txt,ब्रिक्स,Protagonist,Antagonist
+HI_96.txt,रूस,Antagonist,Protagonist
+HI_49.txt,रूस,Protagonist,Protagonist
+HI_120.txt,NATO सहयोगी,Protagonist,Innocent
+HI_14.txt,बाइडेन,Protagonist,Innocent
+HI_221.txt,वोलोदिमीर जेलेंस्की,Protagonist,Protagonist
+HI_331.txt,रूस,Antagonist,Antagonist
+HI_393.txt,यूक्रेन,Protagonist,Protagonist
+HI_123.txt,चीन,Antagonist,Innocent
+HI_18.txt,रूस,Antagonist,Antagonist
+HI_163.txt,पीएम मोदी,Protagonist,Innocent
+HI_385.txt,जेलेंस्की,Protagonist,Antagonist
+HI_270.txt,यूरोप,Innocent,Innocent
+HI_128.txt,कमला हैरिस,Protagonist,Antagonist
+HI_309.txt,पश्चिमी देश,Antagonist,Innocent
+HI_317.txt,विवेक रामास्वामी,Protagonist,Innocent
+HI_66.txt,राष्ट्रपति वलोडिमिर जेलेंस्की,Innocent,Innocent
+HI_320.txt,रूस,Antagonist,Innocent
+HI_242.txt,व्लादिमीर पुतिन,Antagonist,Innocent
+HI_22.txt,रूस,Antagonist,Antagonist
+HI_195.txt,पुतिन,Protagonist,Innocent
+HI_117.txt,यूक्रेन,Innocent,Antagonist
+HI_102.txt,यूक्रेनी सेना,Protagonist,Innocent
+HI_303.txt,वोरोनिश,Innocent,Antagonist
+HI_203.txt,पश्चिम एशिया,Innocent,Innocent
+HI_398.txt,रूस,Antagonist,Antagonist
+HI_169.txt,यूक्रेनी,Antagonist,Protagonist
+HI_266.txt,जेलेंस्की,Protagonist,Antagonist
+HI_93.txt,यूक्रेन,Innocent,Innocent
+HI_268.txt,यूक्रेन,Innocent,Innocent
+HI_165.txt,कुर्स्क,Antagonist,Antagonist
+HI_25.txt,NATO,Antagonist,Antagonist
+HI_23.txt,रूस,Protagonist,Innocent
+HI_235.txt,संयुक्त राष्ट्र,Protagonist,Antagonist
+HI_6.txt,यूक्रेनी नागरिकों,Innocent,Antagonist
+HI_78.txt,पोलटावा,Innocent,Antagonist
+HI_117.txt,यूक्रेन,Innocent,Innocent
+HI_268.txt,रूस,Antagonist,Innocent
+HI_312.txt,ट्रंप,Antagonist,Antagonist
+HI_277.txt,रूसी सेना,Antagonist,Innocent
+HI_286.txt,यून सूक येओल,Protagonist,Innocent
+HI_359.txt,जो बाइडन,Antagonist,Antagonist
+HI_7.txt,रूस,Protagonist,Antagonist
+HI_117.txt,रोमानिया,Innocent,Antagonist
+HI_248.txt,रूस,Antagonist,Innocent
+HI_123.txt,रूस,Innocent,Antagonist
+HI_102.txt,यूक्रेन,Innocent,Innocent
+HI_25.txt,रूस,Protagonist,Antagonist
+HI_230.txt,व्लादिमfर पुतिन,Protagonist,Antagonist
+HI_161.txt,बाइडेन,Antagonist,Protagonist
+HI_161.txt,NATO,Antagonist,Protagonist
+HI_317.txt,यूक्रेन,Innocent,Innocent
+HI_250.txt,विदेशी मीडिया,Antagonist,Antagonist
+HI_1.txt,भारत,Protagonist,Protagonist
+HI_279.txt,ब्रिटेन,Protagonist,Innocent
+HI_43.txt,मोदी,Protagonist,Innocent
+HI_13.txt,भारत,Protagonist,Innocent
+HI_65.txt,पश्चिमी देशों,Antagonist,Antagonist
+HI_239.txt,नैनीताल,Innocent,Antagonist
+HI_83.txt,कीव,Innocent,Antagonist
+HI_318.txt,आंद्रेई सिनिसिन,Protagonist,Antagonist
+HI_305.txt,पुतिन,Antagonist,Innocent
+HI_308.txt,चोए,Protagonist,Antagonist
+HI_301.txt,अमेरिकी नागरिकों,Innocent,Antagonist
+HI_285.txt,अमेरिका,Protagonist,Antagonist
+HI_234.txt,ईएसआरआई इंडिया,Protagonist,Antagonist
+HI_2.txt,रूस-,Antagonist,Innocent
+HI_118.txt,बच्चे,Innocent,Protagonist
+HI_195.txt,नई दिल्ली,Protagonist,Innocent
+HI_299.txt,दक्षिण-पूर्व एशिया,Innocent,Innocent
+HI_303.txt,गवर्नर,Protagonist,Antagonist
+HI_382.txt,अमेरिका,Antagonist,Protagonist
+HI_239.txt,कोटद्वार,Innocent,Innocent
+HI_73.txt,यूक्रेन,Innocent,Antagonist
+HI_62.txt,यूक्रेन,Innocent,Protagonist
+HI_119.txt,कुकी,Innocent,Innocent
+HI_396.txt,अमेरिका,Antagonist,Antagonist
+HI_356.txt,यूक्रेन,Protagonist,Innocent
+HI_117.txt,लीबिया,Innocent,Antagonist
+HI_281.txt,फ्रांसिस्को सेरा-मार्टिन्स,Protagonist,Antagonist
+HI_124.txt,रूस,Antagonist,Antagonist
+HI_311.txt,रूस,Protagonist,Innocent
+HI_42.txt,भारतीय अधिकारी,Antagonist,Antagonist
+HI_187.txt,यूक्रेन,Innocent,Protagonist
+HI_391.txt,जो बाइडेन,Protagonist,Innocent
+HI_252.txt,यूक्रेनी सेना,Protagonist,Protagonist
+HI_57.txt,गैपोनोव,Antagonist,Protagonist
+HI_3.txt,इवान,Antagonist,Antagonist
+HI_312.txt,अमेरिका,Protagonist,Protagonist
+HI_48.txt,वैगनर आर्मी,Protagonist,Innocent
+HI_33.txt,भारतीयों,Innocent,Innocent
+HI_239.txt,यमकेश्वर,Innocent,Innocent
+HI_265.txt,रूस,Protagonist,Antagonist
+HI_316.txt,रूस-,Protagonist,Innocent
+HI_70.txt,ईरान,Protagonist,Antagonist
+HI_91.txt,रूस,Protagonist,Antagonist
+HI_23.txt,व्लादिमीर पुतिन,Protagonist,Innocent
+HI_112.txt,यूक्रेनी सैनिकों,Antagonist,Antagonist
+HI_49.txt,कसीकोव,Antagonist,Antagonist
+HI_314.txt,मोदी,Protagonist,Innocent
+HI_207.txt,सीटू,Protagonist,Innocent
+HI_113.txt,जॉर्जिया,Innocent,Innocent
+HI_124.txt,रूस,Antagonist,Antagonist
+HI_115.txt,रूस,Antagonist,Protagonist
+HI_161.txt,पोलैंड,Antagonist,Innocent
+HI_58.txt,चीन,Antagonist,Antagonist
+HI_96.txt,रूस,Antagonist,Antagonist
+HI_112.txt,रूस,Innocent,Antagonist
+HI_324.txt,दमित्रो कमेनस्चिक,Innocent,Antagonist
+HI_22.txt,यूक्रेन,Antagonist,Antagonist
+HI_266.txt,रूस,Antagonist,Antagonist
+HI_201.txt,मोदी,Protagonist,Innocent
+HI_222.txt,भारत,Protagonist,Antagonist
+HI_322.txt,डेमोक्रेटिक पार्टी,Protagonist,Antagonist
+HI_93.txt,नरेन्द्र मोदी,Protagonist,Innocent
+HI_117.txt,इस्लामिक स्टेट,Antagonist,Innocent
+HI_281.txt,रूसी वायु सेना,Innocent,Protagonist
+HI_386.txt,पुतिन,Protagonist,Protagonist
+HI_117.txt,रूस,Protagonist,Antagonist
+HI_388.txt,क्रेमलिन,Protagonist,Antagonist
+HI_55.txt,अमेरिका,Antagonist,Antagonist
+HI_117.txt,अमेरिका,Antagonist,Antagonist
+HI_82.txt,मोदी,Protagonist,Protagonist
+HI_385.txt,यूक्रेन,Protagonist,Antagonist
+HI_196.txt,जेलेंस्की,Protagonist,Antagonist
+HI_161.txt,रूस,Antagonist,Antagonist
+HI_115.txt,यूक्रेन,Antagonist,Innocent
+HI_112.txt,पुतिन,Innocent,Protagonist
+HI_131.txt,भारत,Protagonist,Protagonist
+HI_325.txt,ज़ेलेंस्की,Protagonist,Innocent
+HI_44.txt,भारतीय,Protagonist,Innocent
+HI_123.txt,प्रधानमंत्री मोदी,Protagonist,Antagonist
+HI_231.txt,सोनम वांगचुक,Protagonist,Protagonist
+HI_102.txt,शैक्षणिक संस्था,Innocent,Antagonist
+HI_311.txt,सबरीना सिंह,Protagonist,Innocent
+HI_267.txt,जेलेंस्की,Protagonist,Innocent
+HI_249.txt,यूक्रेन,Protagonist,Antagonist
+HI_372.txt,रूस,Antagonist,Innocent
+HI_66.txt,रूस,Antagonist,Innocent
+HI_396.txt,सैक्स,Protagonist,Innocent
+HI_70.txt,तुर्की,Protagonist,Antagonist
+HI_306.txt,रूस,Antagonist,Innocent
+HI_173.txt,नाटो,Antagonist,Protagonist
+HI_368.txt,रूस,Antagonist,Protagonist
+HI_319.txt,ज़ेलेंस्की,Protagonist,Antagonist
+HI_83.txt,अज्ञात सैनिक,Protagonist,Antagonist
+HI_395.txt,पेंटागन,Protagonist,Antagonist
+HI_23.txt,रूस,Antagonist,Innocent
+HI_307.txt,रूस,Protagonist,Antagonist
+HI_203.txt,रूस,Protagonist,Protagonist
+HI_304.txt,कुर्स्क,Innocent,Antagonist
+HI_145.txt,लागोस,Innocent,Antagonist
+HI_364.txt,ब्रिटेन,Protagonist,Innocent
+HI_40.txt,इवान,Antagonist,Protagonist
+HI_271.txt,यूक्रेन,Innocent,Antagonist
+HI_22.txt,रूसी विमान,Innocent,Antagonist
+HI_86.txt,रूस,Antagonist,Innocent
+HI_166.txt,रूसी सदस्य,Antagonist,Antagonist
+HI_250.txt,रूस,Protagonist,Antagonist
+HI_388.txt,कीव,Antagonist,Antagonist
+HI_394.txt,बाइडेन,Antagonist,Antagonist
+HI_117.txt,यूक्रेन,Innocent,Innocent
+HI_53.txt,अटलांटिक-पार,Antagonist,Innocent
+HI_306.txt,जेलेंस्की,Protagonist,Innocent
+HI_172.txt,यूक्रेन,Protagonist,Innocent
+HI_278.txt,रूस,Antagonist,Innocent
+HI_282.txt,यूक्रेन,Innocent,Protagonist
+HI_187.txt,प्रधानमंत्री नरेंद्र,Protagonist,Protagonist
+HI_39.txt,भारत,Protagonist,Protagonist
+HI_227.txt,यूक्रेनी सैनिक,Protagonist,Antagonist
+HI_23.txt,यूक्रेनी सेना,Protagonist,Protagonist
+HI_400.txt,व्लादिमीर पुतिन,Protagonist,Antagonist
+HI_379.txt,पश्चिमी देश,Antagonist,Protagonist
+HI_392.txt,यूक्रेन,Protagonist,Antagonist
+HI_45.txt,रूस,Antagonist,Antagonist
+HI_192.txt,नॉर्वे,Antagonist,Antagonist
+HI_6.txt,यूक्रेन,Innocent,Innocent
+HI_112.txt,राष्ट्रपति जेलेंस्की,Antagonist,Innocent
+HI_72.txt,यूक्रेन,Innocent,Antagonist
+HI_365.txt,यूक्रेन,Protagonist,Protagonist
+HI_195.txt,जेलेंस्की,Protagonist,Innocent
+HI_130.txt,स्नोहोमिश काउंटी पीयूडी आधिकारिक,Protagonist,Protagonist
+HI_274.txt,रूसी लड़ाकू,Antagonist,Antagonist
+HI_304.txt,पुतिन,Protagonist,Antagonist
+HI_256.txt,अमेरिका,Protagonist,Antagonist
+HI_117.txt,उज़्बेकिस्तान,Innocent,Antagonist
+HI_233.txt,वैज्ञानिक,Protagonist,Antagonist
+HI_276.txt,रूस,Antagonist,Antagonist
+HI_258.txt,जॉर्जिया मेलोनी,Protagonist,Innocent
+HI_9.txt,पश्चिम,Protagonist,Antagonist
+HI_50.txt,कुलदीप सिंह धालीवाल,Protagonist,Protagonist
+HI_394.txt,डोनाल्‍ड ट्रंप,Protagonist,Innocent
+HI_263.txt,भारत,Protagonist,Antagonist

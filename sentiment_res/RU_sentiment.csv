@@ -1,0 +1,368 @@
+article_id,entity_mention,main_role,predicted_main_role
+RU-URW-1137.txt,Мария Захарова,Protagonist,Antagonist
+RU-URW-1109.txt,Киев,Antagonist,Innocent
+RU-URW-1029.txt,США,Antagonist,Protagonist
+RU-URW-1062.txt,НАТО,Antagonist,Antagonist
+RU-URW-1065.txt,Россия,Innocent,Antagonist
+RU-URW-1070.txt,Запада,Antagonist,Innocent
+RU-URW-1022.txt,Запада,Antagonist,Innocent
+RU-URW-1145.txt,Сергей Шойгу,Protagonist,Antagonist
+RU-URW-1028.txt,киевских властей,Antagonist,Antagonist
+RU-URW-1119.txt,Нидерланды,Antagonist,Innocent
+RU-URW-1119.txt,Россия,Protagonist,Antagonist
+RU-URW-1062.txt,Андрей Климов,Protagonist,Antagonist
+RU-URW-1019.txt,Запад,Antagonist,Innocent
+RU-URW-1025.txt,Командиры ВСУ,Antagonist,Innocent
+RU-URW-1039.txt,ВСУ,Antagonist,Antagonist
+RU-URW-1115.txt,бизнеса,Protagonist,Innocent
+RU-URW-1134.txt,демократы-глобалисты,Antagonist,Innocent
+RU-URW-1013.txt,Украины,Innocent,Antagonist
+RU-URW-1005.txt,Николай Стариков,Protagonist,Antagonist
+RU-URW-1173.txt,Джо Байден,Antagonist,Innocent
+RU-URW-1047.txt,"военный эксперт, полковник",Protagonist,Antagonist
+RU-URW-1138.txt,НАТО,Antagonist,Protagonist
+RU-URW-1142.txt,Генсек НАТО,Antagonist,Innocent
+RU-URW-1122.txt,СК РФ,Protagonist,Protagonist
+RU-URW-1036.txt,спецслужбы Украины,Antagonist,Innocent
+RU-URW-1119.txt,Дания,Antagonist,Innocent
+RU-URW-1138.txt,России,Innocent,Protagonist
+RU-URW-1143.txt,Украине,Antagonist,Antagonist
+RU-URW-1156.txt,Россией,Protagonist,Antagonist
+RU-URW-1086.txt,вооруженные силы Украины,Antagonist,Antagonist
+RU-URW-1035.txt,Украина,Innocent,Antagonist
+RU-URW-1075.txt,Белоруссии,Antagonist,Antagonist
+RU-URW-1080.txt,Трамп,Protagonist,Innocent
+RU-URW-1163.txt,Златомира Девленского,Innocent,Antagonist
+RU-URW-1045.txt,Украины,Antagonist,Innocent
+RU-URW-1018.txt,западных стран,Antagonist,Antagonist
+RU-URW-1017.txt,Европейского союза,Antagonist,Antagonist
+RU-URW-1131.txt,Лариса Толстыкина,Protagonist,Protagonist
+RU-URW-1169.txt,Виктор Орбан,Protagonist,Innocent
+RU-URW-1080.txt,Ермак,Antagonist,Protagonist
+RU-URW-1035.txt,Игорь Лапин,Innocent,Antagonist
+RU-URW-1017.txt,Украины,Antagonist,Antagonist
+RU-URW-1155.txt,"""Азов",Antagonist,Innocent
+RU-URW-1128.txt,ШОС,Protagonist,Innocent
+RU-URW-1083.txt,ВСУ,Antagonist,Antagonist
+RU-URW-1039.txt,Министерство обороны РФ,Protagonist,Antagonist
+RU-URW-1158.txt,премьеру Индии,Protagonist,Innocent
+RU-URW-1072.txt,Китаю,Protagonist,Innocent
+RU-URW-1033.txt,ВСУ,Antagonist,Antagonist
+RU-URW-1195.txt,Белгородской,Innocent,Antagonist
+RU-URW-1176.txt,Мила Бараева,Protagonist,Antagonist
+RU-URW-1021.txt,Украины,Innocent,Protagonist
+RU-URW-1037.txt,Белоруссии,Protagonist,Antagonist
+RU-URW-1095.txt,Зеленского,Antagonist,Innocent
+RU-URW-1155.txt,Украине,Innocent,Innocent
+RU-URW-1050.txt,Украине,Antagonist,Innocent
+RU-URW-1169.txt,Орбана,Protagonist,Innocent
+RU-URW-1138.txt,США,Antagonist,Protagonist
+RU-URW-1008.txt,Торецком,Innocent,Antagonist
+RU-URW-1159.txt,Владимир Кузьмин,Protagonist,Innocent
+RU-URW-1115.txt,академического сообщества,Protagonist,Innocent
+RU-URW-1027.txt,власти Эстонии,Antagonist,Innocent
+RU-URW-1095.txt,Орбан,Protagonist,Innocent
+RU-URW-1106.txt,командование французской армии,Antagonist,Innocent
+RU-URW-1156.txt,Москва,Protagonist,Antagonist
+RU-URW-1048.txt,Вооруженных сил Украины,Antagonist,Innocent
+RU-URW-1138.txt,Джо Байден,Antagonist,Innocent
+RU-URW-1029.txt,Никол Пашинян,Antagonist,Protagonist
+RU-URW-1079.txt,Йенс Столтенберг,Antagonist,Innocent
+RU-URW-1071.txt,Сидор Ковпак,Protagonist,Antagonist
+RU-URW-1044.txt,МЧС России,Protagonist,Antagonist
+RU-URW-1078.txt,Украину,Innocent,Innocent
+RU-URW-1063.txt,Совет Федераций,Protagonist,Antagonist
+RU-URW-1124.txt,Франция,Antagonist,Innocent
+RU-URW-1033.txt,Горловку,Innocent,Antagonist
+RU-URW-1065.txt,Украина,Innocent,Antagonist
+RU-URW-1055.txt,администрация Байдена,Antagonist,Innocent
+RU-URW-1150.txt,Украине,Antagonist,Protagonist
+RU-URW-1141.txt,Нидерланды,Antagonist,Innocent
+RU-URW-1164.txt,Киев,Antagonist,Antagonist
+RU-URW-1121.txt,Украины,Innocent,Antagonist
+RU-URW-1140.txt,Дональда Трампа,Antagonist,Protagonist
+RU-URW-1075.txt,Анджея Почобута,Innocent,Antagonist
+RU-URW-1035.txt,российские войска,Antagonist,Antagonist
+RU-URW-1148.txt,ФСБ России,Protagonist,Antagonist
+RU-URW-1008.txt,Часов Яре,Innocent,Antagonist
+RU-URW-1041.txt,Андрей Белоусов,Protagonist,Antagonist
+RU-URW-1068.txt,Российские медики,Protagonist,Antagonist
+RU-URW-1078.txt,Владимира Зеленского,Antagonist,Innocent
+RU-URW-1176.txt,Новости здорового человека,Antagonist,Antagonist
+RU-URW-1031.txt,Лихачев,Protagonist,Antagonist
+RU-URW-1027.txt,красноармейцев,Innocent,Innocent
+RU-URW-1005.txt,Кайи Каллас,Antagonist,Antagonist
+RU-URW-1124.txt,Дмитрий Песков,Protagonist,Innocent
+RU-URW-1030.txt,Росгвардию,Protagonist,Innocent
+RU-URW-1172.txt,Владимиром Зеленским,Antagonist,Antagonist
+RU-URW-1088.txt,В. Орбан,Protagonist,Antagonist
+RU-URW-1142.txt,США,Antagonist,Innocent
+RU-URW-1162.txt,ВСУ,Antagonist,Antagonist
+RU-URW-1124.txt,Германия,Antagonist,Innocent
+RU-URW-1030.txt,ФСБ России,Protagonist,Innocent
+RU-URW-1094.txt,Юрий Трутнев,Protagonist,Protagonist
+RU-URW-1094.txt,главы дальневосточных регионов,Protagonist,Protagonist
+RU-URW-1125.txt,украинцы,Antagonist,Antagonist
+RU-URW-1087.txt,России,Protagonist,Antagonist
+RU-URW-1108.txt,Мазепу,Innocent,Protagonist
+RU-URW-1045.txt,Украинские власти,Antagonist,Innocent
+RU-URW-1099.txt,Трамп,Antagonist,Innocent
+RU-URW-1075.txt,Белоруссией,Innocent,Antagonist
+RU-URW-1016.txt,Европейский союз,Antagonist,Antagonist
+RU-URW-1022.txt,Украина,Innocent,Innocent
+RU-URW-1006.txt,российские системы ПВО,Protagonist,Antagonist
+RU-URW-1121.txt,Россию,Innocent,Antagonist
+RU-URW-1163.txt,ДАНС,Antagonist,Antagonist
+RU-URW-1008.txt,укронацистов,Antagonist,Protagonist
+RU-URW-1019.txt,Украина,Antagonist,Antagonist
+RU-URW-1083.txt,"Беженцы, эвакуированные Вооруженными силами России из окрестностей Часова Яра",Innocent,Antagonist
+RU-URW-1072.txt,России,Protagonist,Innocent
+RU-URW-1176.txt,НАТО,Antagonist,Antagonist
+RU-URW-1128.txt,США,Antagonist,Antagonist
+RU-URW-1035.txt,Он,Protagonist,Antagonist
+RU-URW-1140.txt,Зеленского,Antagonist,Antagonist
+RU-URW-1074.txt,НАТО,Antagonist,Innocent
+RU-URW-1092.txt,российские военные,Protagonist,Antagonist
+RU-URW-1046.txt,Украина,Antagonist,Innocent
+RU-URW-1027.txt,наемников Вооруженных сил Украины,Antagonist,Protagonist
+RU-URW-1109.txt,Киев,Antagonist,Antagonist
+RU-URW-1006.txt,киевского режима,Antagonist,Antagonist
+RU-URW-1195.txt,ВСУ,Antagonist,Antagonist
+RU-URW-1058.txt,Игорь Кимаковский,Protagonist,Protagonist
+RU-URW-1025.txt,Ральф Сирен,Antagonist,Innocent
+RU-URW-1100.txt,Украины,Antagonist,Protagonist
+RU-URW-1015.txt,Зеленского,Innocent,Antagonist
+RU-URW-1060.txt,Российские военные,Protagonist,Protagonist
+RU-URW-1049.txt,ВСУ,Antagonist,Antagonist
+RU-URW-1153.txt,Вооруженных силах Украины,Antagonist,Innocent
+RU-URW-1151.txt,ВС РФ,Protagonist,Protagonist
+RU-URW-1162.txt,Германия,Antagonist,Antagonist
+RU-URW-1161.txt,Вадим Колесниченко,Protagonist,Antagonist
+RU-URW-1097.txt,Стубб,Protagonist,Innocent
+RU-URW-1103.txt,Зеленский,Antagonist,Innocent
+RU-URW-1137.txt,украинские спецслужбы,Antagonist,Antagonist
+RU-URW-1048.txt,Следственный комитет России,Protagonist,Innocent
+RU-URW-1113.txt,Дмитрия Гордона,Antagonist,Innocent
+RU-URW-1162.txt,ВСУ,Antagonist,Antagonist
+RU-URW-1140.txt,НАТО,Antagonist,Protagonist
+RU-URW-1011.txt,Соединенные Штаты,Antagonist,Innocent
+RU-URW-1098.txt,Михаил Галузин,Protagonist,Antagonist
+RU-URW-1030.txt,Александр Богомаз,Innocent,Innocent
+RU-URW-1172.txt,США,Antagonist,Innocent
+RU-URW-1156.txt,Дмитрий Медведев,Protagonist,Antagonist
+RU-URW-1145.txt,Российские войска,Protagonist,Antagonist
+RU-URW-1028.txt,Таисия Повалий,Innocent,Antagonist
+RU-URW-1075.txt,Польша,Antagonist,Antagonist
+RU-URW-1041.txt,Вячеслав Володин,Protagonist,Antagonist
+RU-URW-1128.txt,Украине,Innocent,Antagonist
+RU-URW-1019.txt,Россия,Protagonist,Protagonist
+RU-URW-1136.txt,Украине,Antagonist,Innocent
+RU-URW-1030.txt,МЧС,Protagonist,Innocent
+RU-URW-1036.txt,ВС РФ,Protagonist,Innocent
+RU-URW-1162.txt,НАТО,Antagonist,Antagonist
+RU-URW-1103.txt,Запад,Antagonist,Innocent
+RU-URW-1041.txt,Александра Лукашенко,Protagonist,Antagonist
+RU-URW-1140.txt,Алексей Кочетков,Protagonist,Protagonist
+RU-URW-1056.txt,Трампа,Antagonist,Antagonist
+RU-URW-1037.txt,Украины,Antagonist,Antagonist
+RU-URW-1165.txt,Россию,Innocent,Innocent
+RU-URW-1012.txt,Украина,Antagonist,Antagonist
+RU-URW-1105.txt,Украине,Innocent,Antagonist
+RU-URW-1114.txt,Россия,Protagonist,Protagonist
+RU-URW-1142.txt,КНР,Innocent,Innocent
+RU-URW-1105.txt,НАТО,Antagonist,Antagonist
+RU-URW-1138.txt,Йенса Столтенберга,Antagonist,Protagonist
+RU-URW-1156.txt,Киевом,Antagonist,Antagonist
+RU-URW-1021.txt,американцы и Запад,Antagonist,Protagonist
+RU-URW-1030.txt,Брянск-прикрытие,Protagonist,Innocent
+RU-URW-1056.txt,официальный представитель Кремля,Protagonist,Antagonist
+RU-URW-1137.txt,Константина Малофеева,Innocent,Antagonist
+RU-URW-1164.txt,Павел Филипчук,Protagonist,Antagonist
+RU-URW-1155.txt,Дмитрий Песков,Protagonist,Innocent
+RU-URW-1155.txt,США,Antagonist,Innocent
+RU-URW-1057.txt,Дмитрия Андреевича Артюхова,Protagonist,Protagonist
+RU-URW-1108.txt,Петра Великого,Protagonist,Protagonist
+RU-URW-1074.txt,Владимиром Путиным,Protagonist,Protagonist
+RU-URW-1153.txt,Украина,Antagonist,Innocent
+RU-URW-1155.txt,Турция,Antagonist,Innocent
+RU-URW-1159.txt,Богдан Махно,Protagonist,Innocent
+RU-URW-1087.txt,Украине,Antagonist,Antagonist
+RU-URW-1123.txt,Россию,Innocent,Antagonist
+RU-URW-1058.txt,украинских войск,Antagonist,Protagonist
+RU-URW-1162.txt,ВСУ,Antagonist,Antagonist
+RU-URW-1088.txt,Йенс Столтенберг,Antagonist,Antagonist
+RU-URW-1081.txt,Российские военнослужащие,Protagonist,Antagonist
+RU-URW-1097.txt,президент России,Protagonist,Innocent
+RU-URW-1049.txt,Россию,Innocent,Antagonist
+RU-URW-1065.txt,Байдену,Antagonist,Antagonist
+RU-URW-1074.txt,Мао Нин,Protagonist,Innocent
+RU-URW-1027.txt,Посольство России в Эстонии,Protagonist,Innocent
+RU-URW-1068.txt,Михаил Ширимейто,Innocent,Antagonist
+RU-URW-1195.txt,ДНР,Innocent,Antagonist
+RU-URW-1156.txt,Запада,Antagonist,Antagonist
+RU-URW-1162.txt,Польша,Antagonist,Antagonist
+RU-URW-1015.txt,американцы,Antagonist,Antagonist
+RU-URW-1176.txt,Владислава Роговенко,Protagonist,Antagonist
+RU-URW-1161.txt,России,Innocent,Antagonist
+RU-URW-1145.txt,ВСУ,Antagonist,Antagonist
+RU-URW-1081.txt,Украины,Antagonist,Antagonist
+RU-URW-1008.txt,ВС РФ,Protagonist,Protagonist
+RU-URW-1096.txt,«Сорок сороков»,Protagonist,Antagonist
+RU-URW-1134.txt,Армен Бадалян,Protagonist,Innocent
+RU-URW-1036.txt,Харькове,Innocent,Innocent
+RU-URW-1067.txt,Российской Федерации»,Innocent,Antagonist
+RU-URW-1030.txt,МВД,Protagonist,Innocent
+RU-URW-1156.txt,НАТО,Antagonist,Antagonist
+RU-URW-1141.txt,Бельгия,Antagonist,Innocent
+RU-URW-1137.txt,Киев,Antagonist,Antagonist
+RU-URW-1114.txt,государств ШОС,Protagonist,Protagonist
+RU-URW-1027.txt,Аннели Кольк,Antagonist,Antagonist
+RU-URW-1040.txt,Павел Запорожец,Antagonist,Antagonist
+RU-URW-1082.txt,Ивану Попову,Antagonist,Antagonist
+RU-URW-1141.txt,Норвегия,Antagonist,Innocent
+RU-URW-1058.txt,Донецкой Народной Республики,Innocent,Protagonist
+RU-URW-1011.txt,Белый дом,Antagonist,Antagonist
+RU-URW-1103.txt,Киев,Antagonist,Innocent
+RU-URW-1157.txt,Филиппа Симана,Antagonist,Antagonist
+RU-URW-1162.txt,Франция,Antagonist,Antagonist
+RU-URW-1111.txt,Андрее Макаревиче,Antagonist,Antagonist
+RU-URW-1111.txt,Раиса Рязанова,Protagonist,Antagonist
+RU-URW-1051.txt,гражданка,Innocent,Antagonist
+RU-URW-1012.txt,Кристиан Рубилар,Protagonist,Antagonist
+RU-URW-1024.txt,Украины,Antagonist,Antagonist
+RU-URW-1098.txt,Зеленского,Antagonist,Antagonist
+RU-URW-1172.txt,Орбан,Protagonist,Innocent
+RU-URW-1112.txt,ВСУ,Antagonist,Antagonist
+RU-URW-1121.txt,НАТО,Antagonist,Antagonist
+RU-URW-1100.txt,Алексей Текслер,Protagonist,Protagonist
+RU-URW-1108.txt,Карл XII,Antagonist,Protagonist
+RU-URW-1066.txt,Белгородской области,Innocent,Antagonist
+RU-URW-1096.txt,Канье Уэста,Antagonist,Innocent
+RU-URW-1134.txt,Никола Пашиняна,Antagonist,Innocent
+RU-URW-1011.txt,Украине,Innocent,Innocent
+RU-URW-1125.txt,усскоязычных и русские магазины,Innocent,Antagonist
+RU-URW-1141.txt,ВКС,Protagonist,Protagonist
+RU-URW-1129.txt,Виктор Орбан,Protagonist,Antagonist
+RU-URW-1175.txt,Макрона,Antagonist,Innocent
+RU-URW-1116.txt,главам стран ШОС,Protagonist,Innocent
+RU-URW-1137.txt,Дарьи Дугиной,Innocent,Antagonist
+RU-URW-1037.txt,Минск,Protagonist,Antagonist
+RU-URW-1132.txt,Александр Богомаз,Protagonist,Innocent
+RU-URW-1041.txt,Владимир Путин,Protagonist,Antagonist
+RU-URW-1151.txt,НАТО,Antagonist,Protagonist
+RU-URW-1012.txt,Игорь Чуркин,Innocent,Protagonist
+RU-URW-1195.txt,Курской,Innocent,Antagonist
+RU-URW-1040.txt,Главным управлением разведки Министерства обороны Украины,Antagonist,Antagonist
+RU-URW-1107.txt,Максим Магро,Innocent,Antagonist
+RU-URW-1150.txt,НАТО,Antagonist,Protagonist
+RU-URW-1125.txt,Татьяна,Innocent,Antagonist
+RU-URW-1104.txt,ФСБ,Protagonist,Antagonist
+RU-URW-1079.txt,НАТО,Antagonist,Innocent
+RU-URW-1128.txt,Владимир Путин,Protagonist,Innocent
+RU-URW-1145.txt,Владимиру Путину,Protagonist,Antagonist
+RU-URW-1162.txt,Российская армия,Protagonist,Antagonist
+RU-URW-1026.txt,Роджер Уикер,Antagonist,Protagonist
+RU-URW-1020.txt,Владимир Путин,Innocent,Innocent
+RU-URW-1149.txt,Министерству юстиции,Protagonist,Antagonist
+RU-URW-1157.txt,Зеленский,Antagonist,Antagonist
+RU-URW-1158.txt,Владимир Путин,Protagonist,Innocent
+RU-URW-1159.txt,юнармейцев,Protagonist,Innocent
+RU-URW-1008.txt,Волчанске,Innocent,Antagonist
+RU-URW-1162.txt,Киеву,Antagonist,Antagonist
+RU-URW-1148.txt,украинские спецслужбы,Antagonist,Antagonist
+RU-URW-1070.txt,Россией,Protagonist,Innocent
+RU-URW-1049.txt,США,Antagonist,Antagonist
+RU-URW-1141.txt,Конгрессмены США,Antagonist,Antagonist
+RU-URW-1066.txt,ВСУ,Antagonist,Antagonist
+RU-URW-1117.txt,Дональда Трампа,Protagonist,Antagonist
+RU-URW-1010.txt,Трампа,Antagonist,Antagonist
+RU-URW-1108.txt,Швеции,Antagonist,Protagonist
+RU-URW-1140.txt,США,Antagonist,Protagonist
+RU-URW-1021.txt,Западу,Antagonist,Antagonist
+RU-URW-1126.txt,США,Antagonist,Innocent
+RU-URW-1151.txt,ВСУ,Antagonist,Antagonist
+RU-URW-1038.txt,Зеленского,Antagonist,Innocent
+RU-URW-1017.txt,Россия,Innocent,Antagonist
+RU-URW-1063.txt,Владимира Зеленского,Antagonist,Antagonist
+RU-URW-1145.txt,США,Antagonist,Antagonist
+RU-URW-1143.txt,Армия России,Protagonist,Antagonist
+RU-URW-1161.txt,НАТО,Antagonist,Antagonist
+RU-URW-1045.txt,Украину,Innocent,Innocent
+RU-URW-1038.txt,Украине,Innocent,Innocent
+RU-URW-1026.txt,России,Innocent,Protagonist
+RU-URW-1005.txt,Александр Вучич,Protagonist,Antagonist
+RU-URW-1112.txt,России,Innocent,Antagonist
+RU-URW-1137.txt,ФСБ,Protagonist,Antagonist
+RU-URW-1123.txt,Киев,Antagonist,Antagonist
+RU-URW-1172.txt,Путина,Protagonist,Protagonist
+RU-URW-1078.txt,США,Antagonist,Innocent
+RU-URW-1099.txt,Виктор Орбан,Protagonist,Innocent
+RU-URW-1055.txt,Столтенберг,Antagonist,Innocent
+RU-URW-1016.txt,Россия,Protagonist,Antagonist
+RU-URW-1050.txt,Нидерланды,Antagonist,Innocent
+RU-URW-1163.txt,адмиралу Ефтимову,Antagonist,Antagonist
+RU-URW-1165.txt,США,Antagonist,Innocent
+RU-URW-1074.txt,Си Цзиньпин,Protagonist,Protagonist
+RU-URW-1064.txt,Владимир Зеленский,Antagonist,Innocent
+RU-URW-1129.txt,Владимир Зеленский,Antagonist,Antagonist
+RU-URW-1107.txt,Даниил Пионтковский,Innocent,Antagonist
+RU-URW-1010.txt,Дональда Трампа,Protagonist,Innocent
+RU-URW-1038.txt,Запада,Antagonist,Innocent
+RU-URW-1034.txt,ВСУ,Antagonist,Antagonist
+RU-URW-1117.txt,Карлсона,Innocent,Antagonist
+RU-URW-1067.txt,России,Protagonist,Antagonist
+RU-URW-1075.txt,Минска,Innocent,Antagonist
+RU-URW-1104.txt,украинских спецслужб,Antagonist,Antagonist
+RU-URW-1075.txt,Варшаве,Innocent,Antagonist
+RU-URW-1108.txt,Зеленского,Antagonist,Protagonist
+RU-URW-1018.txt,Владимиру Зеленскому,Antagonist,Innocent
+RU-URW-1092.txt,Вооруженных сил Украины,Antagonist,Antagonist
+RU-URW-1143.txt,фашистов,Antagonist,Antagonist
+RU-URW-1116.txt,Путин,Protagonist,Antagonist
+RU-URW-1124.txt,Великобритания,Antagonist,Innocent
+RU-URW-1047.txt,Подразделения Вооруженных сил Украины,Antagonist,Antagonist
+RU-URW-1058.txt,ВС России,Protagonist,Protagonist
+RU-URW-1176.txt,Юлия Верба,Protagonist,Antagonist
+RU-URW-1130.txt,украинская воинская часть,Antagonist,Protagonist
+RU-URW-1121.txt,Североатлантическом альянсе,Antagonist,Antagonist
+RU-URW-1018.txt,Виктор Орбан,Protagonist,Innocent
+RU-URW-1156.txt,Владимира Зеленского,Antagonist,Antagonist
+RU-URW-1051.txt,ВСУ,Antagonist,Antagonist
+RU-URW-1037.txt,ЕС,Innocent,Antagonist
+RU-URW-1116.txt,Киева,Innocent,Protagonist
+RU-URW-1106.txt,Эммануэль Макрон,Antagonist,Innocent
+RU-URW-1097.txt,КНР,Protagonist,Innocent
+RU-URW-1141.txt,Дания,Antagonist,Innocent
+RU-URW-1067.txt,Украины,Antagonist,Antagonist
+RU-URW-1149.txt,Аллы Пугачевой,Antagonist,Innocent
+RU-URW-1137.txt,«Параграф-88»,Antagonist,Antagonist
+RU-URW-1029.txt,Роджером Уикером,Antagonist,Protagonist
+RU-URW-1162.txt,ЛНР,Innocent,Antagonist
+RU-URW-1176.txt,Зеленского,Antagonist,Antagonist
+RU-URW-1034.txt,огнеборцев,Protagonist,Antagonist
+RU-URW-1047.txt,ВСУ,Antagonist,Innocent
+RU-URW-1106.txt,Российская разведка,Protagonist,Innocent
+RU-URW-1031.txt,Киева,Antagonist,Antagonist
+RU-URW-1044.txt,ВСУ,Antagonist,Innocent
+RU-URW-1083.txt,российские военные,Protagonist,Antagonist
+RU-URW-1124.txt,США,Antagonist,Innocent
+RU-URW-1005.txt,Шольц,Antagonist,Antagonist
+RU-URW-1020.txt,Анналена Бербок,Antagonist,Innocent
+RU-URW-1115.txt,представители органов власти,Protagonist,Innocent
+RU-URW-1129.txt,Россия,Antagonist,Innocent
+RU-URW-1070.txt,Киева,Antagonist,Innocent
+RU-URW-1055.txt,РФ,Innocent,Innocent
+RU-URW-1082.txt,Эвакуированные из-под Часова Яра мирные жители,Innocent,Antagonist
+RU-URW-1001.txt,граждане РФ,Protagonist,Innocent
+RU-URW-1042.txt,Украины,Antagonist,Antagonist
+RU-URW-1138.txt,Пола Йонсона,Antagonist,Innocent
+RU-URW-1107.txt,Ростиславу Журавлёву,Protagonist,Antagonist
+RU-URW-1010.txt,Ермак,Antagonist,Antagonist
+RU-URW-1162.txt,Италия,Antagonist,Antagonist
+RU-URW-1016.txt,Запад,Antagonist,Antagonist
+RU-URW-1161.txt,Украине,Innocent,Antagonist
+RU-URW-1076.txt,Украинские военные,Antagonist,Antagonist
+RU-URW-1082.txt,операторы дронов-камикадзе ВСУ,Antagonist,Antagonist
+RU-URW-1071.txt,"""Киевсовет",Antagonist,Antagonist
+RU-URW-1041.txt,Владимир Путин,Protagonist,Antagonist
+RU-URW-1165.txt,"""Действие и солидарность",Antagonist,Innocent

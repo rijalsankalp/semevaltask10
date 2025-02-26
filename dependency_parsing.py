@@ -246,7 +246,7 @@ def iterate_documents(base_dir, labels, subdir='EN', use_corefs=False):
     """
 
     
-    if subdir == "RU":
+    if subdir == "RU" and use_corefs:
         nlp = stanza.Pipeline(lang='ru', processors='tokenize,pos,lemma,ner,depparse,coref', device = 'cpu')
 
         for row_id in range(len(labels)):
