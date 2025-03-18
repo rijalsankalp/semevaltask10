@@ -1,8 +1,19 @@
 import spacy
 from collections import defaultdict
 
-#Implementing the TextFilter class, which is responsible for extracting context around target entities in a sentence.
-# This is taken from the pa
+# Implementing the TextFilter class, which is responsible for extracting context around target entities in a sentence.
+# "A dependency-based hybrid deep learning framework for target-dependent sentiment classification"
+# https://doi.org/10.1016/j.patrec.2023.10.026
+
+###Rules###
+
+#If the target is a modifier (compound, amod, nmod), include its head word.
+# If the target is a subject (nsubj or nsubjpass), include its head verb.
+# If the target is an object (obj or dobj), include its head verb and the subject of that verb.
+# If the target has clause children (xcomp or ccomp), include those clauses.
+# If the target’s head has clause children (xcomp or ccomp), include those as well.
+# If the target is connected to clause modifiers (advcl, acl, advmod), include them.
+# For all content words collected from above rules, include function words directly attached to them 
 
 
 class TextFilter:
@@ -153,7 +164,7 @@ class TextFilter:
         return target_indices
 
     def extract_target_context(self, sentence, targets):
-        # main interface to extract context per target entity
+        
         if isinstance(targets, str):
             targets = [targets]
 
@@ -182,7 +193,7 @@ class TextFilter:
 
 
 if __name__ == "__main__":
-    # some example test sentences for role-aware TF extractions
+    
     tests = [
         {
             "sentence": "Russia invaded Ukraine and caused a humanitarian crisis.",
