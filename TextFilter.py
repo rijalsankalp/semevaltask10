@@ -7,22 +7,20 @@ from collections import defaultdict
 
 ###Rules###
 
-#If the target is a modifier (compound, amod, nmod), include its head word.
-# If the target is a subject (nsubj or nsubjpass), include its head verb.
-# If the target is an object (obj or dobj), include its head verb and the subject of that verb.
-# If the target has clause children (xcomp or ccomp), include those clauses.
-# If the target’s head has clause children (xcomp or ccomp), include those as well.
-# If the target is connected to clause modifiers (advcl, acl, advmod), include them.
-# For all content words collected from above rules, include function words directly attached to them 
-
+# Rule 0: If the target is a modifier (compound, amod, nmod), include its head word.
+# Rule 1: If the target is a subject (nsubj or nsubjpass), include its head verb.
+# Rule 2: If the target is an object (obj or dobj), include its head verb and the subject of that verb.
+# Rule 3: If the target has clause children (xcomp or ccomp), include those clauses.
+# Rule 4: If the target’s head has clause children (xcomp or ccomp), include those as well.
+# Rule 5: If the target is connected to clause modifiers (advcl, acl, advmod), include them.
+# Rule 6: For all content words collected from above rules, include function words directly attached to them. 
+# Additionally: trace prepositional object (pobj) to its verb via preposition.
 
 class TextFilter:
     def __init__(self, use_pos_check=False):
-        # load the spacy parser
         self.parser = spacy.load("en_core_web_sm")
         self.use_pos_check = use_pos_check
 
-        # dependency relations to extract direct and indirect related words
         self.direct_relations = {
             "advmod", "nmod", "nummod", "amod", "cop", "neg", "aux", "case",
             "det", "expl", "mwe", "compound", "obj", "prt"
@@ -31,10 +29,8 @@ class TextFilter:
             "xcomp", "ccomp", "acl", "advcl"
         }
 
-        # optional POS-based filter for functional words
         self.function_pos = {"DET", "AUX", "PART", "ADP", "PRON"}
 
-        # define role mapping for syntactic role check
         self.role_map = {
             "nsubj": "subject",
             "nsubjpass": "passive-subject",
@@ -45,20 +41,17 @@ class TextFilter:
         }
 
     def get_dependencies(self, sentence):
-        # get parsed dependencies as list of tuples
         doc = self.parser(sentence)
         deps = [(t.text, t.dep_, t.head.text, t.pos_, t.i, t.head.i) for t in doc]
         return deps, doc
 
     def build_graph(self, deps):
-        # create a dependency graph from parsed relations
         graph = defaultdict(list)
         for word, rel, head, _, child_idx, head_idx in deps:
             graph[head_idx].append((child_idx, rel))
         return graph
 
     def recursive_add_content(self, graph, idx, core_words):
-        # recursively collect all words connected via dependency
         if idx not in core_words:
             core_words.add(idx)
         for child_idx, rel in graph[idx]:
@@ -66,8 +59,8 @@ class TextFilter:
                 if rel not in {"conj", "cc"}:
                     self.recursive_add_content(graph, child_idx, core_words)
 
+    
     def apply_rules(self, deps, graph, target_idx):
-        # main rule application logic for extracting context
         core_words = set()
         function_words = set()
 
@@ -81,54 +74,44 @@ class TextFilter:
 
         word, rel, head_word, pos, i, head_idx = deps[target_idx]
 
-        # rule for modifiers and syntactic attachment
+        # Rule 0: If target is a modifier, add its head
         if rel in {"compound", "amod", "nmod"}:
             add_content(head_idx)
 
-        if rel == "nsubj" or rel == "nsubjpass":
+        # Rule 1: target is subject
+        if rel == "nsubj":
             add_content(head_idx)
 
-        if rel == "pobj":
-            add_content(head_idx)
-
-        # rule 2 + extended: subject/object + coordination
-        related_head = None
-
+        # Rule 2: target is object → include verb + subject
         if rel in {"dobj", "obj"}:
-            related_head = head_idx
-        else:
+            add_content(head_idx)
             for _, r, _, _, idx, h_idx in deps:
-                if idx == head_idx and r in {"dobj", "obj"}:
-                    related_head = h_idx
-                    break
-            if not related_head:
-                for _, r, _, _, idx, h_idx in deps:
-                    if h_idx == head_idx and r in {"dobj", "obj", "appos"}:
-                        related_head = h_idx
-                        break
-
-        if related_head is not None:
-            add_content(related_head)
-            for _, r, _, _, idx, h_idx in deps:
-                if h_idx == related_head and r in {"nsubj", "nsubjpass"}:
+                if h_idx == head_idx and r in {"nsubj", "nsubjpass"}:
                     add_content(idx)
 
-        # apply clauses and verbal modifiers
-        for child_idx, child_rel in graph[target_idx]:
-            if child_rel in {"xcomp", "ccomp", "advcl", "acl", "advmod"}:
-                add_content(child_idx)
+        # Rule 3: target is subject → head has xcomp/ccomp
+        if rel == "nsubj":
+            for child_idx, child_rel in graph[head_idx]:
+                if child_rel in {"xcomp", "ccomp"}:
+                    add_content(child_idx)
 
-        for child_idx, child_rel in graph[head_idx]:
-            if child_rel in {"advmod", "acl"}:
-                add_content(child_idx)
-
+        # Rule 4: head has object → that object has xcomp/ccomp children
         for sib_idx, sib_rel in graph[head_idx]:
-            if sib_rel in {"xcomp", "ccomp"}:
-                add_content(sib_idx)
+            if sib_rel == "obj":
+                for child_idx, child_rel in graph[sib_idx]:
+                    if child_rel in {"xcomp", "ccomp"}:
+                        add_content(child_idx)
 
+        # Rule 5: target has advcl or acl children (modifiers)
+        if rel == "nsubj":
+            for child_idx, child_rel in graph[target_idx]:
+                if child_rel in {"advcl", "acl"}:
+                    add_content(child_idx)
+
+        # Always include the target word
         add_content(target_idx)
 
-        # collect function words attached to core
+        # Rule 6: Add function words related to content words
         visited = set()
         queue = list(core_words)
         while queue:
@@ -141,8 +124,8 @@ class TextFilter:
 
         return core_words, function_words
 
+
     def match_target_indices(self, deps, doc, targets):
-        # match exact token indices for each target phrase
         target_indices = []
         seen_spans = set()
         token_texts = [t.text.lower() for t in doc]
@@ -164,7 +147,6 @@ class TextFilter:
         return target_indices
 
     def extract_target_context(self, sentence, targets):
-        
         if isinstance(targets, str):
             targets = [targets]
 
@@ -193,7 +175,6 @@ class TextFilter:
 
 
 if __name__ == "__main__":
-    
     tests = [
         {
             "sentence": "Russia invaded Ukraine and caused a humanitarian crisis.",
@@ -211,6 +192,10 @@ if __name__ == "__main__":
             "sentence": "Russia attacked Ukraine and annexed Crimea.",
             "targets": ["Russia", "Ukraine", "Crimea"]
         },
+        {
+            "sentence": "Polite Donald Trump is passing a lot of executive orders as president.",
+            "targets": ["Donald ", "president"]  
+        }
     ]
 
     tf = TextFilter()
