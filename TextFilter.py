@@ -1,5 +1,8 @@
 import spacy
+from spacy import displacy
 from collections import defaultdict
+from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
+
 
 # Implementing the TextFilter class, which is responsible for extracting context around target entities in a sentence.
 # "A dependency-based hybrid deep learning framework for target-dependent sentiment classification"
@@ -18,7 +21,7 @@ from collections import defaultdict
 
 class TextFilter:
     def __init__(self, use_pos_check=False):
-        self.parser = spacy.load("en_core_web_sm")
+        self.parser = spacy.load("en_core_web_trf")
         self.use_pos_check = use_pos_check
 
         self.direct_relations = {
@@ -39,9 +42,12 @@ class TextFilter:
             "pobj": "prep-object",
             "iobj": "indirect-object"
         }
+        self.tokenizer = AutoTokenizer.from_pretrained("flax-community/t5-v1_1-base-wikisplit")
+        self.model = AutoModelForSeq2SeqLM.from_pretrained("flax-community/t5-v1_1-base-wikisplit")
 
     def get_dependencies(self, sentence):
         doc = self.parser(sentence)
+        displacy.serve(doc, style="dep", auto_select_port=True)
         deps = [(t.text, t.dep_, t.head.text, t.pos_, t.i, t.head.i) for t in doc]
         return deps, doc
 
@@ -55,9 +61,9 @@ class TextFilter:
         if idx not in core_words:
             core_words.add(idx)
         for child_idx, rel in graph[idx]:
-            if rel in self.indirect_relations or rel in self.direct_relations:
-                if rel not in {"conj", "cc"}:
-                    self.recursive_add_content(graph, child_idx, core_words)
+            if rel in self.indirect_relations or rel in self.direct_relations or rel in {"conj", "cc"}:
+                self.recursive_add_content(graph, child_idx, core_words)
+
 
     
     def apply_rules(self, deps, graph, target_idx):
@@ -78,8 +84,8 @@ class TextFilter:
         if rel in {"compound", "amod", "nmod"}:
             add_content(head_idx)
 
-        # Rule 1: target is subject
-        if rel == "nsubj":
+        # Rule 1: target is subject or passive subject → add head verb
+        if rel in {"nsubj", "nsubjpass"}:
             add_content(head_idx)
 
         # Rule 2: target is object → include verb + subject
@@ -89,10 +95,10 @@ class TextFilter:
                 if h_idx == head_idx and r in {"nsubj", "nsubjpass"}:
                     add_content(idx)
 
-        # Rule 3: target is subject → head has xcomp/ccomp
-        if rel == "nsubj":
+        # Rule 3: subject/passive → head has xcomp/ccomp/advcl
+        if rel in {"nsubj", "nsubjpass"}:
             for child_idx, child_rel in graph[head_idx]:
-                if child_rel in {"xcomp", "ccomp"}:
+                if child_rel in {"xcomp", "ccomp", "advcl"}:
                     add_content(child_idx)
 
         # Rule 4: head has object → that object has xcomp/ccomp children
@@ -102,11 +108,30 @@ class TextFilter:
                     if child_rel in {"xcomp", "ccomp"}:
                         add_content(child_idx)
 
-        # Rule 5: target has advcl or acl children (modifiers)
-        if rel == "nsubj":
+        # Rule 5: subject/passive → has acl or advcl modifiers
+        if rel in {"nsubj", "nsubjpass"}:
             for child_idx, child_rel in graph[target_idx]:
                 if child_rel in {"advcl", "acl"}:
                     add_content(child_idx)
+
+        # Rule Extension: pobj → trace to verb via preposition
+        if rel == "pobj":
+            # Step 1: Find the preposition that governs this pobj
+            for idx, dep, head, _, i, h_idx in deps:
+                if i == head_idx and dep == "prep":
+                    add_content(i)  # add the preposition (e.g., "by")
+
+                    # Step 2: Try tracing that prep to its verb head
+                    for idx2, dep2, _, _, _, h2_idx in deps:
+                        if idx2 == h_idx and dep2 in {"agent", "prep", "obl", "nmod"}:
+                            add_content(h2_idx)
+                    # Fallback: add prep’s head anyway (usually a verb)
+                    add_content(h_idx)
+
+        if rel in {"pobj"}:  # Prepositional object
+            add_content(head_idx)
+        if rel == "agent":  # Passive voice
+            add_content(head_idx)
 
         # Always include the target word
         add_content(target_idx)
@@ -149,6 +174,11 @@ class TextFilter:
     def extract_target_context(self, sentence, targets):
         if isinstance(targets, str):
             targets = [targets]
+        
+        sample_tokenized = self.tokenizer(sentence, return_tensors="pt")
+
+        answer = self.model.generate(sample_tokenized['input_ids'], attention_mask = sample_tokenized['attention_mask'], max_length=256, num_beams=5)
+        sentence = self.tokenizer.decode(answer[0], skip_special_tokens=True)
 
         deps, doc = self.get_dependencies(sentence)
         deps_graph = self.build_graph(deps)
@@ -171,39 +201,34 @@ class TextFilter:
             role = self.role_map.get(head_token.dep_, "other")
             all_filtered.append(f"[{role}] {' '.join(words)}")
 
-        return all_filtered
+        return [f"{sentence}: {all_filtered}"]
 
 
 if __name__ == "__main__":
-    tests = [
-        {
-            "sentence": "Russia invaded Ukraine and caused a humanitarian crisis.",
-            "targets": ["Russia", "Ukraine", "humanitarian crisis"]
-        },
-        {
-            "sentence": "Ukraine was invaded by Russia, but it is fighting back bravely.",
-            "targets": ["Russia", "Ukraine"]
-        },
-        {
-            "sentence": "Russia did not expect Ukraine to resist this strongly.",
-            "targets": ["Russia", "Ukraine"]
-        },
-        {
-            "sentence": "Russia attacked Ukraine and annexed Crimea.",
-            "targets": ["Russia", "Ukraine", "Crimea"]
-        },
-        {
-            "sentence": "Polite Donald Trump is passing a lot of executive orders as president.",
-            "targets": ["Donald ", "president"]  
-        }
-    ]
+    from LoadData import LoadData
+    from EntityDataset import DataLoader
 
-    tf = TextFilter()
+    base_dir = "train"
+    txt_file = "subtask-1-annotations.txt"
+    subdirs = "EN"
+    load_data = LoadData()
+    data = load_data.load_data(base_dir, txt_file, subdirs)
+    data_loader = DataLoader(data, base_dir)
 
-    for i, test in enumerate(tests, 1):
-        print(f"\nTest {i}:")
-        print("Sentence:", test["sentence"])
-        print("Targets:", test["targets"])
-        result = tf.extract_target_context(test["sentence"], test["targets"])
-        for r in result:
-            print("-", r)
+    filter = TextFilter()
+    
+    # for target, sentences in data_loader.yield_entity_sent():
+        
+    #     for sentence in sentences:
+    #         print(target)
+    #         print(filter.extract_target_context(sentence, target))
+        
+    #     break
+
+    entities = data_loader.yield_NER_sentences()
+    for ent in entities:
+        for entity, sentence in ent:
+            print(filter.extract_target_context(sentence, entity))
+
+        break
+    
