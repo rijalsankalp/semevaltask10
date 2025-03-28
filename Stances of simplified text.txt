@@ -1,0 +1,1644 @@
+Kennedy		They considered Kennedy's resolution of the crisis to be the worst defeat in U.S. history.
+[{'label': 'NONE', 'score': 0.546962559223175}]
+
+Kennedy		They compared Kennedy's actions during the crisis to that of the Soviet Union, and the Soviets had the legal authority to permit their nuclear missiles in Turkey, which they call offensive.
+[{'label': 'AGAINST', 'score': 0.8993543386459351}]
+
+Cuba		The Soviets had installed nuclear missiles in Cuba that had the capability of hitting U.S. cities along the Eastern seaboard, including Washington, D.C. and New York City.
+[{'label': 'AGAINST', 'score': 0.8187116384506226}]
+
+U.S.		The Soviets had installed nuclear missiles in Cuba that had the capability of hitting U.S. cities along the Eastern seaboard, including Washington, D.C. and New York City.
+[{'label': 'AGAINST', 'score': 0.8187116384506226}]
+
+Washington		The Soviets had installed nuclear missiles in Cuba that had the capability of hitting U.S. cities along the Eastern seaboard, including Washington, D.C. and New York City.
+[{'label': 'AGAINST', 'score': 0.8187116384506226}]
+
+D.C.		The Soviets had installed nuclear missiles in Cuba that had the capability of hitting U.S. cities along the Eastern seaboard, including Washington, D.C. and New York City.
+[{'label': 'AGAINST', 'score': 0.8187116384506226}]
+
+New York City		The Soviets had installed nuclear missiles in Cuba that had the capability of hitting U.S. cities along the Eastern seaboard, including Washington, D.C. and New York City.
+[{'label': 'AGAINST', 'score': 0.8187116384506226}]
+
+U.S.		They considered Kennedy's resolution of the crisis to be the worst defeat in U.S. history.
+[{'label': 'NONE', 'score': 0.546962559223175}]
+
+the Soviet Union		They compared Kennedy's actions during the crisis to that of the Soviet Union, and the Soviets had the legal authority to permit their nuclear missiles in Turkey, which they call offensive.
+[{'label': 'AGAINST', 'score': 0.8993543386459351}]
+
+Turkey		They compared Kennedy's actions during the crisis to that of the Soviet Union, and the Soviets had the legal authority to permit their nuclear missiles in Turkey, which they call offensive.
+[{'label': 'AGAINST', 'score': 0.8993543386459351}]
+
+Eastern		The Soviets had installed nuclear missiles in Cuba that had the capability of hitting U.S. cities along the Eastern seaboard, including Washington, D.C. and New York City.
+[{'label': 'AGAINST', 'score': 0.8187116384506226}]
+
+The Joint Chiefs of Staff		The Joint Chiefs of Staff were livid.
+[{'label': 'NONE', 'score': 0.9258498549461365}]
+
+Gorbachev		Shortly before the fall of the Soviet Union, Gorbachev, Al Gore and Carl Sagan were working together to push the global warming scam.
+[{'label': 'AGAINST', 'score': 0.9130330681800842}]
+
+Al Gore		Shortly before the fall of the Soviet Union, Gorbachev, Al Gore and Carl Sagan were working together to push the global warming scam.
+[{'label': 'AGAINST', 'score': 0.9130330681800842}]
+
+Carl Sagan		Shortly before the fall of the Soviet Union, Gorbachev, Al Gore and Carl Sagan were working together to push the global warming scam.
+[{'label': 'AGAINST', 'score': 0.9130330681800842}]
+
+Putin		not even dare to imagine this runaway effect and why this effect has been removed and exiled by Putin.
+[{'label': 'AGAINST', 'score': 0.9455098509788513}]
+
+the Soviet Union		Shortly before the fall of the Soviet Union, Gorbachev, Al Gore and Carl Sagan were working together to push the global warming scam.
+[{'label': 'AGAINST', 'score': 0.9130330681800842}]
+
+Russia		Mrs part of old Russia playbook?  
+[{'label': 'AGAINST', 'score': 0.5212847590446472}]
+
+Russia		Part of old Russia playbook??
+[{'label': 'NONE', 'score': 0.6060411334037781}]
+
+Balmakov		The powers that be have determined that agriculture is to blame for global warming and global warming is to blame for the high prices of food and food shortages, Balmakov says.
+[{'label': 'NONE', 'score': 0.619699239730835}]
+
+Putin		When the enemy sees that our society is strong, internally braced up, consolidated then we will come to reach what we are striving for, Putin said.
+[{'label': 'NONE', 'score': 0.750027060508728}]
+
+Russia		Russia is not improving its geopolitical position in Ukraine.
+[{'label': 'NONE', 'score': 0.8215643763542175}]
+
+Ukraine		Russia is not improving its geopolitical position in Ukraine.
+[{'label': 'NONE', 'score': 0.8215643763542175}]
+
+Russia		Instead, Russia is fighting for the survival of Russian statehood, for the future development of the country and our children.
+[{'label': 'NONE', 'score': 0.47372207045555115}]
+
+Zinin		According to local news, Zinin had been called up to fight by Moscow and was prepared for deployment on Tuesday.  
+[{'label': 'NONE', 'score': 0.6348451972007751}]
+
+Ukraine		Partial mobilization for its ongoing invasion of Ukraine, The Associated Press reported.
+[{'label': 'NONE', 'score': 0.8129026889801025}]
+
+Moscow		According to local news, Zinin had been called up to fight by Moscow and was prepared for deployment on Tuesday.  
+[{'label': 'NONE', 'score': 0.6348451972007751}]
+
+Izhevsk		Evidence also breaks hours after a school shooting in the central Russian city of Izhevsk led to the deaths of children according to The Washington Post.
+[{'label': 'NONE', 'score': 0.7541319727897644}]
+
+The Associated Press		Partial mobilization for its ongoing invasion of Ukraine, The Associated Press reported.
+[{'label': 'NONE', 'score': 0.8129026889801025}]
+
+The Washington Post		Evidence also breaks hours after a school shooting in the central Russian city of Izhevsk led to the deaths of children according to The Washington Post.
+[{'label': 'NONE', 'score': 0.7541319727897644}]
+
+Biden		The Senate blocked a measure to impose new sanctions on the Nord Stream gas pipeline from Russia to Germany after the Biden administration warned it could disrupt allied unity in the confrontation over Ukraine.
+[{'label': 'NONE', 'score': 0.7705420255661011}]
+
+Ted Cruz		The measure by Republican Senator Ted Cruz of Texas failed on a vote of to.  
+[{'label': 'NONE', 'score': 0.501484215259552}]
+
+Putin		The bill would undermine U.S. cooperation with Germany and other NATO partners as they try to head off a potential invasion of Ukraine by Putin's forces deployed on its borders.
+[{'label': 'NONE', 'score': 0.6683721542358398}]
+
+Bob Menendez		The White House also backed an alternative plan from Senator Bob Menendez.
+[{'label': 'AGAINST', 'score': 0.9169936180114746}]
+
+Russia		The Senate blocked a measure to impose new sanctions on the Nord Stream gas pipeline from Russia to Germany after the Biden administration warned it could disrupt allied unity in the confrontation over Ukraine.
+[{'label': 'NONE', 'score': 0.7705420255661011}]
+
+Germany		The Senate blocked a measure to impose new sanctions on the Nord Stream gas pipeline from Russia to Germany after the Biden administration warned it could disrupt allied unity in the confrontation over Ukraine.
+[{'label': 'NONE', 'score': 0.7705420255661011}]
+
+Ukraine		The Senate blocked a measure to impose new sanctions on the Nord Stream gas pipeline from Russia to Germany after the Biden administration warned it could disrupt allied unity in the confrontation over Ukraine.
+[{'label': 'NONE', 'score': 0.7705420255661011}]
+
+Texas		The measure by Republican Senator Ted Cruz of Texas failed on a vote of to.  
+[{'label': 'NONE', 'score': 0.501484215259552}]
+
+U.S.		The bill would undermine U.S. cooperation with Germany and other NATO partners as they try to head off a potential invasion of Ukraine by Putin's forces deployed on its borders.
+[{'label': 'NONE', 'score': 0.6683721542358398}]
+
+Germany		The bill would undermine U.S. cooperation with Germany and other NATO partners as they try to head off a potential invasion of Ukraine by Putin's forces deployed on its borders.
+[{'label': 'NONE', 'score': 0.6683721542358398}]
+
+Ukraine		The bill would undermine U.S. cooperation with Germany and other NATO partners as they try to head off a potential invasion of Ukraine by Putin's forces deployed on its borders.
+[{'label': 'NONE', 'score': 0.6683721542358398}]
+
+Senate		The Senate blocked a measure to impose new sanctions on the Nord Stream gas pipeline from Russia to Germany after the Biden administration warned it could disrupt allied unity in the confrontation over Ukraine.
+[{'label': 'NONE', 'score': 0.7705420255661011}]
+
+Nord Stream		The Senate blocked a measure to impose new sanctions on the Nord Stream gas pipeline from Russia to Germany after the Biden administration warned it could disrupt allied unity in the confrontation over Ukraine.
+[{'label': 'NONE', 'score': 0.7705420255661011}]
+
+NATO		The bill would undermine U.S. cooperation with Germany and other NATO partners as they try to head off a potential invasion of Ukraine by Putin's forces deployed on its borders.
+[{'label': 'NONE', 'score': 0.6683721542358398}]
+
+The White House		The White House also backed an alternative plan from Senator Bob Menendez.
+[{'label': 'AGAINST', 'score': 0.9169936180114746}]
+
+Lloyd Austin		The Association of Southeast Asian Nations ( ASEAN ) chair Indonesia has yet to confirm attendees, but among them is US Defense Secretary Lloyd Austin, who will meet ASEAN counterparts on Wednesday.  
+[{'label': 'NONE', 'score': 0.5022730827331543}]
+
+Joe Biden		Relations between China and the United States have been frosty after President Joe Biden ordered the shooting down of a suspected Chinese spy balloon in February, raising questions about the stability of the leadership around President Xi Jinping.
+[{'label': 'NONE', 'score': 0.6674726605415344}]
+
+Xi Jinping		Relations between China and the United States have been frosty after President Joe Biden ordered the shooting down of a suspected Chinese spy balloon in February, raising questions about the stability of the leadership around President Xi Jinping.
+[{'label': 'NONE', 'score': 0.6674726605415344}]
+
+Indonesia		The Association of Southeast Asian Nations ( ASEAN ) chair Indonesia has yet to confirm attendees, but among them is US Defense Secretary Lloyd Austin, who will meet ASEAN counterparts on Wednesday.  
+[{'label': 'NONE', 'score': 0.5022730827331543}]
+
+US		The Association of Southeast Asian Nations ( ASEAN ) chair Indonesia has yet to confirm attendees, but among them is US Defense Secretary Lloyd Austin, who will meet ASEAN counterparts on Wednesday.  
+[{'label': 'NONE', 'score': 0.5022730827331543}]
+
+China		Relations between China and the United States have been frosty after President Joe Biden ordered the shooting down of a suspected Chinese spy balloon in February, raising questions about the stability of the leadership around President Xi Jinping.
+[{'label': 'NONE', 'score': 0.6674726605415344}]
+
+the United States		Relations between China and the United States have been frosty after President Joe Biden ordered the shooting down of a suspected Chinese spy balloon in February, raising questions about the stability of the leadership around President Xi Jinping.
+[{'label': 'NONE', 'score': 0.6674726605415344}]
+
+Pyongyang		closer military ties with Pyongyang.
+[{'label': 'NONE', 'score': 0.9620749950408936}]
+
+The Association of Southeast Asian Nations		The Association of Southeast Asian Nations ( ASEAN ) chair Indonesia has yet to confirm attendees, but among them is US Defense Secretary Lloyd Austin, who will meet ASEAN counterparts on Wednesday.  
+[{'label': 'NONE', 'score': 0.5022730827331543}]
+
+ASEAN		The Association of Southeast Asian Nations ( ASEAN ) chair Indonesia has yet to confirm attendees, but among them is US Defense Secretary Lloyd Austin, who will meet ASEAN counterparts on Wednesday.  
+[{'label': 'NONE', 'score': 0.5022730827331543}]
+
+ASEAN		The Association of Southeast Asian Nations ( ASEAN ) chair Indonesia has yet to confirm attendees, but among them is US Defense Secretary Lloyd Austin, who will meet ASEAN counterparts on Wednesday.  
+[{'label': 'NONE', 'score': 0.5022730827331543}]
+
+Trump		Trump so he can run in for another term in the White House.
+[{'label': 'AGAINST', 'score': 0.9886608123779297}]
+
+Trump		It sure looks that way, and even President Trump is expecting charges soon, which is the ultimate election interference.
+[{'label': 'AGAINST', 'score': 0.8861168622970581}]
+
+Bidens		Not know, but the evidence presented this week shows the Bidens, including the President (aka '' The Big Guy '' ) took money from foreign sources including China.
+[{'label': 'AGAINST', 'score': 0.9773755073547363}]
+
+China		Not know, but the evidence presented this week shows the Bidens, including the President (aka '' The Big Guy '' ) took money from foreign sources including China.
+[{'label': 'AGAINST', 'score': 0.9773755073547363}]
+
+Centrica		Centrica's grants of £ to £ for customers least able to pay their monstrous new gas bills are welcome.
+[{'label': 'NONE', 'score': 0.6843869090080261}]
+
+British Gas		No surprise there when the firm is donating only ten per cent of the profits from its British Gas arm.
+[{'label': 'AGAINST', 'score': 0.521461009979248}]
+
+Centrica		That's a negligible fraction of Centrica's soaring total: £.billion in just six months this year.
+[{'label': 'NONE', 'score': 0.8666992783546448}]
+
+Soros		This is not about the climate, its about Big Green Brother in control of our lives Gates and Soros are just two of the Enemy of Humanity Before settlers from the new world reduced their numbers, American Bison in what is now the US, commonly referred to as buffalo, emitted almost as cattle do today.
+[{'label': 'AGAINST', 'score': 0.9872034192085266}]
+
+American Bison		This is not about the climate, its about Big Green Brother in control of our lives Gates and Soros are just two of the Enemy of Humanity Before settlers from the new world reduced their numbers, American Bison in what is now the US, commonly referred to as buffalo, emitted almost as cattle do today.
+[{'label': 'AGAINST', 'score': 0.9872034192085266}]
+
+US		This is not about the climate, its about Big Green Brother in control of our lives Gates and Soros are just two of the Enemy of Humanity Before settlers from the new world reduced their numbers, American Bison in what is now the US, commonly referred to as buffalo, emitted almost as cattle do today.
+[{'label': 'AGAINST', 'score': 0.9872034192085266}]
+
+the European Union's		'' Mass execution '' is one of the options being considered by the Irish government as it scrambles to satisfy the European Union's draconian emissions targets by.  
+[{'label': 'NONE', 'score': 0.9385733008384705}]
+
+Gates		This is not about the climate, its about Big Green Brother in control of our lives Gates and Soros are just two of the Enemy of Humanity Before settlers from the new world reduced their numbers, American Bison in what is now the US, commonly referred to as buffalo, emitted almost as cattle do today.
+[{'label': 'AGAINST', 'score': 0.9872034192085266}]
+
+Austin		Austin said at the opening of a meeting in Germany of Ukraine's international supporters, at which he is seeking to secure further assistance for Kyiv.  
+[{'label': 'NONE', 'score': 0.7928612232208252}]
+
+Boris Pistorius		During the meeting, German Defence Minister Boris Pistorius said Berlin has offered another half a million euros worth of military aid to Ukraine, after Washington has committed tens of billions of dollars to aid Kyiv since February.
+[{'label': 'NONE', 'score': 0.7141745090484619}]
+
+Kyiv		During the meeting, German Defence Minister Boris Pistorius said Berlin has offered another half a million euros worth of military aid to Ukraine, after Washington has committed tens of billions of dollars to aid Kyiv since February.
+[{'label': 'NONE', 'score': 0.7141745090484619}]
+
+United States		The 'United States will not let Ukraine fail ''
+[{'label': 'NONE', 'score': 0.8422601819038391}]
+
+Ukraine		The 'United States will not let Ukraine fail ''
+[{'label': 'NONE', 'score': 0.8422601819038391}]
+
+Germany		Austin said at the opening of a meeting in Germany of Ukraine's international supporters, at which he is seeking to secure further assistance for Kyiv.  
+[{'label': 'NONE', 'score': 0.7928612232208252}]
+
+Ukraine		Austin said at the opening of a meeting in Germany of Ukraine's international supporters, at which he is seeking to secure further assistance for Kyiv.  
+[{'label': 'NONE', 'score': 0.7928612232208252}]
+
+Berlin		During the meeting, German Defence Minister Boris Pistorius said Berlin has offered another half a million euros worth of military aid to Ukraine, after Washington has committed tens of billions of dollars to aid Kyiv since February.
+[{'label': 'NONE', 'score': 0.7141745090484619}]
+
+Ukraine		During the meeting, German Defence Minister Boris Pistorius said Berlin has offered another half a million euros worth of military aid to Ukraine, after Washington has committed tens of billions of dollars to aid Kyiv since February.
+[{'label': 'NONE', 'score': 0.7141745090484619}]
+
+Washington		During the meeting, German Defence Minister Boris Pistorius said Berlin has offered another half a million euros worth of military aid to Ukraine, after Washington has committed tens of billions of dollars to aid Kyiv since February.
+[{'label': 'NONE', 'score': 0.7141745090484619}]
+
+Russia		Russia is planning to hold war games near Ireland's coast in international waters, which are not welcome, Ireland's foreign minister said on Jan. amid heightened tensions near the Russia - Ukraine border.  
+[{'label': 'NONE', 'score': 0.8662726283073425}]
+
+Ireland		Russia is planning to hold war games near Ireland's coast in international waters, which are not welcome, Ireland's foreign minister said on Jan. amid heightened tensions near the Russia - Ukraine border.  
+[{'label': 'NONE', 'score': 0.8662726283073425}]
+
+Ireland		Russia is planning to hold war games near Ireland's coast in international waters, which are not welcome, Ireland's foreign minister said on Jan. amid heightened tensions near the Russia - Ukraine border.  
+[{'label': 'NONE', 'score': 0.8662726283073425}]
+
+Russia		Russia is planning to hold war games near Ireland's coast in international waters, which are not welcome, Ireland's foreign minister said on Jan. amid heightened tensions near the Russia - Ukraine border.  
+[{'label': 'NONE', 'score': 0.8662726283073425}]
+
+Ireland		The exercises are slated to take place about miles off Ireland's southwest coast within its airspace and exclusive economic zone, and it says the Western accusations are merely a cover for NATO's own planned provocations, citing what he described as false reports that Russia is evacuating diplomats from Ukraine.
+[{'label': 'NONE', 'score': 0.9205922484397888}]
+
+Russia		The exercises are slated to take place about miles off Ireland's southwest coast within its airspace and exclusive economic zone, and it says the Western accusations are merely a cover for NATO's own planned provocations, citing what he described as false reports that Russia is evacuating diplomats from Ukraine.
+[{'label': 'NONE', 'score': 0.9205922484397888}]
+
+Ukraine		The exercises are slated to take place about miles off Ireland's southwest coast within its airspace and exclusive economic zone, and it says the Western accusations are merely a cover for NATO's own planned provocations, citing what he described as false reports that Russia is evacuating diplomats from Ukraine.
+[{'label': 'NONE', 'score': 0.9205922484397888}]
+
+Moscow		Moscow has denied those claims
+[{'label': 'NONE', 'score': 0.6980998516082764}]
+
+NATO		The exercises are slated to take place about miles off Ireland's southwest coast within its airspace and exclusive economic zone, and it says the Western accusations are merely a cover for NATO's own planned provocations, citing what he described as false reports that Russia is evacuating diplomats from Ukraine.
+[{'label': 'NONE', 'score': 0.9205922484397888}]
+
+Putin		it, Putin asserted according to Russian media translation.
+[{'label': 'NONE', 'score': 0.5628529787063599}]
+
+Zelensky		Despite Kiev forces clearly being against the ropes of late, Zelensky has still refused to even contemplate negotiating.
+[{'label': 'NONE', 'score': 0.9153843522071838}]
+
+Putin		He has stood by his earlier commitment to not enter dialogue toward ceasefire until Putin is out of power.
+[{'label': 'AGAINST', 'score': 0.8374332189559937}]
+
+Putin		Putin commented on this while in Vietnam: Talks on Ukraine was set to end May, but the government declared no elections until the war is over citing martial law
+[{'label': 'NONE', 'score': 0.9666323065757751}]
+
+Moscow		Drive to isolate Moscow.
+[{'label': 'NONE', 'score': 0.9588657021522522}]
+
+Vietnam		Putin commented on this while in Vietnam: Talks on Ukraine was set to end May, but the government declared no elections until the war is over citing martial law
+[{'label': 'NONE', 'score': 0.9666323065757751}]
+
+Ukraine		Putin commented on this while in Vietnam: Talks on Ukraine was set to end May, but the government declared no elections until the war is over citing martial law
+[{'label': 'NONE', 'score': 0.9666323065757751}]
+
+Emine Dzhaparova		Deputy Foreign Minister Emine Dzhaparova said.
+[{'label': 'NONE', 'score': 0.784509539604187}]
+
+Ukraine		The conflict in Ukraine may end either by diplomatic or military means.
+[{'label': 'NONE', 'score': 0.8421396017074585}]
+
+Moscow		However, it can be possible only after Moscow achieves its goals.
+[{'label': 'NONE', 'score': 0.9184987545013428}]
+
+Russia		The new Ukrainian leadership is trying to purge the country of everything connected with Russia and glorify Nazi accomplices....
+[{'label': 'AGAINST', 'score': 0.9716848731040955}]
+
+Russia		Republics a special status as part of Russia.
+[{'label': 'NONE', 'score': 0.935192346572876}]
+
+Ukraine		February invasion of Ukraine.
+[{'label': 'NONE', 'score': 0.8794775605201721}]
+
+the UN Security Council		Ambassador to the UN Security Council said at a briefing at the UN Security Council.
+[{'label': 'FAVOR', 'score': 0.48178237676620483}]
+
+the UN Security Council		Ambassador to the UN Security Council said at a briefing at the UN Security Council.
+[{'label': 'FAVOR', 'score': 0.48178237676620483}]
+
+The Boeren Burger Beweging/Farmers Citizens Movement		The Boeren Burger Beweging/Farmers Citizens Movement sounds good for farmers but this party is a WEF sellout!
+[{'label': 'AGAINST', 'score': 0.8678426742553711}]
+
+Caroline van der		Caroline van der Plas founded this movement in and is going along with the nitrogen hoax, climate change lies and biodiversity made up bullshit in order to buy up most of the farmers.
+[{'label': 'AGAINST', 'score': 0.9560976028442383}]
+
+Plas		Caroline van der Plas founded this movement in and is going along with the nitrogen hoax, climate change lies and biodiversity made up bullshit in order to buy up most of the farmers.
+[{'label': 'AGAINST', 'score': 0.9560976028442383}]
+
+BBB		BBB, Trump military exercises, predictive programming and more.
+[{'label': 'NONE', 'score': 0.9708057045936584}]
+
+Trump		BBB, Trump military exercises, predictive programming and more.
+[{'label': 'NONE', 'score': 0.9708057045936584}]
+
+km		On November, Reuters headlined '' Russia announces wider evacuation of occupied southern Ukraine '' and reported that, '' Given the situation, I have decided to expand the evacuation zone by km from the Dnipro, '' he said.
+[{'label': 'NONE', 'score': 0.7925077080726624}]
+
+Ukraine		Not have any Storm Shadows, Ukraine definitely does, ever since May th.
+[{'label': 'NONE', 'score': 0.9704616069793701}]
+
+Russia		Ever since at least late, Russia has been warning that Ukraine's government wants to blow up that dam.  
+[{'label': 'AGAINST', 'score': 0.5059128999710083}]
+
+Ukraine		Ever since at least late, Russia has been warning that Ukraine's government wants to blow up that dam.  
+[{'label': 'AGAINST', 'score': 0.5059128999710083}]
+
+Russia		On November, Reuters headlined '' Russia announces wider evacuation of occupied southern Ukraine '' and reported that, '' Given the situation, I have decided to expand the evacuation zone by km from the Dnipro, '' he said.
+[{'label': 'NONE', 'score': 0.7925077080726624}]
+
+Ukraine		On November, Reuters headlined '' Russia announces wider evacuation of occupied southern Ukraine '' and reported that, '' Given the situation, I have decided to expand the evacuation zone by km from the Dnipro, '' he said.
+[{'label': 'NONE', 'score': 0.7925077080726624}]
+
+Reuters		On November, Reuters headlined '' Russia announces wider evacuation of occupied southern Ukraine '' and reported that, '' Given the situation, I have decided to expand the evacuation zone by km from the Dnipro, '' he said.
+[{'label': 'NONE', 'score': 0.7925077080726624}]
+
+Dmitry Peskov		Ukraine abandoned a draft peace treaty with Russia in due to British pressure, Kremlin spokesman Dmitry Peskov has claimed.
+[{'label': 'NONE', 'score': 0.6801568269729614}]
+
+Peskov		Peskov said Kiev effectively discarded the deal under '' direct pressure by London '', implying that this had ended any hopes of an agreement.
+[{'label': 'NONE', 'score': 0.6918293237686157}]
+
+Ukraine		Ukraine abandoned a draft peace treaty with Russia in due to British pressure, Kremlin spokesman Dmitry Peskov has claimed.
+[{'label': 'NONE', 'score': 0.6801568269729614}]
+
+Russia		Ukraine abandoned a draft peace treaty with Russia in due to British pressure, Kremlin spokesman Dmitry Peskov has claimed.
+[{'label': 'NONE', 'score': 0.6801568269729614}]
+
+Ukraine		The deal, which could have ended the Ukraine conflict weeks after it first began, was approved by negotiators in Istanbul, but Ukraine later pulled out of the talks.  
+[{'label': 'NONE', 'score': 0.6094311475753784}]
+
+Istanbul		The deal, which could have ended the Ukraine conflict weeks after it first began, was approved by negotiators in Istanbul, but Ukraine later pulled out of the talks.  
+[{'label': 'NONE', 'score': 0.6094311475753784}]
+
+Ukraine		The deal, which could have ended the Ukraine conflict weeks after it first began, was approved by negotiators in Istanbul, but Ukraine later pulled out of the talks.  
+[{'label': 'NONE', 'score': 0.6094311475753784}]
+
+Kiev		Peskov said Kiev effectively discarded the deal under '' direct pressure by London '', implying that this had ended any hopes of an agreement.
+[{'label': 'NONE', 'score': 0.6918293237686157}]
+
+London		Peskov said Kiev effectively discarded the deal under '' direct pressure by London '', implying that this had ended any hopes of an agreement.
+[{'label': 'NONE', 'score': 0.6918293237686157}]
+
+Kremlin		Ukraine abandoned a draft peace treaty with Russia in due to British pressure, Kremlin spokesman Dmitry Peskov has claimed.
+[{'label': 'NONE', 'score': 0.6801568269729614}]
+
+BORIS Johnson		BORIS Johnson today demanded Vladimir Putin steps back from the brink of war to avoid a brutal bloodbath in Ukraine.
+[{'label': 'NONE', 'score': 0.49245041608810425}]
+
+Vladimir Putin		BORIS Johnson today demanded Vladimir Putin steps back from the brink of war to avoid a brutal bloodbath in Ukraine.
+[{'label': 'NONE', 'score': 0.49245041608810425}]
+
+Johnson		Speaking in Essex, Mr Johnson said: What I will say to President Putin is that I think Russia needs to step back from the brink.
+[{'label': 'AGAINST', 'score': 0.48956167697906494}]
+
+Putin		Speaking in Essex, Mr Johnson said: What I will say to President Putin is that I think Russia needs to step back from the brink.
+[{'label': 'AGAINST', 'score': 0.48956167697906494}]
+
+Ukraine		BORIS Johnson today demanded Vladimir Putin steps back from the brink of war to avoid a brutal bloodbath in Ukraine.
+[{'label': 'NONE', 'score': 0.49245041608810425}]
+
+Russia		Russia has marshalled more than, troops on the border of Ukraine and is poised to march in.
+[{'label': 'NONE', 'score': 0.77205491065979}]
+
+Ukraine		Russia has marshalled more than, troops on the border of Ukraine and is poised to march in.
+[{'label': 'NONE', 'score': 0.77205491065979}]
+
+Russia		Speaking in Essex, Mr Johnson said: What I will say to President Putin is that I think Russia needs to step back from the brink.
+[{'label': 'AGAINST', 'score': 0.48956167697906494}]
+
+Ukraine		I think that an invasion of Ukraine beyond the territory that Russia has already taken in would be an absolute disaster for the world and above all it would be a disaster for Russia.
+[{'label': 'AGAINST', 'score': 0.7373547554016113}]
+
+Russia		I think that an invasion of Ukraine beyond the territory that Russia has already taken in would be an absolute disaster for the world and above all it would be a disaster for Russia.
+[{'label': 'AGAINST', 'score': 0.7373547554016113}]
+
+Russia		I think that an invasion of Ukraine beyond the territory that Russia has already taken in would be an absolute disaster for the world and above all it would be a disaster for Russia.
+[{'label': 'AGAINST', 'score': 0.7373547554016113}]
+
+Vitali Klitschko		Kyiv Mayor Vitali Klitschko has promised he is ready to fight following reports of multiple Ukrainian mayors being kidnapped by the invading Russian military.  
+[{'label': 'NONE', 'score': 0.8455315232276917}]
+
+Fox News		He said during a Fox News interview on Monday that any Russian soldiers who hope to capture him would find that their task was not easy.
+[{'label': 'AGAINST', 'score': 0.5520523190498352}]
+
+Climate Defiance		Among the groups propped up by the administration is Climate Defiance, a radical environmentalist group comprised of young Marxists who regularly disrupt traffic and shout down U.S. politicians to coerce them into advancing their radical agenda.  
+[{'label': 'AGAINST', 'score': 0.9691150188446045}]
+
+U.S.		Among the groups propped up by the administration is Climate Defiance, a radical environmentalist group comprised of young Marxists who regularly disrupt traffic and shout down U.S. politicians to coerce them into advancing their radical agenda.  
+[{'label': 'AGAINST', 'score': 0.9691150188446045}]
+
+The White House		The White House is amplifying our Twitter account.
+[{'label': 'NONE', 'score': 0.8153499364852905}]
+
+Israel		Israel will respond to charges of genocide at the United Nations’ top court on Friday after South Africa filed an urgent request with the court to order a ceasefire in Gaza.  
+[{'label': 'NONE', 'score': 0.7485327124595642}]
+
+South Africa		Israel will respond to charges of genocide at the United Nations’ top court on Friday after South Africa filed an urgent request with the court to order a ceasefire in Gaza.  
+[{'label': 'NONE', 'score': 0.7485327124595642}]
+
+Gaza		Israel will respond to charges of genocide at the United Nations’ top court on Friday after South Africa filed an urgent request with the court to order a ceasefire in Gaza.  
+[{'label': 'NONE', 'score': 0.7485327124595642}]
+
+Gaza		The court has already found that there is a real and imminent risk to the Palestinian people in Gaza by Israel's military operations, but the court does not have its own enforcement apparatus.
+[{'label': 'NONE', 'score': 0.5678282380104065}]
+
+Israel		The court has already found that there is a real and imminent risk to the Palestinian people in Gaza by Israel's military operations, but the court does not have its own enforcement apparatus.
+[{'label': 'NONE', 'score': 0.5678282380104065}]
+
+Libya		Several countries have also indicated they plan to intervene, but only Libya, Nicaragua and Colombia have filed formal requests to do so.
+[{'label': 'NONE', 'score': 0.9415125846862793}]
+
+Nicaragua		Several countries have also indicated they plan to intervene, but only Libya, Nicaragua and Colombia have filed formal requests to do so.
+[{'label': 'NONE', 'score': 0.9415125846862793}]
+
+Colombia		Several countries have also indicated they plan to intervene, but only Libya, Nicaragua and Colombia have filed formal requests to do so.
+[{'label': 'NONE', 'score': 0.9415125846862793}]
+
+the United Nations		Israel will respond to charges of genocide at the United Nations’ top court on Friday after South Africa filed an urgent request with the court to order a ceasefire in Gaza.  
+[{'label': 'NONE', 'score': 0.7485327124595642}]
+
+Thunberg		A spokesperson for the Swedish Prosecution Authority, Annika Collin, confirmed to CNN that Thunberg was among several young people who participated in blocking the oil tankers.  
+[{'label': 'NONE', 'score': 0.4803803861141205}]
+
+Sweden		Sweden says enough!
+[{'label': 'NONE', 'score': 0.9063697457313538}]
+
+Malmö		The charges stem from her involvement in a protest that allegedly led to major traffic disruption in Malmö in June, authorities said.  
+[{'label': 'NONE', 'score': 0.7652639150619507}]
+
+the Swedish Prosecution Authority		A spokesperson for the Swedish Prosecution Authority, Annika Collin, confirmed to CNN that Thunberg was among several young people who participated in blocking the oil tankers.  
+[{'label': 'NONE', 'score': 0.4803803861141205}]
+
+CNN		A spokesperson for the Swedish Prosecution Authority, Annika Collin, confirmed to CNN that Thunberg was among several young people who participated in blocking the oil tankers.  
+[{'label': 'NONE', 'score': 0.4803803861141205}]
+
+Putin		When the enemy sees that our society is strong, internally braced up, consolidated then we will come to reach what we are striving for, Putin said.
+[{'label': 'NONE', 'score': 0.750027060508728}]
+
+Russia		Russia is not improving its geopolitical position in Ukraine.
+[{'label': 'NONE', 'score': 0.8215643763542175}]
+
+Ukraine		Russia is not improving its geopolitical position in Ukraine.
+[{'label': 'NONE', 'score': 0.8215643763542175}]
+
+Russia		Instead, Russia is fighting for the survival of Russian statehood, for the future development of the country and our children.
+[{'label': 'NONE', 'score': 0.47372207045555115}]
+
+Bill Gates		This is the psychopathic world Bill Gates and his associates at the WEF are determined to usher in as part of their Great Reset and Great Replacement, and in the interests of an equitable future for the globe, the CDC has enlisted the United Nations to help with the plan.
+[{'label': 'AGAINST', 'score': 0.9453683495521545}]
+
+Davos		The World Economic Forum in Davos has ordered global authorities to radically reduce the number of white people in the world by.  
+[{'label': 'NONE', 'score': 0.838291347026825}]
+
+The World Economic Forum		The World Economic Forum in Davos has ordered global authorities to radically reduce the number of white people in the world by.  
+[{'label': 'NONE', 'score': 0.838291347026825}]
+
+WEF		This is the psychopathic world Bill Gates and his associates at the WEF are determined to usher in as part of their Great Reset and Great Replacement, and in the interests of an equitable future for the globe, the CDC has enlisted the United Nations to help with the plan.
+[{'label': 'AGAINST', 'score': 0.9453683495521545}]
+
+Great Replacement		This is the psychopathic world Bill Gates and his associates at the WEF are determined to usher in as part of their Great Reset and Great Replacement, and in the interests of an equitable future for the globe, the CDC has enlisted the United Nations to help with the plan.
+[{'label': 'AGAINST', 'score': 0.9453683495521545}]
+
+CDC		This is the psychopathic world Bill Gates and his associates at the WEF are determined to usher in as part of their Great Reset and Great Replacement, and in the interests of an equitable future for the globe, the CDC has enlisted the United Nations to help with the plan.
+[{'label': 'AGAINST', 'score': 0.9453683495521545}]
+
+the United Nations		This is the psychopathic world Bill Gates and his associates at the WEF are determined to usher in as part of their Great Reset and Great Replacement, and in the interests of an equitable future for the globe, the CDC has enlisted the United Nations to help with the plan.
+[{'label': 'AGAINST', 'score': 0.9453683495521545}]
+
+Oxford		Oxford residents are taking matters into their own hands and destroying the street zone sectioning barriers.  
+[{'label': 'NONE', 'score': 0.9238050580024719}]
+
+Stratfor		Therefore, Russia has no other choice but to force the Russians out of all the, Stratfor concludes.
+[{'label': 'AGAINST', 'score': 0.9843384623527527}]
+
+the Russian Federation		Judging from statements that a number of Western officials have made lately, one shall assume that there will be no compromises in the proxy war between the Russian Federation and the West.
+[{'label': 'NONE', 'score': 0.5804904699325562}]
+
+Washington		This would be lethal to Washington and the US will continue using Ukraine as a bargaining chip in fierce competition with Russia.
+[{'label': 'AGAINST', 'score': 0.6770027279853821}]
+
+US		This would be lethal to Washington and the US will continue using Ukraine as a bargaining chip in fierce competition with Russia.
+[{'label': 'AGAINST', 'score': 0.6770027279853821}]
+
+Ukraine		This would be lethal to Washington and the US will continue using Ukraine as a bargaining chip in fierce competition with Russia.
+[{'label': 'AGAINST', 'score': 0.6770027279853821}]
+
+Russia		This would be lethal to Washington and the US will continue using Ukraine as a bargaining chip in fierce competition with Russia.
+[{'label': 'AGAINST', 'score': 0.6770027279853821}]
+
+Russia		Therefore, Russia has no other choice but to force the Russians out of all the, Stratfor concludes.
+[{'label': 'AGAINST', 'score': 0.9843384623527527}]
+
+Ukraine		The Russian invasion of Ukraine and Western sanctions on Moscow have sent energy and food prices soaring in recent weeks, while rising natural gas prices also have impacted fertilizer production, which in turn hurts farmers.  
+[{'label': 'NONE', 'score': 0.41077131032943726}]
+
+Moscow		The Russian invasion of Ukraine and Western sanctions on Moscow have sent energy and food prices soaring in recent weeks, while rising natural gas prices also have impacted fertilizer production, which in turn hurts farmers.  
+[{'label': 'NONE', 'score': 0.41077131032943726}]
+
+The World Bank		The World Bank has called on the international community to provide financing for emergency food supplies, a safety net for poor families and farmers, and to increase agricultural production, the statement said.
+[{'label': 'AGAINST', 'score': 0.4362899661064148}]
+
+Biden		The Biden administration continues to lead the world in contributions to Ukraine with nearly $ billion in tax payers’ money promised or sent as aid, as American citizens suffering from disasters at home are told there is no money for them.
+[{'label': 'AGAINST', 'score': 0.7591063976287842}]
+
+Biden		The Biden administration rejected a request for federal disaster assistance from Ohio Gov. Mike DeWine following the train derailment disaster in East Palestine that led to an unprecedented release of highly toxic chemicals just days after the CDC edited the toxicology profile for vinyl chloride, massively increasing the lethal exposure level and removing information about how the chemical affects children not qualify as a traditional disaster.
+[{'label': 'AGAINST', 'score': 0.5111303329467773}]
+
+Mike DeWine		The Biden administration rejected a request for federal disaster assistance from Ohio Gov. Mike DeWine following the train derailment disaster in East Palestine that led to an unprecedented release of highly toxic chemicals just days after the CDC edited the toxicology profile for vinyl chloride, massively increasing the lethal exposure level and removing information about how the chemical affects children not qualify as a traditional disaster.
+[{'label': 'AGAINST', 'score': 0.5111303329467773}]
+
+Ukraine		The Biden administration continues to lead the world in contributions to Ukraine with nearly $ billion in tax payers’ money promised or sent as aid, as American citizens suffering from disasters at home are told there is no money for them.
+[{'label': 'AGAINST', 'score': 0.7591063976287842}]
+
+Ohio		The Biden administration rejected a request for federal disaster assistance from Ohio Gov. Mike DeWine following the train derailment disaster in East Palestine that led to an unprecedented release of highly toxic chemicals just days after the CDC edited the toxicology profile for vinyl chloride, massively increasing the lethal exposure level and removing information about how the chemical affects children not qualify as a traditional disaster.
+[{'label': 'AGAINST', 'score': 0.5111303329467773}]
+
+East Palestine		The Biden administration rejected a request for federal disaster assistance from Ohio Gov. Mike DeWine following the train derailment disaster in East Palestine that led to an unprecedented release of highly toxic chemicals just days after the CDC edited the toxicology profile for vinyl chloride, massively increasing the lethal exposure level and removing information about how the chemical affects children not qualify as a traditional disaster.
+[{'label': 'AGAINST', 'score': 0.5111303329467773}]
+
+CDC		The Biden administration rejected a request for federal disaster assistance from Ohio Gov. Mike DeWine following the train derailment disaster in East Palestine that led to an unprecedented release of highly toxic chemicals just days after the CDC edited the toxicology profile for vinyl chloride, massively increasing the lethal exposure level and removing information about how the chemical affects children not qualify as a traditional disaster.
+[{'label': 'AGAINST', 'score': 0.5111303329467773}]
+
+Treasurer Riley Moore		West Virginia Treasurer Riley Moore lead the way earlier this year in removing Wall Street financial firms from holding state funds due to 'Environmental, Social and Governance'or 'ESG'climate change ideology driving investment decisions.
+[{'label': 'NONE', 'score': 0.7328593134880066}]
+
+Blackrock		West Virginia had been the tip of the spear since early link removing Blackrock in January of, and even removed banking contracts from multiple investment firms during the battle.  
+[{'label': 'NONE', 'score': 0.6465328335762024}]
+
+West Virginia		West Virginia Treasurer Riley Moore lead the way earlier this year in removing Wall Street financial firms from holding state funds due to 'Environmental, Social and Governance'or 'ESG'climate change ideology driving investment decisions.
+[{'label': 'NONE', 'score': 0.7328593134880066}]
+
+West Virginia		West Virginia had been the tip of the spear since early link removing Blackrock in January of, and even removed banking contracts from multiple investment firms during the battle.  
+[{'label': 'NONE', 'score': 0.6465328335762024}]
+
+Florida		The effect is to avoid dealing with the messiness of democracy, and Florida now joins a growing list just keeps growing.
+[{'label': 'NONE', 'score': 0.9779702425003052}]
+
+Russia		A Ukrainian teenager told earlier this month how he was kidnapped from school and sent to work camps in Russia.  
+[{'label': 'NONE', 'score': 0.804085373878479}]
+
+Ukraine		A Russian government document obtained by The Associated Press dating to January outlined plans to create new prison colonies and six other detention centers in occupied Ukraine by.
+[{'label': 'AGAINST', 'score': 0.6938672065734863}]
+
+RUSSIA		RUSSIA has snatched nearly children from a Ukrainian city in the past month sending them to military camps to become Russian zombies.
+[{'label': 'AGAINST', 'score': 0.9847398400306702}]
+
+The Associated Press		A Russian government document obtained by The Associated Press dating to January outlined plans to create new prison colonies and six other detention centers in occupied Ukraine by.
+[{'label': 'AGAINST', 'score': 0.6938672065734863}]
+
+Russia		However, in a chilling threat this week, the unhinged Russian leader declared: When the territorial integrity of our country is threatened, we will use all the means at our disposal to defend Russia and our people.  
+[{'label': 'AGAINST', 'score': 0.8217508792877197}]
+
+David North		In announcing the recent International May Day Rally, David North, chairman of the International Editorial Board of the World Socialist Web Site,.
+[{'label': 'NONE', 'score': 0.9049403667449951}]
+
+Sri Lanka		SEP/IYSSE public meeting in Sri Lanka The Socialist Equality Party ( SEP ) and the International Youth and Students for Social Equality ( IYSSE ) in Sri Lanka are holding an online meeting entitled '' Oppose imperialist war '' on Thursday, May, at pm.
+[{'label': 'FAVOR', 'score': 0.5757532715797424}]
+
+SEP		SEP/IYSSE public meeting in Sri Lanka The Socialist Equality Party ( SEP ) and the International Youth and Students for Social Equality ( IYSSE ) in Sri Lanka are holding an online meeting entitled '' Oppose imperialist war '' on Thursday, May, at pm.
+[{'label': 'FAVOR', 'score': 0.5757532715797424}]
+
+Sri Lanka The Socialist Equality Party		SEP/IYSSE public meeting in Sri Lanka The Socialist Equality Party ( SEP ) and the International Youth and Students for Social Equality ( IYSSE ) in Sri Lanka are holding an online meeting entitled '' Oppose imperialist war '' on Thursday, May, at pm.
+[{'label': 'FAVOR', 'score': 0.5757532715797424}]
+
+SEP		SEP/IYSSE public meeting in Sri Lanka The Socialist Equality Party ( SEP ) and the International Youth and Students for Social Equality ( IYSSE ) in Sri Lanka are holding an online meeting entitled '' Oppose imperialist war '' on Thursday, May, at pm.
+[{'label': 'FAVOR', 'score': 0.5757532715797424}]
+
+the International Youth and Students for Social Equality		SEP/IYSSE public meeting in Sri Lanka The Socialist Equality Party ( SEP ) and the International Youth and Students for Social Equality ( IYSSE ) in Sri Lanka are holding an online meeting entitled '' Oppose imperialist war '' on Thursday, May, at pm.
+[{'label': 'FAVOR', 'score': 0.5757532715797424}]
+
+the International Editorial Board of the World Socialist Web Site		In announcing the recent International May Day Rally, David North, chairman of the International Editorial Board of the World Socialist Web Site,.
+[{'label': 'NONE', 'score': 0.9049403667449951}]
+
+Michel		The single best way to end the acute crisis in food and energy is for Russia to end this senseless war and to respect the U.N. charter, Michel said.
+[{'label': 'NONE', 'score': 0.8532108068466187}]
+
+Russia		'' Russia's war impacts us all, no matter where we live, from Europe to Africa or the Middle East.  
+[{'label': 'NONE', 'score': 0.911915123462677}]
+
+Russia		The single best way to end the acute crisis in food and energy is for Russia to end this senseless war and to respect the U.N. charter, Michel said.
+[{'label': 'NONE', 'score': 0.8532108068466187}]
+
+U.N.		The single best way to end the acute crisis in food and energy is for Russia to end this senseless war and to respect the U.N. charter, Michel said.
+[{'label': 'NONE', 'score': 0.8532108068466187}]
+
+Europe		'' Russia's war impacts us all, no matter where we live, from Europe to Africa or the Middle East.  
+[{'label': 'NONE', 'score': 0.911915123462677}]
+
+Africa		'' Russia's war impacts us all, no matter where we live, from Europe to Africa or the Middle East.  
+[{'label': 'NONE', 'score': 0.911915123462677}]
+
+the Middle East		'' Russia's war impacts us all, no matter where we live, from Europe to Africa or the Middle East.  
+[{'label': 'NONE', 'score': 0.911915123462677}]
+
+Alpha News		According to Alpha News, the bill on the mining ban got passed after seven hours of debate with the Republicans, who offered several amendments to make the timeline more manageable but got rejected.
+[{'label': 'NONE', 'score': 0.9029287695884705}]
+
+Putin		When the enemy sees that our society is strong, internally braced up, consolidated then we will come to reach what we are striving for, Putin said.
+[{'label': 'NONE', 'score': 0.750027060508728}]
+
+Russia		Russia is not improving its geopolitical position in Ukraine.
+[{'label': 'NONE', 'score': 0.8215643763542175}]
+
+Ukraine		Russia is not improving its geopolitical position in Ukraine.
+[{'label': 'NONE', 'score': 0.8215643763542175}]
+
+Russia		Instead, Russia is fighting for the survival of Russian statehood, for the future development of the country and our children.
+[{'label': 'NONE', 'score': 0.47372207045555115}]
+
+David		Rounds can be seen streaking through the air in the dramatic David and Goliath struggle.
+[{'label': 'AGAINST', 'score': 0.5064849853515625}]
+
+Goliath		Rounds can be seen streaking through the air in the dramatic David and Goliath struggle.
+[{'label': 'AGAINST', 'score': 0.5064849853515625}]
+
+Donbas		The Kremlin now intends to forge a strategic corridor between Crimea and its own sovereign territory via the Donbas.
+[{'label': 'NONE', 'score': 0.7707005739212036}]
+
+Kremlin		The Kremlin now intends to forge a strategic corridor between Crimea and its own sovereign territory via the Donbas.
+[{'label': 'NONE', 'score': 0.7707005739212036}]
+
+Crimea		The Kremlin now intends to forge a strategic corridor between Crimea and its own sovereign territory via the Donbas.
+[{'label': 'NONE', 'score': 0.7707005739212036}]
+
+Tucker Carlson		If you are interested in watching the Tucker Carlson segment featuring Morfogen, you can do so at this link.
+[{'label': 'FAVOR', 'score': 0.6417986750602722}]
+
+Hochul		Bearing the nickname Golden Greek, Morfogen has owned and operated a number of top restaurants in New York City, and what I'm hearing about today from the White House to Gov. Hochul, that they want to make us use electric stoves, but so would gas heaters.
+[{'label': 'AGAINST', 'score': 0.8167521953582764}]
+
+Golden Greek		Bearing the nickname Golden Greek, Morfogen has owned and operated a number of top restaurants in New York City, and what I'm hearing about today from the White House to Gov. Hochul, that they want to make us use electric stoves, but so would gas heaters.
+[{'label': 'AGAINST', 'score': 0.8167521953582764}]
+
+New York City		Bearing the nickname Golden Greek, Morfogen has owned and operated a number of top restaurants in New York City, and what I'm hearing about today from the White House to Gov. Hochul, that they want to make us use electric stoves, but so would gas heaters.
+[{'label': 'AGAINST', 'score': 0.8167521953582764}]
+
+Morfogen		If you are interested in watching the Tucker Carlson segment featuring Morfogen, you can do so at this link.
+[{'label': 'FAVOR', 'score': 0.6417986750602722}]
+
+Morfogen		Bearing the nickname Golden Greek, Morfogen has owned and operated a number of top restaurants in New York City, and what I'm hearing about today from the White House to Gov. Hochul, that they want to make us use electric stoves, but so would gas heaters.
+[{'label': 'AGAINST', 'score': 0.8167521953582764}]
+
+Evan Gershkovich		WALL Street Journal reporter Evan Gershkovich has had his latest appeal blocked by a judge in Moscow after he was locked up on bogus spy charges.  
+[{'label': 'AGAINST', 'score': 0.8938309550285339}]
+
+Evan		The arrest of Evan has been branded internationally as a cowardly act as the despot desperately tries to escape accountability over his war in Ukraine, and he faces a jail term of up to years if convicted.
+[{'label': 'AGAINST', 'score': 0.9510108232498169}]
+
+Evan		He has also urged others to show their support for Evan by flooding social media with the message #IStandWithEvan.
+[{'label': 'FAVOR', 'score': 0.967755138874054}]
+
+Moscow		WALL Street Journal reporter Evan Gershkovich has had his latest appeal blocked by a judge in Moscow after he was locked up on bogus spy charges.  
+[{'label': 'AGAINST', 'score': 0.8938309550285339}]
+
+Ukraine		The arrest of Evan has been branded internationally as a cowardly act as the despot desperately tries to escape accountability over his war in Ukraine, and he faces a jail term of up to years if convicted.
+[{'label': 'AGAINST', 'score': 0.9510108232498169}]
+
+WALL Street Journal		WALL Street Journal reporter Evan Gershkovich has had his latest appeal blocked by a judge in Moscow after he was locked up on bogus spy charges.  
+[{'label': 'AGAINST', 'score': 0.8938309550285339}]
+
+Ukraine		invasion of Ukraine.
+[{'label': 'NONE', 'score': 0.9396911859512329}]
+
+Facebook and Instagram		Meta - the parent company of Facebook and Instagram - on Sunday clarified its recent violent speech policy to specifically not include calls for the death of a head of state.
+[{'label': 'FAVOR', 'score': 0.5640852451324463}]
+
+Facebook and Instagram		The initial policy sparked confusion among both Facebook and Instagram users on what type of speech is allowed on our platforms Several weeks ago the social media platform has been heavily restricted.
+[{'label': 'NONE', 'score': 0.7401931881904602}]
+
+Antony Blinken		That's the old M PROJECT modernized by Secretary of State Antony Blinken and his deputy Victoria Nuland, for a new push through the Ukraine front.
+[{'label': 'NONE', 'score': 0.8813742399215698}]
+
+Victoria Nuland		That's the old M PROJECT modernized by Secretary of State Antony Blinken and his deputy Victoria Nuland, for a new push through the Ukraine front.
+[{'label': 'NONE', 'score': 0.8813742399215698}]
+
+Ukraine		That's the old M PROJECT modernized by Secretary of State Antony Blinken and his deputy Victoria Nuland, for a new push through the Ukraine front.
+[{'label': 'NONE', 'score': 0.8813742399215698}]
+
+US		On Friday, this and a great many preceding and succeeding murder plots and invasions devised by US officials will be exposed in the new book from Dances with Bears
+[{'label': 'AGAINST', 'score': 0.9013970494270325}]
+
+Dances		On Friday, this and a great many preceding and succeeding murder plots and invasions devised by US officials will be exposed in the new book from Dances with Bears
+[{'label': 'AGAINST', 'score': 0.9013970494270325}]
+
+Olaf Scholz		They do have a problem this week to compel the new chancellor, Olaf Scholz, to join the M&M PROJECT.  
+[{'label': 'FAVOR', 'score': 0.47766584157943726}]
+
+State		That's the old M PROJECT modernized by Secretary of State Antony Blinken and his deputy Victoria Nuland, for a new push through the Ukraine front.
+[{'label': 'NONE', 'score': 0.8813742399215698}]
+
+U.S.		Europe is thus being turned by the U.S. into the front line of a nuclear confrontation with Russia, even more dangerous than that of the Cold War.  
+[{'label': 'AGAINST', 'score': 0.8894714713096619}]
+
+Russia		Europe is thus being turned by the U.S. into the front line of a nuclear confrontation with Russia, even more dangerous than that of the Cold War.  
+[{'label': 'AGAINST', 'score': 0.8894714713096619}]
+
+Global Research		Reposted with permission from Global Research: '' Feel free to repost and share widely Global Research articles ''
+[{'label': 'AGAINST', 'score': 0.6570315361022949}]
+
+Global Research		Reposted with permission from Global Research: '' Feel free to repost and share widely Global Research articles ''
+[{'label': 'AGAINST', 'score': 0.6570315361022949}]
+
+Manlio Dinucci		Manlio Dinucci, award winning author, geopolitical analyst and geographer, Pisa Italy.
+[{'label': 'NONE', 'score': 0.9183632135391235}]
+
+Pisa Italy		Manlio Dinucci, award winning author, geopolitical analyst and geographer, Pisa Italy.
+[{'label': 'NONE', 'score': 0.9183632135391235}]
+
+the Centre for Research on Globalization		He is a Research Associate of the Centre for Research on Globalization (CRG.
+[{'label': 'NONE', 'score': 0.849539577960968}]
+
+CRG		He is a Research Associate of the Centre for Research on Globalization (CRG.
+[{'label': 'NONE', 'score': 0.849539577960968}]
+
+Europe		Europe is thus being turned by the U.S. into the front line of a nuclear confrontation with Russia, even more dangerous than that of the Cold War.  
+[{'label': 'AGAINST', 'score': 0.8894714713096619}]
+
+Alpha News		According to Alpha News, the bill on the mining ban got passed after seven hours of debate with the Republicans, who offered several amendments to make the timeline more manageable but got rejected.
+[{'label': 'NONE', 'score': 0.9029287695884705}]
+
+Claire Nasir		The claim was made by senior Met Office meteorologist Claire Nasir on January nd on BBC Live Breakfast in the aftermath of Storm Isha, and led to a freedom of information request for an explanation by investigative journalist Paul Homewood.
+[{'label': 'NONE', 'score': 0.5445026159286499}]
+
+Paul Homewood		The claim was made by senior Met Office meteorologist Claire Nasir on January nd on BBC Live Breakfast in the aftermath of Storm Isha, and led to a freedom of information request for an explanation by investigative journalist Paul Homewood.
+[{'label': 'NONE', 'score': 0.5445026159286499}]
+
+U.K.		Met Office Says it Cannot Back Up its Senior Meteorologist's Claim on BBC Radio That Storms in the U.K. are '' more intense '' due to the effects of climate change.  
+[{'label': 'FAVOR', 'score': 0.6637617945671082}]
+
+BBC Radio		Met Office Says it Cannot Back Up its Senior Meteorologist's Claim on BBC Radio That Storms in the U.K. are '' more intense '' due to the effects of climate change.  
+[{'label': 'FAVOR', 'score': 0.6637617945671082}]
+
+Met Office		The claim was made by senior Met Office meteorologist Claire Nasir on January nd on BBC Live Breakfast in the aftermath of Storm Isha, and led to a freedom of information request for an explanation by investigative journalist Paul Homewood.
+[{'label': 'NONE', 'score': 0.5445026159286499}]
+
+BBC Live Breakfast		The claim was made by senior Met Office meteorologist Claire Nasir on January nd on BBC Live Breakfast in the aftermath of Storm Isha, and led to a freedom of information request for an explanation by investigative journalist Paul Homewood.
+[{'label': 'NONE', 'score': 0.5445026159286499}]
+
+Storm Isha		The claim was made by senior Met Office meteorologist Claire Nasir on January nd on BBC Live Breakfast in the aftermath of Storm Isha, and led to a freedom of information request for an explanation by investigative journalist Paul Homewood.
+[{'label': 'NONE', 'score': 0.5445026159286499}]
+
+The Met Office		The Met Office has replied that it is, in, that the ''''''.
+[{'label': 'NONE', 'score': 0.9272070527076721}]
+
+Climate Defiance		Among the groups propped up by the administration is Climate Defiance, a radical environmentalist group comprised of young Marxists who regularly disrupt traffic and shout down U.S. politicians to coerce them into advancing their radical agenda.  
+[{'label': 'AGAINST', 'score': 0.9691150188446045}]
+
+U.S.		Among the groups propped up by the administration is Climate Defiance, a radical environmentalist group comprised of young Marxists who regularly disrupt traffic and shout down U.S. politicians to coerce them into advancing their radical agenda.  
+[{'label': 'AGAINST', 'score': 0.9691150188446045}]
+
+The White House		The White House is amplifying our Twitter account.
+[{'label': 'NONE', 'score': 0.8153499364852905}]
+
+Austin		Austin said at the opening of a meeting in Germany of Ukraine's international supporters, at which he is seeking to secure further assistance for Kyiv.  
+[{'label': 'NONE', 'score': 0.7928612232208252}]
+
+Boris Pistorius		During the meeting, German Defence Minister Boris Pistorius said Berlin has offered another half a million euros worth of military aid to Ukraine, after Washington has committed tens of billions of dollars to aid Kyiv since February.
+[{'label': 'NONE', 'score': 0.7141745090484619}]
+
+Kyiv		During the meeting, German Defence Minister Boris Pistorius said Berlin has offered another half a million euros worth of military aid to Ukraine, after Washington has committed tens of billions of dollars to aid Kyiv since February.
+[{'label': 'NONE', 'score': 0.7141745090484619}]
+
+United States		The 'United States will not let Ukraine fail ''
+[{'label': 'NONE', 'score': 0.8422601819038391}]
+
+Ukraine		The 'United States will not let Ukraine fail ''
+[{'label': 'NONE', 'score': 0.8422601819038391}]
+
+Germany		Austin said at the opening of a meeting in Germany of Ukraine's international supporters, at which he is seeking to secure further assistance for Kyiv.  
+[{'label': 'NONE', 'score': 0.7928612232208252}]
+
+Ukraine		Austin said at the opening of a meeting in Germany of Ukraine's international supporters, at which he is seeking to secure further assistance for Kyiv.  
+[{'label': 'NONE', 'score': 0.7928612232208252}]
+
+Berlin		During the meeting, German Defence Minister Boris Pistorius said Berlin has offered another half a million euros worth of military aid to Ukraine, after Washington has committed tens of billions of dollars to aid Kyiv since February.
+[{'label': 'NONE', 'score': 0.7141745090484619}]
+
+Ukraine		During the meeting, German Defence Minister Boris Pistorius said Berlin has offered another half a million euros worth of military aid to Ukraine, after Washington has committed tens of billions of dollars to aid Kyiv since February.
+[{'label': 'NONE', 'score': 0.7141745090484619}]
+
+Washington		During the meeting, German Defence Minister Boris Pistorius said Berlin has offered another half a million euros worth of military aid to Ukraine, after Washington has committed tens of billions of dollars to aid Kyiv since February.
+[{'label': 'NONE', 'score': 0.7141745090484619}]
+
+Richard Justin Kemp		This is the opinion of Colonel Richard Justin Kemp, a retired British Army officer and knight who was awarded the highest honor in the UK.
+[{'label': 'NONE', 'score': 0.862734854221344}]
+
+Putin		The fact is that Putin knew that his territory remained virtually invulnerable to attack because of Western restrictions on the use of weapons.
+[{'label': 'AGAINST', 'score': 0.5791431665420532}]
+
+UK		This is the opinion of Colonel Richard Justin Kemp, a retired British Army officer and knight who was awarded the highest honor in the UK.
+[{'label': 'NONE', 'score': 0.862734854221344}]
+
+Ukraine		In his opinion, Ukraine was able to launch an unexpected attack on Russian territory because most of the border with the enemy was left almost unguarded.
+[{'label': 'NONE', 'score': 0.8439561128616333}]
+
+British Army		This is the opinion of Colonel Richard Justin Kemp, a retired British Army officer and knight who was awarded the highest honor in the UK.
+[{'label': 'NONE', 'score': 0.862734854221344}]
+
+Liberal Elite		The Wealthy Liberal Elite is controlling our political system right now.
+[{'label': 'AGAINST', 'score': 0.8692752718925476}]
+
+DC		About time for them to experience the pain derived from above I thought this game was an annual fundraiser for DC youth summer sports programs.
+[{'label': 'NONE', 'score': 0.950127124786377}]
+
+Hollywood		And they have Hollywood, Big Tech, Wall Street, Mainstream Media and of course the Deep State.
+[{'label': 'AGAINST', 'score': 0.9840801358222961}]
+
+Big Tech		And they have Hollywood, Big Tech, Wall Street, Mainstream Media and of course the Deep State.
+[{'label': 'AGAINST', 'score': 0.9840801358222961}]
+
+the Deep State		And they have Hollywood, Big Tech, Wall Street, Mainstream Media and of course the Deep State.
+[{'label': 'AGAINST', 'score': 0.9840801358222961}]
+
+Max Boot		In America, the scurrilous neocon and warmonger propagandist Max Boot weighed in on the meaningless and unenforcible decision to arrest President Putin.  
+[{'label': 'AGAINST', 'score': 0.9769013524055481}]
+
+Putin		In America, the scurrilous neocon and warmonger propagandist Max Boot weighed in on the meaningless and unenforcible decision to arrest President Putin.  
+[{'label': 'AGAINST', 'score': 0.9769013524055481}]
+
+Ukraine		In the collective West, hypocrisy rules the narrative, most recently in regard to the ICC and the kidnapped children of Ukraine.
+[{'label': 'AGAINST', 'score': 0.9287653565406799}]
+
+America		In America, the scurrilous neocon and warmonger propagandist Max Boot weighed in on the meaningless and unenforcible decision to arrest President Putin.  
+[{'label': 'AGAINST', 'score': 0.9769013524055481}]
+
+ICC		In the collective West, hypocrisy rules the narrative, most recently in regard to the ICC and the kidnapped children of Ukraine.
+[{'label': 'AGAINST', 'score': 0.9287653565406799}]
+
+USG		The operation was dubbed '' Operation Babylift '' and was conducted at the end of the Vietnam War as the USG evacuated '''' '.
+[{'label': 'NONE', 'score': 0.678937554359436}]
+
+West		In the collective West, hypocrisy rules the narrative, most recently in regard to the ICC and the kidnapped children of Ukraine.
+[{'label': 'AGAINST', 'score': 0.9287653565406799}]
+
+Lula		During his first state visit to China since taking office in January, Lula also lashed out the International Monetary Fund (IMF ) and criticised the outsize role of the greenback in global trade.
+[{'label': 'NONE', 'score': 0.5777338147163391}]
+
+China		During his first state visit to China since taking office in January, Lula also lashed out the International Monetary Fund (IMF ) and criticised the outsize role of the greenback in global trade.
+[{'label': 'NONE', 'score': 0.5777338147163391}]
+
+China		His comments came mere days after the Brazilian government ditched dollar as an intermediary and announced a deal to trade in local currency with China.
+[{'label': 'NONE', 'score': 0.7353573441505432}]
+
+Brazil		Not a bank like the BRICS bank have a currency to finance trade between Brazil and China.  
+[{'label': 'NONE', 'score': 0.8261040449142456}]
+
+China		Not a bank like the BRICS bank have a currency to finance trade between Brazil and China.  
+[{'label': 'NONE', 'score': 0.8261040449142456}]
+
+BRICS		It is being said that at the BRICS annual summit in South Africa.
+[{'label': 'NONE', 'score': 0.8032084107398987}]
+
+South Africa		It is being said that at the BRICS annual summit in South Africa.
+[{'label': 'NONE', 'score': 0.8032084107398987}]
+
+the International Monetary Fund		During his first state visit to China since taking office in January, Lula also lashed out the International Monetary Fund (IMF ) and criticised the outsize role of the greenback in global trade.
+[{'label': 'NONE', 'score': 0.5777338147163391}]
+
+Mark Milley		Interestingly, it was Chairman of the Joint Chiefs of Staff of the US Armed Forces General Mark Milley who voiced the Kyiv in three days phrase a month before the start of the special military operation.
+[{'label': 'NONE', 'score': 0.9248634576797485}]
+
+Kyiv		The Russian army had already approached Kyiv when the West and Ukraine began negotiations and convinced Moscow to withdraw troops in this direction in constant combat readiness.  
+[{'label': 'NONE', 'score': 0.8263277411460876}]
+
+Ukraine		The Russian army had already approached Kyiv when the West and Ukraine began negotiations and convinced Moscow to withdraw troops in this direction in constant combat readiness.  
+[{'label': 'NONE', 'score': 0.8263277411460876}]
+
+Moscow		The Russian army had already approached Kyiv when the West and Ukraine began negotiations and convinced Moscow to withdraw troops in this direction in constant combat readiness.  
+[{'label': 'NONE', 'score': 0.8263277411460876}]
+
+the Joint Chiefs of Staff		Interestingly, it was Chairman of the Joint Chiefs of Staff of the US Armed Forces General Mark Milley who voiced the Kyiv in three days phrase a month before the start of the special military operation.
+[{'label': 'NONE', 'score': 0.9248634576797485}]
+
+the US Armed Forces		Interestingly, it was Chairman of the Joint Chiefs of Staff of the US Armed Forces General Mark Milley who voiced the Kyiv in three days phrase a month before the start of the special military operation.
+[{'label': 'NONE', 'score': 0.9248634576797485}]
+
+West		The Russian army had already approached Kyiv when the West and Ukraine began negotiations and convinced Moscow to withdraw troops in this direction in constant combat readiness.  
+[{'label': 'NONE', 'score': 0.8263277411460876}]
+
+Jens Stoltenberg		Jens Stoltenberg, the th secretary general of Nato, revealed there were live discussions among members about removing missiles from storage and putting them on standby to act as a deterrent.  
+[{'label': 'AGAINST', 'score': 0.5130254626274109}]
+
+Putin		The conference saw the vast majority of the nations who attended sign a communique in support of Ukraine sovereignty, and also called for Putin to return children stolen during the invasion.
+[{'label': 'AGAINST', 'score': 0.934295117855072}]
+
+Russia		Nato might deploy more nuclear weapons amid an increasing threat posed by Russia and China, according to the head of the alliance.
+[{'label': 'AGAINST', 'score': 0.42896395921707153}]
+
+China		Nato might deploy more nuclear weapons amid an increasing threat posed by Russia and China, according to the head of the alliance.
+[{'label': 'AGAINST', 'score': 0.42896395921707153}]
+
+Ukraine		The conference saw the vast majority of the nations who attended sign a communique in support of Ukraine sovereignty, and also called for Putin to return children stolen during the invasion.
+[{'label': 'AGAINST', 'score': 0.934295117855072}]
+
+Nato		Nato might deploy more nuclear weapons amid an increasing threat posed by Russia and China, according to the head of the alliance.
+[{'label': 'AGAINST', 'score': 0.42896395921707153}]
+
+Nato		Jens Stoltenberg, the th secretary general of Nato, revealed there were live discussions among members about removing missiles from storage and putting them on standby to act as a deterrent.  
+[{'label': 'AGAINST', 'score': 0.5130254626274109}]
+
+Hollywood		Some of these supposed activists are acutally being funded by people in Hollywood, who you would think had some sort of respect for fine art.
+[{'label': 'AGAINST', 'score': 0.6340689063072205}]
+
+Hollywood		Take a bow, Hollywood liberals.
+[{'label': 'AGAINST', 'score': 0.9087955951690674}]
+
+David		Rounds can be seen streaking through the air in the dramatic David and Goliath struggle.
+[{'label': 'AGAINST', 'score': 0.5064849853515625}]
+
+Goliath		Rounds can be seen streaking through the air in the dramatic David and Goliath struggle.
+[{'label': 'AGAINST', 'score': 0.5064849853515625}]
+
+Donbas		The Kremlin now intends to forge a strategic corridor between Crimea and its own sovereign territory via the Donbas.
+[{'label': 'NONE', 'score': 0.7707005739212036}]
+
+Kremlin		The Kremlin now intends to forge a strategic corridor between Crimea and its own sovereign territory via the Donbas.
+[{'label': 'NONE', 'score': 0.7707005739212036}]
+
+Crimea		The Kremlin now intends to forge a strategic corridor between Crimea and its own sovereign territory via the Donbas.
+[{'label': 'NONE', 'score': 0.7707005739212036}]
+
+Nathaniel Rothschild		Using duplicity, deception and secret alliances, the U.K.'s inner circle of top elites led by Nathaniel Rothschild, King Edward VII and Lord Alfred Milner backed the German Kaiser into a corner and intentionally set the Germans up to blame them for starting the First World War.  
+[{'label': 'AGAINST', 'score': 0.9787893295288086}]
+
+King Edward VII		Using duplicity, deception and secret alliances, the U.K.'s inner circle of top elites led by Nathaniel Rothschild, King Edward VII and Lord Alfred Milner backed the German Kaiser into a corner and intentionally set the Germans up to blame them for starting the First World War.  
+[{'label': 'AGAINST', 'score': 0.9787893295288086}]
+
+Alfred Milner		Using duplicity, deception and secret alliances, the U.K.'s inner circle of top elites led by Nathaniel Rothschild, King Edward VII and Lord Alfred Milner backed the German Kaiser into a corner and intentionally set the Germans up to blame them for starting the First World War.  
+[{'label': 'AGAINST', 'score': 0.9787893295288086}]
+
+U.K.		Using duplicity, deception and secret alliances, the U.K.'s inner circle of top elites led by Nathaniel Rothschild, King Edward VII and Lord Alfred Milner backed the German Kaiser into a corner and intentionally set the Germans up to blame them for starting the First World War.  
+[{'label': 'AGAINST', 'score': 0.9787893295288086}]
+
+Russia		This has led to an admission by German officials that their military is woefully unprepared to take on Russia, although it may have found a new purpose - instigating World War III with Russia.
+[{'label': 'AGAINST', 'score': 0.9047346115112305}]
+
+Russia		This has led to an admission by German officials that their military is woefully unprepared to take on Russia, although it may have found a new purpose - instigating World War III with Russia.
+[{'label': 'AGAINST', 'score': 0.9047346115112305}]
+
+Kaiser		Using duplicity, deception and secret alliances, the U.K.'s inner circle of top elites led by Nathaniel Rothschild, King Edward VII and Lord Alfred Milner backed the German Kaiser into a corner and intentionally set the Germans up to blame them for starting the First World War.  
+[{'label': 'AGAINST', 'score': 0.9787893295288086}]
+
+Odesa		Russian forces are holding on to important cities like Kharkiv and Kyiv as well as Odesa, which is a crucial connection to supplies.
+[{'label': 'NONE', 'score': 0.9599794745445251}]
+
+RUSSIA		RUSSIA is demanding the surrender of Mariupol, while trying to position themselves within range of crucial cities.
+[{'label': 'NONE', 'score': 0.8694891929626465}]
+
+Ukraine		Where are Russian troops in Ukraine now?
+[{'label': 'NONE', 'score': 0.9436907768249512}]
+
+Ukraine		An estimate of, Russian troops have been deployed in and around Ukraine for the invasion.  
+[{'label': 'NONE', 'score': 0.6574549674987793}]
+
+Mariupol		RUSSIA is demanding the surrender of Mariupol, while trying to position themselves within range of crucial cities.
+[{'label': 'NONE', 'score': 0.8694891929626465}]
+
+Hollywood		Some of these supposed activists are acutally being funded by people in Hollywood, who you would think had some sort of respect for fine art.
+[{'label': 'AGAINST', 'score': 0.6340689063072205}]
+
+Hollywood		Take a bow, Hollywood liberals.
+[{'label': 'AGAINST', 'score': 0.9087955951690674}]
+
+Zelensky		Zelensky made the comments on the sidelines of the UN General Assembly (UNGA ), when he visited a hospital in Staten Island which is treating some wounded Ukrainian soldiers.
+[{'label': 'NONE', 'score': 0.7264434695243835}]
+
+Zelensky		Zelensky has long warned that the UN is hostage to Russian policy.
+[{'label': 'AGAINST', 'score': 0.8120220899581909}]
+
+Biden		As for his UNGA speech the same day, given before some nations, and after Biden spoke earlier, Zelensky went on the verbal attack against Russia.  
+[{'label': 'NONE', 'score': 0.7803621292114258}]
+
+Zelensky		As for his UNGA speech the same day, given before some nations, and after Biden spoke earlier, Zelensky went on the verbal attack against Russia.  
+[{'label': 'NONE', 'score': 0.7803621292114258}]
+
+Russia		As for his UNGA speech the same day, given before some nations, and after Biden spoke earlier, Zelensky went on the verbal attack against Russia.  
+[{'label': 'NONE', 'score': 0.7803621292114258}]
+
+Washington		He is expected to later travel to Washington, where.
+[{'label': 'NONE', 'score': 0.9062796831130981}]
+
+the UN General Assembly		Zelensky made the comments on the sidelines of the UN General Assembly (UNGA ), when he visited a hospital in Staten Island which is treating some wounded Ukrainian soldiers.
+[{'label': 'NONE', 'score': 0.7264434695243835}]
+
+UNGA		Zelensky made the comments on the sidelines of the UN General Assembly (UNGA ), when he visited a hospital in Staten Island which is treating some wounded Ukrainian soldiers.
+[{'label': 'NONE', 'score': 0.7264434695243835}]
+
+UN		Zelensky has long warned that the UN is hostage to Russian policy.
+[{'label': 'AGAINST', 'score': 0.8120220899581909}]
+
+UNGA		As for his UNGA speech the same day, given before some nations, and after Biden spoke earlier, Zelensky went on the verbal attack against Russia.  
+[{'label': 'NONE', 'score': 0.7803621292114258}]
+
+Staten Island		Zelensky made the comments on the sidelines of the UN General Assembly (UNGA ), when he visited a hospital in Staten Island which is treating some wounded Ukrainian soldiers.
+[{'label': 'NONE', 'score': 0.7264434695243835}]
+
+Jens Stoltenberg		Jens Stoltenberg, the th secretary general of Nato, revealed there were live discussions among members about removing missiles from storage and putting them on standby to act as a deterrent.  
+[{'label': 'AGAINST', 'score': 0.5130254626274109}]
+
+Putin		The conference saw the vast majority of the nations who attended sign a communique in support of Ukraine sovereignty, and also called for Putin to return children stolen during the invasion.
+[{'label': 'AGAINST', 'score': 0.934295117855072}]
+
+Russia		Nato might deploy more nuclear weapons amid an increasing threat posed by Russia and China, according to the head of the alliance.
+[{'label': 'AGAINST', 'score': 0.42896395921707153}]
+
+China		Nato might deploy more nuclear weapons amid an increasing threat posed by Russia and China, according to the head of the alliance.
+[{'label': 'AGAINST', 'score': 0.42896395921707153}]
+
+Ukraine		The conference saw the vast majority of the nations who attended sign a communique in support of Ukraine sovereignty, and also called for Putin to return children stolen during the invasion.
+[{'label': 'AGAINST', 'score': 0.934295117855072}]
+
+Nato		Nato might deploy more nuclear weapons amid an increasing threat posed by Russia and China, according to the head of the alliance.
+[{'label': 'AGAINST', 'score': 0.42896395921707153}]
+
+Nato		Jens Stoltenberg, the th secretary general of Nato, revealed there were live discussions among members about removing missiles from storage and putting them on standby to act as a deterrent.  
+[{'label': 'AGAINST', 'score': 0.5130254626274109}]
+
+Will Putin		Will Putin's army capture the formerly British Challengers and add them to his Moscow museum?  
+[{'label': 'AGAINST', 'score': 0.5007303357124329}]
+
+Moscow		Will Putin's army capture the formerly British Challengers and add them to his Moscow museum?  
+[{'label': 'AGAINST', 'score': 0.5007303357124329}]
+
+Rabotino		Kyiv sent the last strategic reserves of the Armed Forces of Ukraine ( APU ) to the area of the village of Rabotino, Zaporozhye region, according to the American magazine Forbes.
+[{'label': 'NONE', 'score': 0.9486175775527954}]
+
+Ukraine		This decision could significantly increase the region's defense strength, but it also puts Ukraine in a potentially vulnerable position.
+[{'label': 'NONE', 'score': 0.718228816986084}]
+
+the Armed Forces of Ukraine		Kyiv sent the last strategic reserves of the Armed Forces of Ukraine ( APU ) to the area of the village of Rabotino, Zaporozhye region, according to the American magazine Forbes.
+[{'label': 'NONE', 'score': 0.9486175775527954}]
+
+Forbes		Kyiv sent the last strategic reserves of the Armed Forces of Ukraine ( APU ) to the area of the village of Rabotino, Zaporozhye region, according to the American magazine Forbes.
+[{'label': 'NONE', 'score': 0.9486175775527954}]
+
+The General Staff of		The deployed troops include the nd and th air assault brigades were the last major formations that The General Staff of the Armed Forces of Ukraine was kept in reserve to respond to respond to respond to respond to respond to respond to
+[{'label': 'NONE', 'score': 0.6854718923568726}]
+
+the Armed Forces of Ukraine		The deployed troops include the nd and th air assault brigades were the last major formations that The General Staff of the Armed Forces of Ukraine was kept in reserve to respond to respond to respond to respond to respond to respond to
+[{'label': 'NONE', 'score': 0.6854718923568726}]
+
+Putin		it, Putin asserted according to Russian media translation.
+[{'label': 'NONE', 'score': 0.5628529787063599}]
+
+Zelensky		Despite Kiev forces clearly being against the ropes of late, Zelensky has still refused to even contemplate negotiating.
+[{'label': 'NONE', 'score': 0.9153843522071838}]
+
+Putin		He has stood by his earlier commitment to not enter dialogue toward ceasefire until Putin is out of power.
+[{'label': 'AGAINST', 'score': 0.8374332189559937}]
+
+Putin		Putin commented on this while in Vietnam: Talks on Ukraine was set to end May, but the government declared no elections until the war is over citing martial law
+[{'label': 'NONE', 'score': 0.9666323065757751}]
+
+Moscow		Drive to isolate Moscow.
+[{'label': 'NONE', 'score': 0.9588657021522522}]
+
+Vietnam		Putin commented on this while in Vietnam: Talks on Ukraine was set to end May, but the government declared no elections until the war is over citing martial law
+[{'label': 'NONE', 'score': 0.9666323065757751}]
+
+Ukraine		Putin commented on this while in Vietnam: Talks on Ukraine was set to end May, but the government declared no elections until the war is over citing martial law
+[{'label': 'NONE', 'score': 0.9666323065757751}]
+
+Vladimir Putin		Vladimir Putin warned the president of Finland Saturday that any effort to join NATO would negatively affect relations between the two countries.
+[{'label': 'NONE', 'score': 0.5728024244308472}]
+
+Putin		As NATO foreign ministers gathered in Berlin, with discussion about potential applications from Sweden and Finland to join the Western military alliance on the agenda, Putin spoke to Finnish leader Sauli Niinisto.  
+[{'label': 'NONE', 'score': 0.7392522692680359}]
+
+Sauli Niinisto		As NATO foreign ministers gathered in Berlin, with discussion about potential applications from Sweden and Finland to join the Western military alliance on the agenda, Putin spoke to Finnish leader Sauli Niinisto.  
+[{'label': 'NONE', 'score': 0.7392522692680359}]
+
+Niinisto		Niinisto said that he told Putin how starkly Finland's security environment had changed after Moscow's Feb. invasion of Ukraine.
+[{'label': 'NONE', 'score': 0.8481407165527344}]
+
+Putin		Niinisto said that he told Putin how starkly Finland's security environment had changed after Moscow's Feb. invasion of Ukraine.
+[{'label': 'NONE', 'score': 0.8481407165527344}]
+
+Finland		Vladimir Putin warned the president of Finland Saturday that any effort to join NATO would negatively affect relations between the two countries.
+[{'label': 'NONE', 'score': 0.5728024244308472}]
+
+Berlin		As NATO foreign ministers gathered in Berlin, with discussion about potential applications from Sweden and Finland to join the Western military alliance on the agenda, Putin spoke to Finnish leader Sauli Niinisto.  
+[{'label': 'NONE', 'score': 0.7392522692680359}]
+
+Sweden		As NATO foreign ministers gathered in Berlin, with discussion about potential applications from Sweden and Finland to join the Western military alliance on the agenda, Putin spoke to Finnish leader Sauli Niinisto.  
+[{'label': 'NONE', 'score': 0.7392522692680359}]
+
+Finland		As NATO foreign ministers gathered in Berlin, with discussion about potential applications from Sweden and Finland to join the Western military alliance on the agenda, Putin spoke to Finnish leader Sauli Niinisto.  
+[{'label': 'NONE', 'score': 0.7392522692680359}]
+
+Finland		Niinisto said that he told Putin how starkly Finland's security environment had changed after Moscow's Feb. invasion of Ukraine.
+[{'label': 'NONE', 'score': 0.8481407165527344}]
+
+Moscow		Niinisto said that he told Putin how starkly Finland's security environment had changed after Moscow's Feb. invasion of Ukraine.
+[{'label': 'NONE', 'score': 0.8481407165527344}]
+
+Ukraine		Niinisto said that he told Putin how starkly Finland's security environment had changed after Moscow's Feb. invasion of Ukraine.
+[{'label': 'NONE', 'score': 0.8481407165527344}]
+
+Russia		In response, Russia cut off electricity supplies to Finland not need to its European border to carry out its threat, officials boasted.
+[{'label': 'NONE', 'score': 0.8227156400680542}]
+
+Finland		In response, Russia cut off electricity supplies to Finland not need to its European border to carry out its threat, officials boasted.
+[{'label': 'NONE', 'score': 0.8227156400680542}]
+
+NATO		Vladimir Putin warned the president of Finland Saturday that any effort to join NATO would negatively affect relations between the two countries.
+[{'label': 'NONE', 'score': 0.5728024244308472}]
+
+NATO		As NATO foreign ministers gathered in Berlin, with discussion about potential applications from Sweden and Finland to join the Western military alliance on the agenda, Putin spoke to Finnish leader Sauli Niinisto.  
+[{'label': 'NONE', 'score': 0.7392522692680359}]
+
+The Boeren Burger Beweging/Farmers Citizens Movement		The Boeren Burger Beweging/Farmers Citizens Movement sounds good for farmers but this party is a WEF sellout!
+[{'label': 'AGAINST', 'score': 0.8678426742553711}]
+
+Caroline van der		Caroline van der Plas founded this movement in and is going along with the nitrogen hoax, climate change lies and biodiversity made up bullshit in order to buy up most of the farmers.
+[{'label': 'AGAINST', 'score': 0.9560976028442383}]
+
+Plas		Caroline van der Plas founded this movement in and is going along with the nitrogen hoax, climate change lies and biodiversity made up bullshit in order to buy up most of the farmers.
+[{'label': 'AGAINST', 'score': 0.9560976028442383}]
+
+BBB		BBB, Trump military exercises, predictive programming and more.
+[{'label': 'NONE', 'score': 0.9708057045936584}]
+
+Trump		BBB, Trump military exercises, predictive programming and more.
+[{'label': 'NONE', 'score': 0.9708057045936584}]
+
+David North		In announcing the recent International May Day Rally, David North, chairman of the International Editorial Board of the World Socialist Web Site,.
+[{'label': 'NONE', 'score': 0.9049403667449951}]
+
+Sri Lanka		SEP/IYSSE public meeting in Sri Lanka The Socialist Equality Party ( SEP ) and the International Youth and Students for Social Equality ( IYSSE ) in Sri Lanka are holding an online meeting entitled '' Oppose imperialist war '' on Thursday, May, at pm.
+[{'label': 'FAVOR', 'score': 0.5757532715797424}]
+
+SEP		SEP/IYSSE public meeting in Sri Lanka The Socialist Equality Party ( SEP ) and the International Youth and Students for Social Equality ( IYSSE ) in Sri Lanka are holding an online meeting entitled '' Oppose imperialist war '' on Thursday, May, at pm.
+[{'label': 'FAVOR', 'score': 0.5757532715797424}]
+
+Sri Lanka The Socialist Equality Party		SEP/IYSSE public meeting in Sri Lanka The Socialist Equality Party ( SEP ) and the International Youth and Students for Social Equality ( IYSSE ) in Sri Lanka are holding an online meeting entitled '' Oppose imperialist war '' on Thursday, May, at pm.
+[{'label': 'FAVOR', 'score': 0.5757532715797424}]
+
+SEP		SEP/IYSSE public meeting in Sri Lanka The Socialist Equality Party ( SEP ) and the International Youth and Students for Social Equality ( IYSSE ) in Sri Lanka are holding an online meeting entitled '' Oppose imperialist war '' on Thursday, May, at pm.
+[{'label': 'FAVOR', 'score': 0.5757532715797424}]
+
+the International Youth and Students for Social Equality		SEP/IYSSE public meeting in Sri Lanka The Socialist Equality Party ( SEP ) and the International Youth and Students for Social Equality ( IYSSE ) in Sri Lanka are holding an online meeting entitled '' Oppose imperialist war '' on Thursday, May, at pm.
+[{'label': 'FAVOR', 'score': 0.5757532715797424}]
+
+the International Editorial Board of the World Socialist Web Site		In announcing the recent International May Day Rally, David North, chairman of the International Editorial Board of the World Socialist Web Site,.
+[{'label': 'NONE', 'score': 0.9049403667449951}]
+
+Zelensky		By subscribing you agree to our Terms of Use RT reports: In an interview on Monday, Zelensky referred to comments made at the weekend by Republican House Speaker Mike Johnson.
+[{'label': 'NONE', 'score': 0.9442430734634399}]
+
+Mike Johnson		By subscribing you agree to our Terms of Use RT reports: In an interview on Monday, Zelensky referred to comments made at the weekend by Republican House Speaker Mike Johnson.
+[{'label': 'NONE', 'score': 0.9442430734634399}]
+
+Zelensky		In his interview with PBS NewsHour, Zelensky stated that no amount of foreign assistance will change the outcome of the fighting.
+[{'label': 'NONE', 'score': 0.9236953854560852}]
+
+US		The US politician told Fox News that he planned to move forward with a vote on an aid bill for Israel this week, without specifying when a Ukraine package would be taken up, or whether it would be tied to funding for West Jerusalem.  
+[{'label': 'NONE', 'score': 0.8920240998268127}]
+
+Israel		The US politician told Fox News that he planned to move forward with a vote on an aid bill for Israel this week, without specifying when a Ukraine package would be taken up, or whether it would be tied to funding for West Jerusalem.  
+[{'label': 'NONE', 'score': 0.8920240998268127}]
+
+Ukraine		The US politician told Fox News that he planned to move forward with a vote on an aid bill for Israel this week, without specifying when a Ukraine package would be taken up, or whether it would be tied to funding for West Jerusalem.  
+[{'label': 'NONE', 'score': 0.8920240998268127}]
+
+West Jerusalem		The US politician told Fox News that he planned to move forward with a vote on an aid bill for Israel this week, without specifying when a Ukraine package would be taken up, or whether it would be tied to funding for West Jerusalem.  
+[{'label': 'NONE', 'score': 0.8920240998268127}]
+
+House		By subscribing you agree to our Terms of Use RT reports: In an interview on Monday, Zelensky referred to comments made at the weekend by Republican House Speaker Mike Johnson.
+[{'label': 'NONE', 'score': 0.9442430734634399}]
+
+Fox News		The US politician told Fox News that he planned to move forward with a vote on an aid bill for Israel this week, without specifying when a Ukraine package would be taken up, or whether it would be tied to funding for West Jerusalem.  
+[{'label': 'NONE', 'score': 0.8920240998268127}]
+
+PBS NewsHour		In his interview with PBS NewsHour, Zelensky stated that no amount of foreign assistance will change the outcome of the fighting.
+[{'label': 'NONE', 'score': 0.9236953854560852}]
+
+Volodymyr Zelensky		In surprisingly blunt words, a top aide to Ukrainian President Volodymyr Zelensky has warned that the coming year will essentially decide the fate of Ukraine and its war with Russia.  
+[{'label': 'NONE', 'score': 0.7042516469955444}]
+
+Zelensky		So now Zelensky appears to be dispatching his envoys to calm Washington jitters over all the bad news of late out of Ukraine.
+[{'label': 'NONE', 'score': 0.9349880218505859}]
+
+Ukraine		In surprisingly blunt words, a top aide to Ukrainian President Volodymyr Zelensky has warned that the coming year will essentially decide the fate of Ukraine and its war with Russia.  
+[{'label': 'NONE', 'score': 0.7042516469955444}]
+
+Russia		In surprisingly blunt words, a top aide to Ukrainian President Volodymyr Zelensky has warned that the coming year will essentially decide the fate of Ukraine and its war with Russia.  
+[{'label': 'NONE', 'score': 0.7042516469955444}]
+
+Washington		So now Zelensky appears to be dispatching his envoys to calm Washington jitters over all the bad news of late out of Ukraine.
+[{'label': 'NONE', 'score': 0.9349880218505859}]
+
+Ukraine		So now Zelensky appears to be dispatching his envoys to calm Washington jitters over all the bad news of late out of Ukraine.
+[{'label': 'NONE', 'score': 0.9349880218505859}]
+
+Ukraine		The US Department of Defense has discovered an accounting error that could result in even more weapons, ammunition and equipment being available for Ukraine than previously thought, Reuters reported on Thursday.  
+[{'label': 'AGAINST', 'score': 0.6924765110015869}]
+
+The US Department of Defense		The US Department of Defense has discovered an accounting error that could result in even more weapons, ammunition and equipment being available for Ukraine than previously thought, Reuters reported on Thursday.  
+[{'label': 'AGAINST', 'score': 0.6924765110015869}]
+
+Reuters		The US Department of Defense has discovered an accounting error that could result in even more weapons, ammunition and equipment being available for Ukraine than previously thought, Reuters reported on Thursday.  
+[{'label': 'AGAINST', 'score': 0.6924765110015869}]
+
+Pentagon		The Pentagon has sent a memo to all four service branches the Army, Navy, Air Force and Marine Corps - on March, clarifying how the value of the equipment should be calculated.
+[{'label': 'NONE', 'score': 0.7519046068191528}]
+
+Army		The Pentagon has sent a memo to all four service branches the Army, Navy, Air Force and Marine Corps - on March, clarifying how the value of the equipment should be calculated.
+[{'label': 'NONE', 'score': 0.7519046068191528}]
+
+Navy		The Pentagon has sent a memo to all four service branches the Army, Navy, Air Force and Marine Corps - on March, clarifying how the value of the equipment should be calculated.
+[{'label': 'NONE', 'score': 0.7519046068191528}]
+
+Air Force		The Pentagon has sent a memo to all four service branches the Army, Navy, Air Force and Marine Corps - on March, clarifying how the value of the equipment should be calculated.
+[{'label': 'NONE', 'score': 0.7519046068191528}]
+
+Marine Corps		The Pentagon has sent a memo to all four service branches the Army, Navy, Air Force and Marine Corps - on March, clarifying how the value of the equipment should be calculated.
+[{'label': 'NONE', 'score': 0.7519046068191528}]
+
+Volodymyr Zelensky		The former head of German intelligence has revealed that Ukrainian President Volodymyr Zelensky and President of Poland both collaborated to carry out the attack on the Nord Stream Pipelines.  
+[{'label': 'NONE', 'score': 0.5423420071601868}]
+
+Poland		The former head of German intelligence has revealed that Ukrainian President Volodymyr Zelensky and President of Poland both collaborated to carry out the attack on the Nord Stream Pipelines.  
+[{'label': 'NONE', 'score': 0.5423420071601868}]
+
+Russia		It remains to be seen conclusively who ordered and carried out the attack, but the argument that Russia was behind it is looking increasingly tenuous
+[{'label': 'AGAINST', 'score': 0.828859269618988}]
+
+the Nord Stream Pipelines		The former head of German intelligence has revealed that Ukrainian President Volodymyr Zelensky and President of Poland both collaborated to carry out the attack on the Nord Stream Pipelines.  
+[{'label': 'NONE', 'score': 0.5423420071601868}]
+
+Hersh		According to Hersh's sources, the explosives were planted in June by US Navy divers under the guise of the BALTOPS NATO exercise and were detonated three months later with a remote signal sent by a sonar buoy.
+[{'label': 'AGAINST', 'score': 0.716771125793457}]
+
+US Navy		According to Hersh's sources, the explosives were planted in June by US Navy divers under the guise of the BALTOPS NATO exercise and were detonated three months later with a remote signal sent by a sonar buoy.
+[{'label': 'AGAINST', 'score': 0.716771125793457}]
+
+the BALTOPS NATO		According to Hersh's sources, the explosives were planted in June by US Navy divers under the guise of the BALTOPS NATO exercise and were detonated three months later with a remote signal sent by a sonar buoy.
+[{'label': 'AGAINST', 'score': 0.716771125793457}]
+
+Sidewalk Labs		Adams also founded the Google smart city subsidiary Sidewalk Labs, which collects data in order to forge a new standard for what cities have to do - mainly meat and dairy, which he personally opposes.
+[{'label': 'AGAINST', 'score': 0.4775051474571228}]
+
+the Mayor's Office of Food Policy		Along with representatives from the Mayor's Office of Food Policy and the Mayor's Office of Climate & Environmental Justice, Adams has announced the launch of a new '' carbon footprint '' and household food consumption tracking scheme that aims to reduce the Big Apple's carbon emissions by percent by the year.  
+[{'label': 'FAVOR', 'score': 0.7010080814361572}]
+
+Office of Climate & Environmental Justice		Along with representatives from the Mayor's Office of Food Policy and the Mayor's Office of Climate & Environmental Justice, Adams has announced the launch of a new '' carbon footprint '' and household food consumption tracking scheme that aims to reduce the Big Apple's carbon emissions by percent by the year.  
+[{'label': 'FAVOR', 'score': 0.7010080814361572}]
+
+Adams		Along with representatives from the Mayor's Office of Food Policy and the Mayor's Office of Climate & Environmental Justice, Adams has announced the launch of a new '' carbon footprint '' and household food consumption tracking scheme that aims to reduce the Big Apple's carbon emissions by percent by the year.  
+[{'label': 'FAVOR', 'score': 0.7010080814361572}]
+
+the Big Apple's		Along with representatives from the Mayor's Office of Food Policy and the Mayor's Office of Climate & Environmental Justice, Adams has announced the launch of a new '' carbon footprint '' and household food consumption tracking scheme that aims to reduce the Big Apple's carbon emissions by percent by the year.  
+[{'label': 'FAVOR', 'score': 0.7010080814361572}]
+
+Google		Adams also founded the Google smart city subsidiary Sidewalk Labs, which collects data in order to forge a new standard for what cities have to do - mainly meat and dairy, which he personally opposes.
+[{'label': 'AGAINST', 'score': 0.4775051474571228}]
+
+Sergey Lavrov		The US is using the dollar to unleash trade wars worldwide, while international economic cooperation is also being weaponized, Russia's Foreign Minister Sergey Lavrov said on Monday.  
+[{'label': 'NONE', 'score': 0.6063205003738403}]
+
+US		The US is using the dollar to unleash trade wars worldwide, while international economic cooperation is also being weaponized, Russia's Foreign Minister Sergey Lavrov said on Monday.  
+[{'label': 'NONE', 'score': 0.6063205003738403}]
+
+Russia		The US is using the dollar to unleash trade wars worldwide, while international economic cooperation is also being weaponized, Russia's Foreign Minister Sergey Lavrov said on Monday.  
+[{'label': 'NONE', 'score': 0.6063205003738403}]
+
+the World Trade Organization		The activities of the World Trade Organization, primarily for settling disputes, have been blocked by Western countries.
+[{'label': 'NONE', 'score': 0.8176239728927612}]
+
+Lavrov		Such fundamental legal foundations of world economic relations as free competition and the immunity of property have been destroyed, Lavrov said.
+[{'label': 'AGAINST', 'score': 0.6311782002449036}]
+
+Lavrov		Meanwhile, an unfair and unbalanced model of globalization has become outdated, Lavrov said.
+[{'label': 'NONE', 'score': 0.7812645435333252}]
+
+Richard Nixon		Back in Vice President Richard Nixon visited Moscow and held his famous '' Kitchen debate '' with Soviet leader Nikita Khruschev.
+[{'label': 'NONE', 'score': 0.5501540899276733}]
+
+Nikita Khruschev		Back in Vice President Richard Nixon visited Moscow and held his famous '' Kitchen debate '' with Soviet leader Nikita Khruschev.
+[{'label': 'NONE', 'score': 0.5501540899276733}]
+
+Nixon		Nixon favorably compared the standard of living of American suburbanites to that of their Russian counterparts under Communism.
+[{'label': 'NONE', 'score': 0.537916362285614}]
+
+Putin		not recognize has issued an arrest warrant against Putin for evacuating children from a Warzone that is getting shelled with our weapons and we are the ones who killed over million people in victim nations since WW. pic.twitter.com/eff.
+[{'label': 'AGAINST', 'score': 0.9422557353973389}]
+
+Moscow		Back in Vice President Richard Nixon visited Moscow and held his famous '' Kitchen debate '' with Soviet leader Nikita Khruschev.
+[{'label': 'NONE', 'score': 0.5501540899276733}]
+
+Warzone		not recognize has issued an arrest warrant against Putin for evacuating children from a Warzone that is getting shelled with our weapons and we are the ones who killed over million people in victim nations since WW. pic.twitter.com/eff.
+[{'label': 'AGAINST', 'score': 0.9422557353973389}]
+
+WW		not recognize has issued an arrest warrant against Putin for evacuating children from a Warzone that is getting shelled with our weapons and we are the ones who killed over million people in victim nations since WW. pic.twitter.com/eff.
+[{'label': 'AGAINST', 'score': 0.9422557353973389}]
+
+pic.twitter.com/eff		not recognize has issued an arrest warrant against Putin for evacuating children from a Warzone that is getting shelled with our weapons and we are the ones who killed over million people in victim nations since WW. pic.twitter.com/eff.
+[{'label': 'AGAINST', 'score': 0.9422557353973389}]
+
+Harries		The lies to generate fear and justify dystopia are absolutely shocking Professor Harries, who heads the U.K. Health Security Agency ( UKHSA ) recently said that rising temperatures will make such diseases common in the U.K. by because the Asian Tiger Mosquito - which can transmit dengue,.
+[{'label': 'NONE', 'score': 0.7849050164222717}]
+
+Tiger Mosquito		The lies to generate fear and justify dystopia are absolutely shocking Professor Harries, who heads the U.K. Health Security Agency ( UKHSA ) recently said that rising temperatures will make such diseases common in the U.K. by because the Asian Tiger Mosquito - which can transmit dengue,.
+[{'label': 'NONE', 'score': 0.7849050164222717}]
+
+U.K.		'Entirely Fictional, Shameless': Top Mosquito Expert Blasts Dame Jenny Harries's Claim That Climate Change Will Make Dengue Fever Common in U.K. Within Years.
+[{'label': 'NONE', 'score': 0.6402984261512756}]
+
+U.K.		The lies to generate fear and justify dystopia are absolutely shocking Professor Harries, who heads the U.K. Health Security Agency ( UKHSA ) recently said that rising temperatures will make such diseases common in the U.K. by because the Asian Tiger Mosquito - which can transmit dengue,.
+[{'label': 'NONE', 'score': 0.7849050164222717}]
+
+the U.K. Health Security Agency		The lies to generate fear and justify dystopia are absolutely shocking Professor Harries, who heads the U.K. Health Security Agency ( UKHSA ) recently said that rising temperatures will make such diseases common in the U.K. by because the Asian Tiger Mosquito - which can transmit dengue,.
+[{'label': 'NONE', 'score': 0.7849050164222717}]
+
+UKHSA		The lies to generate fear and justify dystopia are absolutely shocking Professor Harries, who heads the U.K. Health Security Agency ( UKHSA ) recently said that rising temperatures will make such diseases common in the U.K. by because the Asian Tiger Mosquito - which can transmit dengue,.
+[{'label': 'NONE', 'score': 0.7849050164222717}]
+
+the Soviet Union		Suddenly, his screen was filled with notices of nuclear warheads headed to the Soviet Union from the United States, and he had to decide whether or not to call Moscow ASAP and alert them that in five minutes the entire country would be.
+[{'label': 'AGAINST', 'score': 0.4797115921974182}]
+
+the United States		Suddenly, his screen was filled with notices of nuclear warheads headed to the Soviet Union from the United States, and he had to decide whether or not to call Moscow ASAP and alert them that in five minutes the entire country would be.
+[{'label': 'AGAINST', 'score': 0.4797115921974182}]
+
+Table		Nuclear War Back on the Table; I’m Loading Up on SILVER!
+[{'label': 'NONE', 'score': 0.9652576446533203}]
+
+Vladimir Putin		Russian President Vladimir Putin will meet China's Xi Jinping for talks in Beijing in October, the Kremlin said on Tuesday, Putin's first known trip abroad since an arrest warrant was issued against him over the deportation of children from Ukraine.
+[{'label': 'AGAINST', 'score': 0.9508826732635498}]
+
+Xi Jinping		Russian President Vladimir Putin will meet China's Xi Jinping for talks in Beijing in October, the Kremlin said on Tuesday, Putin's first known trip abroad since an arrest warrant was issued against him over the deportation of children from Ukraine.
+[{'label': 'AGAINST', 'score': 0.9508826732635498}]
+
+Putin		Russian President Vladimir Putin will meet China's Xi Jinping for talks in Beijing in October, the Kremlin said on Tuesday, Putin's first known trip abroad since an arrest warrant was issued against him over the deportation of children from Ukraine.
+[{'label': 'AGAINST', 'score': 0.9508826732635498}]
+
+China		Russian President Vladimir Putin will meet China's Xi Jinping for talks in Beijing in October, the Kremlin said on Tuesday, Putin's first known trip abroad since an arrest warrant was issued against him over the deportation of children from Ukraine.
+[{'label': 'AGAINST', 'score': 0.9508826732635498}]
+
+Beijing		Russian President Vladimir Putin will meet China's Xi Jinping for talks in Beijing in October, the Kremlin said on Tuesday, Putin's first known trip abroad since an arrest warrant was issued against him over the deportation of children from Ukraine.
+[{'label': 'AGAINST', 'score': 0.9508826732635498}]
+
+Ukraine		Russian President Vladimir Putin will meet China's Xi Jinping for talks in Beijing in October, the Kremlin said on Tuesday, Putin's first known trip abroad since an arrest warrant was issued against him over the deportation of children from Ukraine.
+[{'label': 'AGAINST', 'score': 0.9508826732635498}]
+
+Interfax		He was quoted by the Interfax news agency as saying that the talks in Beijing would be '' thorough ''.  
+[{'label': 'NONE', 'score': 0.8095118403434753}]
+
+Beijing		He was quoted by the Interfax news agency as saying that the talks in Beijing would be '' thorough ''.  
+[{'label': 'NONE', 'score': 0.8095118403434753}]
+
+Russia		The Kremlin said the warrant was evidence of the West's hostility to Russia, in line with the Kremlin.
+[{'label': 'AGAINST', 'score': 0.9654763340950012}]
+
+Kremlin		Russian President Vladimir Putin will meet China's Xi Jinping for talks in Beijing in October, the Kremlin said on Tuesday, Putin's first known trip abroad since an arrest warrant was issued against him over the deportation of children from Ukraine.
+[{'label': 'AGAINST', 'score': 0.9508826732635498}]
+
+Kremlin		The Kremlin said the warrant was evidence of the West's hostility to Russia, in line with the Kremlin.
+[{'label': 'AGAINST', 'score': 0.9654763340950012}]
+
+Kremlin		The Kremlin said the warrant was evidence of the West's hostility to Russia, in line with the Kremlin.
+[{'label': 'AGAINST', 'score': 0.9654763340950012}]
+
+West		The Kremlin said the warrant was evidence of the West's hostility to Russia, in line with the Kremlin.
+[{'label': 'AGAINST', 'score': 0.9654763340950012}]
+
+Russia		Russia on Monday said that there is currently no basis to hold an arms control and strategic stability dialogue with the US amid the ongoing war between Moscow and Kyiv.  
+[{'label': 'NONE', 'score': 0.8572974801063538}]
+
+US		Russia on Monday said that there is currently no basis to hold an arms control and strategic stability dialogue with the US amid the ongoing war between Moscow and Kyiv.  
+[{'label': 'NONE', 'score': 0.8572974801063538}]
+
+Moscow		Russia on Monday said that there is currently no basis to hold an arms control and strategic stability dialogue with the US amid the ongoing war between Moscow and Kyiv.  
+[{'label': 'NONE', 'score': 0.8572974801063538}]
+
+Russia		He further said that efforts to reduce the potential of a conflict between Russia and the US should be based on removing NATO's eastward expansion, indicating that Moscow is especially concerned that the three nuclear powers in the West are among Ukraine's main supporters, and that all countries should pool their efforts to upgrade the international security system relying on the principles of multilateralism equality and indivisibility
+[{'label': 'NONE', 'score': 0.8444873690605164}]
+
+US		He further said that efforts to reduce the potential of a conflict between Russia and the US should be based on removing NATO's eastward expansion, indicating that Moscow is especially concerned that the three nuclear powers in the West are among Ukraine's main supporters, and that all countries should pool their efforts to upgrade the international security system relying on the principles of multilateralism equality and indivisibility
+[{'label': 'NONE', 'score': 0.8444873690605164}]
+
+Moscow		He further said that efforts to reduce the potential of a conflict between Russia and the US should be based on removing NATO's eastward expansion, indicating that Moscow is especially concerned that the three nuclear powers in the West are among Ukraine's main supporters, and that all countries should pool their efforts to upgrade the international security system relying on the principles of multilateralism equality and indivisibility
+[{'label': 'NONE', 'score': 0.8444873690605164}]
+
+Ukraine		He further said that efforts to reduce the potential of a conflict between Russia and the US should be based on removing NATO's eastward expansion, indicating that Moscow is especially concerned that the three nuclear powers in the West are among Ukraine's main supporters, and that all countries should pool their efforts to upgrade the international security system relying on the principles of multilateralism equality and indivisibility
+[{'label': 'NONE', 'score': 0.8444873690605164}]
+
+NATO		He further said that efforts to reduce the potential of a conflict between Russia and the US should be based on removing NATO's eastward expansion, indicating that Moscow is especially concerned that the three nuclear powers in the West are among Ukraine's main supporters, and that all countries should pool their efforts to upgrade the international security system relying on the principles of multilateralism equality and indivisibility
+[{'label': 'NONE', 'score': 0.8444873690605164}]
+
+West		He further said that efforts to reduce the potential of a conflict between Russia and the US should be based on removing NATO's eastward expansion, indicating that Moscow is especially concerned that the three nuclear powers in the West are among Ukraine's main supporters, and that all countries should pool their efforts to upgrade the international security system relying on the principles of multilateralism equality and indivisibility
+[{'label': 'NONE', 'score': 0.8444873690605164}]
+
+Trump		Dear President Trump!.
+[{'label': 'AGAINST', 'score': 0.47339025139808655}]
+
+Donbass		I am a teenager living in Donbass.
+[{'label': 'NONE', 'score': 0.9643427133560181}]
+
+Trump		Dear President Trump!
+[{'label': 'NONE', 'score': 0.49910181760787964}]
+
+Donbass		I am a teenager living in Donbass.
+[{'label': 'NONE', 'score': 0.9643427133560181}]
+
+Trump		Dear President Trump!
+[{'label': 'NONE', 'score': 0.49910181760787964}]
+
+Donbass		I am a teenager living in Donbass.
+[{'label': 'NONE', 'score': 0.9643427133560181}]
+
+Faina Savenkova		My name is Faina Savenkova.
+[{'label': 'FAVOR', 'score': 0.5209395289421082}]
+
+Faina Savenkova		My name is Faina Savenkova.
+[{'label': 'FAVOR', 'score': 0.5209395289421082}]
+
+Faina Savenkova		My name is Faina Savenkova.
+[{'label': 'FAVOR', 'score': 0.5209395289421082}]
+
+Biden		The Senate blocked a measure to impose new sanctions on the Nord Stream gas pipeline from Russia to Germany after the Biden administration warned it could disrupt allied unity in the confrontation over Ukraine.
+[{'label': 'NONE', 'score': 0.7705420255661011}]
+
+Ted Cruz		The measure by Republican Senator Ted Cruz of Texas failed on a vote of to.  
+[{'label': 'NONE', 'score': 0.501484215259552}]
+
+Putin		The bill would undermine U.S. cooperation with Germany and other NATO partners as they try to head off a potential invasion of Ukraine by Putin's forces deployed on its borders.
+[{'label': 'NONE', 'score': 0.6683721542358398}]
+
+Bob Menendez		The White House also backed an alternative plan from Senator Bob Menendez.
+[{'label': 'AGAINST', 'score': 0.9169936180114746}]
+
+Russia		The Senate blocked a measure to impose new sanctions on the Nord Stream gas pipeline from Russia to Germany after the Biden administration warned it could disrupt allied unity in the confrontation over Ukraine.
+[{'label': 'NONE', 'score': 0.7705420255661011}]
+
+Germany		The Senate blocked a measure to impose new sanctions on the Nord Stream gas pipeline from Russia to Germany after the Biden administration warned it could disrupt allied unity in the confrontation over Ukraine.
+[{'label': 'NONE', 'score': 0.7705420255661011}]
+
+Ukraine		The Senate blocked a measure to impose new sanctions on the Nord Stream gas pipeline from Russia to Germany after the Biden administration warned it could disrupt allied unity in the confrontation over Ukraine.
+[{'label': 'NONE', 'score': 0.7705420255661011}]
+
+Texas		The measure by Republican Senator Ted Cruz of Texas failed on a vote of to.  
+[{'label': 'NONE', 'score': 0.501484215259552}]
+
+U.S.		The bill would undermine U.S. cooperation with Germany and other NATO partners as they try to head off a potential invasion of Ukraine by Putin's forces deployed on its borders.
+[{'label': 'NONE', 'score': 0.6683721542358398}]
+
+Germany		The bill would undermine U.S. cooperation with Germany and other NATO partners as they try to head off a potential invasion of Ukraine by Putin's forces deployed on its borders.
+[{'label': 'NONE', 'score': 0.6683721542358398}]
+
+Ukraine		The bill would undermine U.S. cooperation with Germany and other NATO partners as they try to head off a potential invasion of Ukraine by Putin's forces deployed on its borders.
+[{'label': 'NONE', 'score': 0.6683721542358398}]
+
+Senate		The Senate blocked a measure to impose new sanctions on the Nord Stream gas pipeline from Russia to Germany after the Biden administration warned it could disrupt allied unity in the confrontation over Ukraine.
+[{'label': 'NONE', 'score': 0.7705420255661011}]
+
+Nord Stream		The Senate blocked a measure to impose new sanctions on the Nord Stream gas pipeline from Russia to Germany after the Biden administration warned it could disrupt allied unity in the confrontation over Ukraine.
+[{'label': 'NONE', 'score': 0.7705420255661011}]
+
+NATO		The bill would undermine U.S. cooperation with Germany and other NATO partners as they try to head off a potential invasion of Ukraine by Putin's forces deployed on its borders.
+[{'label': 'NONE', 'score': 0.6683721542358398}]
+
+The White House		The White House also backed an alternative plan from Senator Bob Menendez.
+[{'label': 'AGAINST', 'score': 0.9169936180114746}]
+
+Vladimir Putin		He further claimed that the Nord Stream attack was carried out in response to Russian President Vladimir Putin's invasion of Ukraine.
+[{'label': 'NONE', 'score': 0.6531895995140076}]
+
+Moscow		Moscow: Russia will ask the UN Security Council for an investigation into Nord Stream gas pipelines explosions in September last year for which it blames the US.
+[{'label': 'NONE', 'score': 0.5781731605529785}]
+
+Russia		Moscow: Russia will ask the UN Security Council for an investigation into Nord Stream gas pipelines explosions in September last year for which it blames the US.
+[{'label': 'NONE', 'score': 0.5781731605529785}]
+
+US		Moscow: Russia will ask the UN Security Council for an investigation into Nord Stream gas pipelines explosions in September last year for which it blames the US.
+[{'label': 'NONE', 'score': 0.5781731605529785}]
+
+Ukraine		He further claimed that the Nord Stream attack was carried out in response to Russian President Vladimir Putin's invasion of Ukraine.
+[{'label': 'NONE', 'score': 0.6531895995140076}]
+
+Nord Stream		Explosions in Nord Stream and pipelines were reported on September, an attack that ostensibly continues to puzzle investigators
+[{'label': 'NONE', 'score': 0.8450096845626831}]
+
+the UN Security Council		Moscow: Russia will ask the UN Security Council for an investigation into Nord Stream gas pipelines explosions in September last year for which it blames the US.
+[{'label': 'NONE', 'score': 0.5781731605529785}]
+
+Nord Stream		Moscow: Russia will ask the UN Security Council for an investigation into Nord Stream gas pipelines explosions in September last year for which it blames the US.
+[{'label': 'NONE', 'score': 0.5781731605529785}]
+
+the State Duma		The Russian parliament's committee for international relations has introduced the motion regarding this and is expected to get approval by the State Duma later this week.  
+[{'label': 'NONE', 'score': 0.8453152775764465}]
+
+Nord Stream		He further claimed that the Nord Stream attack was carried out in response to Russian President Vladimir Putin's invasion of Ukraine.
+[{'label': 'NONE', 'score': 0.6531895995140076}]
+
+Lawson		Three days after Lawson's BBC interview, which was immediately and widely criticised in the media and by scientists, the climate denial group tweeted out Sunday afternoon that it was '' happy to correct the record ''.  
+[{'label': 'FAVOR', 'score': 0.90878826379776}]
+
+Ed Hawkins		It has since removed the tweet after a request to do so by climate scientist Ed Hawkins.
+[{'label': 'FAVOR', 'score': 0.6838412880897522}]
+
+BBC		Three days after Lawson's BBC interview, which was immediately and widely criticised in the media and by scientists, the climate denial group tweeted out Sunday afternoon that it was '' happy to correct the record ''.  
+[{'label': 'FAVOR', 'score': 0.90878826379776}]
+
+Zelensky		It is estimated that since the beginning of Zelensky's government, more than, Ukrainians have been enslaved.
+[{'label': 'AGAINST', 'score': 0.6599070429801941}]
+
+Ukraine		These numbers are alarming and place Ukraine as one of the main agents of human trafficking networks in Ukraine, working both in the sale of Ukrainian citizens on the international black market and in the exploitation of foreigners who arrive through migratory flows and are handed over to criminal networks in Europe.
+[{'label': 'AGAINST', 'score': 0.9623268246650696}]
+
+Ukraine		These numbers are alarming and place Ukraine as one of the main agents of human trafficking networks in Ukraine, working both in the sale of Ukrainian citizens on the international black market and in the exploitation of foreigners who arrive through migratory flows and are handed over to criminal networks in Europe.
+[{'label': 'AGAINST', 'score': 0.9623268246650696}]
+
+Europe		These numbers are alarming and place Ukraine as one of the main agents of human trafficking networks in Ukraine, working both in the sale of Ukrainian citizens on the international black market and in the exploitation of foreigners who arrive through migratory flows and are handed over to criminal networks in Europe.
+[{'label': 'AGAINST', 'score': 0.9623268246650696}]
+
+JBS		Until now, JBS says it will achieve net zero greenhouse gas emissions by while still implementing plans to increase production.  
+[{'label': 'AGAINST', 'score': 0.7879440188407898}]
+
+James, JBS		According to James, JBS is engaging in greenwashing tactics with its net zero claims.
+[{'label': 'AGAINST', 'score': 0.8442646265029907}]
+
+JBS		In her opinion, JBS is exploiting the pocketbooks of everyday Americans with a false promise of a healthy planet for future generations.
+[{'label': 'AGAINST', 'score': 0.9858871102333069}]
+
+Biden		The Senate blocked a measure to impose new sanctions on the Nord Stream gas pipeline from Russia to Germany after the Biden administration warned it could disrupt allied unity in the confrontation over Ukraine.
+[{'label': 'NONE', 'score': 0.7705420255661011}]
+
+Ted Cruz		The measure by Republican Senator Ted Cruz of Texas failed on a vote of to.  
+[{'label': 'NONE', 'score': 0.501484215259552}]
+
+Putin		The bill would undermine U.S. cooperation with Germany and other NATO partners as they try to head off a potential invasion of Ukraine by Putin's forces deployed on its borders.
+[{'label': 'NONE', 'score': 0.6683721542358398}]
+
+Bob Menendez		The White House also backed an alternative plan from Senator Bob Menendez.
+[{'label': 'AGAINST', 'score': 0.9169936180114746}]
+
+Russia		The Senate blocked a measure to impose new sanctions on the Nord Stream gas pipeline from Russia to Germany after the Biden administration warned it could disrupt allied unity in the confrontation over Ukraine.
+[{'label': 'NONE', 'score': 0.7705420255661011}]
+
+Germany		The Senate blocked a measure to impose new sanctions on the Nord Stream gas pipeline from Russia to Germany after the Biden administration warned it could disrupt allied unity in the confrontation over Ukraine.
+[{'label': 'NONE', 'score': 0.7705420255661011}]
+
+Ukraine		The Senate blocked a measure to impose new sanctions on the Nord Stream gas pipeline from Russia to Germany after the Biden administration warned it could disrupt allied unity in the confrontation over Ukraine.
+[{'label': 'NONE', 'score': 0.7705420255661011}]
+
+Texas		The measure by Republican Senator Ted Cruz of Texas failed on a vote of to.  
+[{'label': 'NONE', 'score': 0.501484215259552}]
+
+U.S.		The bill would undermine U.S. cooperation with Germany and other NATO partners as they try to head off a potential invasion of Ukraine by Putin's forces deployed on its borders.
+[{'label': 'NONE', 'score': 0.6683721542358398}]
+
+Germany		The bill would undermine U.S. cooperation with Germany and other NATO partners as they try to head off a potential invasion of Ukraine by Putin's forces deployed on its borders.
+[{'label': 'NONE', 'score': 0.6683721542358398}]
+
+Ukraine		The bill would undermine U.S. cooperation with Germany and other NATO partners as they try to head off a potential invasion of Ukraine by Putin's forces deployed on its borders.
+[{'label': 'NONE', 'score': 0.6683721542358398}]
+
+Senate		The Senate blocked a measure to impose new sanctions on the Nord Stream gas pipeline from Russia to Germany after the Biden administration warned it could disrupt allied unity in the confrontation over Ukraine.
+[{'label': 'NONE', 'score': 0.7705420255661011}]
+
+Nord Stream		The Senate blocked a measure to impose new sanctions on the Nord Stream gas pipeline from Russia to Germany after the Biden administration warned it could disrupt allied unity in the confrontation over Ukraine.
+[{'label': 'NONE', 'score': 0.7705420255661011}]
+
+NATO		The bill would undermine U.S. cooperation with Germany and other NATO partners as they try to head off a potential invasion of Ukraine by Putin's forces deployed on its borders.
+[{'label': 'NONE', 'score': 0.6683721542358398}]
+
+The White House		The White House also backed an alternative plan from Senator Bob Menendez.
+[{'label': 'AGAINST', 'score': 0.9169936180114746}]
+
+Albania		Not care if they were immigrants, if they came from Albania, and, they are.
+[{'label': 'NONE', 'score': 0.663777768611908}]
+
+Europe		The Leftist elites insist that the wildfires are a result of climate change and use them to push their agenda to cripple Western economies and impoverish the people of Europe and North America.
+[{'label': 'AGAINST', 'score': 0.9566251039505005}]
+
+North America		The Leftist elites insist that the wildfires are a result of climate change and use them to push their agenda to cripple Western economies and impoverish the people of Europe and North America.
+[{'label': 'AGAINST', 'score': 0.9566251039505005}]
+
+Europe		They simultaneously maintain that Europe needs ever more Muslim migrants.
+[{'label': 'NONE', 'score': 0.5023443698883057}]
+
+David		Rounds can be seen streaking through the air in the dramatic David and Goliath struggle.
+[{'label': 'AGAINST', 'score': 0.5064849853515625}]
+
+Goliath		Rounds can be seen streaking through the air in the dramatic David and Goliath struggle.
+[{'label': 'AGAINST', 'score': 0.5064849853515625}]
+
+Donbas		The Kremlin now intends to forge a strategic corridor between Crimea and its own sovereign territory via the Donbas.
+[{'label': 'NONE', 'score': 0.7707005739212036}]
+
+Kremlin		The Kremlin now intends to forge a strategic corridor between Crimea and its own sovereign territory via the Donbas.
+[{'label': 'NONE', 'score': 0.7707005739212036}]
+
+Crimea		The Kremlin now intends to forge a strategic corridor between Crimea and its own sovereign territory via the Donbas.
+[{'label': 'NONE', 'score': 0.7707005739212036}]
+
+Putin		it, Putin asserted according to Russian media translation.
+[{'label': 'NONE', 'score': 0.5628529787063599}]
+
+Zelensky		Despite Kiev forces clearly being against the ropes of late, Zelensky has still refused to even contemplate negotiating.
+[{'label': 'NONE', 'score': 0.9153843522071838}]
+
+Putin		He has stood by his earlier commitment to not enter dialogue toward ceasefire until Putin is out of power.
+[{'label': 'AGAINST', 'score': 0.8374332189559937}]
+
+Putin		Putin commented on this while in Vietnam: Talks on Ukraine was set to end May, but the government declared no elections until the war is over citing martial law
+[{'label': 'NONE', 'score': 0.9666323065757751}]
+
+Moscow		Drive to isolate Moscow.
+[{'label': 'NONE', 'score': 0.9588657021522522}]
+
+Vietnam		Putin commented on this while in Vietnam: Talks on Ukraine was set to end May, but the government declared no elections until the war is over citing martial law
+[{'label': 'NONE', 'score': 0.9666323065757751}]
+
+Ukraine		Putin commented on this while in Vietnam: Talks on Ukraine was set to end May, but the government declared no elections until the war is over citing martial law
+[{'label': 'NONE', 'score': 0.9666323065757751}]
+
