@@ -1,6 +1,8 @@
 import os
 import re
 import spacy
+from collections import defaultdict
+from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
 
 class DataLoader:
     """
@@ -20,6 +22,9 @@ class DataLoader:
         self.nlp = spacy.load("en_core_web_sm")
         self.nlp.add_pipe("coreferee")
 
+        self.tokenizer = AutoTokenizer.from_pretrained("flax-community/t5-v1_1-base-wikisplit")
+        self.model = AutoModelForSeq2SeqLM.from_pretrained("flax-community/t5-v1_1-base-wikisplit")
+
     def _clean_text(self, text):
         lines = [line.strip() for line in re.split(r'\n+', text) if line.strip()]
         cleaned_lines = []
@@ -34,6 +39,7 @@ class DataLoader:
             line = re.sub(r'.*-.*', ' ', line)
             line = re.sub(r'(\.)(\.)*', '.', line)
             line = re.sub(r'^- ', '', line)
+            line = re.sub(r'"', '', line)
             sentences = re.split(r'(?<=[.!?])\s+', line)
             valid_sentences = []
             for i, sentence in enumerate(sentences):
@@ -71,7 +77,7 @@ class DataLoader:
                     )
                 )
             else:
-                if token.is_punct or token.text in ["'s", "n't", "'re", "'ve", "'ll", "'d"]:
+                if token.is_punct or token.text in ["'s", "n't", "'re", "'ve", "'ll", "'d", "\""]:
                     resolved_text += token.text
                 else:
                     resolved_text += " " + token.text
@@ -118,11 +124,16 @@ class DataLoader:
                 with open(file_path, 'r', encoding='utf-8') as f:
                     raw_text = f.read()
                     cleaned_text = self._clean_text(raw_text)
+                    sentence = self._coreference_resolution(cleaned_text)
+                    sample_tokenized = self.tokenizer(cleaned_text, return_tensors="pt")
+                    answer = self.model.generate(sample_tokenized['input_ids'], attention_mask = sample_tokenized['attention_mask'], max_length=256, num_beams=5)
+                    sentence = self.tokenizer.decode(answer[0], skip_special_tokens=True)
+                    
 
                     #perform NER on cleaned text, get the key names (person, countries, organizations, etc.) and their corresponding sentences
                     #cleaned_text = self._coreference_resolution(cleaned_text)
 
-                    doc = self.nlp(cleaned_text)
+                    doc = self.nlp(sentence)
                     
                     entities = {}
     

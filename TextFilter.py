@@ -1,7 +1,6 @@
 import spacy
 from spacy import displacy
 from collections import defaultdict
-from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
 
 
 # Implementing the TextFilter class, which is responsible for extracting context around target entities in a sentence.
@@ -42,12 +41,11 @@ class TextFilter:
             "pobj": "prep-object",
             "iobj": "indirect-object"
         }
-        self.tokenizer = AutoTokenizer.from_pretrained("flax-community/t5-v1_1-base-wikisplit")
-        self.model = AutoModelForSeq2SeqLM.from_pretrained("flax-community/t5-v1_1-base-wikisplit")
+        
 
     def get_dependencies(self, sentence):
         doc = self.parser(sentence)
-        displacy.serve(doc, style="dep", auto_select_port=True)
+        #displacy.serve(doc, style="dep", auto_select_port=True)
         deps = [(t.text, t.dep_, t.head.text, t.pos_, t.i, t.head.i) for t in doc]
         return deps, doc
 
@@ -87,6 +85,8 @@ class TextFilter:
         # Rule 1: target is subject or passive subject → add head verb
         if rel in {"nsubj", "nsubjpass"}:
             add_content(head_idx)
+            core_words.add(target_idx)
+        
 
         # Rule 2: target is object → include verb + subject
         if rel in {"dobj", "obj"}:
@@ -174,11 +174,6 @@ class TextFilter:
     def extract_target_context(self, sentence, targets):
         if isinstance(targets, str):
             targets = [targets]
-        
-        sample_tokenized = self.tokenizer(sentence, return_tensors="pt")
-
-        answer = self.model.generate(sample_tokenized['input_ids'], attention_mask = sample_tokenized['attention_mask'], max_length=256, num_beams=5)
-        sentence = self.tokenizer.decode(answer[0], skip_special_tokens=True)
 
         deps, doc = self.get_dependencies(sentence)
         deps_graph = self.build_graph(deps)
@@ -217,18 +212,18 @@ if __name__ == "__main__":
 
     filter = TextFilter()
     
-    # for target, sentences in data_loader.yield_entity_sent():
-        
-    #     for sentence in sentences:
-    #         print(target)
-    #         print(filter.extract_target_context(sentence, target))
-        
-    #     break
+    # Use a pipeline as a high-level helper
+    from transformers import pipeline
+
+    pipe = pipeline("text-classification", model="krishnagarg09/stance-detection-semeval2016")
 
     entities = data_loader.yield_NER_sentences()
-    for ent in entities:
-        for entity, sentence in ent:
-            print(filter.extract_target_context(sentence, entity))
-
-        break
-    
+    with open("Stances of simplified text.txt", "w") as f:
+        for ent in entities:
+            for entity, sentence in ent:
+                stance = pipe(sentence, entity)
+                #filtered = filter.extract_target_context(sentence, entity)
+                f.write(f"{entity}\t\t{sentence}\n{stance}\n\n")
+                #f.write(f"{filtered}\n\n")
+    f.close()
+    print("Done")
