@@ -1,27 +1,11 @@
 import spacy
-from spacy import displacy
 from collections import defaultdict
+from SentenceSimplifier import SentenceSimplifier
 
-
-# Implementing the TextFilter class, which is responsible for extracting context around target entities in a sentence.
-# "A dependency-based hybrid deep learning framework for target-dependent sentiment classification"
-# https://doi.org/10.1016/j.patrec.2023.10.026
-
-###Rules###
-
-# Rule 0: If the target is a modifier (compound, amod, nmod), include its head word.
-# Rule 1: If the target is a subject (nsubj or nsubjpass), include its head verb.
-# Rule 2: If the target is an object (obj or dobj), include its head verb and the subject of that verb.
-# Rule 3: If the target has clause children (xcomp or ccomp), include those clauses.
-# Rule 4: If the target’s head has clause children (xcomp or ccomp), include those as well.
-# Rule 5: If the target is connected to clause modifiers (advcl, acl, advmod), include them.
-# Rule 6: For all content words collected from above rules, include function words directly attached to them. 
-# Additionally: trace prepositional object (pobj) to its verb via preposition.
-
-class TextFilter:
-    def __init__(self, use_pos_check=False):
-        self.parser = spacy.load("en_core_web_trf")
-        self.use_pos_check = use_pos_check
+class SpacyPipe:
+    def __init__(self):
+        self.nlp = spacy.load("en_core_web_trf")
+        self.nlp.add_pipe("coreferee")
 
         self.direct_relations = {
             "advmod", "nmod", "nummod", "amod", "cop", "neg", "aux", "case",
@@ -41,11 +25,81 @@ class TextFilter:
             "pobj": "prep-object",
             "iobj": "indirect-object"
         }
-        
 
+        self.simplify_sentence = SentenceSimplifier()
+    def process_text(self, text):
+        """
+        Main pipeline function that processes text through all steps:
+        1. Coreference resolution
+        2. Entity identification
+        3. Sentence simplification
+        4. Context extraction for each entity
+        """
+        # Step 1: Coreference resolution
+        resolved_text = self._coreference_resolution(text)
+        
+        # Step 2: Entity identification
+        entity_sentence_pairs = self._entity_extraction(resolved_text)
+        
+        results = []
+        
+        # Step 3 & 4: For each entity, simplify its sentence and extract context
+        for entity, sentence in entity_sentence_pairs:
+            # Step 3: Simplify the sentence
+            simplified_sentence = self.simplify_sentence._get_simplified_text(sentence)
+            
+            # Step 4: Extract context using the entity and simplified sentence
+            contexts = self.extract_target_context(simplified_sentence, entity)
+            results.extend(contexts)
+        
+        return results
+    
+    def _coreference_resolution(self, text):
+        coref_doc = self.nlp(text)
+
+        resolved_text = ""
+
+        for token in coref_doc:
+            # Resolve coreference if available
+            repres = coref_doc._.coref_chains.resolve(token)
+            if repres:
+                resolved_text += (
+                    " "
+                    + " and ".join(
+                        [
+                            t.text
+                            if t.ent_type_ == ""
+                            else [e.text for e in coref_doc.ents if t in e][0]
+                            for t in repres
+                        ]
+                    )
+                )
+            else:
+                if token.is_punct or token.text in ["'s", "n't", "'re", "'ve", "'ll", "'d", "\""]:
+                    resolved_text += token.text
+                else:
+                    resolved_text += " " + token.text
+
+        return resolved_text.strip()
+    
+    def _entity_extraction(self, text):
+        """
+        Extract entities and their containing sentences.
+        Returns a list of (entity, sentence) pairs.
+        """
+        doc = self.nlp(text)
+        
+        entity_sentence_pairs = []
+
+        for ent in doc.ents:
+            if ent.label_ in ["PERSON", "ORG", "LOC"]:
+                sentence = ent.sent.text  # Get the sentence containing the entity
+                entity_sentence_pairs.append((ent.text, sentence))
+        
+        return entity_sentence_pairs
+    
     def get_dependencies(self, sentence):
-        doc = self.parser(sentence)
-        #displacy.serve(doc, style="dep", auto_select_port=True)
+        doc = self.nlp(sentence)
         deps = [(t.text, t.dep_, t.head.text, t.pos_, t.i, t.head.i) for t in doc]
         return deps, doc
 
@@ -62,8 +116,6 @@ class TextFilter:
             if rel in self.indirect_relations or rel in self.direct_relations or rel in {"conj", "cc"}:
                 self.recursive_add_content(graph, child_idx, core_words)
 
-
-    
     def apply_rules(self, deps, graph, target_idx):
         core_words = set()
         function_words = set()
@@ -73,7 +125,7 @@ class TextFilter:
 
         def add_function(idx):
             if idx not in function_words:
-                if not self.use_pos_check or deps[idx][3] in self.function_pos or deps[idx][1] in self.direct_relations:
+                if deps[idx][3] in self.function_pos or deps[idx][1] in self.direct_relations:
                     function_words.add(idx)
 
         word, rel, head_word, pos, i, head_idx = deps[target_idx]
@@ -87,7 +139,6 @@ class TextFilter:
             add_content(head_idx)
             core_words.add(target_idx)
         
-
         # Rule 2: target is object → include verb + subject
         if rel in {"dobj", "obj"}:
             add_content(head_idx)
@@ -125,7 +176,7 @@ class TextFilter:
                     for idx2, dep2, _, _, _, h2_idx in deps:
                         if idx2 == h_idx and dep2 in {"agent", "prep", "obl", "nmod"}:
                             add_content(h2_idx)
-                    # Fallback: add prep’s head anyway (usually a verb)
+                    # Fallback: add prep's head anyway (usually a verb)
                     add_content(h_idx)
 
         if rel in {"pobj"}:  # Prepositional object
@@ -149,7 +200,6 @@ class TextFilter:
 
         return core_words, function_words
 
-
     def match_target_indices(self, deps, doc, targets):
         target_indices = []
         seen_spans = set()
@@ -157,7 +207,7 @@ class TextFilter:
         doc_len = len(token_texts)
 
         for target in targets:
-            target_doc = self.parser(target)
+            target_doc = self.nlp(target)
             target_tokens = [t.text.lower() for t in target_doc]
             t_len = len(target_tokens)
 
@@ -197,7 +247,48 @@ class TextFilter:
             all_filtered.append(f"[{role}] {' '.join(words)}")
 
         return [f"{sentence}: {all_filtered}"]
-
+    
+    def extract_relations(self, text):
+        nlp = spacy.load("en_core_web_sm")
+        doc = nlp(text)
+        
+        relations = defaultdict(list)
+        main_author = "Main Author"
+        current_speaker = None
+        
+        sentences = [sent.text for sent in doc.sents]
+        
+        for sentence in sentences:
+            sent_doc = nlp(sentence)
+            words = [token.text.lower() for token in sent_doc]
+            
+            if "said" in words:
+                for token in sent_doc:
+                    if token.text.lower() == "said":
+                        speaker = [child.text for child in token.lefts if child.ent_type_ == "PERSON"]
+                        if speaker:
+                            current_speaker = speaker[0]
+                            sentence = sentence.replace(token.text, "", 1).strip()
+                        break
+            
+            processed_sent = nlp(sentence)
+            for token in processed_sent:
+                if token.dep_ in ("ROOT", "acl") and token.pos_ == "VERB":
+                    subject = [w.text for w in token.lefts if w.dep_ in ("nsubj", "nsubjpass")]
+                    obj = [w.text for w in token.rights if w.dep_ in ("dobj", "attr", "prep")]
+                    
+                    if subject and obj:
+                        subj = subject[0]
+                        verb = token.text
+                        obj_text = " ".join(obj)
+                        relation_sentence = f"{subj} {verb} {obj_text}."
+                        
+                        if current_speaker:
+                            relations[current_speaker].append(relation_sentence)
+                        else:
+                            relations[main_author].append(relation_sentence)
+        
+        return dict(relations)
 
 if __name__ == "__main__":
     from LoadData import LoadData
@@ -209,21 +300,9 @@ if __name__ == "__main__":
     load_data = LoadData()
     data = load_data.load_data(base_dir, txt_file, subdirs)
     data_loader = DataLoader(data, base_dir)
+    filter = SpacyPipe()
 
-    filter = TextFilter()
+    for text in data_loader._get_text():
+        print(filter.process_text(text))
+        break
     
-    # Use a pipeline as a high-level helper
-    from transformers import pipeline
-
-    pipe = pipeline("text-classification", model="krishnagarg09/stance-detection-semeval2016")
-
-    entities = data_loader.yield_NER_sentences()
-    with open("Stances of simplified text.txt", "w") as f:
-        for ent in entities:
-            for entity, sentence in ent:
-                stance = pipe(sentence, entity)
-                #filtered = filter.extract_target_context(sentence, entity)
-                f.write(f"{entity}\t\t{sentence}\n{stance}\n\n")
-                #f.write(f"{filtered}\n\n")
-    f.close()
-    print("Done")
