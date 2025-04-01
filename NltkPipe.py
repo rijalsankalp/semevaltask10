@@ -53,7 +53,7 @@ class NltkPipe:
                     if value != '':
                         result.append((key, value))
 
-        return relations, result
+        return relations, result, sentences
         
         
     def _resolve_coreferences(self, text):
