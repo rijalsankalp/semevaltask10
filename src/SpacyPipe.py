@@ -1,6 +1,6 @@
 import spacy
 from collections import defaultdict
-from SentenceSimplifier import SentenceSimplifier
+from src.SentenceSimplifier import SentenceSimplifier
 
 class SpacyPipe:
     def __init__(self):
@@ -291,8 +291,8 @@ class SpacyPipe:
         return dict(relations)
 
 if __name__ == "__main__":
-    from LoadData import LoadData
-    from EntityDataset import DataLoader
+    from src.LoadData import LoadData
+    from src.EntityDataset import DataLoader
 
     base_dir = "train"
     txt_file = "subtask-1-annotations.txt"

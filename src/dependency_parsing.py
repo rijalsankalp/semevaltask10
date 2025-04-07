@@ -11,7 +11,7 @@ import spacy
 from spacy import displacy
 import numpy as np
 import stanza
-from LoadData import LoadData
+from src.LoadData import LoadData
 from pathlib import Path
 from itertools import chain
 from TextFilter import TextFilter  # Import the TF class with role-awareness

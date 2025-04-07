@@ -5,11 +5,11 @@ import pandas as pd
 from spacy.lang.en.stop_words import STOP_WORDS
 import re
 
-from dependency_parsing import iterate_documents, get_role_labels
+from src.dependency_parsing import iterate_documents, get_role_labels
 
 from gensim.models import KeyedVectors
 
-from LoadData import LoadData
+from src.LoadData import LoadData
 import subprocess
 
 

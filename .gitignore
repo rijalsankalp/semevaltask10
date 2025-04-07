@@ -1,8 +1,8 @@
-/dev/
-/train/
-/test/
+/data/
+/src/stanford-corenlp-4.5.9/
+/sentiment_res/
 /embeddings/
-/stanford-corenlp-4.5.9/
+*.sh
 
 #bin and zip files
 *.bin

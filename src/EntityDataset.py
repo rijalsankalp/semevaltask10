@@ -15,7 +15,7 @@ class DataLoader:
         self.language = language
 
         self.garbage_words = {
-            "EN": ["read more", "subscribe now", "follow us", "advertisement", "share your experiences"
+            "EN": ["read more", "subscribe now", "follow us", "advertisement", "share your experiences","also read"
                    "more on", "you may like", "subscribe", "unsubscribe", "sign up", "email us", "click here", "whatsapp us"],
         }
 
@@ -30,6 +30,7 @@ class DataLoader:
             line = re.sub(r'[\U0001F600-\U0001FFFF\U00002702-\U000027B0\U000024C2-\U0001F251]', '', line)
             # Remove URLs
             line = re.sub(r'http[s]?://\S+', '', line)
+            line = re.sub(r'.*\.co.*[\\].* ','', line)
             # Remove @mentions (if they don't contribute to the content)
             line = re.sub(r'@\w+', '', line)
             # Correct contractions
@@ -115,3 +116,6 @@ if __name__ == "__main__":
     data = load_data.load_data(base_dir, txt_file, subdirs)
     data_loader = DataLoader(data, base_dir)
     
+    for data in data_loader._get_text():
+        print(data)
+        break

@@ -1,40 +1,25 @@
-import nltk
 import requests
-import json
-from nltk.tokenize import sent_tokenize, word_tokenize
+
+from collections import defaultdict
+
+import src.NltkPipe as NltkPipe
+
+import nltk
+from nltk.tree import Tree
 from nltk.tag import pos_tag
 from nltk.chunk import ne_chunk
-from nltk.parse.corenlp import CoreNLPDependencyParser
-from nltk.tree import Tree
-from collections import defaultdict
-from SentenceSimplifier import SentenceSimplifier
 from nltk.corpus import stopwords
-from nltk.tokenize import word_tokenize
-import spacy
+from nltk.tokenize import sent_tokenize, word_tokenize
+from nltk.parse.corenlp import CoreNLPDependencyParser
 
-# Ensure necessary NLTK packages are downloaded
-try:
-    nltk.data.find('tokenizers/punkt')
-    nltk.data.find('taggers/averaged_perceptron_tagger')
-    nltk.data.find('chunkers/maxent_ne_chunker')
-    nltk.data.find('corpora/words')
-except LookupError:
-    nltk.download('punkt')
-    nltk.download('averaged_perceptron_tagger')
-    nltk.download('maxent_ne_chunker')
-    nltk.download('maxent_ne_chunker_tab')
-    nltk.download('words')
 
-class NltkPipe:
-    def __init__(self, stanford_server_url='http://localhost:9000'):
-        self.url = stanford_server_url
-        
-        self.dependency_parser = CoreNLPDependencyParser(url=stanford_server_url)
+class NltkRelationExtraction(NltkPipe.NltkPipe):
 
-        self.simplify_sentence = SentenceSimplifier()
+    def __init__(self):
+        super().__init__()
+        self.dependency_parser = CoreNLPDependencyParser(url=self.url)
         
     def process_text(self, text):
-
 
         sentences = self._resolve_coreferences(text)
 
@@ -42,7 +27,7 @@ class NltkPipe:
 
         result = list()
         for resolved_text in sentences:
-            resolved_text = self.simplify_sentence._get_simplified_text(resolved_text)
+            
             context = self.analyze_with_tf(resolved_text)
             relation = self.extract_relations(resolved_text)
             
@@ -54,147 +39,11 @@ class NltkPipe:
                         result.append((key, value))
 
         return relations, result, sentences
-        
-        
-    def _resolve_coreferences(self, text):
-
-        # If text is empty, return it as is
-        if not text.strip():
-            return text
-            
-        params = {"annotators": "coref", "outputFormat": "json"}
-        
-        response = requests.post(self.url, params=params, data=text.encode('utf-8'), timeout=30)
-        
-        ann = response.json()
-        
-        sentences = [sentence['tokens'][0]['originalText'] + ''.join(' ' + token['originalText'] 
-                        if not token['after'].startswith("'") and token['originalText'] not in [',', '.', '?', '!', ':', ';'] 
-                        else token['originalText'] for token in sentence['tokens'][1:]) 
-                        for sentence in ann['sentences']]
-            
-        resolved_sentences = sentences.copy()
-        
-        # Process coreference chains if they exist
-        if 'corefs' in ann:
-            for coref_chain_id, mentions in ann['corefs'].items():
-                # Find the representative mention (prefer a non-pronominal one)
-                rep_mention = None
-                for mention in mentions:
-                    if mention.get('type') != 'PRONOMINAL':  # Prefer non-pronouns
-                        rep_mention = mention
-                        break
-
-                # If no non-pronoun mention is found, use the first mention
-                if rep_mention is None and mentions:
-                    rep_mention = mentions[0]  # Use the first mention in the coref chain
-
-                if rep_mention is None:
-                    continue  # Skip if still not found
-
-                rep_text = rep_mention.get('text', '')  # Get the actual name
-                
-                # Replace all other mentions with the representative mention
-                for mention in mentions:
-                    if (mention.get('sentNum') != rep_mention.get('sentNum') or 
-                        mention.get('startIndex') != rep_mention.get('startIndex')):
-                        
-                        sent_idx = mention.get('sentNum', 0) - 1
-                        if sent_idx < 0 or sent_idx >= len(resolved_sentences):
-                            continue
-                            
-                        # Get the original sentence
-                        original_sent = resolved_sentences[sent_idx]
-                        
-                        # Build token mapping from character positions
-                        if sent_idx >= len(ann['sentences']):
-                            continue
-                            
-                        tokens = ann['sentences'][sent_idx].get('tokens', [])
-                        token_map = []
-                        for token in tokens:
-                            # Create span info with character start/end positions
-                            char_start = token.get('characterOffsetBegin', -1)
-                            char_end = token.get('characterOffsetEnd', -1)
-                            if char_start >= 0 and char_end >= 0:
-                                token_map.append((char_start, char_end, token.get('originalText', '')))
-                        
-                        # Find mention span in the sentence
-                        start_token_idx = mention.get('startIndex', 0) - 1
-                        end_token_idx = mention.get('endIndex', 0) - 2
-                        
-                        if start_token_idx < 0 or end_token_idx >= len(token_map) or start_token_idx > end_token_idx:
-                            continue
-                            
-                        # Find character positions
-                        char_start = token_map[start_token_idx][0]
-                        char_end = token_map[end_token_idx][1]
-                        
-                        # Replace the mention with representative text
-                        # Only replace if the mention is a pronoun or shorter than the representative
-                        mention_text = mention.get('text', '')
-                        if mention.get('type') == 'PRONOMINAL' or len(mention_text) < len(rep_text):
-                            # Find the exact position in the sentence text
-                            sentence_text = original_sent
-                            start_pos = sentence_text.find(mention_text, max(0, char_start - 10))
-                            
-                            if start_pos >= 0:
-                                # Replace the mention with the representative text
-                                new_sentence = sentence_text[:start_pos] + rep_text + sentence_text[start_pos + len(mention_text):]
-                                resolved_sentences[sent_idx] = new_sentence
-        
-        return resolved_sentences
-
-
-    def get_entities(self, text):
-        
-        params = {"annotators": "ner", "outputFormat": "json"}
-        response = requests.post(self.url, params=params, data=text.encode('utf-8'))
-        result = json.loads(response.text)
-        
-        # Process entity mentions to handle multi-word entities
-        entities = {"PERSON": [], "ORGANIZATION": [], "LOCATION": []}
-        current_entity = {"type": None, "text": []}
-        
-        for sentence in result["sentences"]:
-            for i, token in enumerate(sentence["tokens"]):
-                ner_tag = token.get("ner", "O")
-                
-                # Start of a new entity or continuation
-                if ner_tag in entities:
-                    if current_entity["type"] != ner_tag:
-                        # Save previous entity if exists
-                        if current_entity["type"] and current_entity["text"]:
-                            full_entity = " ".join(current_entity["text"])
-                            if full_entity not in entities[current_entity["type"]]:
-                                entities[current_entity["type"]].append(full_entity)
-                        # Start new entity
-                        current_entity = {"type": ner_tag, "text": [token["word"]]}
-                    else:
-                        # Continue current entity
-                        current_entity["text"].append(token["word"])
-                else:
-                    # End of entity
-                    if current_entity["type"] and current_entity["text"]:
-                        full_entity = " ".join(current_entity["text"])
-                        if full_entity not in entities[current_entity["type"]]:
-                            entities[current_entity["type"]].append(full_entity)
-                        current_entity = {"type": None, "text": []}
-        
-        # Add final entity if exists
-        if current_entity["type"] and current_entity["text"]:
-            full_entity = " ".join(current_entity["text"])
-            if full_entity not in entities[current_entity["type"]]:
-                entities[current_entity["type"]].append(full_entity)
-        
-        return entities
     
     def text_filtering(self, text, target):
         
-        # Get dependency parse
         parse, = self.dependency_parser.raw_parse(text)
         
-        # Find target in dependency graph (handle multi-word targets)
         target_tokens = word_tokenize(target.lower())
         target_node_ids = []
         
@@ -205,21 +54,18 @@ class NltkPipe:
                 target_node_ids.append(node_id)
         
         if not target_node_ids:
-            return ""  # Target not found
+            return ""  
         
-        # Initialize sets for content and function words
         core_words = set()
         func_words = set()
         object_words = set()
         entity_words = set()
         
-        # Direct relations for Rule 6
         direct_relations = ['advmod', 'nmod', 'nummod', 'amod', 'cop', 'neg', 
                             'aux', 'case', 'det', 'expl', 'mwe', 'compound']
         
-        # Apply Rules 1-5 to find content words
         for node_id, node in parse.nodes.items():
-            if node_id == 0:  # Skip root
+            if node_id == 0:  
                 continue
             
             for target_id in target_node_ids:
@@ -316,14 +162,12 @@ class NltkPipe:
         main_author = "Main Author"
         current_speaker = None
         
-        
         sentences = nltk.sent_tokenize(text)
         
         for sentence in sentences:
             
             response = requests.post(self.url, params={'annotators': 'depparse', 'outputFormat': 'json'}, data=sentence.encode('utf-8'))
             response_data = response.json()
-            
             
             dependencies = response_data['sentences'][0]['basicDependencies']
             
@@ -389,8 +233,8 @@ class NltkPipe:
 
 
 if __name__ == "__main__":
-    from LoadData import LoadData
-    from EntityDataset import DataLoader
+    from src.LoadData import LoadData
+    from src.EntityDataset import DataLoader
 
     base_dir = "train"
     txt_file = "subtask-1-annotations.txt"
@@ -398,9 +242,14 @@ if __name__ == "__main__":
     load_data = LoadData()
     data = load_data.load_data(base_dir, txt_file, subdirs)
     data_loader = DataLoader(data, base_dir)
-    filter = NltkPipe()
+    filter = NltkRelationExtraction()
 
-    for text in data_loader._get_text():
-        print(filter.process_text(text))
-        print("\n\n\n\n")
-        break
+    counter = 0
+    with open("resources/nltk_relation_context.txt", "a+") as writer:
+        for text in data_loader._get_text():
+            relation, result, sentences = filter.process_text(text)
+            writer.writelines(f"{sentences}\n{result}\n{relation}\n\n")
+            counter += 1
+            if(counter > 20):
+                break  
+    writer.close()

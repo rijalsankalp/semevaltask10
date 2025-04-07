@@ -3,8 +3,8 @@ import os
 import fasttext.util
 import numpy as np
 import pickle
-from LoadData import LoadData
-from EntityDataset import TrainDataset, TestDataset
+from src.LoadData import LoadData
+from src.EntityDataset import TrainDataset, TestDataset
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import classification_report
 
