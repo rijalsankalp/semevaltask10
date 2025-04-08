@@ -15,19 +15,21 @@ filter = NltkOpenIE()
 classifier = pipeline("zero-shot-classification", model="facebook/bart-large-mnli", weights_only=True)
 
 candidate_labels = [
-    'victim', 'virtue', 'innocent','agitator'
-    'mentor', 'sidekick', 'rebel', 'leader', 'deceiver', 'savior', 
-    'martyr', 'bystander', 'enforcer', 'manipulator','prejudiced'
+    'prejudiced', 'liar', 'unbaised', 'truthful', 'maliace', 'fake', 'misleading', 'fraud', 'saviour',
+    'kind', 'enemy', 'far left', 'far right', 'disobey', 'anarchist', 'rebel', 'fact'
 ]
 
 counter = 0
 with open("resources/nltk_openie.txt", "a+") as writer:
     for text,article_id in data_loader._get_text():
-        relations = filter.process_text(text)
-        for entity, sentences in relations.items():
-            label = classifier(" ".join(sentences), candidate_labels)
-            writer.write(f"{article_id}\t{entity}\t{label['labels'][np.argmax(label['scores'])]}\n")
-        counter += 1
-        if(counter > 20):
-            break  
+
+        informations = filter.process_text(text)
+
+        
+        #relations = filter.process_text(text)
+        # for entity, sentences in relations.items():
+
+        #     label = classifier(" ".join(sentences), candidate_labels)
+        #     print(" ".join(sentences), ": ", {label['labels'][np.argmax(label['scores'])]})
+        #     writer.write(f"{article_id}\t{entity}\t{label['labels'][np.argmax(label['scores'])]}\n")
 writer.close()

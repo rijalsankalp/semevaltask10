@@ -1,115 +1,379 @@
-EN_CC_200191.txt	Climate Emergency Response Group	virtue
-EN_CC_200105.txt	World Economic Forum	leader
-EN_CC_200105.txt	World Economic Forums Great Reset	leader
-EN_CC_200105.txt	Gates	agitatormentor
-EN_CC_200105.txt	Bill Gates	agitatormentor
-EN_CC_200105.txt	Van den Oever	leader
-EN_CC_200105.txt	Farmers Defence Force	leader
-EN_CC_200105.txt	Mark Rutte	leader
-EN_CC_200105.txt	Mark Van den Oever	leader
-EN_CC_200105.txt	Sieta van Keimpema	leader
-EN_CC_200105.txt	Johan Remkes	leader
-EN_CC_200105.txt	Remkes	leader
-EN_CC_200105.txt	EU	deceiver
-EN_CC_200105.txt	Eva Vlaardingerbroek	leader
-EN_CC_200105.txt	Vlaardingerbroek	leader
-EN_UA_026036.txt	Ukraines	leader
-EN_UA_026036.txt	Ukraines General Staff	leader
-EN_UA_026036.txt	General Staff	leader
-EN_UA_026036.txt	Sergiy Kryvetchenko	leader
-EN_UA_026036.txt	Oleg Synegubov	leader
-EN_UA_026036.txt	Kharkiv	leader
-EN_UA_026036.txt	Synegubov	leader
-EN_CC_200221.txt	Al Gores	leader
-EN_CC_200221.txt	Al Gore	leader
-EN_CC_200221.txt	Carl Sagan	leader
-EN_CC_200221.txt	Sagan	leader
-EN_CC_200221.txt	Clinton	manipulator
-EN_UA_300117.txt	Analytical Center of the Ukrainian Army Support Forces	leader
-EN_UA_300117.txt	Wall Street Journal	leader
-EN_UA_300117.txt	Journal	leader
-EN_UA_300117.txt	Bozhko	leader
-EN_UA_300117.txt	Oleksiy Bozhko	leader
-EN_UA_300117.txt	Dmitry Peskov	leader
-EN_UA_300117.txt	Dan Kaszeta	leader
-EN_UA_300117.txt	Kaszeta	leader
-EN_UA_300117.txt	Dmytro Serhiyenko	virtue
-EN_UA_004209.txt	Vladimir Putin	leader
-EN_UA_004209.txt	Putin	leader
-EN_UA_004209.txt	NATO	leader
-EN_UA_004209.txt	Nijnisto	leader
-EN_UA_004209.txt	Kremlin	leader
-EN_UA_004209.txt	Aleksey Zhuravlyov	leader
-EN_CC_200254.txt	Energy Department	leader
-EN_CC_200254.txt	Department of Energy	leader
-EN_CC_200254.txt	Biden	leader
-EN_CC_200254.txt	DOE	deceiver
-EN_CC_200254.txt	Bidens DOE	leader
-EN_CC_200254.txt	Bidens	virtue
-EN_CC_200254.txt	Donald Trumps	leader
-EN_CC_200254.txt	Schumer	leader
-EN_CC_200254.txt	Richard Trumka Jr.	leader
-EN_CC_200254.txt	Consumer Product Safety Commission	leader
-EN_CC_200254.txt	Alex Hoehn Saric	leader
-EN_UA_016466.txt	Stoltenberg	leader
-EN_UA_016466.txt	NATO	leader
-EN_UA_016466.txt	El Pais	leader
-EN_UA_300031.txt	Vladimir Putin	leader
-EN_UA_300031.txt	Putin	leader
-EN_UA_300031.txt	Marta Hillers	martyr
-EN_UA_015443.txt	Financial Times	virtue
-EN_UA_015443.txt	Ukraines Western	leader
-EN_UA_015443.txt	U.K.	leader
-EN_UA_029053.txt	Ukrainian Armed Forces	prejudiced
-EN_UA_029053.txt	Armed Forces	agitatormentor
-EN_UA_029053.txt	Volodymyr Zelenskyy	leader
-EN_UA_029053.txt	Vladimir Putin	leader
-EN_UA_029053.txt	Putin	leader
-EN_UA_029053.txt	Joe Biden	leader
-EN_UA_029053.txt	Biden	leader
-EN_UA_025764.txt	Wealth Research Groups	leader
-EN_UA_025764.txt	Stanislav Petrov	savior
-EN_UA_025764.txt	Stanislav	savior
-EN_UA_025764.txt	Soviet	deceiver
-EN_UA_025764.txt	NATO	leader
-EN_UA_025764.txt	Biden	virtue
-EN_UA_025764.txt	Wall	virtue
-EN_UA_025764.txt	Carter	virtue
-EN_CC_100136.txt	Ryan Maue	leader
-EN_CC_100136.txt	Maue	leader
-EN_CC_100136.txt	Lawson	deceiver
-EN_CC_200144.txt	Joe Biden	leader
-EN_CC_200144.txt	Biden	leader
-EN_CC_200144.txt	White House	leader
-EN_CC_200144.txt	CEF	leader
-EN_CC_200144.txt	Climate Defiance	agitatormentor
-EN_CC_200144.txt	Granholm	deceiver
-EN_CC_200144.txt	Jennifer Granholm	deceiver
-EN_CC_200144.txt	Jennifer	leader
-EN_CC_200144.txt	Senate Energy Committee	leader
-EN_UA_300129.txt	Sandia National Laboratories	leader
-EN_UA_300129.txt	Lockheed Martin	virtue
-EN_UA_300129.txt	Europe	victim
-EN_UA_300129.txt	Manlio Dinucci	leader
-EN_UA_300129.txt	Kremlin	manipulator
-EN_UA_025764.txt	Wealth Research Groups	leader
-EN_UA_025764.txt	Stanislav Petrov	savior
-EN_UA_025764.txt	Stanislav	savior
-EN_UA_025764.txt	Soviet	deceiver
-EN_UA_025764.txt	NATO	leader
-EN_UA_025764.txt	Biden	virtue
-EN_UA_025764.txt	Wall	virtue
-EN_UA_025764.txt	Carter	virtue
-EN_UA_300073.txt	West	prejudiced
-EN_UA_300073.txt	Russian Armed Forces	agitatormentor
-EN_UA_300073.txt	NATO	leader
-EN_UA_300073.txt	Crimean Bridge	leader
-EN_CC_200218.txt	Wall Street Journal	leader
-EN_CC_200218.txt	First Solar	leader
-EN_UA_300040.txt	Trump	leader
-EN_UA_300040.txt	Biden	leader
-EN_CC_200086.txt	Matthew Liao	agitatormentor
-EN_CC_200086.txt	Liao	agitatormentor
-EN_CC_200086.txt	CCP	leader
-EN_CC_200110.txt	Morfogen	leader
-EN_CC_200110.txt	Consumer Product Safety Commission	leader
+EN_UA_003579.txt	Kristalina Georgieva	kind
+EN_UA_003579.txt	IMF	kind
+EN_CC_200337.txt	Met Office	fact
+EN_CC_200337.txt	Paul Homewood	misleading
+EN_CC_200337.txt	Paul Reiter	misleading
+EN_CC_200337.txt	Pasteur Institute	fact
+EN_CC_200337.txt	Civil Service	misleading
+EN_UA_000104.txt	Senate	fact
+EN_UA_000104.txt	Biden	fact
+EN_UA_000104.txt	Ted Cruz	rebel
+EN_UA_000104.txt	Cruz	rebel
+EN_UA_000104.txt	White House	fact
+EN_UA_000104.txt	McConnell	fact
+EN_UA_000104.txt	Mitch McConnell	fact
+EN_UA_100864.txt	Zelensky	fact
+EN_UA_100864.txt	Volodymyr Zelensky	fact
+EN_UA_100864.txt	United Nations	fact
+EN_UA_016012.txt	Oleksandr Zinchenko	fact
+EN_UA_016012.txt	Zinchenko	fact
+EN_UA_016012.txt	Oleksandr Usyk	fact
+EN_UA_016012.txt	Vladimir Putin	fact
+EN_UA_016012.txt	Iam	truthful
+EN_UA_002531.txt	John Roberts	fact
+EN_UA_002531.txt	America Reports	fact
+EN_UA_002531.txt	Klitschko	fact
+EN_UA_002531.txt	Vitali Klitschko	fact
+EN_UA_002531.txt	Wladimir Klitschko	fact
+EN_UA_001032.txt	Kyiv	fact
+EN_UA_001032.txt	Retroville	fact
+EN_UA_001032.txt	Boris Johnson	fact
+EN_UA_001032.txt	Joe Biden	enemy
+EN_UA_300139.txt	Vladimir Zelensky	fact
+EN_UA_300139.txt	Stefanchuk	fact
+EN_UA_300139.txt	Ruslan Stefanchuk	fact
+EN_UA_300139.txt	Marina Stefanchuk	fact
+EN_UA_300139.txt	Ivano Frankivsk	fact
+EN_UA_300139.txt	Ternopil	fact
+EN_UA_000104.txt	Senate	fact
+EN_UA_000104.txt	Biden	fact
+EN_UA_000104.txt	Ted Cruz	rebel
+EN_UA_000104.txt	Cruz	rebel
+EN_UA_000104.txt	White House	fact
+EN_UA_000104.txt	McConnell	fact
+EN_UA_000104.txt	Mitch McConnell	fact
+EN_CC_200137.txt	Malm	fact
+EN_CC_200137.txt	New York Times	fact
+EN_UA_100688.txt	BTR	fact
+EN_UA_100688.txt	Putin	fact
+EN_UA_100688.txt	Vladimir Putin	fact
+EN_UA_100688.txt	Anton Kuprin	fact
+EN_UA_002531.txt	John Roberts	fact
+EN_UA_002531.txt	America Reports	fact
+EN_UA_002531.txt	Klitschko	fact
+EN_UA_002531.txt	Vitali Klitschko	fact
+EN_UA_002531.txt	Wladimir Klitschko	fact
+EN_UA_103861.txt	Chinese Communist Party	prejudiced
+EN_UA_103861.txt	Congress	fact
+EN_UA_103861.txt	Hamas	rebel
+EN_UA_103861.txt	Netanyahu	fact
+EN_UA_103861.txt	Benjamin Netanyahu	fact
+EN_UA_103861.txt	Mohammad Bagheri	fact
+EN_UA_103861.txt	Mohammad Reza Zahedi	fact
+EN_UA_103861.txt	Biden	fact
+EN_UA_103861.txt	Joe Biden	fact
+EN_UA_103861.txt	Donald Trump	fact
+EN_UA_300082.txt	Washington Post	fact
+EN_UA_300082.txt	Oleg Tsarev	fact
+EN_UA_300082.txt	FSB	fact
+EN_CC_200245.txt	Tommy Tuberville	fact
+EN_CC_200245.txt	Tommy	fact
+EN_UA_300009.txt	Alsynovs	fact
+EN_UA_300009.txt	Fail Alsynov	fact
+EN_UA_300009.txt	Alsynov	fact
+EN_UA_013617.txt	Nixon	fact
+EN_UA_013617.txt	Richard Nixon	fact
+EN_UA_013617.txt	International Criminal Court	fact
+EN_UA_013617.txt	Europes International Criminal Court	fact
+EN_UA_013617.txt	Maria Lvova Belova	fact
+EN_UA_013617.txt	John Bolton	fact
+EN_CC_100004.txt	Teslas	fact
+EN_CC_100004.txt	Brad Templeton	fact
+EN_CC_100004.txt	Templeton	fact
+EN_CC_100004.txt	Temple	fact
+EN_CC_100004.txt	Ive	rebel
+EN_CC_100004.txt	John Weinstein	fact
+EN_CC_100004.txt	Citadel	fact
+EN_CC_100004.txt	Patrick De Haan	fact
+EN_UA_023816.txt	Rudskoy	fact
+EN_UA_023816.txt	Sergei Rudskoy	fact
+EN_UA_023816.txt	General Staff of the Russian Armed Forces	fact
+EN_UA_023816.txt	NATO	fact
+EN_UA_023816.txt	Ukrainian Armed Forces	rebel
+EN_UA_023816.txt	Igor Kimakovsky	rebel
+EN_UA_029155.txt	Biden	fact
+EN_UA_029155.txt	Seymour Hersh	fact
+EN_CC_100035.txt	European Unions	fact
+EN_CC_100035.txt	Alexandria Ocasio Cortez	fact
+EN_CC_100035.txt	Liberal	fact
+EN_CC_100035.txt	Barack Obama	fact
+EN_UA_300139.txt	Vladimir Zelensky	fact
+EN_UA_300139.txt	Stefanchuk	fact
+EN_UA_300139.txt	Ruslan Stefanchuk	fact
+EN_UA_300139.txt	Marina Stefanchuk	fact
+EN_UA_300139.txt	Ivano Frankivsk	fact
+EN_UA_300139.txt	Ternopil	fact
+EN_CC_200145.txt	Joe Biden	far left
+EN_CC_200145.txt	Biden Administration	far left
+EN_CC_200145.txt	Biden	far left
+EN_CC_200145.txt	John Kerry	fact
+EN_CC_200145.txt	Kerry	fact
+EN_CC_100013.txt	Bill Gates	truthful
+EN_CC_100013.txt	Gates	truthful
+EN_CC_100013.txt	BBC	fake
+EN_UA_103861.txt	Chinese Communist Party	prejudiced
+EN_UA_103861.txt	Congress	fact
+EN_UA_103861.txt	Hamas	rebel
+EN_UA_103861.txt	Netanyahu	fact
+EN_UA_103861.txt	Benjamin Netanyahu	fact
+EN_UA_103861.txt	Mohammad Bagheri	fact
+EN_UA_103861.txt	Mohammad Reza Zahedi	fact
+EN_UA_103861.txt	Biden	fact
+EN_UA_103861.txt	Joe Biden	fact
+EN_UA_103861.txt	Donald Trump	fact
+EN_UA_014637.txt	Wagner	fact
+EN_UA_014637.txt	Wagner Group	fact
+EN_CC_200234.txt	Bill Gates	fact
+EN_CC_200234.txt	Gates	fact
+EN_UA_002531.txt	John Roberts	fact
+EN_UA_002531.txt	America Reports	fact
+EN_UA_002531.txt	Klitschko	fact
+EN_UA_002531.txt	Vitali Klitschko	fact
+EN_UA_002531.txt	Wladimir Klitschko	fact
+EN_UA_300039.txt	Biden	fact
+EN_UA_300039.txt	Tierney	fact
+EN_UA_300039.txt	Dan Tierney	fact
+EN_UA_022051.txt	Dmitry Medvedev	fact
+EN_UA_022051.txt	Medvedev	fact
+EN_CC_200245.txt	Tommy Tuberville	fact
+EN_CC_200245.txt	Tommy	fact
+EN_UA_026142.txt	International Youth and Students for Social Equality	rebel
+EN_UA_026142.txt	Socialist Equality Party	far left
+EN_UA_026142.txt	International Editorial Board	fact
+EN_UA_026142.txt	Biden	fact
+EN_UA_026142.txt	Bogdan Syrotiuk	fact
+EN_UA_026142.txt	Bogdan	fact
+EN_UA_026142.txt	International Youth and Students for Social Equality	rebel
+EN_UA_026142.txt	Socialist Equality Party	far left
+EN_UA_026142.txt	International Editorial Board	fact
+EN_UA_026142.txt	Biden	fact
+EN_UA_026142.txt	Bogdan Syrotiuk	fact
+EN_UA_026142.txt	Bogdan	fact
+EN_UA_029053.txt	Putin	fact
+EN_UA_029053.txt	Vladimir Putin	fact
+EN_UA_029053.txt	Armed Forces	fact
+EN_UA_029053.txt	Ukrainian Armed Forces	fact
+EN_UA_029053.txt	Volodymyr Zelenskyy	fact
+EN_UA_029053.txt	Joe Biden	fact
+EN_UA_029053.txt	Biden	fact
+EN_UA_300073.txt	West	fact
+EN_UA_300073.txt	Russian Armed Forces	fact
+EN_UA_300073.txt	NATO	fact
+EN_UA_300073.txt	Crimean Bridge	fact
+EN_UA_DEV_216.txt	Viktor Orban	fact
+EN_UA_DEV_216.txt	Orban	fact
+EN_UA_026142.txt	International Youth and Students for Social Equality	rebel
+EN_UA_026142.txt	Socialist Equality Party	far left
+EN_UA_026142.txt	International Editorial Board	fact
+EN_UA_026142.txt	Biden	fact
+EN_UA_026142.txt	Bogdan Syrotiuk	fact
+EN_UA_026142.txt	Bogdan	fact
+EN_UA_021263.txt	John Fetterman	fact
+EN_UA_021263.txt	X. Fetterman	fact
+EN_UA_021263.txt	Fetterman	fact
+EN_UA_027787.txt	Defence Ministry	fact
+EN_UA_027787.txt	Defense Ministry	fact
+EN_UA_027787.txt	Dmitry Medvedev	fact
+EN_UA_027787.txt	Kirill	fact
+EN_UA_022339.txt	Putin	fact
+EN_UA_022339.txt	Vladimir Putin	fact
+EN_UA_022339.txt	Russian Armed Forces	fact
+EN_UA_022339.txt	Zelensky	fact
+EN_UA_022339.txt	Andriy Yermak	fact
+EN_UA_300005.txt	Giorgia Meloni	disobey
+EN_UA_300005.txt	Meloni	disobey
+EN_UA_300005.txt	Orbán	fact
+EN_UA_300005.txt	Corriere della Sera	fact
+EN_UA_027676.txt	Nato	fact
+EN_UA_027676.txt	Stoltenberg	fact
+EN_UA_027676.txt	Jens Stoltenberg	fact
+EN_UA_027676.txt	Oleksandr Lytvynenko	rebel
+EN_UA_027676.txt	The Times	fact
+EN_UA_027676.txt	Nato	fact
+EN_UA_027676.txt	Stoltenberg	fact
+EN_UA_027676.txt	Jens Stoltenberg	fact
+EN_UA_027676.txt	Oleksandr Lytvynenko	rebel
+EN_UA_027676.txt	The Times	fact
+EN_UA_019640.txt	Kremlin	fact
+EN_UA_019640.txt	Putin	fact
+EN_UA_019640.txt	Vladimir Putin	fact
+EN_UA_019640.txt	International Criminal Court	fact
+EN_UA_019640.txt	Chinas Xi Jinping	fact
+EN_UA_019640.txt	CIA	fact
+EN_UA_019640.txt	William Burns	fact
+EN_UA_021270.txt	Andrii Yermak	truthful
+EN_UA_021270.txt	Yermak	truthful
+EN_UA_021270.txt	Hudson Institute	fact
+EN_UA_021270.txt	Volodymyr Zelensky	fact
+EN_UA_021270.txt	Zelensky	fact
+EN_UA_021270.txt	New York Times	misleading
+EN_UA_300048.txt	BIDEN	fact
+EN_UA_300048.txt	Russias Zaporizhzhia	enemy
+EN_CC_200327.txt	Whelan	misleading
+EN_CC_200327.txt	Ella Whelan	misleading
+EN_UA_021310.txt	Association of Southeast Asian Nations	fact
+EN_UA_021310.txt	ASEAN	fact
+EN_UA_021310.txt	Prabowo Subianto	fact
+EN_UA_021310.txt	Joe Biden	fact
+EN_UA_021310.txt	Austin	fact
+EN_UA_021310.txt	Lloyd Austin	fact
+EN_UA_021310.txt	Aaron Connelly	enemy
+EN_UA_021310.txt	Connelly	enemy
+EN_UA_300053.txt	Florian Philippot	rebel
+EN_UA_300053.txt	Philippot	rebel
+EN_UA_300053.txt	Denis Shmigal	fact
+EN_UA_300053.txt	Zelensky	fact
+EN_UA_300053.txt	Ukraines SBU	fact
+EN_UA_300053.txt	Florian Philippot	rebel
+EN_UA_300053.txt	Philippot	rebel
+EN_UA_300053.txt	Denis Shmigal	fact
+EN_UA_300053.txt	Zelensky	fact
+EN_UA_300053.txt	Ukraines SBU	fact
+EN_UA_027676.txt	Nato	fact
+EN_UA_027676.txt	Stoltenberg	fact
+EN_UA_027676.txt	Jens Stoltenberg	fact
+EN_UA_027676.txt	Oleksandr Lytvynenko	rebel
+EN_UA_027676.txt	The Times	fact
+EN_UA_010735.txt	Galushchenko	fact
+EN_UA_010735.txt	Ministry of Energy	fact
+EN_UA_010735.txt	Newsweek	fact
+EN_UA_010735.txt	Andrew	fact
+EN_UA_010735.txt	Andrew Stanton	fact
+EN_UA_026142.txt	International Youth and Students for Social Equality	rebel
+EN_UA_026142.txt	Socialist Equality Party	far left
+EN_UA_026142.txt	International Editorial Board	fact
+EN_UA_026142.txt	Biden	fact
+EN_UA_026142.txt	Bogdan Syrotiuk	fact
+EN_UA_026142.txt	Bogdan	fact
+EN_UA_013727.txt	Putin	fact
+EN_UA_013727.txt	Vladimir Putin	fact
+EN_UA_013727.txt	NATO	fact
+EN_UA_024847.txt	Radoslaw Sikorski	fact
+EN_UA_024847.txt	Sikorski	fact
+EN_UA_024847.txt	Joe Bidens	fact
+EN_UA_024847.txt	US Navy	kind
+EN_UA_024847.txt	Seymour Hersh	fact
+EN_UA_024847.txt	Hersh	fact
+EN_UA_024847.txt	Navy	fact
+EN_UA_024847.txt	White House	misleading
+EN_CC_200144.txt	Biden	far left
+EN_CC_200144.txt	Joe Biden	far left
+EN_CC_200144.txt	White House	fact
+EN_CC_200144.txt	CEF	fact
+EN_CC_200144.txt	Abigail Disney	fact
+EN_CC_200144.txt	Climate Defiance	fact
+EN_CC_200144.txt	Granholm	fact
+EN_CC_200144.txt	Jennifer	fact
+EN_CC_200144.txt	Jennifer Granholm	fact
+EN_CC_200144.txt	Senate Energy Committee	fact
+EN_UA_027787.txt	Defence Ministry	fact
+EN_UA_027787.txt	Defense Ministry	fact
+EN_UA_027787.txt	Dmitry Medvedev	fact
+EN_UA_027787.txt	Kirill	fact
+EN_CC_200254.txt	Department of Energy	fact
+EN_CC_200254.txt	Energy Department	fact
+EN_CC_200254.txt	Biden	fact
+EN_CC_200254.txt	DOE	fact
+EN_CC_200254.txt	Bidens DOE	fact
+EN_CC_200254.txt	Bidens	fact
+EN_CC_200254.txt	Donald Trumps	fact
+EN_CC_200254.txt	Schumer	fact
+EN_CC_200254.txt	Richard Trumka Jr.	fact
+EN_CC_200254.txt	Consumer Product Safety Commission	fact
+EN_CC_200254.txt	Alex Hoehn Saric	fact
+EN_UA_027676.txt	Nato	fact
+EN_UA_027676.txt	Stoltenberg	fact
+EN_UA_027676.txt	Jens Stoltenberg	fact
+EN_UA_027676.txt	Oleksandr Lytvynenko	rebel
+EN_UA_027676.txt	The Times	fact
+EN_CC_200343.txt	Desert Southwest	fact
+EN_UA_104876.txt	VLADIMIR Putin	fact
+EN_UA_024321.txt	Yulia Navalnaya	fact
+EN_UA_024321.txt	Russian Embassy	fact
+EN_UA_024321.txt	Reuters	fact
+EN_UA_024321.txt	Biden	fact
+EN_UA_024321.txt	Kremlin	fact
+EN_UA_300076.txt	Rossiya Segodnya	fact
+EN_UA_300076.txt	Margarita Simonyan	fact
+EN_UA_300076.txt	Simonyan	fact
+EN_UA_300076.txt	ISIS	fact
+EN_UA_024628.txt	Austin	fact
+EN_UA_024628.txt	AIR BASE Defense	fact
+EN_UA_024628.txt	RAMSTEIN	fact
+EN_UA_024628.txt	Lloyd Austin	fact
+EN_UA_024628.txt	Volodymyr Zelensky	fact
+EN_UA_103517.txt	Evan Gershkovich	fact
+EN_UA_103517.txt	Journal	fact
+EN_UA_103517.txt	WALL Street Journal	fact
+EN_UA_103517.txt	Evan	fact
+EN_UA_103517.txt	Gershkovich	fact
+EN_UA_103517.txt	Lynne Tracy	fact
+EN_UA_103517.txt	WSJ	fact
+EN_UA_103517.txt	Putin	fact
+EN_UA_021310.txt	Association of Southeast Asian Nations	fact
+EN_UA_021310.txt	ASEAN	fact
+EN_UA_021310.txt	Prabowo Subianto	fact
+EN_UA_021310.txt	Joe Biden	fact
+EN_UA_021310.txt	Austin	fact
+EN_UA_021310.txt	Lloyd Austin	fact
+EN_UA_021310.txt	Aaron Connelly	enemy
+EN_UA_021310.txt	Connelly	enemy
+EN_CC_200191.txt	Climate Emergency Response Group	fact
+EN_CC_100012.txt	World Economic Forum	fact
+EN_CC_100012.txt	United Nations	fact
+EN_CC_100012.txt	WEF	fact
+EN_CC_100012.txt	Eva Vlaardingerbroek	kind
+EN_CC_100012.txt	Baker	fact
+EN_CC_100012.txt	Carol Baker	fact
+EN_CC_100012.txt	Bill Gates	fact
+EN_CC_100012.txt	Bill & Melinda Gates Foundation	fact
+EN_CC_100012.txt	Biden	fact
+EN_CC_100012.txt	Robert F. Kennedy	fact
+EN_UA_DEV_26.txt	Pentagon	fact
+EN_UA_DEV_26.txt	Kennedy	enemy
+EN_UA_DEV_26.txt	Robert Kennedy	enemy
+EN_UA_300032.txt	Dmitry Peskov	fact
+EN_UA_300032.txt	Peskov	fact
+EN_UA_300032.txt	David Arakhamia	fact
+EN_UA_300032.txt	Arakhamia	fact
+EN_UA_300032.txt	Kremlin	fact
+EN_UA_300032.txt	Boris Johnson	enemy
+EN_UA_300032.txt	Johnson	enemy
+EN_CC_100004.txt	Teslas	fact
+EN_CC_100004.txt	Brad Templeton	fact
+EN_CC_100004.txt	Templeton	fact
+EN_CC_100004.txt	Temple	fact
+EN_CC_100004.txt	Ive	rebel
+EN_CC_100004.txt	John Weinstein	fact
+EN_CC_100004.txt	Citadel	fact
+EN_CC_100004.txt	Patrick De Haan	fact
+EN_CC_200337.txt	Met Office	fact
+EN_CC_200337.txt	Paul Homewood	misleading
+EN_CC_200337.txt	Paul Reiter	misleading
+EN_CC_200337.txt	Pasteur Institute	fact
+EN_CC_200337.txt	Civil Service	misleading
+EN_UA_026740.txt	Israel Hamas	fact
+EN_UA_026740.txt	South Africas	fact
+EN_UA_026740.txt	International Court of Justice	fact
+EN_UA_026697.txt	von der Leyen	fact
+EN_UA_026697.txt	Ursula von der Leyen	fact
+EN_UA_026697.txt	European Commission	fact
+EN_UA_026697.txt	European Parliament	fact
+EN_UA_026697.txt	NATO	enemy
+EN_UA_026697.txt	Robert Fico	fact
+EN_CC_200292.txt	Pope Francis	maliace
+EN_CC_200292.txt	United Nations	fact
+EN_CC_200292.txt	Craig	kind
+EN_UA_300134.txt	Kyiv	fact
+EN_UA_013617.txt	Nixon	fact
+EN_UA_013617.txt	Richard Nixon	fact
+EN_UA_013617.txt	International Criminal Court	fact
+EN_UA_013617.txt	Europes International Criminal Court	fact
+EN_UA_013617.txt	Maria Lvova Belova	fact
+EN_UA_013617.txt	John Bolton	fact
+EN_UA_103011.txt	Putin	enemy
+EN_UA_103011.txt	EU	fact
+EN_UA_300040.txt	Trump	fact
+EN_UA_300040.txt	Biden	fact
+EN_CC_200218.txt	Wall Street Journal	fact
+EN_CC_200218.txt	First Solar	fact
