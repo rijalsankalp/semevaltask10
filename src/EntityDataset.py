@@ -16,7 +16,7 @@ class DataLoader:
 
         self.garbage_words = {
             "EN": ["read more", "subscribe now", "follow us", "advertisement", "share your experiences","also read"
-                   "more on", "you may like", "subscribe", "unsubscribe", "sign up", "email us", "click here", "whatsapp us"],
+                   "more on", "you may like", "subscribe", "unsubscribe", "sign up", "email us", "click here", "whatsapp us", "telegram channel"],
         }
 
     def _clean_text(self, text):
@@ -87,7 +87,7 @@ class DataLoader:
                     raw_text = f.read()
                     cleaned_text = self._clean_text(raw_text)
 
-        yield cleaned_text
+            yield cleaned_text, row['article_id']
     
     def _get_ent_role_text(self):
         for _, row in self.dataframe.iterrows():
@@ -99,11 +99,11 @@ class DataLoader:
                     raw_text = f.read()
                     cleaned_text = self._clean_text(raw_text).lower()
         
-        yield {
-            'text':cleaned_text,
-            'entity':entity,
-            'role':main_role
-        }
+            yield {
+                'text':cleaned_text,
+                'entity':entity,
+                'role':main_role
+            }
 
 if __name__ == "__main__":
 

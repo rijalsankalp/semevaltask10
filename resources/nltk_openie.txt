@@ -1,0 +1,115 @@
+EN_CC_200191.txt	Climate Emergency Response Group	virtue
+EN_CC_200105.txt	World Economic Forum	leader
+EN_CC_200105.txt	World Economic Forums Great Reset	leader
+EN_CC_200105.txt	Gates	agitatormentor
+EN_CC_200105.txt	Bill Gates	agitatormentor
+EN_CC_200105.txt	Van den Oever	leader
+EN_CC_200105.txt	Farmers Defence Force	leader
+EN_CC_200105.txt	Mark Rutte	leader
+EN_CC_200105.txt	Mark Van den Oever	leader
+EN_CC_200105.txt	Sieta van Keimpema	leader
+EN_CC_200105.txt	Johan Remkes	leader
+EN_CC_200105.txt	Remkes	leader
+EN_CC_200105.txt	EU	deceiver
+EN_CC_200105.txt	Eva Vlaardingerbroek	leader
+EN_CC_200105.txt	Vlaardingerbroek	leader
+EN_UA_026036.txt	Ukraines	leader
+EN_UA_026036.txt	Ukraines General Staff	leader
+EN_UA_026036.txt	General Staff	leader
+EN_UA_026036.txt	Sergiy Kryvetchenko	leader
+EN_UA_026036.txt	Oleg Synegubov	leader
+EN_UA_026036.txt	Kharkiv	leader
+EN_UA_026036.txt	Synegubov	leader
+EN_CC_200221.txt	Al Gores	leader
+EN_CC_200221.txt	Al Gore	leader
+EN_CC_200221.txt	Carl Sagan	leader
+EN_CC_200221.txt	Sagan	leader
+EN_CC_200221.txt	Clinton	manipulator
+EN_UA_300117.txt	Analytical Center of the Ukrainian Army Support Forces	leader
+EN_UA_300117.txt	Wall Street Journal	leader
+EN_UA_300117.txt	Journal	leader
+EN_UA_300117.txt	Bozhko	leader
+EN_UA_300117.txt	Oleksiy Bozhko	leader
+EN_UA_300117.txt	Dmitry Peskov	leader
+EN_UA_300117.txt	Dan Kaszeta	leader
+EN_UA_300117.txt	Kaszeta	leader
+EN_UA_300117.txt	Dmytro Serhiyenko	virtue
+EN_UA_004209.txt	Vladimir Putin	leader
+EN_UA_004209.txt	Putin	leader
+EN_UA_004209.txt	NATO	leader
+EN_UA_004209.txt	Nijnisto	leader
+EN_UA_004209.txt	Kremlin	leader
+EN_UA_004209.txt	Aleksey Zhuravlyov	leader
+EN_CC_200254.txt	Energy Department	leader
+EN_CC_200254.txt	Department of Energy	leader
+EN_CC_200254.txt	Biden	leader
+EN_CC_200254.txt	DOE	deceiver
+EN_CC_200254.txt	Bidens DOE	leader
+EN_CC_200254.txt	Bidens	virtue
+EN_CC_200254.txt	Donald Trumps	leader
+EN_CC_200254.txt	Schumer	leader
+EN_CC_200254.txt	Richard Trumka Jr.	leader
+EN_CC_200254.txt	Consumer Product Safety Commission	leader
+EN_CC_200254.txt	Alex Hoehn Saric	leader
+EN_UA_016466.txt	Stoltenberg	leader
+EN_UA_016466.txt	NATO	leader
+EN_UA_016466.txt	El Pais	leader
+EN_UA_300031.txt	Vladimir Putin	leader
+EN_UA_300031.txt	Putin	leader
+EN_UA_300031.txt	Marta Hillers	martyr
+EN_UA_015443.txt	Financial Times	virtue
+EN_UA_015443.txt	Ukraines Western	leader
+EN_UA_015443.txt	U.K.	leader
+EN_UA_029053.txt	Ukrainian Armed Forces	prejudiced
+EN_UA_029053.txt	Armed Forces	agitatormentor
+EN_UA_029053.txt	Volodymyr Zelenskyy	leader
+EN_UA_029053.txt	Vladimir Putin	leader
+EN_UA_029053.txt	Putin	leader
+EN_UA_029053.txt	Joe Biden	leader
+EN_UA_029053.txt	Biden	leader
+EN_UA_025764.txt	Wealth Research Groups	leader
+EN_UA_025764.txt	Stanislav Petrov	savior
+EN_UA_025764.txt	Stanislav	savior
+EN_UA_025764.txt	Soviet	deceiver
+EN_UA_025764.txt	NATO	leader
+EN_UA_025764.txt	Biden	virtue
+EN_UA_025764.txt	Wall	virtue
+EN_UA_025764.txt	Carter	virtue
+EN_CC_100136.txt	Ryan Maue	leader
+EN_CC_100136.txt	Maue	leader
+EN_CC_100136.txt	Lawson	deceiver
+EN_CC_200144.txt	Joe Biden	leader
+EN_CC_200144.txt	Biden	leader
+EN_CC_200144.txt	White House	leader
+EN_CC_200144.txt	CEF	leader
+EN_CC_200144.txt	Climate Defiance	agitatormentor
+EN_CC_200144.txt	Granholm	deceiver
+EN_CC_200144.txt	Jennifer Granholm	deceiver
+EN_CC_200144.txt	Jennifer	leader
+EN_CC_200144.txt	Senate Energy Committee	leader
+EN_UA_300129.txt	Sandia National Laboratories	leader
+EN_UA_300129.txt	Lockheed Martin	virtue
+EN_UA_300129.txt	Europe	victim
+EN_UA_300129.txt	Manlio Dinucci	leader
+EN_UA_300129.txt	Kremlin	manipulator
+EN_UA_025764.txt	Wealth Research Groups	leader
+EN_UA_025764.txt	Stanislav Petrov	savior
+EN_UA_025764.txt	Stanislav	savior
+EN_UA_025764.txt	Soviet	deceiver
+EN_UA_025764.txt	NATO	leader
+EN_UA_025764.txt	Biden	virtue
+EN_UA_025764.txt	Wall	virtue
+EN_UA_025764.txt	Carter	virtue
+EN_UA_300073.txt	West	prejudiced
+EN_UA_300073.txt	Russian Armed Forces	agitatormentor
+EN_UA_300073.txt	NATO	leader
+EN_UA_300073.txt	Crimean Bridge	leader
+EN_CC_200218.txt	Wall Street Journal	leader
+EN_CC_200218.txt	First Solar	leader
+EN_UA_300040.txt	Trump	leader
+EN_UA_300040.txt	Biden	leader
+EN_CC_200086.txt	Matthew Liao	agitatormentor
+EN_CC_200086.txt	Liao	agitatormentor
+EN_CC_200086.txt	CCP	leader
+EN_CC_200110.txt	Morfogen	leader
+EN_CC_200110.txt	Consumer Product Safety Commission	leader

@@ -71,9 +71,6 @@ class NltkPipe:
         # Reconstruct sentences
         rephrased_text = [' '.join(sentence) for sentence in tokenized_text]
         
-        print(text)
-        print("Rephrased Text:")
-        print(rephrased_text)
         return rephrased_text
 
 
@@ -118,4 +115,7 @@ class NltkPipe:
             if full_entity not in entities[current_entity["type"]]:
                 entities[current_entity["type"]].append(full_entity)
         
+        entities =  set(item for sublist in entities.values() for item in sublist)
+
         return entities
+        
