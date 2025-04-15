@@ -4,7 +4,7 @@ import numpy as np
 class BartClassifier:
     def __init__(self):
         # Initialize the zero-shot classification pipeline
-        self.classifier = pipeline("zero-shot-classification", model="facebook/bart-large-mnli", weights_only=True)
+        self.classifier = pipeline("zero-shot-classification", model="facebook/bart-large-mnli")
 
         self.candidate_labels = [
     'victim', 'virtue', 'innocent','agitator'

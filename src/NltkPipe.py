@@ -2,9 +2,6 @@ import nltk
 import requests
 import json
 
-
-
-
 # Ensure necessary NLTK packages are downloaded
 try:
     nltk.data.find('tokenizers/punkt')
@@ -37,7 +34,12 @@ class NltkPipe:
             'outputFormat': 'json'
         }
         response = requests.post(self.url, params={'properties': str(props)}, data=text.encode('utf-8'))
-        result = response.json()
+        
+        try:
+            result = response.json()
+        except json.decoder.JSONDecodeError:
+            print("Failed to decode JSON. Response content was:", response.text)
+            result = {}
 
         # Extract sentences and tokens
         sentences = result['sentences']
@@ -72,6 +74,7 @@ class NltkPipe:
         rephrased_text = [' '.join(sentence) for sentence in tokenized_text]
         
         return rephrased_text
+        # return tokenized_text
 
 
     def get_entities(self, text):

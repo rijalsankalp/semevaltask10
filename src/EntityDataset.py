@@ -15,7 +15,7 @@ class DataLoader:
         self.language = language
 
         self.garbage_words = {
-            "EN": ["read more", "subscribe now", "follow us", "advertisement", "share your experiences","also read"
+            "EN": ["read more", "subscribe now", "follow us", "advertisement", "share your experiences","also read", "link below",
                    "more on", "you may like", "subscribe", "unsubscribe", "sign up", "email us", "click here", "whatsapp us", "telegram channel"],
         }
 
@@ -87,23 +87,8 @@ class DataLoader:
                     raw_text = f.read()
                     cleaned_text = self._clean_text(raw_text)
 
-            yield cleaned_text, row['article_id']
+            yield cleaned_text, row['article_id'], row['entity_mention'], row['main_role']
     
-    def _get_ent_role_text(self):
-        for _, row in self.dataframe.iterrows():
-            entity = row['entity_mention']
-            main_role = row['main_role']
-            file_path = os.path.join(self.base_dir, self.language, self.folder, row['article_id'])
-            if os.path.exists(file_path):
-                with open(file_path, 'r', encoding='utf-8') as f:
-                    raw_text = f.read()
-                    cleaned_text = self._clean_text(raw_text).lower()
-        
-            yield {
-                'text':cleaned_text,
-                'entity':entity,
-                'role':main_role
-            }
 
 if __name__ == "__main__":
 
