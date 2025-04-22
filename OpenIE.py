@@ -38,8 +38,8 @@ for text, article_id, given_entity, given_role, g_sub_roles in data_loader._get_
             main_result = classifier(
                 context,
                 candidate_main_labels,
-                #hypothesis_template=f"The stance of {entity} in this text is {{}}."
-                hypothesis_template=f"{entity} has a role of {{}} in this text."
+                #hypothesis_template=f"The stance of {entity} in this text is {{}}." #First template
+                hypothesis_template=f"{entity} has a role of {{}} in this text."    #Second template
             )
 
             sub_result = classifier(
