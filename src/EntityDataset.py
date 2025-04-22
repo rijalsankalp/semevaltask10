@@ -87,7 +87,7 @@ class DataLoader:
                     raw_text = f.read()
                     cleaned_text = self._clean_text(raw_text)
 
-            yield cleaned_text, row['article_id'], row['entity_mention'], row['main_role']
+            yield cleaned_text, row['article_id'], row['entity_mention'], row['main_role'], row['sub_roles']
     
 
 if __name__ == "__main__":

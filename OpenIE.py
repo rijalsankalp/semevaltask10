@@ -1,3 +1,5 @@
+import pandas as pd
+
 from src.LoadData import LoadData
 from transformers import pipeline
 from src.NltkOpenIE import NltkOpenIE
@@ -16,51 +18,55 @@ data_loader = DataLoader(data, base_dir)
 entity_and_context = EntityContextExtractor()
 classifier = pipeline("zero-shot-classification", model="facebook/bart-large-mnli")
 
-candidate_labels = ['protagonist', 'innocent', 'antagonist']
+candidate_main_labels = ['protagonist', 'innocent', 'antagonist']
+candidate_sub_roles = ["Guardian", "Martyr", "Peacemaker", "Rebel", "Underdog", "Virtuous", "Instigator", "Conspirator", "Tyrant", "Foreign Adversary", "Traitor", "Spy", "Saboteur", "Corrupt", "Incompetent", "Terrorist", "Deceiver", "Bigot", "Forgotten", "Exploited", "Victim", "Scapegoat"]
 
-total_instances = 0
-truths = 0
 
 # Output file
-with open("resources/comparitive.txt", "a+", encoding="utf-8") as writer:
-    for text, article_id, given_entity, given_role in data_loader._get_text():
-        relations = entity_and_context.extract_entity_contexts(text)
+# output = pd.DataFrame(columns=["ARTICLE_ID", "ENTITY", "GIVEN_MAIN_ROLE", "GIVEN_SUB_ROLES", "PRED_M","PRED_S", "CONTEXT"])
+rows = []
+for text, article_id, given_entity, given_role, g_sub_roles in data_loader._get_text():
+    relations = entity_and_context.extract_entity_contexts(text)
 
-        for entity, context in relations.items():
-            result = classifier(
+    for entity, context in relations.items():
+
+        if entity == given_entity:
+
+            main_result = classifier(
                 context,
-                candidate_labels,
-                hypothesis_template=f"This stance of {entity} in this text is {{}}."
+                candidate_main_labels,
+                hypothesis_template=f"The stance of {entity} in this text is {{}}."
             )
 
-            top_label = result['labels'][0]
-            score = result['scores'][0]
+            sub_result = classifier(
+                context,
+                candidate_sub_roles,
+                hypothesis_template=f"The role of {entity} in this text is {{}}."
+            )
 
-            
+            main_pred = main_result['labels'][0]
+            sub_pred = sub_result['labels'][0]
 
-            print(f"ARTICLE_ID: {article_id}")
-            print(f"ENTITY: {entity}")
-            print(f"LABEL: {top_label} (score: {score:.4f})")
-            if entity == given_entity:
-                print(f"Given Role: {given_role}")
-            print(f"CONTEXT: {context}")
-            print("-" * 80)
+            rows.append({
+                "ARTICLE_ID": article_id,
+                "ENTITY": entity,
+                "GIVEN_MAIN_ROLE": given_role,
+                "GIVEN_SUB_ROLES": g_sub_roles,
+                "PRED_M": main_pred,
+                "PRED_S": sub_pred,
+                "CONTEXT": context
+            })
 
-            writer.write(f"ARTICLE_ID: {article_id}\n")
-            writer.write(f"ENTITY: {entity}\n")
-            writer.write(f"LABEL: {top_label} (score: {score:.4f})\n")
+            print(
+                f"Article ID: {article_id}\n"
+                f"Entity: {entity}\n"
+                f"Given Main Role: {given_role}\n"
+                f"Given Sub Roles: {g_sub_roles}\n"
+                f"Predicted Main Role: {main_pred}\n"
+                f"Predicted Sub Role: {sub_pred}\n"
+                f"Context: {context}\n"
+                f"----------------------------------------"
+            )
 
-            if(entity == given_entity):
-                total_instances += 1
-                writer.write(f"Given Role: {given_role}\n")
-                if top_label == given_role:
-                    truths += 1
-                    
-            writer.write(f"CONTEXT: {context}\n")
-            writer.write("-" * 80 + "\n")
-        
-writer.close()
-
-print(f"Total instances: {total_instances}")
-print(f"Correctly classified: {truths}")
-print(f"Accuracy: {truths / total_instances:.4f}")
+output = pd.DataFrame(rows)
+output.to_csv("resources/bart_main_sub.csv", index=False)
