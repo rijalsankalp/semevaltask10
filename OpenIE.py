@@ -19,7 +19,10 @@ entity_and_context = EntityContextExtractor()
 classifier = pipeline("zero-shot-classification", model="facebook/bart-large-mnli")
 
 candidate_main_labels = ['protagonist', 'innocent', 'antagonist']
-candidate_sub_roles = ["Guardian", "Martyr", "Peacemaker", "Rebel", "Underdog", "Virtuous", "Instigator", "Conspirator", "Tyrant", "Foreign Adversary", "Traitor", "Spy", "Saboteur", "Corrupt", "Incompetent", "Terrorist", "Deceiver", "Bigot", "Forgotten", "Exploited", "Victim", "Scapegoat"]
+
+candidate_sub_roles = ["Guardian", "Martyr", "Peacemaker", "Rebel", "Underdog", "Virtuous", "Instigator", 
+                       "Conspirator", "Tyrant", "Foreign Adversary", "Traitor", "Spy", "Saboteur", "Corrupt", 
+                       "Incompetent", "Terrorist", "Deceiver", "Bigot", "Forgotten", "Exploited", "Victim", "Scapegoat"]
 
 
 # Output file
@@ -35,13 +38,15 @@ for text, article_id, given_entity, given_role, g_sub_roles in data_loader._get_
             main_result = classifier(
                 context,
                 candidate_main_labels,
-                hypothesis_template=f"The stance of {entity} in this text is {{}}."
+                #hypothesis_template=f"The stance of {entity} in this text is {{}}."
+                hypothesis_template=f"{entity} has a role of {{}} in this text."
             )
 
             sub_result = classifier(
                 context,
                 candidate_sub_roles,
-                hypothesis_template=f"The role of {entity} in this text is {{}}."
+                #hypothesis_template=f"The role of {entity} in this text is {{}}."
+                hypothesis_template=f"{entity} has a role of {{}} in this text."
             )
 
             main_pred = main_result['labels'][0]
@@ -69,4 +74,4 @@ for text, article_id, given_entity, given_role, g_sub_roles in data_loader._get_
             )
 
 output = pd.DataFrame(rows)
-output.to_csv("resources/bart_main_sub.csv", index=False)
+output.to_csv("resources/bart_main_sub_second_template.csv", index=False)
