@@ -3,7 +3,6 @@
 /sentiment_res/
 /embeddings/
 *.sh
-*.ipynb
 
 #bin and zip files
 *.bin
